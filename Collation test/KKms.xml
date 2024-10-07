@@ -1,0 +1,96 @@
+<?tst sanitized="true"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>KKms</title>
+            
+         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                  </repository>
+                  <idno type="shelfmark">KKms</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>test</summary>
+                  
+               <msItem defective="false"><title>KKms</title></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="baad">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="1"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>test</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/tr0118-r0435/manifest.json"/></facsimile>
+<text>&lt;body xml:lang="ta"&gt;
+    &lt;milestone unit="page" n="30" facs="30"/&gt;
+    &lt;pb n="30"/&gt;
+  &lt;lg xml:id="KK32poem3" corresp="TNV17poem7"&gt;
+  &lt;l&gt;kai&lt;subst&gt;&lt;del rend="strikethrough"&gt;vva&lt;/del&gt;&lt;add place="above"&gt;ya&lt;/add&gt;&lt;/subst&gt;tu cemmalan taḻaiyē viṉāvatu&lt;/l&gt;
+&lt;l&gt;puṇ vāya māvēl kaiviṭ&lt;/l&gt;
+&lt;l&gt;ṭakalā ṉammaviv vakaṉpuṉai&lt;/l&gt;
+&lt;l&gt;takaiyō ṉuḷḷiya taṟiyōm peritē&lt;/l&gt;&lt;/lg&gt;&lt;/body&gt;
+</text></TEI>
