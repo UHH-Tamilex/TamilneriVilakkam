@@ -1,8 +1,10 @@
-<?tst sanitized="true"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>KKms</title>
+            <title>TNV print</title>
             
          <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
@@ -15,13 +17,13 @@
                   <repository>
                      <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
                   </repository>
-                  <idno type="shelfmark">KKms</idno>
+                  <idno type="shelfmark">TNV1947</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
                   <summary>test</summary>
                   
-               <msItem defective="false"><title>KKms</title></msItem></msContents>
+               <msItem defective="false"><title>TNV </title></msItem></msContents>
                <physDesc>
                   
                   
@@ -80,17 +82,15 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>test</p></encodingDesc>
+      <encodingDesc><p>Eva style</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/tr0118-r0435/manifest.json"/></facsimile>
-<text>&lt;body xml:lang="ta"&gt;
-    &lt;milestone unit="page" n="30" facs="30"/&gt;
-    &lt;pb n="30"/&gt;
-  &lt;lg xml:id="KK32poem3" corresp="TNV17poem7"&gt;
-  &lt;l&gt;kai&lt;subst&gt;&lt;del rend="strikethrough"&gt;vva&lt;/del&gt;&lt;add place="above"&gt;ya&lt;/add&gt;&lt;/subst&gt;tu cemmalan taḻaiyē viṉāvatu&lt;/l&gt;
-&lt;l&gt;puṇ vāya māvēl kaiviṭ&lt;/l&gt;
-&lt;l&gt;ṭakalā ṉammaviv vakaṉpuṉai&lt;/l&gt;
-&lt;l&gt;takaiyō ṉuḷḷiya taṟiyōm peritē&lt;/l&gt;&lt;/lg&gt;&lt;/body&gt;
-</text></TEI>
+   </facsimile>
+<text><body xml:lang="ta">
+  <lg xml:id="TNV17poem7">
+<l> kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
+<l>teypuṇ vāya māvē kaiviṭ</l>
+<l>ṭakalā ṉammaviv vakaṉpuṉam</l>
+<l>takaiyō ṉuḷḷiya taṟiyalam peritē</l></lg>
+  </body></text></TEI>

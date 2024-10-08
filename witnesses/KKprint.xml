@@ -1,8 +1,10 @@
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>NAprint</title>
+            <title>KKprint</title>
             
          <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
@@ -15,13 +17,13 @@
                   <repository>
                      <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
                   </repository>
-                  <idno type="shelfmark">NAprint</idno>
+                  <idno type="shelfmark">KKprint</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
                   <summary>test</summary>
                   
-               <msItem defective="false"><title>NAprint</title></msItem></msContents>
+               <msItem defective="false"><title>KKprint</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -38,7 +40,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="1"/>
+                           <measure unit="folio" quantity="93"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -84,13 +86,13 @@
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/dli.jZY9lup2kZl6TuXGlZQdjZQdkZUy.TVA_BOK_0006786/manifest.json"/></facsimile>
+   </facsimile>
 <text><body xml:lang="ta">
-  <milestone unit="page" n="171" facs="171"/>
-  <pb n="161"/>
-  <lg xml:id="NA140poem7" corresp="TNV17poem7">
- <l>kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
-<l>taiya puṇvāya māvē kaiviṭ</l>
+    <milestone unit="page" n="32" facs="32"/>
+    <pb n="54"/>
+  <lg xml:id="KK32poem3" corresp="TNV17poem7">
+  <l>kaiyatu ce<subst><del rend="underline">mmala</del><add place="above">yalaiya</add></subst>n taḻaiyē viṉā<subst><del rend="underline">va</del><add place="right">ya</add></subst>tu</l>
+<l>[tey<del rend="strikethrough">ya</del>]puṇvā<unsure><subst><del rend="strikethrough">y</del><add place="in-place">ya</add></subst></unsure> māvē kaiviṭ</l>
 <l>ṭakalā ṉammaviv vakaṉpuṉan</l>
-<l>takaiyō ṉuḷḷiya taṟitalu maritē</l></lg>
-</body></text></TEI>
+<l>takaiyō ṉuḷḷiya taṟi<subst><del rend="underline">yō</del><add place="above">yala</add></subst>m peritē</l></lg></body>
+</text></TEI>

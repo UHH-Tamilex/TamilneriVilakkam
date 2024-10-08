@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>TNV print</title>
+            <title>KKms</title>
             
          <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
@@ -15,13 +16,13 @@
                   <repository>
                      <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
                   </repository>
-                  <idno type="shelfmark">TNV1947</idno>
+                  <idno type="shelfmark">KKms</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
                   <summary>test</summary>
                   
-               <msItem defective="false"><title>TNV </title></msItem></msContents>
+               <msItem defective="false"><title>KKms</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -80,15 +81,17 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Eva style</p></encodingDesc>
+      <encodingDesc><p>test</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   </facsimile>
+   <graphic url="https://iiif.archive.org/iiif/tr0118-r0435/manifest.json"/></facsimile>
 <text><body xml:lang="ta">
-  <lg xml:id="TNV17poem7">
-<l> kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
-<l>teypuṇ vāya māvē kaiviṭ</l>
-<l>ṭakalā ṉammaviv vakaṉpuṉam</l>
-<l>takaiyō ṉuḷḷiya taṟiyalam peritē</l></lg>
-  </body></text></TEI>
+    <milestone unit="page" n="30" facs="30"/>
+    <pb n="30"/>
+  <lg xml:id="KK32poem3" corresp="TNV17poem7">
+  <l>kai<subst><del rend="strikethrough">vva</del><add place="above">ya</add></subst>tu cemmalan taḻaiyē viṉāvatu</l>
+<l>puṇ vāya māvēl kaiviṭ</l>
+<l>ṭakalā ṉammaviv vakaṉpuṉai</l>
+<l>takaiyō ṉuḷḷiya taṟiyōm peritē</l></lg></body>
+</text></TEI>
