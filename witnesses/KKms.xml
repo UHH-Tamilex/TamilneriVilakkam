@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -22,7 +21,7 @@
                <msContents class="#STM">
                   <summary>test</summary>
                   
-               <msItem defective="false"><title>KKms</title></msItem></msContents>
+               <msItem xml:id="KKms" defective="false"><title>KKms</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -86,10 +85,10 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://iiif.archive.org/iiif/tr0118-r0435/manifest.json"/></facsimile>
-<text><body xml:lang="ta">
+<text corresp="#KKms"><body xml:lang="ta">
     <milestone unit="page" n="30" facs="30"/>
     <pb n="30"/>
-  <lg xml:id="KK32poem3" corresp="TNV17poem7">
+  <lg xml:id="TNV17poem7" corresp="TNV17poem7">
   <l>kai<subst><del rend="strikethrough">vva</del><add place="above">ya</add></subst>tu cemmalan taḻaiyē viṉāvatu</l>
 <l>puṇ vāya māvēl kaiviṭ</l>
 <l>ṭakalā ṉammaviv vakaṉpuṉai</l>

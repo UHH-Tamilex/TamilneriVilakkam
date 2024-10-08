@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -22,7 +21,7 @@
                <msContents class="#STM">
                   
                   
-               <summary>Palm-leaf manuscript in good condition. Clear scribal hand. Some small gaps but noting too substantial until the final folio where larger portions of the text are missing. Presumably incomplete. No differentiation between long and short 'e/ē' and 'o/ō'. No puḷḷis.  </summary><msItem defective="false" class="#illakkanam"><title xml:lang="ta"> Tamiḻneṟi Viḷakkam  </title><textLang mainLang="tam"/></msItem></msContents>
+               <summary>Palm-leaf manuscript in good condition. Clear scribal hand. Some small gaps but noting too substantial until the final folio where larger portions of the text are missing. Presumably incomplete. No differentiation between long and short 'e/ē' and 'o/ō'. No puḷḷis.  </summary><msItem xml:id="TNVms" defective="false" class="#illakkanam"><title xml:lang="ta"> Tamiḻneṟi Viḷakkam  </title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -86,7 +85,7 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://iiif.archive.org/iiif/UVSLMS000950/manifest.json"/></facsimile>
-<text><body xml:lang="ta"><milestone unit="folio" n="1" facs="2"/>
+<text corresp="#TNVms" xml:lang="ta"><body xml:lang="ta"><milestone unit="folio" n="1" facs="2"/>
     <pb n="1r"/>
   <p xml:id="incipit">
     <l><gap reason="illegible" unit="character" quantity="1"/>miḻne</l>

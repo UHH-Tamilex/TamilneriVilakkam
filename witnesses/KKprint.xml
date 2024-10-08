@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -23,7 +21,7 @@
                <msContents class="#STM">
                   <summary>test</summary>
                   
-               <msItem defective="false"><title>KKprint</title></msItem></msContents>
+               <msItem xml:id="KKed" defective="false"><title>KKprint</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -87,10 +85,10 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    </facsimile>
-<text><body xml:lang="ta">
+<text corresp="#KKed"><body xml:lang="ta">
     <milestone unit="page" n="32" facs="32"/>
     <pb n="54"/>
-  <lg xml:id="KK32poem3" corresp="TNV17poem7">
+  <lg xml:id="TNV17poem7" corresp="TNV17poem7">
   <l>kaiyatu ce<subst><del rend="underline">mmala</del><add place="above">yalaiya</add></subst>n taḻaiyē viṉā<subst><del rend="underline">va</del><add place="right">ya</add></subst>tu</l>
 <l>[tey<del rend="strikethrough">ya</del>]puṇvā<unsure><subst><del rend="strikethrough">y</del><add place="in-place">ya</add></subst></unsure> māvē kaiviṭ</l>
 <l>ṭakalā ṉammaviv vakaṉpuṉan</l>

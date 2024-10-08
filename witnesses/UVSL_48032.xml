@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -22,7 +21,7 @@
                <msContents class="#STM">
                   
                   
-               <summary>Paper MS in good condition. Some corrections and cross-referencing of verses in pencil or blue ink. Occasional pulli also added, presumably as a later clarification, in either pencil, blue or black ink. There are full stops and occasional commas, some of which are later additions in pencil. Currently missing 8 pages (249-263 in the numbering in the top right of the pages). Cūttiram 22 cuts out in the middle and then the next available page shows the end of the 25th example poem to the 24th cūttiram. </summary><msItem defective="false" class="#illakkanam"><title xml:lang="ta">tamiḻneṟiviḷakkam</title><textLang mainLang="tam"/></msItem></msContents>
+               <summary>Paper MS in good condition. Some corrections and cross-referencing of verses in pencil or blue ink. Occasional pulli also added, presumably as a later clarification, in either pencil, blue or black ink. There are full stops and occasional commas, some of which are later additions in pencil. Currently missing 8 pages (249-263 in the numbering in the top right of the pages). Cūttiram 22 cuts out in the middle and then the next available page shows the end of the 25th example poem to the 24th cūttiram. </summary><msItem xml:id="TNVc" defective="false" class="#illakkanam"><title xml:lang="ta">tamiḻneṟiviḷakkam</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -86,7 +85,7 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://iiif.archive.org/iiif/uvsl-48032/manifest.json"/></facsimile>
-<text><body xml:lang="ta">
+<text corresp="#TNVc" xml:lang="ta"><body xml:lang="ta">
     <milestone unit="page" n="1" facs="1"/>
     <pb n="1"/>
     <p xml:id="incipit">

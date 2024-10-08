@@ -20,6 +20,7 @@ This critical edition and translation is a work in progress.
             </summary>
           </msContents>    
         </msDesc>
+        <listWit xmlns="http://www.tei-c.org/ns/1.0"><witness xml:id="KKms" source="witnesses/KKms.xml"><abbr type="siglum">KKms</abbr><expan>KKms</expan><witness xml:id="KKmsac" type="ac"><abbr type="siglum">KKmsac</abbr><expan>KKms [ante correctionem]</expan></witness><witness xml:id="KKmspc" type="pc"><abbr type="siglum">KKmspc</abbr><expan>KKms [post correctionem]</expan></witness></witness><witness xml:id="KKed" source="witnesses/KKprint.xml"><abbr type="siglum">KKed</abbr><expan>KKprint</expan><witness xml:id="KKedac" type="ac"><abbr type="siglum">KKedac</abbr><expan>KKprint [ante correctionem]</expan></witness><witness xml:id="KKedpc" type="pc"><abbr type="siglum">KKedpc</abbr><expan>KKprint [post correctionem]</expan></witness></witness><witness xml:id="NAed" source="witnesses/NAprint.xml"><abbr type="siglum">NAed</abbr><expan>NAprint</expan></witness><witness xml:id="TNVed" source="witnesses/TNV1947.xml"><abbr type="siglum">TNVed</abbr><expan>TNV print</expan></witness><witness xml:id="TNVc" source="witnesses/UVSL_48032.xml"><abbr type="siglum">TNVc</abbr><expan>Tamiḻneṟi Viḷakkam Paper</expan><witness xml:id="TNVcac" type="ac"><abbr type="siglum">TNVcac</abbr><expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan></witness><witness xml:id="TNVcpc" type="pc"><abbr type="siglum">TNVcpc</abbr><expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan></witness></witness><witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml"><abbr type="siglum">TNVms</abbr><expan> Tamiḻneṟi Viḷakkam  </expan><witness xml:id="TNVmsac" type="ac"><abbr type="siglum">TNVmsac</abbr><expan> Tamiḻneṟi Viḷakkam   [ante correctionem]</expan></witness><witness xml:id="TNVmspc" type="pc"><abbr type="siglum">TNVmspc</abbr><expan> Tamiḻneṟi Viḷakkam   [post correctionem]</expan></witness></witness><witness xml:id="Ed" source="witnesses/Ed.xml"><abbr type="siglum">Ed</abbr><expan><title xml:lang="ta">Tamiḻneṟi Viḷakkam</title></expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -43,4 +44,56 @@ This critical edition and translation is a work in progress.
         </div>
     </body>
   </text>
+  <standOff type="apparatus" corresp="#TNV17poem7">
+    <listApp>
+    <app corresp="0,7">
+      <lem wit="#KKed #KKmspc #TNVed #NAed #TNVc #TNVms">kaiyatu</lem>
+      <rdg wit="#KKmsac">kaivvatu</rdg>
+    </app>
+    <app corresp="7,17">
+      <lem wit="#TNVed #KKedpc #NAed #TNVc #TNVms">ceyalaiyan</lem>
+      <rdg wit="#KKedac #KKms">cemmalan</rdg>
+    </app>
+    <app corresp="24,30">
+      <lem wit="#TNVed #NAed #TNVc #TNVms">viṉāya</lem>
+      <rdgGrp wit="#KKedac #KKms"><rdg type="main">viṉāvatu [</rdg><rdg type="sandhi" wit="#KKms">viṉāvatu</rdg></rdgGrp>
+      <rdg wit="#KKedpc">viṉāyatu [</rdg>
+    </app>
+    <app corresp="30,36">
+      <lem wit="#TNVed #KKedpc #TNVc #TNVms">teypuṇ</lem>
+      <rdg wit="#KKedac">teyya]puṇ</rdg>
+      <rdg wit="#KKms">puṇ</rdg>
+      <rdg wit="#NAed">taiya puṇ</rdg>
+    </app>
+    <app corresp="40,44">
+      <lem wit="#KKed #KKms #TNVed #NAed #TNVcpc">māvē</lem>
+      <rdg wit="#TNVcac #TNVms">mā</rdg>
+    </app>
+    <app corresp="44,50">
+      <lem wit="#KKed #TNVed #NAed #TNVcpc">kaiviṭ</lem>
+      <rdg wit="#KKms">l kaiviṭ</rdg>
+      <rdg wit="#TNVcac #TNVms"></rdg>
+    </app>
+    <app corresp="50,56">
+      <lem wit="#KKed #KKms #TNVed #NAed #TNVcpc">ṭakalā</lem>
+      <rdg wit="#TNVcac #TNVmspc">lā</rdg>
+      <rdg wit="#TNVmsac">ṉalā</rdg>
+    </app>
+    <app corresp="56,64">
+      <lem wit="#KKed #KKms #TNVed #NAed #TNVcpc">ṉammaviv</lem>
+      <rdgGrp wit="#TNVcac #TNVms"><rdg type="main">ṉammavi m</rdg><rdg type="sandhi" wit="#TNVms">ṉammavim</rdg></rdgGrp>
+    </app>
+    <app corresp="64,74">
+      <lem wit="#KKed #TNVed #NAed">vakaṉpuṉam</lem>
+      <rdg wit="#KKms">vakaṉpuṉai</rdg>
+      <rdgGrp wit="#TNVcac #TNVms"><rdg type="main">ma kaṉpulan</rdg><rdg type="sandhi" wit="#TNVms">makaṉpulan</rdg></rdgGrp>
+      <rdg wit="#TNVcpc">va kaṉpulan,</rdg>
+    </app>
+    <app corresp="88,103">
+      <lem wit="#TNVed #KKedpc #TNVc #TNVms">taṟiyalam peritē</lem>
+      <rdg wit="#KKedac #KKms">taṟiyōm peritē</rdg>
+      <rdg wit="#NAed">taṟitalu maritē</rdg>
+    </app>
+    </listApp>
+    </standOff>
 </TEI>
