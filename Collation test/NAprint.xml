@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,8 +84,10 @@
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   </facsimile>
+   <graphic url="https://iiif.archive.org/iiif/dli.jZY9lup2kZl6TuXGlZQdjZQdkZUy.TVA_BOK_0006786/manifest.json"/></facsimile>
 <text><body xml:lang="ta">
+  <milestone unit="page" n="171" facs="171"/>
+  <pb n="161"/>
   <lg xml:id="NA140poem7" corresp="TNV17poem7">
  <l>kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
 <l>taiya puṇvāya māvē kaiviṭ</l>
