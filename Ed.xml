@@ -90,6 +90,17 @@
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
+      <div xml:id="TNV16poem9">
+        <lg type="edition">
+          <l>nōtaka vuṭaittē neñca matimicai</l>
+          <l> kuvaḷai malarmalarn taṉṉa</l>
+          <l>karuntaṭaṅ kaṇkaṇ ṭāṟṟiya</l>
+          <l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l></lg>
+          <lg type="translation" xml:lang="en">
+            ?
+          </lg>
+      </div>
+      
       <div xml:id="TNV17poem7">
         <lg type="edition">
           <l>kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
