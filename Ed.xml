@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +86,7 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
@@ -98,145 +97,10 @@
           <l>karuntaṭaṅ kaṇkaṇ ṭāṟṟiya</l>
           <l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <!--lg type="translation" xml:lang="en">
           ?
-        </lg>
+        </lg-->
       </div>
-    </body>
-  </text>
-  <standOff corresp="#TNV16poem9" type="wordsplit">
-    <interp type="alignment" select="0">7MG6M2G7ML33MG21MG39M2GM,122M</interp>
-    <entry>
-      <form>nō</form>
-      <def>pain</def>
-      <gramGrp>
-        <gram type="role">root noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>takav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>suitability</def>
-    </entry>
-    <entry>
-      <form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>possesses</def>
-      <form type="simple">uṭaittu</form>
-      <gramGrp>
-        <gram type="role">neuter singular</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>neñcam</form>
-      <def>heart</def>
-    </entry>
-    <entry>
-      <form>mati</form>
-      <def>moon</def>
-    </entry>
-    <entry>
-      <form>micai</form>
-      <def>elevation</def>
-    </entry>
-    <entry>
-      <form>mātar</form>
-      <def>woman</def>
-    </entry>
-    <entry>
-      <form><pc>+</pc>kuvaḷai</form>
-      <def>blue water lily</def>
-    </entry>
-    <entry>
-      <form>malar</form>
-      <def>blossom</def>
-      <gramGrp>
-        <gram type="role">root noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>malarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>blossomed</def>
-      <gramGrp>
-        <gram type="role">absolutive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>aṉṉa</form>
-      <def>like</def>
-      <gramGrp>
-        <gram type="role">comparative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>karum</form>
-      <def>dark</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taṭam</form>
-      <def>broad</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaṇ</form>
-      <def>eye</def>
-    </entry>
-    <entry>
-      <form>kaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>seen</def>
-      <gramGrp>
-        <gram type="role">absolutive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āṟṟiya</form>
-      <def>bore</def>
-      <gramGrp>
-        <gram type="role">perfective aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>peruntakai</form>
-      <def>paragon</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>aṇṇalai<pc>+</pc></form>
-      <def>majesty</def>
-      <gramGrp>
-        <gram type="role">accusative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaḻaṟiṉaṉ</form>
-      <def>remonstrated</def>
-      <gramGrp>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>big</def>
-      <form type="simple">peritu</form>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">neuter singular</gram>
-        <gram type="role">adverb</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
-  <text xml:lang="ta" type="edition" corresp="#Ed">
-    <body>
       <div xml:id="TNV17poem7">
         <lg type="edition">
           <l>kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
@@ -244,12 +108,113 @@
           <l>ṭakalā ṉammaviv vakaṉpuṉam</l>
           <l>takaiyō ṉuḷḷiya taṟiyalam peritē</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <!--lg type="translation" xml:lang="en">
           ?
-        </lg>
+        </lg-->
       </div>
     </body>
   </text>
+  <standOff corresp="#TNV16poem9" type="wordsplit"><interp type="alignment" select="0">7MG6M2G7ML33MG21MG39M2GM,122M</interp>
+<entry>
+<form>nō</form>
+<def>pain</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>takav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>suitability</def>
+</entry>
+<entry>
+<form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>possesses</def>
+<form type="simple">uṭaittu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>neñcam</form>
+<def>heart</def>
+</entry>
+<entry>
+<form>mati</form>
+<def>moon</def>
+</entry>
+<entry>
+<form>micai</form>
+<def>elevation</def>
+</entry>
+<entry>
+<form>mātar<pc>+</pc></form>
+<def>woman</def>
+</entry>
+<entry>
+<form>kuvaḷai</form>
+<def>blue water lily</def>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>malarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>blossomed</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>karum</form>
+<def>dark</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>taṭam</form>
+<def>broad</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>kaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>seen</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>āṟṟiya</form>
+<def>bore</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>peruntakai</form>
+<def>paragon</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṇṇalai<pc>+</pc></form>
+<def>majesty</def>
+<gramGrp><gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḻaṟiṉaṉ</form>
+<def>remonstrated</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>big</def>
+<form type="simple">peritu</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">adverb</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
   <standOff type="wordsplit" corresp="#TNV17poem7">
     <interp type="alignment" select="0">22MG9MG11MG9MG6MG32MG13M2GM,111M</interp>
     <entry>
@@ -400,7 +365,8 @@
       </gramGrp>
     </entry>
   </standOff>
-  <standOff type="apparatus" corresp="#TNV17poem7">
+  
+  <standOff type="apparatus" corresp="#TNV17poem7" source="Alignments/TNV17poem7.xml">
     <listApp>
       <app corresp="0,7">
         <lem wit="#KKed #KKmspc #TNVed #NAed #TNVc #TNVms">kaiyatu</lem>
@@ -424,7 +390,7 @@
       <app corresp="40,56">
         <lem wit="#KKed #TNVed #NAed #TNVcpc">māvē kaiviṭ ṭakalā</lem>
         <rdg wit="#KKms">māvēl kaiviṭ ṭakalā</rdg>
-        <rdg wit="#TNVcac #TNVmspc">mā<space quantity="5" unit="character" />lā</rdg>
+        <rdg wit="#TNVcac #TNVmspc">mā<space quantity="5" unit="character"/>lā</rdg>
         <rdg wit="#TNVmsac">mā ṉalā</rdg>
       </app>
       <app corresp="56,64">
@@ -450,4 +416,39 @@
       </app>
     </listApp>
   </standOff>
+  <standOff type="apparatus" corresp="#TNV16poem9" source="Alignments/TNV16poem9.xml">
+    <listApp>
+    <app corresp="14,19">
+      <lem wit="#KKed #KKms #TNVc #TNVed #TNVmspc">neñca</lem>
+      <rdg wit="#TNVmsac">neṉñca</rdg>
+    </app>
+    <app corresp="28,34">
+      <lem wit="#TNVc #TNVed #KKedpc #TNVms">mātark</lem>
+      <rdg wit="#KKedac #KKms">mātar</rdg>
+    </app>
+    <app corresp="41,57">
+      <lem wit="#TNVc #TNVed #TNVmspc">malarmalarn taṉṉa</lem>
+      <rdg wit="#KKms">malarn ta<space unit="character" quantity="2"/></rdg>
+      <rdg wit="#KKedac">malarn ta<space unit="character" quantity="2"/></rdg>
+      <rdg wit="#KKedpc">malarmalarn tataṉṉa</rdg>
+      <rdg wit="#TNVmsac">malarmalarn taṉa</rdg>
+    </app>
+    <app corresp="57,67">
+      <lem wit="#TNVc #TNVed #KKedpc #TNVms">karuntaṭaṅ</lem>
+      <rdg wit="#KKedac">[aruntakaik]</rdg>
+      <rdg wit="#KKms"><space unit="character" quantity="3"/></rdg>
+    </app>
+    <app corresp="73,80">
+      <lem wit="#KKed #KKms #TNVcpc #TNVed">ṭāṟṟiya</lem>
+      <rdg wit="#TNVms #TNVcac">ṭāṟṟiyap</rdg>
+    </app>
+    <app corresp="90,108">
+      <lem wit="#KKed #KKmspc #TNVcpc #TNVed">yaṇṇalaik kaḻaṟiṉaṉ</lem>
+      <rdg wit="#KKmsac">yaṇṇalaik kaḻaṉṟiṉaṉ</rdg>
+      <rdg wit="#TNVms">yaṇṇalai kaḻaṟṟiṉaṉ</rdg>
+      <rdg wit="#TNVcac">yaṇṇalaik kaḻaṟṟiṉaṉ</rdg>
+    </app>
+    
+    </listApp>
+    </standOff>
 </TEI>
