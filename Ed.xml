@@ -460,4 +460,86 @@
     
     </listApp>
     </standOff>
+    <standOff type="wordsplit" corresp="#TNV17poem5">
+      <interp type="alignment" select="0">45MG10ML2ML5ML15M2GM,84M</interp>
+      <entry>
+      <form>ampu</form>
+      <def>arrow</def>
+      </entry>
+      <entry>
+      <form>mukam</form>
+      <def>head</def>
+      </entry>
+      <entry>
+      <form>kiḻitta</form>
+      <def>split</def>
+      <gramGrp><gram type="role">perfective aspect</gram>
+      <gram type="role">peyareccam</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>vem</form>
+      <def>hot</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>puṇ</form>
+      <def>wound</def>
+      </entry>
+      <entry>
+      <form>vāya</form>
+      <def>certainly happen</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>kalai</form>
+      <def>male</def>
+      </entry>
+      <entry>
+      <form>māṉ</form>
+      <def>deer</def>
+      </entry>
+      <entry>
+      <form>pōntaṉa</form>
+      <def>went</def>
+      <gramGrp><gram type="role">neuter plural</gram>
+      <gram type="role">perfective aspect</gram>
+      </gramGrp></entry>
+      <entry>
+      <form><pc>~</pc>uḷa-<pc>~</pc>ō</form>
+      <def>were</def>
+      <form type="simple">uḷa</form>
+      <gramGrp><gram type="role">neuter plural</gram>
+      </gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+      </entry>
+      <entry>
+      <form>num</form>
+      <def>your</def>
+      <gramGrp><gram type="role">oblique</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>maṭam</form>
+      <def>foolish</def>
+      </entry>
+      <entry>
+      <form>māṉ</form>
+      <def>deer</def>
+      </entry>
+      <entry>
+      <form>nōkkam</form>
+      <def>glance</def>
+      </entry>
+      <entry>
+      <form>marīiyiṉa</form>
+      <def>joined</def>
+      <gramGrp><gram type="role">neuter plural</gram>
+      <gram type="role">perfective aspect</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>paṭarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>spread</def>
+      <form type="simple">paṭarntu</form>
+      <gramGrp><gram type="role">absolutive</gram>
+      </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+      </entry>
+      </standOff>
 </TEI>
