@@ -94,6 +94,10 @@
 <l>mātar<add place="margin">k</add> kuvaḷai <add place="margin">malar</add>malarn <sic>ta</sic><subst><del rend="implied"><space quantity="3" unit="characters"/></del><add place="in-place">taṉṉa</add></subst></l>
 <l><subst><del rend="implied">[aruntakaik]</del><add place="margin">karuntaṭaṅ</add></subst> kaṇkaṇ ṭāṟṟiya</l>
 <l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l></lg>
+    <lg xml:id="TNV17poem5" corresp="TNV17poem5">
+      <l>ampumukaṅ kiḻitta <add rend="caret" place="above">vem</add>puṇvā<subst><del rend="strikethrough">yk</del><add rend="implied">ya,</add></subst> kalaimāṉ</l>
+<l>pōntaṉa vuḷavō <subst><del rend="strikethrough">[vuraiyīr]</del><add place="right">num</add></subst></l>
+<l><del rend="strikethrough">[mā]</del>maṭa<add rend="caret" place="above">mā</add> ṉōkka marīiyiṉa<del rend="strikethrough">m</del> paṭarntē.</l></lg>
   <lg xml:id="TNV17poem7" corresp="TNV17poem7">
   <l>kaiyatu ce<subst><del rend="underline">mmala</del><add place="above">yalaiya</add></subst>n taḻaiyē viṉā<subst><del rend="underline">va</del><add place="right">ya</add></subst>tu</l>
 <l>[tey<del rend="strikethrough">ya</del>]puṇvā<unsure><subst><del rend="strikethrough">y</del><add place="in-place">ya</add></subst></unsure> māvē kaiviṭ</l>
