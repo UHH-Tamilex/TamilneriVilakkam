@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>KKprint</title>
-            
-         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+
+            <editor>
+               <persName>leo</persName>
+               <orgName>UHH</orgName>
+            </editor>
+         </titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
             <date>2024</date>
@@ -16,95 +21,123 @@
                      <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
                   </repository>
                   <idno type="shelfmark">KKprint</idno>
-                  <idno type="alternate"/>
+                  <idno type="alternate" />
                </msIdentifier>
                <msContents class="#STM">
                   <summary>test</summary>
-                  
-               <msItem xml:id="KKed" defective="false"><title>KKprint</title></msItem></msContents>
+
+                  <msItem xml:id="KKed" defective="false">
+                     <title>KKprint</title>
+                  </msItem>
+               </msContents>
                <physDesc>
-                  
-                  
-                  
-                  
-                  
-               <objectDesc form="baad">
+
+
+                  <objectDesc form="baad">
                      <supportDesc material="paper">
-                        
-                        
-                        
-                        
-                        
-                     <support>
-                           
-                        </support><extent>
-                           <measure unit="folio" quantity="93"/>
+
+
+                        <support>
+
+                        </support>
+                        <extent>
+                           <measure unit="folio" quantity="93" />
                            <dimensions type="object" unit="mm">
-                              
-                              
+
+
                            </dimensions>
                            <dimensions type="leaf" unit="mm">
-                              
-                              
+
+
                            </dimensions>
                            <dimensions type="written" unit="mm">
-                              
-                              
+
+
                            </dimensions>
-                        </extent></supportDesc>
+                        </extent>
+                     </supportDesc>
                      <layoutDesc>
-                        
+
                      </layoutDesc>
-                  </objectDesc><handDesc/><additions>
-                  </additions><bindingDesc>
+                  </objectDesc>
+                  <handDesc />
+                  <additions>
+                  </additions>
+                  <bindingDesc>
                      <binding>
-                        
+
                         <decoNote type="stringhole">
-                           <measure unit="stringhole"/>
+                           <measure unit="stringhole" />
                         </decoNote>
-                    </binding>
-                  </bindingDesc></physDesc>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
                <history>
-                  
-                  
-                  
-               <origin>
-                     <origDate calendar="gregorian"/>
-                     
-                  </origin></history>
+
+
+                  <origin>
+                     <origDate calendar="gregorian" />
+
+                  </origin>
+               </history>
                <additional>
                   <listBibl>
-                     
+
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>test</p></encodingDesc>
-      
-   <revisionDesc/></teiHeader>
+      <encodingDesc>
+         <p>test</p>
+      </encodingDesc>
+
+      <revisionDesc />
+   </teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/efeo-tvg-76/manifest.json"/></facsimile>
-<text corresp="#KKed"><body xml:lang="ta">
-    <milestone unit="page" n="32" facs="32"/>
-    <pb n="54"/>
-  <lg xml:id="TNV16poem9" corresp="TNV16poem9">
-    <note place="margin" xml:lang="ta">pa. 13</note>
-    <l>nōtaka vuṭaittē neñca matimicai</l>
-<l>mātar<add place="margin">k</add> kuvaḷai <add place="margin">malar</add>malarn <sic>ta</sic><subst><del rend="implied"><space quantity="3" unit="characters"/></del><add place="in-place">taṉṉa</add></subst></l>
-<l><subst><del rend="implied">[aruntakaik]</del><add place="margin">karuntaṭaṅ</add></subst> kaṇkaṇ ṭāṟṟiya</l>
-<l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l></lg>
-    <lg xml:id="TNV17poem5" corresp="TNV17poem5">
-      <l>ampumukaṅ kiḻitta <add rend="caret" place="above">vem</add>puṇvā<subst><del rend="strikethrough">yk</del><add rend="implied">ya,</add></subst> kalaimāṉ</l>
-<l>pōntaṉa vuḷavō <subst><del rend="strikethrough">[vuraiyīr]</del><add place="right">num</add></subst></l>
-<l><del rend="strikethrough">[mā]</del>maṭa<add rend="caret" place="above">mā</add> ṉōkka marīiyiṉa<del rend="strikethrough">m</del> paṭarntē.</l></lg>
-  <lg xml:id="TNV17poem7" corresp="TNV17poem7">
-  <l>kaiyatu ce<subst><del rend="underline">mmala</del><add place="above">yalaiya</add></subst>n taḻaiyē viṉā<subst><del rend="underline">va</del><add place="right">ya</add></subst>tu</l>
-<l>[tey<del rend="strikethrough">ya</del>]puṇvā<unsure><subst><del rend="strikethrough">y</del><add place="in-place">ya</add></subst></unsure> māvē kaiviṭ</l>
-<l>ṭakalā ṉammaviv vakaṉpuṉan</l>
-<l>takaiyō ṉuḷḷiya taṟi<subst><del rend="underline">yō</del><add place="above">yala</add></subst>m peritē</l></lg>
-<lg xml:id="TNV17poem7" corresp="TNV17poem7">
- <l>naṇṇuta laritē taṇṇe ḷaḷā (?ṉpuṉattu)</l>
-<l>eṇṇiya kuṟaiyoṉ ṟuḷateṉiṉ</l>
-<l>naṇṇātu muṭitti yaṇṇa ṉīyē</l></lg></body>
-</text></TEI>
+      <graphic url="https://iiif.archive.org/iiif/efeo-tvg-76/manifest.json" />
+   </facsimile>
+   <text corresp="#KKed">
+      <body xml:lang="ta">
+         <milestone unit="page" n="32" facs="32" />
+         <pb n="54" />
+         <lg xml:id="TNV16poem9" corresp="TNV16poem9">
+            <note place="margin" xml:lang="ta">pa. 13</note>
+            <l>nōtaka vuṭaittē neñca matimicai</l>
+            <l>mātar<add place="margin">k</add> kuvaḷai <add place="margin">malar</add>malarn <sic>
+               ta</sic><subst>
+                  <del rend="implied">
+                     <space quantity="3" unit="characters" />
+                  </del>
+                  <add place="in-place">taṉṉa</add>
+               </subst></l>
+            <l><subst>
+                  <del rend="implied">[aruntakaik]</del>
+                  <add place="margin">karuntaṭaṅ</add>
+               </subst> kaṇkaṇ ṭāṟṟiya</l>
+            <l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l>
+         </lg>
+         <lg xml:id="TNV17poem7" corresp="TNV17poem7">
+            <l>kaiyatu ce<subst>
+                  <del rend="underline">mmala</del>
+                  <add place="above">yalaiya</add>
+               </subst>n taḻaiyē viṉā<subst>
+                  <del rend="underline">va</del>
+                  <add place="right">ya</add>
+               </subst>tu</l>
+            <l>[tey<del rend="strikethrough">ya</del>]puṇvā<unsure>
+                  <subst>
+                     <del rend="strikethrough">y</del>
+                     <add place="in-place">ya</add>
+                  </subst>
+               </unsure>
+               māvē kaiviṭ</l>
+            <l>ṭakalā ṉammaviv vakaṉpuṉan</l>
+            <l>takaiyō ṉuḷḷiya taṟi<subst>
+                  <del rend="underline">yō</del>
+                  <add place="above">yala</add>
+               </subst>m peritē</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
