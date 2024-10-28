@@ -129,11 +129,11 @@
       <div xml:id="TNV17poem13">
         <lg type="edition">
           <l>tūymai cāṉṟa tolkuṭit tōṉṟiya</l>
-<l>vāymai nāviṉ matitaraṉ pōla</l>
-<l>uyartava muṉivar cārap</l>
-<l>peyarā nilaiyatip piṟaṅkuperu malaiyē</l></lg>
-<!--lg
-        type="translation" xml:lang="en">
+          <l>vāymai nāviṉ matitaraṉ pōla</l>
+          <l>uyartava muṉivar cārap</l>
+          <l>peyarā nilaiyatip piṟaṅkuperu malaiyē</l>
+        </lg>
+        <!--lg type="translation" xml:lang="en">
           ?
         </lg-->
       </div>
@@ -269,7 +269,7 @@
         <m>ē</m>
       </gramGrp>
     </entry>
-  </standOff> 
+  </standOff>
   <standOff type="apparatus" corresp="#TNV16poem9" source="Alignments/TNV16poem9.xml">
     <listApp>
       <app corresp="14,19">
@@ -307,7 +307,7 @@
 
     </listApp>
   </standOff>
-   <standOff type="wordsplit" corresp="#TNV17poem5">
+  <standOff type="wordsplit" corresp="#TNV17poem5">
     <interp type="alignment" select="0">45MG10ML2ML5ML15M2GM,84M</interp>
     <entry>
       <form>ampu</form>
@@ -409,51 +409,54 @@
       </gramGrp>
     </entry>
   </standOff>
-  <standOff type="apparatus" corresp="#TNV17poem5" source="Alig"> 
+  <standOff type="apparatus" corresp="#TNV17poem5" source="Aligments/TNV17poem7.xml">
     <listApp>
-    <app corresp="0,9">
-      <lem wit="#KKed #KKms #TNVc #TNVed">ampumukaṅ</lem>
-      <rdg wit="#TNVmsac">acapumukaṅ</rdg>
-      <rdg wit="#TNVmspc">apumukaṅ</rdg>
-    </app>
-    <app corresp="16,22">
-      <lem wit="#TNVc #TNVms #TNVed #KKedpc">vempuṇ</lem>
-      <rdg wit="#KKedac #KKms">puṇ</rdg>
-    </app>
-    <app corresp="22,26">
-      <lem wit="#TNVcpc #TNVed">vāya</lem>
-      <rdgGrp wit="#KKedac #KKmspc #TNVms #TNVcac"><rdg type="main">vāyk</rdg><rdg type="sandhi" wit="#TNVms #TNVcac">vāyak</rdg></rdgGrp>
-      <rdg wit="#KKmsac">vāy</rdg>
-      <rdg wit="#KKedpc">vāya,</rdg>
-    </app>
-    <app corresp="26,34">
-      <lem wit="#KKed #KKmspc #TNVms #TNVcac #TNVed ">kalaimāṉ</lem>
-      <rdg wit="#KKmsac">talaimāṉ</rdg>
-      <rdg wit="#TNVcpc">kalai, māṉ,</rdg>
-    </app>
-    <app corresp="34,41">
-      <lem wit="#KKed #KKms #TNVc #TNVmspc #TNVed">pōntaṉa</lem>
-      <rdg wit="#TNVmsac">ṅōntaṉa</rdg>
-    </app>
-    <app corresp="41,50">
-      <lem wit="#TNVms #TNVcac #TNVed #KKedpc">vuḷavōnum</lem>
-      <rdg wit="#KKedac">vuḷavō [vuraiyīr]</rdg>
-      <rdg wit="#KKms">vuḷavō</rdg>
-      <rdg wit="#TNVcpc">vuḷavōnum,</rdg>
-    </app>
-    <app corresp="50,56">
-      <lem wit="#TNVc #TNVms #KKedpc #TNVed">maṭamā</lem>
-      <rdg wit="#KKedac">[mā]maṭa</rdg>
-      <rdg wit="#KKms">maṭa</rdg>
-    </app>
-    <app corresp="61,70">
-      <lem wit="#KKedpc #TNVed">marīiyiṉa</lem>
-      <rdg wit="#KKedac #KKmspc">marīiyiṉam</rdg>
-      <rdg wit="#KKmsac">marīiṉam</rdg>
-      <rdg wit="#TNVc #TNVms">marīiṉa</rdg>
-    </app>
+      <app corresp="0,9">
+        <lem wit="#KKed #KKms #TNVc #TNVed">ampumukaṅ</lem>
+        <rdg wit="#TNVmsac">acapumukaṅ</rdg>
+        <rdg wit="#TNVmspc">apumukaṅ</rdg>
+      </app>
+      <app corresp="16,22">
+        <lem wit="#TNVc #TNVms #TNVed #KKedpc">vempuṇ</lem>
+        <rdg wit="#KKedac #KKms">puṇ</rdg>
+      </app>
+      <app corresp="22,26">
+        <lem wit="#TNVcpc #TNVed">vāya</lem>
+        <rdgGrp wit="#KKedac #KKmspc #TNVms #TNVcac">
+          <rdg type="main">vāyk</rdg>
+          <rdg type="sandhi" wit="#TNVms #TNVcac">vāyak</rdg>
+        </rdgGrp>
+        <rdg wit="#KKmsac">vāy</rdg>
+        <rdg wit="#KKedpc">vāya,</rdg>
+      </app>
+      <app corresp="26,34">
+        <lem wit="#KKed #KKmspc #TNVms #TNVcac #TNVed ">kalaimāṉ</lem>
+        <rdg wit="#KKmsac">talaimāṉ</rdg>
+        <rdg wit="#TNVcpc">kalai, māṉ,</rdg>
+      </app>
+      <app corresp="34,41">
+        <lem wit="#KKed #KKms #TNVc #TNVmspc #TNVed">pōntaṉa</lem>
+        <rdg wit="#TNVmsac">ṅōntaṉa</rdg>
+      </app>
+      <app corresp="41,50">
+        <lem wit="#TNVms #TNVcac #TNVed #KKedpc">vuḷavōnum</lem>
+        <rdg wit="#KKedac">vuḷavō [vuraiyīr]</rdg>
+        <rdg wit="#KKms">vuḷavō</rdg>
+        <rdg wit="#TNVcpc">vuḷavōnum,</rdg>
+      </app>
+      <app corresp="50,56">
+        <lem wit="#TNVc #TNVms #KKedpc #TNVed">maṭamā</lem>
+        <rdg wit="#KKedac">[mā]maṭa</rdg>
+        <rdg wit="#KKms">maṭa</rdg>
+      </app>
+      <app corresp="61,70">
+        <lem wit="#KKedpc #TNVed">marīiyiṉa</lem>
+        <rdg wit="#KKedac #KKmspc">marīiyiṉam</rdg>
+        <rdg wit="#KKmsac">marīiṉam</rdg>
+        <rdg wit="#TNVc #TNVms">marīiṉa</rdg>
+      </app>
     </listApp>
-    </standOff>
+  </standOff>
   <standOff type="wordsplit" corresp="#TNV17poem7">
     <interp type="alignment" select="0">22MG9MG11MG9MG6MG32MG13M2GM,111M</interp>
     <entry>
@@ -655,7 +658,168 @@
       </app>
     </listApp>
   </standOff>
- 
- 
+
+
+  <standOff corresp="#TNV17poem13" type="wordsplit">
+    <interp type="alignment" select="0">84MG18MG2M,106M</interp>
+    <entry>
+      <form>tūymai</form>
+      <def>truth</def>
+    </entry>
+    <entry>
+      <form>cāṉṟa</form>
+      <def>be worthy</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tol</form>
+      <def>ancient</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kuṭi<pc>+</pc></form>
+      <def>hamlet</def>
+    </entry>
+    <entry>
+      <form>tōṉṟiya</form>
+      <def>appeared</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vāymai</form>
+      <def>truthful</def>
+    </entry>
+    <entry>
+      <form>nāviṉ</form>
+      <def>tongue</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mati</form>
+      <def>moon</def>
+    </entry>
+    <entry>
+      <form>taraṉ</form>
+      <def>support</def>
+      <gramGrp>
+        <gram type="role">participial noun</gram>
+        <gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pōla</form>
+      <def>be similar</def>
+      <gramGrp>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uyar</form>
+      <def>be high</def>
+      <gramGrp>
+        <gram type="role">verbal root as adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tava</form>
+      <def>penance</def>
+    </entry>
+    <entry>
+      <form>muṉivar</form>
+      <def>sage</def>
+    </entry>
+    <entry>
+      <form>cāra<pc>+</pc></form>
+      <def>approach</def>
+      <gramGrp>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>peyarā</form>
+      <def>not moved</def>
+      <gramGrp>
+        <gram type="role">negative</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nilaiyat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>state</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>i<pc>+</pc></form>
+      <def>this</def>
+    </entry>
+    <entry>
+      <form>piṟaṅku</form>
+      <def>shining</def>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>peru</form>
+      <def>big</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>malai-<pc>~</pc>ē</form>
+      <def>mountain</def>
+      <form type="simple">malai</form>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+  <standOff type="apparatus" corresp="#TNV17poem13" source="Alignments/TNV17poem13.xml">
+    <listApp>
+      <app corresp="19,26">
+        <lem wit="#TNVms #TNVed">tōṉṟiya</lem>
+        <rdg wit="#TNVc">tōṉṟiya,</rdg>
+        <rdg wit="#NAed">tōṉṟi</rdg>
+      </app>
+      <app corresp="37,46">
+        <lem wit="#TNVms #TNVc #TNVed">matitaraṉ</lem>
+        <rdg wit="#NAed">matiyāṉ</rdg>
+      </app>
+      <app corresp="46,50">
+        <lem wit="#TNVms #TNVed #NAed">pōla</lem>
+        <rdg wit="#TNVc">pōla,</rdg>
+      </app>
+      <app corresp="65,70">
+        <lem wit="#TNVms #TNVed">cārap</lem>
+        <rdg wit="#TNVc">cārap,</rdg>
+        <rdg wit="#NAed">cārvāp</rdg>
+      </app>
+      <app corresp="76,86">
+        <lem wit="#TNVms #TNVc #TNVed">nilaiyatip</lem>
+        <rdg wit="#NAed">nilaiyatu</rdg>
+      </app>
+      <app corresp="86,97">
+        <lem wit="#TNVmspc #TNVcpc #TNVed">piṟaṅkuperu</lem>
+        <rdg wit="#TNVmsac">piṟakuperu</rdg>
+        <rdg wit="#TNVcac">peru</rdg>
+        <rdg wit="#NAed">piṟaṅkutiru</rdg>
+      </app>
+
+    </listApp>
+  </standOff>
 
 </TEI>
