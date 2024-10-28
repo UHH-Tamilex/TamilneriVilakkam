@@ -412,9 +412,9 @@
   <standOff type="apparatus" corresp="#TNV17poem5" source="Aligments/TNV17poem7.xml">
     <listApp>
       <app corresp="0,9">
-        <lem wit="#KKed #KKms #TNVc #TNVed">ampumukaṅ</lem>
+        <lem wit="#KKed #KKms #TNVmspc #TNVc #TNVed ">ampumukaṅ</lem>
         <rdg wit="#TNVmsac">acampumukaṅ</rdg>
-        <rdg wit="#TNVmspc">ampumukaṅ</rdg>
+       
       </app>
       <app corresp="16,22">
         <lem wit="#TNVc #TNVms #TNVed #KKedpc">vempuṇ</lem>
