@@ -1,73 +1,1160 @@
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">
-    
-    <teiHeader><listWit><witness xml:id="KKms" source="KKms.xml"><abbr type="siglum">KKms</abbr><expan>KKms</expan><witness xml:id="KKmsac" type="ac"><abbr type="siglum">KKmsac</abbr><expan>KKms [ante correctionem]</expan></witness><witness xml:id="KKmspc" type="pc"><abbr type="siglum">KKmspc</abbr><expan>KKms [post correctionem]</expan></witness></witness><witness xml:id="KKed" source="KKprint.xml"><abbr type="siglum">KKed</abbr><expan>KKprint</expan><witness xml:id="KKedac" type="ac"><abbr type="siglum">KKedac</abbr><expan>KKprint [ante correctionem]</expan></witness><witness xml:id="KKedpc" type="pc"><abbr type="siglum">KKedpc</abbr><expan>KKprint [post correctionem]</expan></witness></witness><witness xml:id="NAed" source="NAprint.xml"><abbr type="siglum">NAed</abbr><expan>NAprint</expan></witness><witness xml:id="TNVed" source="TNV1947.xml"><abbr type="siglum">TNVed</abbr><expan>TNV print</expan></witness><witness xml:id="TNVc" source="UVSL_48032.xml"><abbr type="siglum">TNVc</abbr><expan>Tamiḻneṟi Viḷakkam Paper</expan><witness xml:id="TNVcac" type="ac"><abbr type="siglum">TNVcac</abbr><expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan></witness><witness xml:id="TNVcpc" type="pc"><abbr type="siglum">TNVcpc</abbr><expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan></witness></witness><witness xml:id="TNVms" source="UVSLMS000950.xml"><abbr type="siglum">TNVms</abbr><expan> Tamiḻneṟi Viḷakkam  </expan><witness xml:id="TNVmsac" type="ac"><abbr type="siglum">TNVmsac</abbr><expan> Tamiḻneṟi Viḷakkam   [ante correctionem]</expan></witness><witness xml:id="TNVmspc" type="pc"><abbr type="siglum">TNVmspc</abbr><expan> Tamiḻneṟi Viḷakkam   [post correctionem]</expan></witness></witness><witness xml:id="Ed" source="Ed.xml"><abbr type="siglum">Ed</abbr><expan><title xml:lang="ta">Tamiḻneṟi Viḷakkam</title></expan></witness></listWit>
-        
-        <xenoData><stemma format="nexml" id="stemma0"><nex:nexml xmlns:nex="http://www.nexml.org/2009" version="0.9"><nex:otus id="otus1"><nex:otu id="otu0" label="KKedac"/><nex:otu id="otu1" label="KKmsac"/><nex:otu id="otu2" label="KKmspc"/><nex:otu id="otu3" label="Ed"/><nex:otu id="otu4" label="TNVed"/><nex:otu id="otu5" label="KKedpc"/><nex:otu id="otu6" label="NAed"/><nex:otu id="otu7" label="TNVcac"/><nex:otu id="otu8" label="TNVmspc"/><nex:otu id="otu9" label="TNVmsac"/><nex:otu id="otu10" label="TNVcpc"/></nex:otus><nex:trees otus="otus1" id="trees1"><nex:tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="guidetree" label="guidetree" xsi:type="nex:FloatTree"><nex:node id="36eef0fe-ef44-4b91-9dbc-9503e5f93c38" root="true"/><nex:node id="9d373eaf-0191-4966-9559-ade09307926c"/><nex:node id="e1184b4c-0283-40f0-8fa4-c6439eeecbf8" label="KKedac" otu="otu2"/><nex:node id="2398534b-8fd7-4b44-bb1e-aaf1d371a82b"/><nex:node id="6aacb2d2-dccf-4bc8-a45b-23f3bda0770b" label="KKmsac" otu="otu4"/><nex:node id="3f5d636f-5dce-4770-a82b-1c3b911abd39" label="KKmspc" otu="otu5"/><nex:node id="29adc44b-1a69-49c3-a8ec-0f26cc507a47"/><nex:node id="eebd27c2-6199-4fe3-9ba2-2790d1413691"/><nex:node id="4ebae30b-9578-4240-8b85-c30d3bee482d"/><nex:node id="2b884a57-7dfa-4caa-898b-429c9ec2b8b4" label="Ed" otu="otu9"/><nex:node id="a89de243-7e3f-4aea-9e5d-be002085d01f" label="TNVed" otu="otu10"/><nex:node id="9eb02197-52af-4314-b224-eff4f1d6460f" label="KKedpc" otu="otu11"/><nex:node id="13df5a8c-0a10-44d8-a5ae-a6323725578a"/><nex:node id="5ea7590c-6d7b-40e1-b191-74de88175bc5" label="NAed" otu="otu13"/><nex:node id="907cd299-50c2-4001-8bef-f52807f2b676"/><nex:node id="27b61d42-b4b4-4dfa-b4b0-87d6dc56bd68"/><nex:node id="ff2efa7c-370b-4701-9692-ded1fb92baa1"/><nex:node id="97036d16-0b21-420d-889d-7e077515b79c" label="TNVcac" otu="otu17"/><nex:node id="34247322-9aeb-4293-8cbf-8b0459592790" label="TNVmspc" otu="otu18"/><nex:node id="59fa4ec7-f2aa-48ad-a727-695575ba898d" label="TNVmsac" otu="otu19"/><nex:node id="292e552c-952c-451d-8be2-e235f25ce021" label="TNVcpc" otu="otu20"/><nex:edge source="36eef0fe-ef44-4b91-9dbc-9503e5f93c38" target="9d373eaf-0191-4966-9559-ade09307926c" id="edge0" length="0.12057036552870044"/><nex:edge source="36eef0fe-ef44-4b91-9dbc-9503e5f93c38" target="29adc44b-1a69-49c3-a8ec-0f26cc507a47" id="edge1" length="0.12057036552870044"/><nex:edge source="9d373eaf-0191-4966-9559-ade09307926c" target="e1184b4c-0283-40f0-8fa4-c6439eeecbf8" id="edge2" length="0.23601518127065216"/><nex:edge source="9d373eaf-0191-4966-9559-ade09307926c" target="2398534b-8fd7-4b44-bb1e-aaf1d371a82b" id="edge3" length="0.2512905549385708"/><nex:edge source="29adc44b-1a69-49c3-a8ec-0f26cc507a47" target="eebd27c2-6199-4fe3-9ba2-2790d1413691" id="edge4" length="0.40884574385928724"/><nex:edge source="29adc44b-1a69-49c3-a8ec-0f26cc507a47" target="13df5a8c-0a10-44d8-a5ae-a6323725578a" id="edge5" length="0"/><nex:edge source="2398534b-8fd7-4b44-bb1e-aaf1d371a82b" target="6aacb2d2-dccf-4bc8-a45b-23f3bda0770b" id="edge6" length="0.052626440454983665"/><nex:edge source="2398534b-8fd7-4b44-bb1e-aaf1d371a82b" target="3f5d636f-5dce-4770-a82b-1c3b911abd39" id="edge7" length="0.04467627933635409"/><nex:edge source="eebd27c2-6199-4fe3-9ba2-2790d1413691" target="4ebae30b-9578-4240-8b85-c30d3bee482d" id="edge8" length="0.042537983258215145"/><nex:edge source="eebd27c2-6199-4fe3-9ba2-2790d1413691" target="9eb02197-52af-4314-b224-eff4f1d6460f" id="edge9" length="0.23777897091928482"/><nex:edge source="13df5a8c-0a10-44d8-a5ae-a6323725578a" target="5ea7590c-6d7b-40e1-b191-74de88175bc5" id="edge10" length="0.6317207001138854"/><nex:edge source="13df5a8c-0a10-44d8-a5ae-a6323725578a" target="907cd299-50c2-4001-8bef-f52807f2b676" id="edge11" length="0"/><nex:edge source="4ebae30b-9578-4240-8b85-c30d3bee482d" target="2b884a57-7dfa-4caa-898b-429c9ec2b8b4" id="edge12" length="0"/><nex:edge source="4ebae30b-9578-4240-8b85-c30d3bee482d" target="a89de243-7e3f-4aea-9e5d-be002085d01f" id="edge13" length="0"/><nex:edge source="907cd299-50c2-4001-8bef-f52807f2b676" target="27b61d42-b4b4-4dfa-b4b0-87d6dc56bd68" id="edge14" length="0.07201440460798812"/><nex:edge source="907cd299-50c2-4001-8bef-f52807f2b676" target="292e552c-952c-451d-8be2-e235f25ce021" id="edge15" length="0.27223397498800955"/><nex:edge source="27b61d42-b4b4-4dfa-b4b0-87d6dc56bd68" target="ff2efa7c-370b-4701-9692-ded1fb92baa1" id="edge16" length="0.18438755614380165"/><nex:edge source="27b61d42-b4b4-4dfa-b4b0-87d6dc56bd68" target="59fa4ec7-f2aa-48ad-a727-695575ba898d" id="edge17" length="0.32496780453858864"/><nex:edge source="ff2efa7c-370b-4701-9692-ded1fb92baa1" target="97036d16-0b21-420d-889d-7e077515b79c" id="edge18" length="0"/><nex:edge source="ff2efa7c-370b-4701-9692-ded1fb92baa1" target="34247322-9aeb-4293-8cbf-8b0459592790" id="edge19" length="0"/></nex:tree></nex:trees></nex:nexml></stemma></xenoData>
-    
+
+    <teiHeader>
+        <listWit>
+            <witness xml:id="KKms" source="KKms.xml">
+                <abbr type="siglum">KKms</abbr>
+                <expan>KKms</expan>
+                <witness xml:id="KKmsac" type="ac">
+                    <abbr type="siglum">KKmsac</abbr>
+                    <expan>KKms [ante correctionem]</expan>
+                </witness>
+                <witness xml:id="KKmspc" type="pc">
+                    <abbr type="siglum">KKmspc</abbr>
+                    <expan>KKms [post correctionem]</expan>
+                </witness>
+            </witness>
+            <witness xml:id="KKed" source="KKprint.xml">
+                <abbr type="siglum">KKed</abbr>
+                <expan>KKprint</expan>
+                <witness xml:id="KKedac" type="ac">
+                    <abbr type="siglum">KKedac</abbr>
+                    <expan>KKprint [ante correctionem]</expan>
+                </witness>
+                <witness xml:id="KKedpc" type="pc">
+                    <abbr type="siglum">KKedpc</abbr>
+                    <expan>KKprint [post correctionem]</expan>
+                </witness>
+            </witness>
+            <witness xml:id="NAed" source="NAprint.xml">
+                <abbr type="siglum">NAed</abbr>
+                <expan>NAprint</expan>
+            </witness>
+            <witness xml:id="TNVed" source="TNV1947.xml">
+                <abbr type="siglum">TNVed</abbr>
+                <expan>TNV print</expan>
+            </witness>
+            <witness xml:id="TNVc" source="UVSL_48032.xml">
+                <abbr type="siglum">TNVc</abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+                <witness xml:id="TNVcac" type="ac">
+                    <abbr type="siglum">TNVcac</abbr>
+                    <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                </witness>
+                <witness xml:id="TNVcpc" type="pc">
+                    <abbr type="siglum">TNVcpc</abbr>
+                    <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                </witness>
+            </witness>
+            <witness xml:id="TNVms" source="UVSLMS000950.xml">
+                <abbr type="siglum">TNVms</abbr>
+                <expan> Tamiḻneṟi Viḷakkam </expan>
+                <witness xml:id="TNVmsac" type="ac">
+                    <abbr type="siglum">TNVmsac</abbr>
+                    <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
+                </witness>
+                <witness xml:id="TNVmspc" type="pc">
+                    <abbr type="siglum">TNVmspc</abbr>
+                    <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                </witness>
+            </witness>
+            <witness xml:id="Ed" source="Ed.xml">
+                <abbr type="siglum">Ed</abbr>
+                <expan>
+                    <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
+                </expan>
+            </witness>
+        </listWit>
+
+        <xenoData>
+            <stemma format="nexml" id="stemma0">
+                <nex:nexml xmlns:nex="http://www.nexml.org/2009" version="0.9">
+                    <nex:otus id="otus1">
+                        <nex:otu id="otu0" label="KKedac" />
+                        <nex:otu id="otu1" label="KKmsac" />
+                        <nex:otu id="otu2" label="KKmspc" />
+                        <nex:otu id="otu3" label="Ed" />
+                        <nex:otu id="otu4" label="TNVed" />
+                        <nex:otu id="otu5" label="KKedpc" />
+                        <nex:otu id="otu6" label="NAed" />
+                        <nex:otu id="otu7" label="TNVcac" />
+                        <nex:otu id="otu8" label="TNVmspc" />
+                        <nex:otu id="otu9" label="TNVmsac" />
+                        <nex:otu id="otu10" label="TNVcpc" />
+                    </nex:otus>
+                    <nex:trees otus="otus1" id="trees1">
+                        <nex:tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            id="guidetree" label="guidetree" xsi:type="nex:FloatTree">
+                            <nex:node id="36eef0fe-ef44-4b91-9dbc-9503e5f93c38" root="true" />
+                            <nex:node id="9d373eaf-0191-4966-9559-ade09307926c" />
+                            <nex:node id="e1184b4c-0283-40f0-8fa4-c6439eeecbf8" label="KKedac"
+                                otu="otu2" />
+                            <nex:node id="2398534b-8fd7-4b44-bb1e-aaf1d371a82b" />
+                            <nex:node id="6aacb2d2-dccf-4bc8-a45b-23f3bda0770b" label="KKmsac"
+                                otu="otu4" />
+                            <nex:node id="3f5d636f-5dce-4770-a82b-1c3b911abd39" label="KKmspc"
+                                otu="otu5" />
+                            <nex:node id="29adc44b-1a69-49c3-a8ec-0f26cc507a47" />
+                            <nex:node id="eebd27c2-6199-4fe3-9ba2-2790d1413691" />
+                            <nex:node id="4ebae30b-9578-4240-8b85-c30d3bee482d" />
+                            <nex:node id="2b884a57-7dfa-4caa-898b-429c9ec2b8b4" label="Ed"
+                                otu="otu9" />
+                            <nex:node id="a89de243-7e3f-4aea-9e5d-be002085d01f" label="TNVed"
+                                otu="otu10" />
+                            <nex:node id="9eb02197-52af-4314-b224-eff4f1d6460f" label="KKedpc"
+                                otu="otu11" />
+                            <nex:node id="13df5a8c-0a10-44d8-a5ae-a6323725578a" />
+                            <nex:node id="5ea7590c-6d7b-40e1-b191-74de88175bc5" label="NAed"
+                                otu="otu13" />
+                            <nex:node id="907cd299-50c2-4001-8bef-f52807f2b676" />
+                            <nex:node id="27b61d42-b4b4-4dfa-b4b0-87d6dc56bd68" />
+                            <nex:node id="ff2efa7c-370b-4701-9692-ded1fb92baa1" />
+                            <nex:node id="97036d16-0b21-420d-889d-7e077515b79c" label="TNVcac"
+                                otu="otu17" />
+                            <nex:node id="34247322-9aeb-4293-8cbf-8b0459592790" label="TNVmspc"
+                                otu="otu18" />
+                            <nex:node id="59fa4ec7-f2aa-48ad-a727-695575ba898d" label="TNVmsac"
+                                otu="otu19" />
+                            <nex:node id="292e552c-952c-451d-8be2-e235f25ce021" label="TNVcpc"
+                                otu="otu20" />
+                            <nex:edge source="36eef0fe-ef44-4b91-9dbc-9503e5f93c38"
+                                target="9d373eaf-0191-4966-9559-ade09307926c" id="edge0"
+                                length="0.12057036552870044" />
+                            <nex:edge source="36eef0fe-ef44-4b91-9dbc-9503e5f93c38"
+                                target="29adc44b-1a69-49c3-a8ec-0f26cc507a47" id="edge1"
+                                length="0.12057036552870044" />
+                            <nex:edge source="9d373eaf-0191-4966-9559-ade09307926c"
+                                target="e1184b4c-0283-40f0-8fa4-c6439eeecbf8" id="edge2"
+                                length="0.23601518127065216" />
+                            <nex:edge source="9d373eaf-0191-4966-9559-ade09307926c"
+                                target="2398534b-8fd7-4b44-bb1e-aaf1d371a82b" id="edge3"
+                                length="0.2512905549385708" />
+                            <nex:edge source="29adc44b-1a69-49c3-a8ec-0f26cc507a47"
+                                target="eebd27c2-6199-4fe3-9ba2-2790d1413691" id="edge4"
+                                length="0.40884574385928724" />
+                            <nex:edge source="29adc44b-1a69-49c3-a8ec-0f26cc507a47"
+                                target="13df5a8c-0a10-44d8-a5ae-a6323725578a" id="edge5" length="0" />
+                            <nex:edge source="2398534b-8fd7-4b44-bb1e-aaf1d371a82b"
+                                target="6aacb2d2-dccf-4bc8-a45b-23f3bda0770b" id="edge6"
+                                length="0.052626440454983665" />
+                            <nex:edge source="2398534b-8fd7-4b44-bb1e-aaf1d371a82b"
+                                target="3f5d636f-5dce-4770-a82b-1c3b911abd39" id="edge7"
+                                length="0.04467627933635409" />
+                            <nex:edge source="eebd27c2-6199-4fe3-9ba2-2790d1413691"
+                                target="4ebae30b-9578-4240-8b85-c30d3bee482d" id="edge8"
+                                length="0.042537983258215145" />
+                            <nex:edge source="eebd27c2-6199-4fe3-9ba2-2790d1413691"
+                                target="9eb02197-52af-4314-b224-eff4f1d6460f" id="edge9"
+                                length="0.23777897091928482" />
+                            <nex:edge source="13df5a8c-0a10-44d8-a5ae-a6323725578a"
+                                target="5ea7590c-6d7b-40e1-b191-74de88175bc5" id="edge10"
+                                length="0.6317207001138854" />
+                            <nex:edge source="13df5a8c-0a10-44d8-a5ae-a6323725578a"
+                                target="907cd299-50c2-4001-8bef-f52807f2b676" id="edge11" length="0" />
+                            <nex:edge source="4ebae30b-9578-4240-8b85-c30d3bee482d"
+                                target="2b884a57-7dfa-4caa-898b-429c9ec2b8b4" id="edge12" length="0" />
+                            <nex:edge source="4ebae30b-9578-4240-8b85-c30d3bee482d"
+                                target="a89de243-7e3f-4aea-9e5d-be002085d01f" id="edge13" length="0" />
+                            <nex:edge source="907cd299-50c2-4001-8bef-f52807f2b676"
+                                target="27b61d42-b4b4-4dfa-b4b0-87d6dc56bd68" id="edge14"
+                                length="0.07201440460798812" />
+                            <nex:edge source="907cd299-50c2-4001-8bef-f52807f2b676"
+                                target="292e552c-952c-451d-8be2-e235f25ce021" id="edge15"
+                                length="0.27223397498800955" />
+                            <nex:edge source="27b61d42-b4b4-4dfa-b4b0-87d6dc56bd68"
+                                target="ff2efa7c-370b-4701-9692-ded1fb92baa1" id="edge16"
+                                length="0.18438755614380165" />
+                            <nex:edge source="27b61d42-b4b4-4dfa-b4b0-87d6dc56bd68"
+                                target="59fa4ec7-f2aa-48ad-a727-695575ba898d" id="edge17"
+                                length="0.32496780453858864" />
+                            <nex:edge source="ff2efa7c-370b-4701-9692-ded1fb92baa1"
+                                target="97036d16-0b21-420d-889d-7e077515b79c" id="edge18" length="0" />
+                            <nex:edge source="ff2efa7c-370b-4701-9692-ded1fb92baa1"
+                                target="34247322-9aeb-4293-8cbf-8b0459592790" id="edge19" length="0" />
+                        </nex:tree>
+                    </nex:trees>
+                </nex:nexml>
+            </stemma>
+        </xenoData>
+
     </teiHeader>
-    
+
     <TEI n="KKedac">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5" lemma="ma">m</w><w n="6">ma</w><w n="7">la</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14">va</w><w n="15" lemma="tu">tu </w></cl><cl><w n="16" lemma="te">[te</w><w n="17" lemma="ya">y</w><w n="18" lemma="ya">ya]</w><w n="19">pu</w><w n="20" lemma="ṇa">ṇ</w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">y </w></cl><cl><w n="23">mā</w><w n="24" lemma="ve">vē </w><w n="25"/><w n="26">kai</w><w n="27">vi</w><w n="28" lemma="ṭa">ṭ </w><w n="29">ṭa</w><w n="30">ka</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="va">v </w></cl><cl><w n="37">va</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">ṉa</w><w n="42" lemma="na">n </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52" lemma="yo">yō</w><w n="53"/><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē</w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5" lemma="ma">m</w>
+                <w n="6">ma</w>
+                <w n="7">la</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14">va</w>
+                <w n="15" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="16" lemma="te">[te</w>
+                <w n="17" lemma="ya">y</w>
+                <w n="18" lemma="ya">ya]</w>
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ</w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">y </w>
+            </cl>
+            <cl>
+                <w n="23">mā</w>
+                <w n="24" lemma="ve">vē </w>
+                <w n="25" />
+                <w n="26">kai</w>
+                <w n="27">vi</w>
+                <w n="28" lemma="ṭa">ṭ </w>
+                <w n="29">ṭa</w>
+                <w n="30">ka</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="va">v </w>
+            </cl>
+            <cl>
+                <w n="37">va</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">ṉa</w>
+                <w n="42" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52" lemma="yo">yō</w>
+                <w n="53" />
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē</w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="KKmsac">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1" lemma="va">v</w><w n="2">va</w><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5" lemma="ma">m</w><w n="6">ma</w><w n="7">la</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14">va</w><w n="15" lemma="tu">tu </w></cl><cl><w n="16"/><w n="17"/><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ </w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23">mā</w><w n="24" lemma="ve">vē</w><w n="25" lemma="la">l </w><w n="26">kai</w><w n="27">vi</w><w n="28" lemma="ṭa">ṭ </w><w n="29">ṭa</w><w n="30">ka</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="va">v </w></cl><cl><w n="37">va</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41" lemma="ṉai">ṉai </w><w n="42"/></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52" lemma="yo">yō</w><w n="53"/><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē</w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1" lemma="va">v</w>
+                <w n="2">va</w>
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5" lemma="ma">m</w>
+                <w n="6">ma</w>
+                <w n="7">la</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14">va</w>
+                <w n="15" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="16" />
+                <w n="17" />
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ </w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23">mā</w>
+                <w n="24" lemma="ve">vē</w>
+                <w n="25" lemma="la">l </w>
+                <w n="26">kai</w>
+                <w n="27">vi</w>
+                <w n="28" lemma="ṭa">ṭ </w>
+                <w n="29">ṭa</w>
+                <w n="30">ka</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="va">v </w>
+            </cl>
+            <cl>
+                <w n="37">va</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41" lemma="ṉai">ṉai </w>
+                <w n="42" />
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52" lemma="yo">yō</w>
+                <w n="53" />
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē</w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="KKmspc">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5" lemma="ma">m</w><w n="6">ma</w><w n="7">la</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14">va</w><w n="15" lemma="tu">tu </w></cl><cl><w n="16"/><w n="17"/><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ </w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23">mā</w><w n="24" lemma="ve">vē</w><w n="25" lemma="la">l </w><w n="26">kai</w><w n="27">vi</w><w n="28" lemma="ṭa">ṭ </w><w n="29">ṭa</w><w n="30">ka</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="va">v </w></cl><cl><w n="37">va</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41" lemma="ṉai">ṉai </w><w n="42"/></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52" lemma="yo">yō</w><w n="53"/><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē</w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5" lemma="ma">m</w>
+                <w n="6">ma</w>
+                <w n="7">la</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14">va</w>
+                <w n="15" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="16" />
+                <w n="17" />
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ </w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23">mā</w>
+                <w n="24" lemma="ve">vē</w>
+                <w n="25" lemma="la">l </w>
+                <w n="26">kai</w>
+                <w n="27">vi</w>
+                <w n="28" lemma="ṭa">ṭ </w>
+                <w n="29">ṭa</w>
+                <w n="30">ka</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="va">v </w>
+            </cl>
+            <cl>
+                <w n="37">va</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41" lemma="ṉai">ṉai </w>
+                <w n="42" />
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52" lemma="yo">yō</w>
+                <w n="53" />
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē</w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="Ed">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5">ya</w><w n="6">lai</w><w n="7">ya</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14" lemma="ya">ya </w><w n="15"/></cl><cl><w n="16">te</w><w n="17" lemma="ya">y</w><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ </w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23">mā</w><w n="24" lemma="ve">vē </w><w n="25"/><w n="26">kai</w><w n="27">vi</w><w n="28" lemma="ṭa">ṭ </w><w n="29">ṭa</w><w n="30">ka</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="va">v </w></cl><cl><w n="37">va</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">ṉa</w><w n="42" lemma="na">m </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52">ya</w><w n="53">la</w><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē </w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5">ya</w>
+                <w n="6">lai</w>
+                <w n="7">ya</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14" lemma="ya">ya </w>
+                <w n="15" />
+            </cl>
+            <cl>
+                <w n="16">te</w>
+                <w n="17" lemma="ya">y</w>
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ </w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23">mā</w>
+                <w n="24" lemma="ve">vē </w>
+                <w n="25" />
+                <w n="26">kai</w>
+                <w n="27">vi</w>
+                <w n="28" lemma="ṭa">ṭ </w>
+                <w n="29">ṭa</w>
+                <w n="30">ka</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="va">v </w>
+            </cl>
+            <cl>
+                <w n="37">va</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">ṉa</w>
+                <w n="42" lemma="na">m </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52">ya</w>
+                <w n="53">la</w>
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē </w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="TNVed">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5">ya</w><w n="6">lai</w><w n="7">ya</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14" lemma="ya">ya </w><w n="15"/></cl><cl><w n="16">te</w><w n="17" lemma="ya">y</w><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ </w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23">mā</w><w n="24" lemma="ve">vē </w><w n="25"/><w n="26">kai</w><w n="27">vi</w><w n="28" lemma="ṭa">ṭ </w><w n="29">ṭa</w><w n="30">ka</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="va">v </w></cl><cl><w n="37">va</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">ṉa</w><w n="42" lemma="na">m </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52">ya</w><w n="53">la</w><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē</w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5">ya</w>
+                <w n="6">lai</w>
+                <w n="7">ya</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14" lemma="ya">ya </w>
+                <w n="15" />
+            </cl>
+            <cl>
+                <w n="16">te</w>
+                <w n="17" lemma="ya">y</w>
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ </w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23">mā</w>
+                <w n="24" lemma="ve">vē </w>
+                <w n="25" />
+                <w n="26">kai</w>
+                <w n="27">vi</w>
+                <w n="28" lemma="ṭa">ṭ </w>
+                <w n="29">ṭa</w>
+                <w n="30">ka</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="va">v </w>
+            </cl>
+            <cl>
+                <w n="37">va</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">ṉa</w>
+                <w n="42" lemma="na">m </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52">ya</w>
+                <w n="53">la</w>
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē</w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="KKedpc">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5">ya</w><w n="6">lai</w><w n="7">ya</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14">ya</w><w n="15" lemma="tu">tu </w></cl><cl><w n="16" lemma="te">[te</w><w n="17" lemma="ya">y]</w><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ</w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23">mā</w><w n="24" lemma="ve">vē </w><w n="25"/><w n="26">kai</w><w n="27">vi</w><w n="28" lemma="ṭa">ṭ </w><w n="29">ṭa</w><w n="30">ka</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="va">v </w></cl><cl><w n="37">va</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">ṉa</w><w n="42" lemma="na">n </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52">ya</w><w n="53">la</w><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē</w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5">ya</w>
+                <w n="6">lai</w>
+                <w n="7">ya</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14">ya</w>
+                <w n="15" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="16" lemma="te">[te</w>
+                <w n="17" lemma="ya">y]</w>
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ</w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23">mā</w>
+                <w n="24" lemma="ve">vē </w>
+                <w n="25" />
+                <w n="26">kai</w>
+                <w n="27">vi</w>
+                <w n="28" lemma="ṭa">ṭ </w>
+                <w n="29">ṭa</w>
+                <w n="30">ka</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="va">v </w>
+            </cl>
+            <cl>
+                <w n="37">va</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">ṉa</w>
+                <w n="42" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52">ya</w>
+                <w n="53">la</w>
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē</w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="NAed">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5">ya</w><w n="6">lai</w><w n="7">ya</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14" lemma="ya">ya </w><w n="15"/></cl><cl><w n="16">tai</w><w n="17" lemma="ya">ya </w><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ</w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23">mā</w><w n="24" lemma="ve">vē </w><w n="25"/><w n="26">kai</w><w n="27">vi</w><w n="28" lemma="ṭa">ṭ </w><w n="29">ṭa</w><w n="30">ka</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="va">v </w></cl><cl><w n="37">va</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">ṉa</w><w n="42" lemma="na">n </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52">ta</w><w n="53" lemma="lu">lu </w><w n="54">ma</w><w n="55"/><w n="56">ri</w><w n="57" lemma="te">tē</w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5">ya</w>
+                <w n="6">lai</w>
+                <w n="7">ya</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14" lemma="ya">ya </w>
+                <w n="15" />
+            </cl>
+            <cl>
+                <w n="16">tai</w>
+                <w n="17" lemma="ya">ya </w>
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ</w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23">mā</w>
+                <w n="24" lemma="ve">vē </w>
+                <w n="25" />
+                <w n="26">kai</w>
+                <w n="27">vi</w>
+                <w n="28" lemma="ṭa">ṭ </w>
+                <w n="29">ṭa</w>
+                <w n="30">ka</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="va">v </w>
+            </cl>
+            <cl>
+                <w n="37">va</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">ṉa</w>
+                <w n="42" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52">ta</w>
+                <w n="53" lemma="lu">lu </w>
+                <w n="54">ma</w>
+                <w n="55" />
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē</w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="TNVcac">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5">ya</w><w n="6">lai</w><w n="7">ya</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14" lemma="ya">ya </w><w n="15"/></cl><cl><w n="16">te</w><w n="17" lemma="ya">y</w><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ </w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23" lemma="mā">mā </w><w n="24"/><w n="25"/><w n="26"/><w n="27"/><w n="28"/><w n="29"/><w n="30"/><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35" lemma="vi">vi </w><w n="36" lemma="ma">m </w></cl><cl><w n="37" lemma="ma">ma </w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">la</w><w n="42" lemma="na">n </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52">ya</w><w n="53">la</w><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē. </w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5">ya</w>
+                <w n="6">lai</w>
+                <w n="7">ya</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14" lemma="ya">ya </w>
+                <w n="15" />
+            </cl>
+            <cl>
+                <w n="16">te</w>
+                <w n="17" lemma="ya">y</w>
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ </w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23" lemma="mā">mā </w>
+                <w n="24" />
+                <w n="25" />
+                <w n="26" />
+                <w n="27" />
+                <w n="28" />
+                <w n="29" />
+                <w n="30" />
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35" lemma="vi">vi </w>
+                <w n="36" lemma="ma">m </w>
+            </cl>
+            <cl>
+                <w n="37" lemma="ma">ma </w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">la</w>
+                <w n="42" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52">ya</w>
+                <w n="53">la</w>
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē. </w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="TNVmspc">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5">ya</w><w n="6">lai</w><w n="7">ya</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14" lemma="ya">ya </w><w n="15"/></cl><cl><w n="16">te</w><w n="17" lemma="ya">y</w><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ </w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23" lemma="mā">mā </w><w n="24"/><w n="25"/><w n="26"/><w n="27"/><w n="28"/><w n="29"/><w n="30"/><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="ma">m </w></cl><cl><w n="37">ma</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">la</w><w n="42" lemma="na">n </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52">ya</w><w n="53">la</w><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē.</w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5">ya</w>
+                <w n="6">lai</w>
+                <w n="7">ya</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14" lemma="ya">ya </w>
+                <w n="15" />
+            </cl>
+            <cl>
+                <w n="16">te</w>
+                <w n="17" lemma="ya">y</w>
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ </w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23" lemma="mā">mā </w>
+                <w n="24" />
+                <w n="25" />
+                <w n="26" />
+                <w n="27" />
+                <w n="28" />
+                <w n="29" />
+                <w n="30" />
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="ma">m </w>
+            </cl>
+            <cl>
+                <w n="37">ma</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">la</w>
+                <w n="42" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52">ya</w>
+                <w n="53">la</w>
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē.</w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="TNVmsac">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5">ya</w><w n="6">lai</w><w n="7">ya</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14" lemma="ya">ya </w><w n="15"/></cl><cl><w n="16">te</w><w n="17" lemma="ya">y</w><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ </w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23" lemma="mā">mā </w><w n="24"/><w n="25"/><w n="26"/><w n="27"/><w n="28"/><w n="29"/><w n="30">ṉa</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35">vi</w><w n="36" lemma="ma">m </w></cl><cl><w n="37">ma</w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">la</w><w n="42" lemma="na">n </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52">ya</w><w n="53">la</w><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē.</w></cl></text>
-    
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5">ya</w>
+                <w n="6">lai</w>
+                <w n="7">ya</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14" lemma="ya">ya </w>
+                <w n="15" />
+            </cl>
+            <cl>
+                <w n="16">te</w>
+                <w n="17" lemma="ya">y</w>
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ </w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23" lemma="mā">mā </w>
+                <w n="24" />
+                <w n="25" />
+                <w n="26" />
+                <w n="27" />
+                <w n="28" />
+                <w n="29" />
+                <w n="30">ṉa</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35">vi</w>
+                <w n="36" lemma="ma">m </w>
+            </cl>
+            <cl>
+                <w n="37">ma</w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">la</w>
+                <w n="42" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52">ya</w>
+                <w n="53">la</w>
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē.</w>
+            </cl>
+        </text>
+
     </TEI>
-    
+
     <TEI n="TNVcpc">
-        
-        <text><cl><w n="0" lemma="kai"> kai</w><w n="1">ya</w><w n="2"/><w n="3" lemma="tu">tu </w></cl><cl><w n="4">ce</w><w n="5">ya</w><w n="6">lai</w><w n="7">ya</w><w n="8" lemma="na">n </w></cl><cl><w n="9">ta</w><w n="10">ḻai</w><w n="11" lemma="ye">yē </w></cl><cl><w n="12">vi</w><w n="13">ṉā</w><w n="14" lemma="ya">ya, </w><w n="15"/></cl><cl><w n="16">te</w><w n="17" lemma="ya">y</w><w n="18"/><w n="19">pu</w><w n="20" lemma="ṇa">ṇ </w></cl><cl><w n="21">vā</w><w n="22" lemma="ya">ya </w></cl><cl><w n="23">mā</w><w n="24" lemma="ve">vē </w><w n="25"/><w n="26">kai</w><w n="27">vi</w><w n="28" lemma="ṭa">ṭ, </w><w n="29">ṭa</w><w n="30">ka</w><w n="31" lemma="lā">lā </w></cl><cl><w n="32">ṉa</w><w n="33" lemma="ma">m</w><w n="34">ma</w><w n="35" lemma="vi">vi </w><w n="36" lemma="va">v </w></cl><cl><w n="37" lemma="va">va </w><w n="38">ka</w><w n="39" lemma="ṉa">ṉ</w><w n="40">pu</w><w n="41">la</w><w n="42" lemma="na">n, </w></cl><cl><w n="43">ta</w><w n="44">kai</w><w n="45" lemma="yo">yō </w></cl><cl><w n="46">ṉu</w><w n="47" lemma="ḷa">ḷ</w><w n="48">ḷi</w><w n="49" lemma="ya">ya </w></cl><cl><w n="50">ta</w><w n="51">ṟi</w><w n="52">ya</w><w n="53">la</w><w n="54" lemma="ma">m </w><w n="55">pe</w><w n="56">ri</w><w n="57" lemma="te">tē. </w></cl></text>
-    
-    </TEI></teiCorpus>
+
+        <text>
+            <cl>
+                <w n="0" lemma="kai"> kai</w>
+                <w n="1">ya</w>
+                <w n="2" />
+                <w n="3" lemma="tu">tu </w>
+            </cl>
+            <cl>
+                <w n="4">ce</w>
+                <w n="5">ya</w>
+                <w n="6">lai</w>
+                <w n="7">ya</w>
+                <w n="8" lemma="na">n </w>
+            </cl>
+            <cl>
+                <w n="9">ta</w>
+                <w n="10">ḻai</w>
+                <w n="11" lemma="ye">yē </w>
+            </cl>
+            <cl>
+                <w n="12">vi</w>
+                <w n="13">ṉā</w>
+                <w n="14" lemma="ya">ya, </w>
+                <w n="15" />
+            </cl>
+            <cl>
+                <w n="16">te</w>
+                <w n="17" lemma="ya">y</w>
+                <w n="18" />
+                <w n="19">pu</w>
+                <w n="20" lemma="ṇa">ṇ </w>
+            </cl>
+            <cl>
+                <w n="21">vā</w>
+                <w n="22" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="23">mā</w>
+                <w n="24" lemma="ve">vē </w>
+                <w n="25" />
+                <w n="26">kai</w>
+                <w n="27">vi</w>
+                <w n="28" lemma="ṭa">ṭ, </w>
+                <w n="29">ṭa</w>
+                <w n="30">ka</w>
+                <w n="31" lemma="lā">lā </w>
+            </cl>
+            <cl>
+                <w n="32">ṉa</w>
+                <w n="33" lemma="ma">m</w>
+                <w n="34">ma</w>
+                <w n="35" lemma="vi">vi </w>
+                <w n="36" lemma="va">v </w>
+            </cl>
+            <cl>
+                <w n="37" lemma="va">va </w>
+                <w n="38">ka</w>
+                <w n="39" lemma="ṉa">ṉ</w>
+                <w n="40">pu</w>
+                <w n="41">la</w>
+                <w n="42" lemma="na">n, </w>
+            </cl>
+            <cl>
+                <w n="43">ta</w>
+                <w n="44">kai</w>
+                <w n="45" lemma="yo">yō </w>
+            </cl>
+            <cl>
+                <w n="46">ṉu</w>
+                <w n="47" lemma="ḷa">ḷ</w>
+                <w n="48">ḷi</w>
+                <w n="49" lemma="ya">ya </w>
+            </cl>
+            <cl>
+                <w n="50">ta</w>
+                <w n="51">ṟi</w>
+                <w n="52">ya</w>
+                <w n="53">la</w>
+                <w n="54" lemma="ma">m </w>
+                <w n="55">pe</w>
+                <w n="56">ri</w>
+                <w n="57" lemma="te">tē. </w>
+            </cl>
+        </text>
+
+    </TEI>
+</teiCorpus>
