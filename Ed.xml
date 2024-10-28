@@ -126,6 +126,17 @@
           ?
         </lg-->
       </div>
+      <div xml:id="TNV17poem7">
+        <lg type="edition">
+          <l>tūymai cāṉṟa tolkuṭit tōṉṟiya</l>
+<l>vāymai nāviṉ matitaraṉ pōla</l>
+<l>uyartava muṉivar cārap</l>
+<l>peyarā nilaiyatip piṟaṅkuperu malaiyē</l></lg>
+<!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
