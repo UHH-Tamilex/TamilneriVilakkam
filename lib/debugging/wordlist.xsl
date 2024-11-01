@@ -63,6 +63,11 @@
 </xsl:template>
 
 <xsl:template match="x:pc"/>
+<xsl:template match="x:c">
+    <xsl:if test="@type='elided' or @type='uncertain'">
+        <xsl:apply-templates/>
+    </xsl:if>
+</xsl:template>
 
 <xsl:template name="repeat">
     <xsl:param name="output" />
