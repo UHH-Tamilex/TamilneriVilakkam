@@ -141,9 +141,9 @@
       <l>vampa varaviṉi rākali ṉuṇarīr</l>
 <l>empatat teḷiyaḷō maṭantai</l>
 <l>impar vāḻkkai yiyavuṇmaṉ ṉemakkē</l></lg>
- <lg type="translation" xml:lang="en">
+ <!--lg type="translation" xml:lang="en">
           ?
-        </lg>
+        </lg-->
 </div>
     </body>
   </text>
@@ -640,7 +640,7 @@
       <app corresp="40,56">
         <lem wit="#KKed #TNVed #NAed #TNVcpc">māvē kaiviṭ ṭakalā</lem>
         <rdg wit="#KKms">māvēl kaiviṭ ṭakalā</rdg>
-        <rdg wit="#TNVcac #TNVmspc">mā<space quantity="5" unit="character"/>lā</rdg>
+        <rdg wit="#TNVcac #TNVmspc">mā<space quantity="5" unit="character" />lā</rdg>
         <rdg wit="#TNVmsac">mā ṉalā</rdg>
       </app>
       <app corresp="56,64">
@@ -665,6 +665,11 @@
         <rdg wit="#NAed">taṟitalu maritē</rdg>
       </app>
     </listApp>
+  </standOff>
+  <standOff corresp="#TNV17poem5" type="parallels">
+    <note xml:lang="en" target="#kalaiman">
+On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT272.xml">KT272</ref>, <q xml:lang="ta">maṭam māṉ... kalai</q>, which UVS and TVG interpret as a female deer and a male stag.
+    </note>
   </standOff>
 
 
