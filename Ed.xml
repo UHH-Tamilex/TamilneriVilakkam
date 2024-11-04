@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +86,7 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
@@ -137,6 +136,15 @@
           ?
         </lg-->
       </div>
+    <div xml:id="TNV17poem17">
+    <lg type="edition">
+      <l>vampa varaviṉi rākali ṉuṇarīr</l>
+<l>empatat teḷiyaḷō maṭantai</l>
+<l>impar vāḻkkai yiyavuṇmaṉ ṉemakkē</l></lg>
+ <lg type="translation" xml:lang="en">
+          ?
+        </lg>
+</div>
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
@@ -282,8 +290,8 @@
       </app>
       <app corresp="41,57">
         <lem wit="#TNVc #TNVed #TNVmspc">malarmalarn taṉṉa</lem>
-        <rdg wit="#KKms">malarn ta<space unit="character" quantity="2" /></rdg>
-        <rdg wit="#KKedac">malarn ta<space unit="character" quantity="2" /></rdg>
+        <rdg wit="#KKms">malarn ta<space unit="character" quantity="2"/></rdg>
+        <rdg wit="#KKedac">malarn ta<space unit="character" quantity="2"/></rdg>
         <rdg wit="#KKedpc">malarmalarn tataṉṉa</rdg>
         <rdg wit="#TNVmsac">malarmalarn taṉa</rdg>
       </app>
@@ -291,7 +299,7 @@
         <lem wit="#TNVc #TNVed #KKedpc #TNVms">karuntaṭaṅ</lem>
         <rdg wit="#KKedac">[aruntakaik]</rdg>
         <rdg wit="#KKms">
-          <space unit="character" quantity="3" />
+          <space unit="character" quantity="3"/>
         </rdg>
       </app>
       <app corresp="73,80">
@@ -632,7 +640,7 @@
       <app corresp="40,56">
         <lem wit="#KKed #TNVed #NAed #TNVcpc">māvē kaiviṭ ṭakalā</lem>
         <rdg wit="#KKms">māvēl kaiviṭ ṭakalā</rdg>
-        <rdg wit="#TNVcac #TNVmspc">mā<space quantity="5" unit="character" />lā</rdg>
+        <rdg wit="#TNVcac #TNVmspc">mā<space quantity="5" unit="character"/>lā</rdg>
         <rdg wit="#TNVmsac">mā ṉalā</rdg>
       </app>
       <app corresp="56,64">
@@ -822,4 +830,69 @@
     </listApp>
   </standOff>
 
-</TEI>
+<standOff corresp="#TNV17poem17" type="wordsplit"><interp type="alignment" select="0">40MG28MG9M2GM,82M</interp>
+<entry>
+<form>vampa</form>
+<def>new</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>varaviṉir</form>
+<def>came</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>ākaliṉ</form>
+<def>because</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṇarīr</form>
+<def>not understand</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>em</form>
+<def>us</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>patam</form>
+<def>right occasion</def>
+</entry>
+<entry>
+<form>teḷiyaḷ-ō</form>
+<def>make-clear</def>
+<form type="simple">teḷiyaḷ</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>maṭantai</form>
+<def>young-woman</def>
+</entry>
+<entry>
+<form>impar</form>
+<def>here</def>
+</entry>
+<entry>
+<form>vāḻkkai</form>
+<def>livelihood</def>
+</entry>
+<entry>
+<form><pc>~</pc>iyavuṇ-maṉ</form>
+<def>god</def>
+<form type="simple">iyavuṇ</form>
+<gramGrp type="particle"><m>maṉ</m></gramGrp>
+</entry>
+<entry>
+<form><pc>+</pc>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>us</def>
+<form type="simple">emakku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff></TEI>
