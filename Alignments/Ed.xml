@@ -835,7 +835,7 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
     </listApp>
   </standOff>
 
-<standOff corresp="#TNV17poem17" type="wordsplit"><interp type="alignment" select="0">40MG28MG9M2GM,82M</interp>
+<standOff corresp="#TNV17poem17" type="wordsplit"><interp type="alignment" select="0">34MG6MG28MG9M2GM,83M</interp>
 <entry>
 <form>vampa</form>
 <def>new</def>
@@ -867,18 +867,20 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>patam</form>
+<form>patatt<c type="elided">u</c></form>
 <def>right occasion</def>
 </entry>
 <entry>
-<form>teḷiyaḷ-ō</form>
-<def>make-clear</def>
-<form type="simple">teḷiyaḷ</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
+<form>eḷiyaḷ-ō</form>
+<def>easy</def>
+<form type="simple">eḷiyaḷ</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
 </entry>
 <entry>
 <form>maṭantai</form>
-<def>young-woman</def>
+<def>young woman</def>
 </entry>
 <entry>
 <form>impar</form>
@@ -889,9 +891,9 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
 <def>livelihood</def>
 </entry>
 <entry>
-<form><c type="glide">y</c>iyavuṇ-maṉ</form>
+<form><c type="glide">y</c>iyavuḷ-maṉ</form>
 <def>god</def>
-<form type="simple">iyavuṇ</form>
+<form type="simple">iyavuḷ</form>
 <gramGrp type="particle"><m>maṉ</m></gramGrp>
 </entry>
 <entry>
