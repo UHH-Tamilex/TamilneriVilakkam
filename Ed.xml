@@ -835,69 +835,74 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
     </listApp>
   </standOff>
 
-<standOff corresp="#TNV17poem17" type="wordsplit"><interp type="alignment" select="0">40MG28MG9M2GM,82M</interp>
-<entry>
-<form>vampa</form>
-<def>new</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>varaviṉir</form>
-<def>came</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">plural</gram>
-<gram type="role">second person</gram>
-</gramGrp></entry>
-<entry>
-<form>ākaliṉ</form>
-<def>because</def>
-<gramGrp><gram type="role">oblique</gram>
-<gram type="role">verbal noun</gram>
-</gramGrp></entry>
-<entry>
-<form>uṇarīr</form>
-<def>not understand</def>
-<gramGrp><gram type="role">negative</gram>
-<gram type="role">plural</gram>
-<gram type="role">second person</gram>
-</gramGrp></entry>
-<entry>
-<form>em</form>
-<def>us</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
-<entry>
-<form>patam</form>
-<def>right occasion</def>
-</entry>
-<entry>
-<form>teḷiyaḷ-ō</form>
-<def>make-clear</def>
-<form type="simple">teḷiyaḷ</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
-</entry>
-<entry>
-<form>maṭantai</form>
-<def>young-woman</def>
-</entry>
-<entry>
-<form>impar</form>
-<def>here</def>
-</entry>
-<entry>
-<form>vāḻkkai</form>
-<def>livelihood</def>
-</entry>
-<entry>
-<form><pc>~</pc>iyavuṇ-maṉ</form>
-<def>god</def>
-<form type="simple">iyavuṇ</form>
-<gramGrp type="particle"><m>maṉ</m></gramGrp>
-</entry>
-<entry>
-<form><pc>+</pc>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>us</def>
-<form type="simple">emakku</form>
-<gramGrp><gram type="role">dative</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff></TEI>
+  <standOff type="wordsplit" corresp="#TNV17poem17">
+    <interp type="alignment" select="0">34MG6MG28MG9M2GM,83M</interp>
+    <entry>
+    <form>vampa</form>
+    <def>new</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>varaviṉir</form>
+    <def>came</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ākaliṉ</form>
+    <def>because</def>
+    <gramGrp><gram type="role">oblique</gram>
+    <gram type="role">verbal noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uṇarīr</form>
+    <def>not understand</def>
+    <gramGrp><gram type="role">negative</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>em</form>
+    <def>us</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>patatt<c type="elided">u</c></form>
+    <def>right occasion</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eḷiyaḷ-ō</form>
+    <def>easy</def>
+    <form type="simple">eḷiyaḷ</form>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">feminine singular</gram>
+    </gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+    </entry>
+    <entry>
+    <form>maṭantai</form>
+    <def>young woman</def>
+    </entry>
+    <entry>
+    <form>impar</form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>vāḻkkai</form>
+    <def>livelihood</def>
+    </entry>
+    <entry>
+    <form><c type="glide">y</c>iyavuḷ-maṉ</form>
+    <def>god</def>
+    <form type="simple">iyavuḷ</form>
+    <gramGrp type="particle"><m>maṉ</m></gramGrp>
+    </entry>
+    <entry>
+    <form><c type="geminated">ṉ</c>emakk<c type="elided">u</c>-ē</form>
+    <def>us</def>
+    <form type="simple">emakku</form>
+    <gramGrp><gram type="role">dative</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff></TEI>
