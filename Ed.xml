@@ -278,7 +278,7 @@
       </gramGrp>
     </entry>
   </standOff>
-  <standOff type="apparatus" corresp="#TNV16poem9" source="Alignments/TNV16poem9.xml">
+  <standOff type="apparatus" corresp="#TNV16poem9" source="alignments/TNV16poem9.xml">
     <listApp>
       <app corresp="14,19">
         <lem wit="#KKed #KKms #TNVc #TNVed #TNVmspc">neñca</lem>
@@ -417,7 +417,7 @@
       </gramGrp>
     </entry>
   </standOff>
-  <standOff type="apparatus" corresp="#TNV17poem5" source="Aligments/TNV17poem7.xml">
+  <standOff type="apparatus" corresp="#TNV17poem5" source="aligments/TNV17poem5.xml">
     <listApp>
       <app corresp="0,9">
         <lem wit="#KKed #KKms #TNVmspc #TNVc #TNVed ">ampumukaṅ</lem>
@@ -616,7 +616,7 @@
     </entry>
   </standOff>
 
-  <standOff type="apparatus" corresp="#TNV17poem7" source="Alignments/TNV17poem7.xml">
+  <standOff type="apparatus" corresp="#TNV17poem7" source="alignments/TNV17poem7.xml">
     <listApp>
       <app corresp="0,7">
         <lem wit="#KKed #KKmspc #TNVed #NAed #TNVc #TNVms">kaiyatu</lem>
@@ -801,7 +801,7 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
       </gramGrp>
     </entry>
   </standOff>
-  <standOff type="apparatus" corresp="#TNV17poem13" source="Alignments/TNV17poem13.xml">
+  <standOff type="apparatus" corresp="#TNV17poem13" source="alignments/TNV17poem13.xml">
     <listApp>
       <app corresp="19,26">
         <lem wit="#TNVms #TNVed">tōṉṟiya</lem>
