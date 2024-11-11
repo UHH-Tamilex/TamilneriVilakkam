@@ -987,7 +987,7 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
       <gram type="role">peyareccam</gram>
       </gramGrp></entry>
       <entry>
-      <form>vaḻutt’</form>
+      <form>vaḻutt<c type="elided">u</c></form>
       <def>praise</def>
       <gramGrp><gram type="role">verbal root as adjective</gram>
       </gramGrp></entry>
@@ -1059,7 +1059,7 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
       <def>cow shed</def>
       </entry>
       <entry>
-      <form>peṟṟ’</form>
+      <form>peṟṟ<c type="elided">u</c></form>
       <def>obtained</def>
       <gramGrp><gram type="role">absolutive</gram>
       </gramGrp></entry>
@@ -1072,7 +1072,7 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
       <def>I</def>
       </entry>
       <entry>
-      <form>aṟint’</form>
+      <form>aṟint<c type="elided">u</c></form>
       <def>know</def>
       <gramGrp><gram type="role">absolutive</gram>
       </gramGrp></entry>
@@ -1085,4 +1085,5 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
       </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
       </entry>
       </standOff>
+
     </TEI>
