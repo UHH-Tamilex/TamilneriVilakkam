@@ -653,7 +653,7 @@
       <app corresp="40,56">
         <lem wit="#KKed #TNVed #NAed #TNVcpc">māvē kaiviṭ ṭakalā</lem>
         <rdg wit="#KKms">māvēl kaiviṭ ṭakalā</rdg>
-        <rdg wit="#TNVcac #TNVmspc">mā<space quantity="5" unit="character" />lā</rdg>
+        <rdg wit="#TNVcac #TNVmspc">mā<space quantity="5" unit="character"/>lā</rdg>
         <rdg wit="#TNVmsac">mā ṉalā</rdg>
       </app>
       <app corresp="56,64">
@@ -918,4 +918,37 @@ On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https:/
     <gramGrp><gram type="role">dative</gram>
     </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
-    </standOff></TEI>
+    </standOff><standOff corresp="#TNV17poem35" type="apparatus" source="alignments/TNV16poem9.xml"><listApp>
+<app corresp="14,19">
+  <lem wit="#KKed #KKms #TNVc #TNVed #TNVmspc">neñca</lem>
+  <rdg wit="#TNVmsac">neṉñca</rdg>
+</app>
+<app corresp="28,34">
+  <lem wit="#TNVc #TNVed #KKedpc #TNVms">mātark</lem>
+  <rdg wit="#KKedac #KKms">mātar</rdg>
+</app>
+<app corresp="41,57">
+  <lem wit="#TNVc #TNVed #TNVmspc">malarmalarn taṉṉa</lem>
+  <rdg wit="#KKedac">malarn ta</rdg>
+  <rdg wit="#KKms">malarn ta</rdg>
+  <rdg wit="#KKedpc">malarmalarn tataṉṉa</rdg>
+  <rdg wit="#TNVmsac">malarmalarn taṉa</rdg>
+</app>
+<app corresp="57,67">
+  <lem wit="#TNVc #TNVed #KKedpc #TNVms">karuntaṭaṅ</lem>
+  <rdg wit="#KKedac">[aruntakaik]</rdg>
+  <rdg wit="#KKms"/>
+</app>
+<app corresp="73,80">
+  <lem wit="#KKed #KKms #TNVcpc #TNVed">ṭāṟṟiya</lem>
+  <rdg wit="#TNVms #TNVcac">ṭāṟṟiyap</rdg>
+</app>
+<app corresp="90,108">
+  <lem wit="#KKed #KKmspc #TNVcpc #TNVed">yaṇṇalaik kaḻaṟiṉaṉ</lem>
+  <rdg wit="#KKmsac">yaṇṇalaik kaḻaṉṟiṉaṉ</rdg>
+  <rdg wit="#TNVms">yaṇṇalai kaḻaṟṟiṉaṉ</rdg>
+  <rdg wit="#TNVcac">yaṇṇalaik kaḻaṟṟiṉaṉ</rdg>
+</app>
+
+</listApp>
+</standOff></TEI>
