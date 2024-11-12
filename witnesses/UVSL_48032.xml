@@ -861,12 +861,12 @@
         <l>maṇmicai viḷaṅki<add place="above">ya</add> vaḻuttūr matitara<add place="in-place">,</add></l>
         <l>ṉuṇṇiyaṟ paṉu<lb n="25"/>va ṉuḻaiporu ṇuṉitta<add place="in-place">,</add></l>
         <l>vāymoḻi yamirta maṭuttavar<lb n="26"/> maṉameṉa<add place="in-place">,</add></l>
-        <l><sic>y</sic>ā<sic>
+        <l><sic>y</sic>ā
                 <subst>
                     <del rend="implied">ṉi</del>
                     <add place="above">ni</add>
                 </subst>
-            </sic>lai
+            lai
             peṟṟaṉṟi yāṉaṟin tilaṉē.</l>
     </lg>
     <p xml:id="TNV17koḷu35">kai<lb n="27"/> yuṟai yetirntamai kūṟiṟṟu.</p>
@@ -1358,10 +1358,7 @@
         ciṟappikkappaṭum eṉṟavāṟu. 21.</p>
     <lb n="30"/>
     <lg xml:id="TNV22">
-        <l><lb n="31"/>maṟutalai yillā māṇ<subst>
-                <del rend="implied">vi</del>
-                <add place="above">pi</add>
-            </subst>yal kiḷaviyiṟ</l>
+        <l><lb n="31"/>maṟutalai yillā māṇ<subst><del rend="implied">vi</del><add place="above">pi</add></subst>yal kiḷaviyiṟ</l>
         <l><lb n="32"/>ṟalaivi tōḻik kaṟattoṭu niṟṟaluñ</l>
         <l><lb n="33"/>cevili pukaḻtalun tōḻi yuṇarttalu</l>
         <l><lb n="34"/>mutuvāyk kaṭṭuvi murukeṉa moḻitalu</l>
