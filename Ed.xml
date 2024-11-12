@@ -164,6 +164,17 @@
           ?
         </lg-->
       </div>
+      <div xml:id="TNV17poem38">
+        <lg type="edition">
+      <l>pētuṟal vāḻiniṉ kātaṟ ṟōḻi</l>
+<l>kaipuṉai kōlameṉa meypeṟ ṟaṉṟē</l>
+<l>aiyam yāvatu miṉṟip</l>
+<l>peypūṅ kōtai peruṅkaviṉ koḷavē</l></lg>
+<!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
