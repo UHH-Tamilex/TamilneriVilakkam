@@ -1670,8 +1670,12 @@
                 <lem wit="#TNVms #TNVc #TNVed #KKedpc">pariyal</lem>
                 <rdg wit="#KKms #KKedac">talamaral</rdg>
               </app>
-              <app corresp="67,74">
-                <lem wit="#TNVms #TNVc #TNVed #KKedpc">yō neñcē</lem>
+              <app corresp="63,69">
+                <lem wit="#TNVms #TNVc #TNVed #KKedpc">vāḻiyō</lem>
+                <rdg wit="#KKms #KKedac">vāḻi</rdg>
+              </app>
+              <app corresp="69,74">
+                <lem wit="#TNVms #TNVc #TNVed #KKedpc">neñcē</lem>
                 <rdg wit="#KKms #KKedac">yaiya</rdg>
               </app>
               <app corresp="74,82">
@@ -1680,11 +1684,10 @@
               </app>
               <app corresp="82,88">
                 <lem wit="#TNVc #TNVed #KKedpc">yēkalu</lem>
-                <rdgGrp wit="#TNVms #KKms #KKedac"><rdg type="main">yēytalu</rdg><rdg type="sandhi" wit="#KKms #KKedac">yeytalu</rdg></rdgGrp>
+                <rdg wit="#TNVms #KKms #KKedac">yeytalu</rdg>
               </app>
               <app corresp="88,95">
-                <lem wit="#TNVcac #TNVed #KKed">meytumā</lem>
-                <rdg wit="#TNVms #TNVcpc">meytumā</rdg>
+                <lem wit="#TNVms #TNVc #TNVed #KKed">meytumā</lem>
                 <rdg wit="#KKmsac">mamatumā</rdg>
                 <rdg wit="#KKmspc">mematumā</rdg>
               </app>
