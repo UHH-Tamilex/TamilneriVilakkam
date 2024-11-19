@@ -113,25 +113,10 @@
             <l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l>
          </lg>
          <lg xml:id="TNV17poem7" corresp="TNV17poem7">
-            <l>kaiyatu ce<subst>
-                  <del rend="underline">mmala</del>
-                  <add place="above">yalaiya</add>
-               </subst>n taḻaiyē viṉā<subst>
-                  <del rend="underline">va</del>
-                  <add place="right">ya</add>
-               </subst>tu</l>
-            <l>[tey<del rend="strikethrough">ya</del>]puṇvā<unsure>
-                  <subst>
-                     <del rend="strikethrough">y</del>
-                     <add place="in-place">ya</add>
-                  </subst>
-               </unsure>
-               māvē kaiviṭ</l>
-            <l>ṭakalā ṉammaviv vakaṉpuṉan</l>
-            <l>takaiyō ṉuḷḷiya taṟi<subst>
-                  <del rend="underline">yō</del>
-                  <add place="above">yala</add>
-               </subst>m peritē</l>
+           <l>kaiyatu ce<subst><del rend="underline">mmala</del><add place="above">yalaiya</add></subst>n taḻaiyē viṉā<subst><del rend="underline">va</del><add place="right">ya</add></subst>tu</l>
+<l>[tey<del rend="strikethrough">ya</del>]puṇvā<unsure><subst><del rend="strikethrough">y</del><add place="in-place">ya</add></subst></unsure> māvē kaiviṭ</l>
+<l>ṭakalā ṉammaviv vakaṉpuṉan</l>
+<l>takaiyō ṉuḷḷiya taṟi<subst><del rend="underline">yō</del><add place="above">yala</add></subst>m peritē</l>
          </lg>
         <lg xml:id="TNV17poem35" corresp="TNV17poem35">
         <l>tantu nīyaḷitta taṇṭaḻai kāṇ[ṭa]lum</l>
@@ -150,10 +135,15 @@
 <l>nakaivāyp piṇaiyalu mukaivāyc cūṭṭum</l>
 <l>puṉaintaṉai yaruḷal vēṇṭum</l>
 <l>ciṉaṅ<subst><del rend="commas">keḻu kāṉavaṉ</del><add place="below">ko ṭāṉaic</add></subst> ceḻumaṭa makaḷē.</l></lg>
-        <lg xml:id="TNV18poem11">
+        <lg xml:id="TNV18poem11" corresp="TNV18poem11">
 <l>varivaḷait tō<subst><del rend="strikethrough">ḻi</del><add place="right">ḷi</add></subst> yorutaṉi yoḻiyap</l>
 <l>piritu meṉṟi yāyiṟ peritaḻin<add place="right">tu</add></l>
 <l><subst><del rend="strikethrough">talamaral vāḻi yaiya</del><add place="bottom">pariyal vāḻiyō neñcē</add></subst></l>
 <l>iruḷiṭai <subst><del rend="strikethrough">yeyta</del><add place="right">yēka</add></subst>lu meytumā ṉamakkē</l></lg>  
+        <lg xml:id="TNV18poem18" corresp="TNV18poem18">
+<l>puḷḷun tuyi<subst><del rend="strikethrough">ṟ</del><add place="left">l</add></subst>puṭai pe<subst>y<del rend="puḷḷi">ā</del><add place="in-place">ar</add></subst>ntaṉa puṉaluḷ</l>
+<l><subst>v<del rend="strikethrough">e</del><add place="implied">a</add></subst>ḷḷitaḻ<subst><del rend="commas">k kaitai</del><add place="left">p puṉṉai</add></subst> maṇikkāy <subst><del rend="commas">tatumpa</del><add place="right">vīḻum</add></subst></l>
+<l>vantaṉaṉ kollō tāṉē</l>
+<l>ventiṟa laṇṇa ṉiṉaintaṉaṉ viraintē</l></lg>
       </body>
    </text></TEI>
