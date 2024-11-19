@@ -1669,6 +1669,7 @@
               <app corresp="56,63">
                 <lem wit="#TNVms #TNVc #TNVed #KKedpc">pariyal</lem>
                 <rdg wit="#KKms #KKedac">talamaral</rdg>
+              
               </app>
               <app corresp="63,69">
                 <lem wit="#TNVms #TNVc #TNVed #KKedpc">vāḻiyō</lem>
@@ -1677,6 +1678,7 @@
               <app corresp="69,74">
                 <lem wit="#TNVms #TNVc #TNVed #KKedpc">neñcē</lem>
                 <rdg wit="#KKms #KKedac">yaiya</rdg>
+          
               </app>
               <app corresp="74,82">
                 <lem wit="#TNVms #TNVc #TNVed #KKedpc">iruḷiṭai</lem>
@@ -1693,5 +1695,9 @@
               </app>
               
               </listApp>
+              </standOff>
+              <standOff corresp="#TNV18poem11" type="parallels">
+              <note xml:lang="en" target="#neñcē"> On <q xml:lang="ta">pariyal vāḻiyō neñcē</q>, cf. <ref
+                target="https://uhh-tamilex.github.io/Narrinai/NA121.xml">NA121</ref>. This reading is an almost direct parallel to NA121.7 as found in Turaicāmi Piḷḷai's edition (ET in Wilden 2008).</note>
               </standOff>
 </TEI>
