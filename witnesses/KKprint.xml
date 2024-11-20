@@ -145,5 +145,10 @@
 <l><subst>v<del rend="strikethrough">e</del><add place="implied">a</add></subst>ḷḷitaḻ<subst><del rend="commas">k kaitai</del><add place="left">p puṉṉai</add></subst> maṇikkāy <subst><del rend="commas">tatumpa</del><add place="right">vīḻum</add></subst></l>
 <l>vantaṉaṉ kollō tāṉē</l>
 <l>ventiṟa laṇṇa ṉiṉaintaṉaṉ viraintē</l></lg>
+           <lg xml:id="TNV18poem19" corresp="TNV18poem19">
+             <l>aṉṉā<subst><del rend="implied">y </del><add place="above" rend="caret">yaṉṉāy</add></subst> kāṇeṉ ṟirumuṟai <del rend="strikethrough">taṉṉai</del></l>
+<l><add place="left">taṉyā</add> <subst><del rend="strikethrough">ye</del><add place="right">ṉe</add></subst>ṭuppavun tuyiṉmaṭin <subst><del rend="strikethrough">tilaḷē ...</del><add place="right">taṉaḷē</add></subst></l>
+<l>ilaṅkilai neṭuvē laṇṇalum</l>
+<l>pulamputuya rakalak <subst><del rend="strikethrough">karuti</del><add place="left">kuṟi</add></subst> vantōṉē</l></lg>
       </body>
    </text></TEI>
