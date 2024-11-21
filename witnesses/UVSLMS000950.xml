@@ -16,6 +16,8 @@
                      <orgName>UVSL</orgName>
                   </repository>
                   <idno type="shelfmark">UVSLMS000950</idno>
+                  <idno type="URI">https://www.tamildigitallibrary.in/palms_detail?id=jZY9lup2kZl6TuXGlZQdjZl6kuUy</idno>
+                  <idno type="URI">https://zenodo.org/records/14196916</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
@@ -84,7 +86,7 @@
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/UVSLMS000950/manifest.json"/></facsimile>
+   <graphic url="https://zenodo.org/api/iiif/record:14196916/manifest"/></facsimile>
 <text corresp="#TNVms" xml:lang="ta"><body xml:lang="ta"><milestone unit="folio" n="1" facs="2"/>
     <pb n="1r"/>
   <p xml:id="incipit">
