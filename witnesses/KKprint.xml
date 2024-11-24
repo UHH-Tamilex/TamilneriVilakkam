@@ -150,5 +150,14 @@
 <l><add place="left">taṉyā</add> <subst><del rend="strikethrough">ye</del><add place="right">ṉe</add></subst>ṭuppavun tuyiṉmaṭin <subst><del rend="strikethrough">tilaḷē ...</del><add place="right">taṉaḷē</add></subst></l>
 <l>ilaṅkilai neṭuvē laṇṇalum</l>
 <l>pulamputuya rakalak <subst><del rend="strikethrough">karuti</del><add place="left">kuṟi</add></subst> vantōṉē</l></lg>
+<lg xml:id="TNV18poem22" corresp="TNV18poem22">
+  <l>vaṇarcuri yaimpāl vāṇuta larivai</l>
+<l><subst><del rend="strikethrough">yavaṭiṟa maṟital</del><add place="left">aṇaitiṟa maṟiyalaṉ</add></subst> yāvatu<add place="right">m</add></l> 
+<l>puṇartuyiṉ maṟantaṉa puḷḷiṉam peyarntē</l></lg>
+        <lg xml:id="TNV19poem9" corresp="TNV19poem9">
+<l>itaṟkoṇ ṭi[ṉi]yāṉ teḷintu mēṉāḷ</l>
+<l>matikkōṭu [tu]ñcu<add place="left">ri</add>ñcu mālvarai vāḻkkaik</l>
+<l>kaṭavu ḷāka vallatu</l>
+<l>maṭavaraṉ mātarai matittaṉṟu milamē</l></lg>          
       </body>
    </text></TEI>

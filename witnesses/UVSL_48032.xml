@@ -1233,28 +1233,10 @@
     </lg>
     <p xml:id="TNV19koḷu8">kuṭi<lb n="16"/>ttiṟaṅ kūṟiyatu.</p>
     <lg xml:id="TNV19poem9">
-        <l>itaṟkoṇ <subst>
-                <del rend="overwritten">
-                    <space quantity="6" unit="character"/>
-                </del>
-                <add place="in-place">ṭiṉiyā<sic>m</sic></add>
-            </subst> teḷi<subst>
-                <del rend="implied">ntatu vē<sic>ē</sic>muṉāḷaṇ</del>
-                <add place="above">tu mēṉāḷ</add>
-            </subst><lb n="17"/></l>
-        <l>matikk<subst>
-                <del rend="overwritten">o</del>
-                <add place="in-place">ō</add>
-            </subst> <subst>
-                <del rend="overwritten">
-                    <space quantity="6" unit="character"/>
-                </del>
-                <add place="in-place">ṭ</add>
-            </subst>uriñcu mālvarai vāḻk<lb n="18"/>
-            kaik<add place="in-place">,</add></l>
-        <l>kaṭavu ḷāka vallatu<add place="in-place">,</add></l>
-        <l>maṭavaraṉ mātarai matittaṉ<lb n="19"/>ṟō vilamē.</l>
-    </lg>
+      <l>itaṟkoṇ <subst><del rend="overwritten"><space quantity="6" unit="character"/></del><add place="in-place">ṭiṉiyā<sic>m</sic></add></subst> teḷi<subst><del rend="implied">ntatu vē<sic>ē</sic>muṉāḷaṇ</del><add place="above">tu mēṉāḷ</add></subst><lb n="17"/></l>
+      <l>matikk<subst><del rend="overwritten">o</del><add place="in-place">ō</add></subst> <subst><del rend="overwritten"><space quantity="6" unit="character"/></del><add place="in-place">ṭu</add></subst>riñcu mālvarai vāḻk<lb n="18"/>kaik<add place="in-place">,</add></l>
+<l>kaṭavu ḷāka vallatu<add place="in-place">,</add></l>
+<l>maṭavaraṉ mātarai matittaṉ<lb n="19"/>ṟō vilamē</l></lg>
     <p xml:id="TNV19koḷu9">iṉṟaṟintēṉeṉṟal. (19)</p>
     <lg xml:id="TNV20">
         <lb n="20"/>

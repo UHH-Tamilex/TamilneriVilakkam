@@ -19,7 +19,8 @@
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>test</summary>
+                  <summary>test
+inconsistent disambiguation of long and short e and o</summary>
                   
                <msItem xml:id="KKms" defective="false"><title>KKms</title></msItem></msContents>
                <physDesc>
@@ -134,5 +135,14 @@
 <l>yeṭuppavun tuyiṉmaṭin tilaḷē</l>
 <l>yilaṅkilai neṭuvē laṇṇalum</l>
 <l>pulamputuya rakalak karuti vantōṉē</l></lg>
+   <lg xml:id="TNV18poem22" corresp="TNV18poem22">
+<l>vaṇarcuri yaimpāl vāṇuta larivai</l>
+<l>yavaṭiṟa maṟital yāvatum</l>
+     <l>puṇartuyiṉ maṟantaṉa<del rend="strikethrough">m</del> puḷḷiṉam peyarntē</l></lg>
+  <lg xml:id="TNV19poem9" corresp="TNV19poem9">
+<l>itaṟkoṇ ṭiyāṉ ṟe<subst><del rend="strikethrough">ḻi</del><add place="above">ḷi</add></subst>ntu mēṉāḷ</l>
+<l>matikkō ṭuñcu mālvarai vāṭkaik</l>
+<l>kaṭavu ḷāka<del rend="strikethrough">la</del> mallatum</l>
+<l>maṭavaraṉ mātarai matittaṉṟu milamē</l></lg>
     </body>
 </text></TEI>
