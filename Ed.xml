@@ -251,7 +251,7 @@
       <div xml:id="TNV19poem9">
         <lg type="edition">
           <l>itaṟkoṇ ṭiṉiyān teḷitu mēṉāḷ</l>
-          <l>ṭuriñcu mālvarai vāḻkkaik</l>
+          <l>matikko ṭuriñcu mālvarai vāḻkkaik</l>
           <l>kaṭavu ḷāka vallatu</l>
           <l>maṭavaraṉ mātarai matittaṉṟō vilamē</l></lg>
           <!--lg
@@ -2597,4 +2597,197 @@
 
     </listApp>
   </standOff>
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV19poem9">
+    <interp type="alignment" select="0">8MG13ML12MG64M2G6MGM,110M</interp>
+    <entry>
+    <form>itaṉ</form>
+    <def>this</def>
+    <form type="sandhi">itaṟ</form>
+    <gramGrp>
+      <gram type="role">oblique</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>koṇṭ’</form>
+    <def>taken</def>
+    <form type="sandhi">koṇṭ</form>
+    <gramGrp>
+      <gram type="role">absolutive</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>iṉi</form>
+    <def>now</def>
+    </entry>
+    <entry>
+    <form>yām</form>
+    <def>we</def>
+    <form type="sandhi">yān</form>
+    <gramGrp>
+      <gram type="role">personal pronoun</gram>
+      <gram type="role">plural</gram>
+      <gram type="role">first person</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>teḷitum</form>
+    <def>understand</def>
+    <gramGrp>
+      <gram type="role">subjuntive</gram>
+      <gram type="role">plural</gram>
+      <gram type="role">first person</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>mēṉāḷ</form>
+    <def>tomorrow</def>
+    </entry>
+    <entry>
+    <form>mati<c type="geminated">k</c></form>
+    <def>moon</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>kōṭ’</form>
+    <def>crookedness</def>
+    <form type="sandhi">koṭ</form>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>uriñcu</form>
+    <def>rubbed on</def>
+    <gramGrp>
+      <gram type="role">verbal root as peyareccam</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>māl</form>
+    <def>greatness</def>
+    <gramGrp>
+      <gram type="role">adjective</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>varai</form>
+    <def>mountain</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻkkai<c type="geminated">k</c></form>
+    <def>livelihood</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>kaṭavuḷ</form>
+    <def>god</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>be</def>
+    <gramGrp>
+      <gram type="role">infinitive</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form><c type="glide">v</c>allatu</form>
+    <def>besides</def>
+    <gramGrp>
+      <gram type="role">neuter singular</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>maṭavaraṉ</form>
+    <def>simplicity</def>
+    </entry>
+    <entry>
+    <form>mātarai</form>
+    <def>woman</def>
+    </entry>
+    <entry>
+    <form>matittaṉṟ’-ō</form>
+    <def>thought</def>
+    <form type="simple">matittaṉṟu</form>
+    <form type="sandhi">matittaṉṟ</form>
+    <gramGrp>
+      <gram type="role">pronominalised noun</gram>
+      <gram type="role">neuter singular</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+    </entry>
+    <entry>
+    <form><c type="glide">v</c>ilam-ē</form>
+    <def>not be</def>
+    <form type="simple">ilam</form>
+    <form type="sandhi"><c type="glide">v</c>ilam</form>
+    <gramGrp>
+      <gram type="role">plural</gram>
+      <gram type="role">first person</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+    </entry>
+    </standOff>
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV19poem9" type="apparatus" source="alignments/TNV19poem9.xml"><listApp>
+    <app corresp="7,14">
+      <lem wit="#TNVcpc #TNVed">ṭiṉiyān</lem>
+      <rdg wit="#TNVms">terinta</rdg>
+      <rdg wit="#TNVcac">teḷinta</rdg>
+      <rdg wit="#KKms">ṭiyāṉ</rdg>
+      <rdg wit="#KKed">ṭi[ṉi]yāṉ</rdg>
+    </app>
+    <app corresp="14,20">
+      <lem wit="#TNVcpc #TNVed">teḷitu</lem>
+      <rdg wit="#TNVms">tu vē</rdg>
+      <rdg wit="#TNVcac">tu vēē</rdg>
+      <rdg wit="#KKmsac">ṟeḻintu</rdg>
+      <rdg wit="#KKmspc">ṟeḷintu</rdg>
+      <rdg wit="#KKed">teḷintu</rdg>
+    </app>
+    <app corresp="20,25">
+      <lem wit="#TNVcpc #TNVed #KKms #KKed">mēṉāḷ</lem>
+      <rdg wit="#TNVms">mēṉāḷaṇa</rdg>
+      <rdg wit="#TNVcac">muṉāḷaṇ</rdg>
+    </app>
+    <app corresp="25,25">
+      <lem wit=""/>
+      <rdgGrp wit="#TNVms #TNVc #TNVed #KKms #KKed"><rdg type="main">matikkō</rdg><rdg type="sandhi" wit="#TNVcac">matikko</rdg></rdgGrp>
+    </app>
+    <app corresp="25,32">
+      <lem wit="#TNVcpc #TNVed">ṭuriñcu</lem>
+      <rdg wit="#TNVms #TNVcac">riñcu</rdg>
+      <rdg wit="#KKms">ṭuñcu</rdg>
+      <rdg wit="#KKedac">ṭu [tu]ñcuñcu</rdg>
+      <rdg wit="#KKedpc">ṭu [tu]ñcuriñcu</rdg>
+    </app>
+    <app corresp="40,48">
+      <lem wit="#TNVms #TNVc #TNVed #KKed">vāḻkkaik</lem>
+      <rdg wit="#KKms">vāṭkaik</rdg>
+    </app>
+    <app corresp="58,65">
+      <lem wit="#TNVms #TNVc #TNVed #KKed">vallatu</lem>
+      <rdg wit="#KKmsac">la mallatum</rdg>
+      <rdg wit="#KKmspc">mallatum</rdg>
+    </app>
+    <app corresp="81,91">
+      <lem wit="#TNVmspc #TNVc #TNVed">matittaṉṟō</lem>
+      <rdg wit="#TNVmsac">matittaṉteṟō</rdg>
+      <rdg wit="#KKms #KKed">matittaṉṟu</rdg>
+    </app>
+    <app corresp="91,97">
+      <lem wit="#TNVms #TNVc #TNVed">vilamē</lem>
+      <rdg wit="#KKms #KKed">milamē</rdg>
+    </app>
+    
+    </listApp>
+    </standOff>
 </TEI>
