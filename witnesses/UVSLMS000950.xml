@@ -16,10 +16,10 @@
                      <orgName>UVSL</orgName>
                   </repository>
                   <idno type="shelfmark">UVSLMS000950</idno>
-                  <idno type="URI">https://www.tamildigitallibrary.in/palms_detail?id=jZY9lup2kZl6TuXGlZQdjZl6kuUy</idno>
-                  <idno type="URI">https://zenodo.org/records/14196916</idno>
+                  
+                  
                   <idno type="alternate"/>
-               </msIdentifier>
+               <idno type="URI">https://www.tamildigitallibrary.in/palms_detail?id=jZY9lup2kZl6TuXGlZQdjZl6kuUy</idno><idno type="URI">https://zenodo.org/records/14196916</idno></msIdentifier>
                <msContents class="#STM">
                   
                   
@@ -742,7 +742,7 @@ ik kaiyaṟu kiḷavi.</p>
 <l>ciṟukuṭik kāṉavaṉ perumaṭa makaḷē.</l></lg>
 <p xml:id="TNV19koḷu8">ku<lb n="8"/>ṭittiṟaṅ kūṟiyatu.</p> 
   <lg xml:id="TNV19poem9">
-<l>itaṟkoṇ <space quantity="6" unit="character"/> terintatu <sic>vē</sic>mēṉāḷ<sic>aṇa</sic></l>
+<l>itaṟkoṇ <space quantity="6" unit="character"/> terintatu <sic>vē</sic>mēṉāḷ<sic>aṇ</sic></l>
  <l>matikkō<space quantity="6" unit="character"/> riñcu mālvarai vāḻkkai<pb n="14v" facs="29"/><lb n="1"/>k</l>
   <l>kaṭavu ḷāka vallatu</l>
 <l>maṭavaraṉ mātarai matittaṉ<unclear><del rend="dot">te</del></unclear>ṟō vilamē.</l></lg>

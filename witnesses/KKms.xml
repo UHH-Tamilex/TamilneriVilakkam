@@ -85,7 +85,7 @@ inconsistent disambiguation of long and short e and o</summary>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/tr0118-r0435/manifest.json"/></facsimile>
+   <graphic url="https://zenodo.org/api/iiif/record:14197257/manifest" facs="1"/></facsimile>
 <text corresp="#KKms"><body xml:lang="ta">
     <milestone unit="page" n="30" facs="30"/>
     <pb n="30"/>
@@ -144,5 +144,12 @@ inconsistent disambiguation of long and short e and o</summary>
 <l>matikkō ṭuñcu mālvarai vāṭkaik</l>
 <l>kaṭavu ḷāka<del rend="strikethrough">la</del> mallatum</l>
 <l>maṭavaraṉ mātarai matittaṉṟu milamē</l></lg>
-    </body>
+<lg xml:id="TNV20poem5" corresp="TNV20poem5">
+  <milestone unit="page" n="114" facs="61"/>
+<l>tīyiṉum veṉkuvai yāyiṉ</l>
+<l>yāvatu miṉiya kā<add rend="caret" place="above">ṉa</add>m</l>
+<l>cēyuyar ci<subst><del rend="strikethrough"><unclear>lam</unclear></del><add place="above">lampa</add></subst> niṉṉoṭu celiṉē</l></lg>  
+    <pb n="114"/>
+</body>
+
 </text></TEI>

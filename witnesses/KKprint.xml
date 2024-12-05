@@ -158,6 +158,19 @@
 <l>itaṟkoṇ ṭi[ṉi]yāṉ teḷintu mēṉāḷ</l>
 <l>matikkōṭu [tu]ñcu<add place="left">ri</add>ñcu mālvarai vāḻkkaik</l>
 <l>kaṭavu ḷāka vallatu</l>
-<l>maṭavaraṉ mātarai matittaṉṟu milamē</l></lg>          
+<l>maṭavaraṉ mātarai matittaṉṟu milamē</l></lg> 
+        <lg xml:id="TNV20poem5" corresp="TNV20poem5">
+        <milestone unit="page" n="117" facs="63"/>
+         <pb n="117"/>  
+<l>tīyiṉum [ve<subst><del rend="implied">mmaiya</del><add place="above">yya</add></subst>] veṉkuvai yāyiṉ</l>
+<l>yāvatu miṉiya kāṉañ</l>
+<l>cēyuyar cilampa niṉṉoṭu celiṉē</l></lg>
+           <lg xml:id="TNV22poem4" corresp="TNV22poem4">
+              <milestone unit="page" n="123" facs="65"/>
+         <pb n="123"/>  
+<l>eyyā vuḷḷamo ṭi[ṉai]yal vāḻiyem</l>
+<l>maitapu kaḻaṅkiṟ paṭṭatu muḷatē</l>
+<l>maiyil kāṭciyiṉ <add place="right">vayaṅkuyir</add> mayaṅki<add place="right">ya</add></l>
+<l><subst><del rend="strikethrough">y[ai]te </del><add place="left">teyva vā</add></subst><subst><del rend="strikethrough">ṉu</del><add place="right">ṇu</add></subst>ru<subst><del rend="brackets">...</del><add place="in-place"> </add></subst>vākuta ṟeḷivē</l></lg>
       </body>
    </text></TEI>

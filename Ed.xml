@@ -251,14 +251,45 @@
       <div xml:id="TNV19poem9">
         <lg type="edition">
           <l>itaṟkoṇ ṭiṉiyān teḷitu mēṉāḷ</l>
-          <l>matikko ṭuriñcu mālvarai vāḻkkaik</l>
+          <l>matikkō ṭuriñcu mālvarai vāḻkkaik</l>
           <l>kaṭavu ḷāka vallatu</l>
           <l>maṭavaraṉ mātarai matittaṉṟō vilamē</l></lg>
           <!--lg
         type="translation" xml:lang="en">
           ?
         </lg-->
-      </div>    
+      </div>  
+      <div xml:id="TNV20poem5">
+        <lg type="edition">  
+<l>tīyiṉum veyya veṉkuvai yāyiṉ</l>
+<l>yāvatu miṉiya kāṉam</l>
+<l>cēyuyar cilampa niṉṉoṭu celiṉē</l></lg>
+<!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
+      <div xml:id="TNV22poem4">
+        <lg type="edition">     
+<l>eyyā vuḷḷamō ṭiṉaiyal vāḻi</l>
+<l>maitapu kaḻaṅkiṟ paṭṭatu muḷatē, yatutāṉ</l>
+<l>maiyil kāṭciyiṉ vayaṅkuyir mayaṅkiya</l>
+<l>teyva vāṇuru vākuta ṟeḷivē</l></lg>
+<!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+          </div>
+          <div xml:id="TNV22poem11">
+            <lg type="edition">   
+<l>taṇṇeṉ cāyaliva ḷuṇṇōy taṇiya</l>
+<l>eṇṇiṉai koṭutti yāyiṉ</l>
+<l>aṇṇa lākamu muṇṇumō paliyē</l></lg>
+<!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+          </div>
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
@@ -2737,57 +2768,493 @@
     <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
     </entry>
     </standOff>
-  <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV19poem9" type="apparatus" source="alignments/TNV19poem9.xml"><listApp>
-    <app corresp="7,14">
-      <lem wit="#TNVcpc #TNVed">ṭiṉiyān</lem>
-      <rdg wit="#TNVms">terinta</rdg>
-      <rdg wit="#TNVcac">teḷinta</rdg>
-      <rdg wit="#KKms">ṭiyāṉ</rdg>
-      <rdg wit="#KKed">ṭi[ṉi]yāṉ</rdg>
-    </app>
-    <app corresp="14,20">
-      <lem wit="#TNVcpc #TNVed">teḷitu</lem>
-      <rdg wit="#TNVms">tu vē</rdg>
-      <rdg wit="#TNVcac">tu vēē</rdg>
-      <rdg wit="#KKmsac">ṟeḻintu</rdg>
-      <rdg wit="#KKmspc">ṟeḷintu</rdg>
-      <rdg wit="#KKed">teḷintu</rdg>
-    </app>
-    <app corresp="20,25">
-      <lem wit="#TNVcpc #TNVed #KKms #KKed">mēṉāḷ</lem>
-      <rdg wit="#TNVms">mēṉāḷaṇa</rdg>
-      <rdg wit="#TNVcac">muṉāḷaṇ</rdg>
-    </app>
-    <app corresp="25,25">
-      <lem wit=""/>
-      <rdgGrp wit="#TNVms #TNVc #TNVed #KKms #KKed"><rdg type="main">matikkō</rdg><rdg type="sandhi" wit="#TNVcac">matikko</rdg></rdgGrp>
-    </app>
-    <app corresp="25,32">
-      <lem wit="#TNVcpc #TNVed">ṭuriñcu</lem>
-      <rdg wit="#TNVms #TNVcac">riñcu</rdg>
-      <rdg wit="#KKms">ṭuñcu</rdg>
-      <rdg wit="#KKedac">ṭu [tu]ñcuñcu</rdg>
-      <rdg wit="#KKedpc">ṭu [tu]ñcuriñcu</rdg>
-    </app>
-    <app corresp="40,48">
-      <lem wit="#TNVms #TNVc #TNVed #KKed">vāḻkkaik</lem>
-      <rdg wit="#KKms">vāṭkaik</rdg>
-    </app>
-    <app corresp="58,65">
-      <lem wit="#TNVms #TNVc #TNVed #KKed">vallatu</lem>
-      <rdg wit="#KKmsac">la mallatum</rdg>
-      <rdg wit="#KKmspc">mallatum</rdg>
-    </app>
-    <app corresp="81,91">
-      <lem wit="#TNVmspc #TNVc #TNVed">matittaṉṟō</lem>
-      <rdg wit="#TNVmsac">matittaṉteṟō</rdg>
-      <rdg wit="#KKms #KKed">matittaṉṟu</rdg>
-    </app>
-    <app corresp="91,97">
-      <lem wit="#TNVms #TNVc #TNVed">vilamē</lem>
-      <rdg wit="#KKms #KKed">milamē</rdg>
-    </app>
-    
-    </listApp>
-    </standOff>
+    <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV19poem9" type="apparatus" source="alignments/TNV19poem9.xml"><listApp>
+      <app corresp="7,14">
+        <lem wit="#TNVcpc #TNVed">ṭiṉiyān</lem>
+        <rdg wit="#TNVms #TNVcac"/>
+        <rdg wit="#KKms">ṭiyāṉ</rdg>
+        <rdg wit="#KKed">ṭi[ṉi]yāṉ</rdg>
+      </app>
+      <app corresp="14,20">
+        <lem wit="#TNVcpc #TNVed">teḷitu</lem>
+        <rdg wit="#TNVms">terintatu</rdg>
+        <rdg wit="#TNVcac">teḷintatu</rdg>
+        <rdg wit="#KKmsac">ṟeḻintu</rdg>
+        <rdg wit="#KKmspc">ṟeḷintu</rdg>
+        <rdg wit="#KKed">teḷintu</rdg>
+      </app>
+      <app corresp="20,25">
+        <lem wit="#TNVcpc #TNVed #KKms #KKed">mēṉāḷ</lem>
+        <rdg wit="#TNVms">vēmēṉāḷaṇ</rdg>
+        <rdg wit="#TNVcac">vēēmuṉāḷaṇ</rdg>
+      </app>
+      <app corresp="32,39">
+        <lem wit="#TNVcpc #TNVed">ṭuriñcu</lem>
+        <rdg wit="#TNVms #TNVcac">riñcu</rdg>
+        <rdg wit="#KKms">ṭuñcu</rdg>
+        <rdg wit="#KKedac">ṭu [tu]ñcuñcu</rdg>
+        <rdg wit="#KKedpc">ṭu [tu]ñcuriñcu</rdg>
+      </app>
+      <app corresp="47,55">
+        <lem wit="#TNVms #TNVc #TNVed #KKed">vāḻkkaik</lem>
+        <rdg wit="#KKms">vāṭkaik</rdg>
+      </app>
+      <app corresp="61,72">
+        <lem wit="#TNVms #TNVc #TNVed #KKed">ḷāka vallatu</lem>
+        <rdg wit="#KKmsac">ḷākala mallatum</rdg>
+        <rdg wit="#KKmspc">ḷāka mallatum</rdg>
+      </app>
+      <app corresp="88,98">
+        <lem wit="#TNVmspc #TNVc #TNVed">matittaṉṟō</lem>
+        <rdg wit="#TNVmsac">matittaṉteṟō</rdg>
+        <rdg wit="#KKms #KKed">matittaṉṟu</rdg>
+      </app>
+      <app corresp="98,104">
+        <lem wit="#TNVms #TNVc #TNVed">vilamē</lem>
+        <rdg wit="#KKms #KKed">milamē</rdg>
+      </app>
+      
+      </listApp>
+      </standOff>
+      <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV20poem5">
+        <interp type="alignment" select="0">5MG25M2G38MGM,73M</interp>
+        <entry>
+        <form>tīyiṉ-um</form>
+        <def>fire</def>
+        <form type="simple">tīyiṉ</form>
+        <gramGrp>
+          <gram type="role">comparative</gram>
+        </gramGrp>
+        <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>veyya</form>
+        <def>hot</def>
+        <gramGrp>
+          <gram type="role">pronominalised noun</gram>
+          <gram type="role">neuter plural</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form><c type="glide">v</c>eṉkuvai</form>
+        <def>say</def>
+        <gramGrp>
+          <gram type="role">imperfect aspect</gram>
+          <gram type="role">singular</gram>
+          <gram type="role">second person</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form><c type="glide">y</c>āyiṉ</form>
+        <def>if</def>
+        <gramGrp>
+          <gram type="role">conditional</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>yāvat’-um</form>
+        <def>anything</def>
+        <form type="simple">yāvatu</form>
+        <form type="sandhi">yāvat</form>
+        <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>iṉiya</form>
+        <def>sweet</def>
+        <gramGrp>
+          <gram type="role">pronominalised noun</gram>
+          <gram type="role">neuter plural</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>kāṉam</form>
+        <def>wilderness</def>
+        <gramGrp>
+          <gram type="role">noun</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>cēy</form>
+        <def>be distant</def>
+        <gramGrp>
+          <gram type="role">verbal root as adjective</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>uyar</form>
+        <def>be high</def>
+        <gramGrp>
+          <gram type="role">verbal root as adjective</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>cilampa</form>
+        <def>slope</def>
+        <gramGrp>
+          <gram type="role">pronominalised noun</gram>
+          <gram type="role">masculine singular</gram>
+          <gram type="role">vocative</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>niṉṉoṭu</form>
+        <def>you</def>
+        <gramGrp>
+          <gram type="role">sociative</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>celiṉ-ē</form>
+        <def>go</def>
+        <form type="simple">celiṉ</form>
+        <gramGrp>
+          <gram type="role">conditional</gram>
+        </gramGrp>
+        <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+        </entry>
+        </standOff>
+      <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV20poem5" type="apparatus" source="alignments/TNV20poem5.xml"><listApp>
+        <app corresp="0,7">
+          <lem wit="#KKed #KKms #TNVed">tīyiṉum</lem>
+          <rdg wit="#TNVc #TNVms">tīya</rdg>
+        </app>
+        <app corresp="7,12">
+          <lem wit="#TNVc #TNVms #KKedpc #TNVed">veyya</lem>
+          <rdg wit="#KKedac">[vemmaiya]</rdg>
+          <rdg wit="#KKms"/>
+        </app>
+        <app corresp="37,42">
+          <lem wit="#TNVed #KKmspc">kāṉam</lem>
+          <rdgGrp wit="#KKed #TNVc #TNVms"><rdg type="main">kāṉañ</rdg><rdg type="sandhi" wit="#TNVcpc">kāṉañ,</rdg></rdgGrp>
+          <rdg wit="#KKmsac">kāma</rdg>
+        </app>
+        <app corresp="49,56">
+          <lem wit="#KKed #TNVc #TNVms #KKmspc #TNVedpc">cilampa</lem>
+          <rdg wit="#KKmsac">cilam</rdg>
+          <rdg wit="#TNVedac">cilampu</rdg>
+        </app>
+        
+        </listApp>
+        </standOff>
+        <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV22poem4" type="apparatus" source="alignments/TNV22poem4.xml"><listApp>
+          <app corresp="11,19">
+            <lem wit="#KKed #TNVed">ṭiṉaiyal</lem>
+            <rdg wit="#TNVms #TNVc">ṭiṉaiyaṉ</rdg>
+          </app>
+          <app corresp="19,23">
+            <lem wit="#TNVms #TNVc #TNVed">vāḻi</lem>
+            <rdg wit="#KKed">vāḻiyem</rdg>
+          </app>
+          <app corresp="30,38">
+            <lem wit="#TNVc #TNVmspc #KKed #TNVed">kaḻaṅkiṟ</lem>
+            <rdg wit="#TNVmsac">kaḻaṅkuṅkiṟ</rdg>
+          </app>
+          <app corresp="52,59">
+            <lem wit="#TNVms #TNVc #TNVed">yatutāṉ</lem>
+            <rdg wit="#KKed"/>
+          </app>
+          <app corresp="73,83">
+            <lem wit="#KKedpc #TNVcpc #TNVed">vayaṅkuyir</lem>
+            <rdg wit="#TNVms">vayaṅkiyiṉ</rdg>
+            <rdg wit="#TNVcac">vayaṅkiyir</rdg>
+            <rdg wit="#KKedac"/>
+          </app>
+          <app corresp="83,92">
+            <lem wit="#TNVms #TNVc #KKedpc #TNVed">mayaṅkiya</lem>
+            <rdg wit="#KKedac">mayaṅki</rdg>
+          </app>
+          <app corresp="92,97">
+            <lem wit="#TNVms #TNVc #KKedpc #TNVed">teyva</lem>
+            <rdg wit="#KKedac">y[ai]</rdg>
+          </app>
+          <app corresp="97,103">
+            <lem wit="#TNVms #TNVc #KKedpc #TNVed">vāṇuru</lem>
+            <rdg wit="#KKedac">te ṉuru...</rdg>
+          </app>
+          <app corresp="109,115">
+            <lem wit="#TNVc #KKed #TNVed">ṟeḷivē</lem>
+            <rdg wit="#TNVms">ṟeḷiyē.</rdg>
+          </app>
+          
+          </listApp>
+          </standOff>
+          <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV22poem4">
+            <interp type="alignment" select="0">12MG32M2G6M2G29MG18MG3ML10MG4M2GM,56MG69M</interp>
+            <entry>
+            <form>eyyā</form>
+            <def>not understand</def>
+            <gramGrp>
+              <gram type="role">negative</gram>
+              <gram type="role">peyareccam</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form><c type="glide">v</c>uḷḷamōṭ’</form>
+            <def>heart</def>
+            <form type="sandhi"><c type="glide">v</c>uḷḷamōṭ</form>
+            <gramGrp>
+              <gram type="role">sociative</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>iṉaiyal</form>
+            <def>not despair</def>
+            <gramGrp>
+              <gram type="role">imperative</gram>
+              <gram type="role">negative</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>vāḻi</form>
+            <def>live</def>
+            <gramGrp>
+              <gram type="role">participial noun</gram>
+              <gram type="role">singular</gram>
+              <gram type="role">second person</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>mai</form>
+            <def>blemish</def>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>tapu</form>
+            <def>finish</def>
+            <gramGrp>
+              <gram type="role">verbal root as peyareccam</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>kaḻaṅkiṉ</form>
+            <def>Molucca bean</def>
+            <form type="sandhi">kaḻaṅkiṟ</form>
+            <gramGrp>
+              <gram type="role">oblique</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>paṭṭat’-um</form>
+            <def>happen</def>
+            <form type="simple">paṭṭatu</form>
+            <form type="sandhi">paṭṭat</form>
+            <gramGrp>
+              <gram type="role">pronominalised noun</gram>
+              <gram type="role">neuter singular</gram>
+            </gramGrp>
+            <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+            </entry>
+            <entry>
+            <form>uḷat’-ē</form>
+            <def>exists</def>
+            <form type="simple">uḷatu</form>
+            <form type="sandhi">uḷat</form>
+            <gramGrp>
+              <gram type="role">neuter singular</gram>
+            </gramGrp>
+            <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+            </entry>
+            <entry>
+            <form><c type="glide">y</c>atu</form>
+            <def>that</def>
+            </entry>
+            <entry>
+            <form>tāṉ</form>
+            <def>self</def>
+            <gramGrp>
+              <gram type="role">demonstrative pronoun</gram>
+              <gram type="role">pronoun</gram>
+              <gram type="role">singular</gram>
+              <gram type="role">third person</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>mai<c type="glide">y</c></form>
+            <def>blemish</def>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>il</form>
+            <def>not be</def>
+            <gramGrp>
+              <gram type="role">verbal root</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>kāṭciyiṉ</form>
+            <def>sight</def>
+            <gramGrp>
+              <gram type="role">oblique</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>vayaṅk’</form>
+            <def>shine</def>
+            <form type="sandhi">vayaṅk</form>
+            <gramGrp>
+              <gram type="role">verbal root as adjective</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>uyir</form>
+            <def>life</def>
+            <gramGrp>
+              <gram type="role">root noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>mayaṅkiya</form>
+            <def>be confused</def>
+            <gramGrp>
+              <gram type="role">perfective aspect</gram>
+              <gram type="role">peyareccam</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>teyvam</form>
+            <def>god</def>
+            <form type="sandhi">teyva</form>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>vāḷ</form>
+            <def>bright</def>
+            <form type="sandhi">vāṇ</form>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>nuru</form>
+            <def>girl</def>
+            <form type="sandhi">ṇuru</form>
+            </entry>
+            <entry>
+            <form><c type="glide">v</c>ākutal</form>
+            <def>becoming</def>
+            <form type="sandhi"><c type="glide">v</c>ākutaṟ</form>
+            <gramGrp>
+              <gram type="role">verbal noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>teḷiv’-ē</form>
+            <def>clarity</def>
+            <form type="simple">teḷivu</form>
+            <form type="sandhi">eḷiv</form>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+            </entry>
+            </standOff>
+          <standOff corresp="#TNV22poem4" type="parallels">
+            <note xml:lang="en" target="#eyyā"> The KKms witness does not include this poem. There is a gap in the manuscript, represented by a series of dots over three lines. The print edition includes five poems in this space. As a footnote in the print edition, Vaiyapuripiḷḷai writes: <q xml:lang="Ta">īṇṭu 79,80 eṉṟu iraṇṭu eṇṇukkuriya ēṭu vīṭuṟṟatu: ātaliṉ viṣayattoṭarpiṉṟu' eṉpatu toṉṉūl - nilayap pirati.</q></note>
+          </standOff>
+          <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV22poem11">
+            <interp type="alignment" select="0">54MG7MG5MG2M,71M</interp>
+            <entry>
+            <form>taṇṇeṉ</form>
+            <def>cool</def>
+            <gramGrp>
+              <gram type="role">verbal root</gram>
+              <gram type="role">ideophone</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>cāyal</form>
+            <def>grace</def>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>ivaḷuḷ</form>
+            <def>she</def>
+            <form type="sandhi">ivaḷuṇ</form>
+            <gramGrp>
+              <gram type="role">locative</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>nōy</form>
+            <def>pain</def>
+            <form type="sandhi">ṇōy</form>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>taṇiya</form>
+            <def>appease</def>
+            <gramGrp>
+              <gram type="role">infinitive</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>eṇṇiṉai</form>
+            <def>considered</def>
+            <gramGrp>
+              <gram type="role">perfective aspect</gram>
+              <gram type="role">singular</gram>
+              <gram type="role">second person</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>koṭutti</form>
+            <def>give</def>
+            <gramGrp>
+              <gram type="role">singular</gram>
+              <gram type="role">second person</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form><c type="glide">y</c>āyiṉ</form>
+            <def>if</def>
+            <gramGrp>
+              <gram type="role">conditional</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>aṇṇal</form>
+            <def>majesty</def>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            </entry>
+            <entry>
+            <form>ākam-um</form>
+            <def>chest-</def>
+            <form type="simple">ākam</form>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+            </entry>
+            <entry>
+            <form>uṇṇum-ō</form>
+            <def>enjoys</def>
+            <form type="simple">uṇṇum</form>
+            <gramGrp>
+              <gram type="role">habitual future</gram>
+            </gramGrp>
+            <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+            </entry>
+            <entry>
+            <form>pali-<c type="glide">y</c>ē</form>
+            <def>offering</def>
+            <form type="simple">pali</form>
+            <gramGrp>
+              <gram type="role">noun</gram>
+            </gramGrp>
+            <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+            </entry>
+            </standOff>
+
 </TEI>
