@@ -3170,5 +3170,36 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV22poem11" type="apparatus" source="alignments/TNV22poem11.xml"><listApp>
+  <app corresp="6,20">
+    <lem wit="#TNVed #KKedpc">cāyaliva ḷuṇṇōy</lem>
+    <rdg wit="#TNVms">cāyali vaṉōy</rdg>
+    <rdgGrp wit="#TNVc #KKedac #KKms"><rdg type="main">cāyaliva ṇōy</rdg><rdg type="sandhi" wit="#KKedac">cāya liva ṇōy</rdg><rdg type="sandhi" wit="#KKms">cāya livaṇōy</rdg></rdgGrp>
+  </app>
+  <app corresp="26,33">
+    <lem wit="#TNVms #TNVc #TNVed">eṇṇiṉai</lem>
+    <rdg wit="#KKed #KKms">veṇṇiṉa</rdg>
+  </app>
+  <app corresp="33,40">
+    <lem wit="#TNVms #TNVc #TNVed">koṭutti</lem>
+    <rdg wit="#KKed #KKms"/>
+  </app>
+  <app corresp="40,49">
+    <lem wit="#TNVmspc #TNVc #TNVed">yāyiṉ aṇṇa</lem>
+    <rdg wit="#TNVmsac">yāyi ṉaṇṇaṇa</rdg>
+    <rdg wit="#KKed #KKms">rāyiṉ maṉṉō vaṇṇa</rdg>
+  </app>
+  <app corresp="55,62">
+    <lem wit="#TNVms #TNVcpc #TNVed #KKed #KKms">muṇṇumō</lem>
+    <rdg wit="#TNVcac">ṇṇumō</rdg>
+  </app>
+  <app corresp="62,68">
+    <lem wit="#TNVms #TNVc #TNVed #KKed">paliyē</lem>
+    <rdg wit="#KKmsac">yaliyē</rdg>
+    <rdg wit="#KKmspc">puliyē</rdg>
+  </app>
+  
+  </listApp>
+  </standOff>
 
 </TEI>
