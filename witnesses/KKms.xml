@@ -145,11 +145,15 @@ inconsistent disambiguation of long and short e and o</summary>
 <l>kaṭavu ḷāka<del rend="strikethrough">la</del> mallatum</l>
 <l>maṭavaraṉ mātarai matittaṉṟu milamē</l></lg>
 <lg xml:id="TNV20poem5" corresp="TNV20poem5">
-  <milestone unit="page" n="114" facs="61"/>
+  <milestone unit="page" n="114" facs="61"/><pb n="114"/>
 <l>tīyiṉum veṉkuvai yāyiṉ</l>
 <l>yāvatu miṉiya kā<add rend="caret" place="above">ṉa</add>m</l>
 <l>cēyuyar ci<subst><del rend="strikethrough"><unclear>lam</unclear></del><add place="above">lampa</add></subst> niṉṉoṭu celiṉē</l></lg>  
-    <pb n="114"/>
+  <lg xml:id="TNV22poem11" corresp="TNV22poem11">
+  <milestone unit="page" n="124" facs="66"/><pb n="124"/>
+<l>taṇṇeṉ cāya livaṇōy taṇiya</l>
+<l>veṇṇiṉa rāyiṉ maṉṉō</l>
+<l>vaṇṇa lākamu muṇṇumō <subst><del rend="overwritten">ya</del><add place="in-place"><unclear>pu</unclear></add></subst>liyē</l></lg>
 </body>
 
 </text></TEI>
