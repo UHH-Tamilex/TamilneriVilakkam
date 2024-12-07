@@ -175,6 +175,11 @@
          <lg xml:id="TNV22poem11" corresp="TNV22poem11">   <milestone unit="page" n="126" facs="67"/><pb n="126"/>
 <l>taṇṇeṉ cāya<subst><del rend="implied"> liva </del><add place="above">liva ḷuṇ</add></subst>ṇōy taṇiya</l>
 <l>veṇṇiṉa rāyiṉ maṉṉō</l>
-<l>vaṇṇa lākamu muṇṇumō paliyē.</l></lg>           
+<l>vaṇṇa lākamu muṇṇumō paliyē.</l></lg>   
+<lg xml:id="TNV22poemextra" corresp="TNV22poemextra">     
+ <milestone unit="page" n="127" facs="67"/><pb n="127"/>        
+<l>pētai vāḻiya murukē yāvatu</l>
+<l>mētila ṉeṉpatai yuṇarntu</l>
+<l>vārānōy taṇiya varuta lāṉē</l></lg>  
       </body>
    </text></TEI>

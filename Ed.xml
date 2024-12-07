@@ -289,6 +289,16 @@
           ?
         </lg-->
           </div>
+          <div xml:id="TNV22poemextra">
+            <lg type="edition">  
+<l>pētai vāḻi murukē yāvatu</l>
+<l>mētila ṉeṉpatai yuraittu</l>
+<l>mātarnōy taṇippa varuta lāṉē</l></lg>
+<!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
@@ -3201,5 +3211,126 @@
   
   </listApp>
   </standOff>
-
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV22poemextra">
+    <interp type="alignment" select="0">14M2G6M2G4MG43MGM,74M</interp>
+    <entry>
+    <form>pētai</form>
+    <def>foolish</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    <gramGrp>
+      <gram type="role">subjuntive</gram>
+      <gram type="role">singular</gram>
+      <gram type="role">second person</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>muruk’-ē</form>
+    <def>Murukaṉ</def>
+    <form type="simple">muruku</form>
+    <form type="sandhi">muruk</form>
+    <gramGrp>
+      <gram type="role">proper name</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form>yāvat’-um</form>
+    <def>anything</def>
+    <form type="simple">yāvatu</form>
+    <form type="sandhi">yāvat</form>
+    <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+    </entry>
+    <entry>
+    <form>ēt’</form>
+    <def>case</def>
+    <form type="sandhi">ēt</form>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>ilaṉ</form>
+    <def>not be</def>
+    <gramGrp>
+      <gram type="role">singular</gram>
+      <gram type="role">first person</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>eṉpatai</form>
+    <def>saying</def>
+    <gramGrp>
+      <gram type="role">participial noun</gram>
+      <gram type="role">neuter singular</gram>
+      <gram type="role">accusative</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form><c type="glide">y</c>uraittu</form>
+    <def>say</def>
+    <gramGrp>
+      <gram type="role">absolutive</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>mātar</form>
+    <def>woman</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>nōy</form>
+    <def>suffering</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>taṇippa</form>
+    <def>appease</def>
+    <gramGrp>
+      <gram type="role">infinitive</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>varutalāṉ-ē</form>
+    <def>coming</def>
+    <form type="simple">varutalāṉ</form>
+    <gramGrp>
+      <gram type="role">instrumental</gram>
+      <gram type="role">verbal noun</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+    </entry>
+    </standOff>
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV22poemextra" type="apparatus" source="alignments/TNV22poemextra.xml"><listApp>
+    <app corresp="5,9">
+      <lem wit="#TNVms">vāḻi</lem>
+      <rdg wit="#KKed #KKms">vāḻiya</rdg>
+    </app>
+    <app corresp="35,43">
+      <lem wit="#TNVms">yuraittu</lem>
+      <rdg wit="#KKed #KKms">yuṇarntu</rdg>
+    </app>
+    <app corresp="43,48">
+      <lem wit="#TNVms">mātar</lem>
+      <rdg wit="#KKed #KKms">vārā</rdg>
+    </app>
+    <app corresp="51,58">
+      <lem wit="#TNVms">taṇippa</lem>
+      <rdg wit="#KKed #KKms">taṇiya</rdg>
+    </app>
+    
+    </listApp>
+    </standOff>
+    <standOff corresp="#TNV22poemextra" type="parallels">
+      <note xml:lang="en" target="#vāḻi murukē"> This poem only appears in the palm-leaf manuscript of the TNV, <ref target="https://tst-project.github.io/editor/?facs=34">UVSL950.</ref> In the paper copy and all printed editions it does not appear, and it is not mentioned in any notes. U. Ve. Sa. writes that he consulted the palm-leaf when editing the text, so I am not sure if this was simply an oversight or a conscious decision. In the KK it is attributed to the Poruḷiyal. The first line parallels the last line of <ref target="https://uhh-tamilex.github.io/Narrinai/NA34.xml">NA34</ref>.</note>
+    </standOff>
 </TEI>
