@@ -2277,137 +2277,137 @@
 
     </listApp>
   </standOff>
-  <standOff type="wordsplit" corresp="#TNV18poem19">
-<interp type="alignment" select="0">16MG20MG18MG6MG16MG30MGM,113M</interp>
-<entry>
-<form>aṉṉāy</form>
-<def>mother</def>
-<gramGrp>
-  <gram type="role">vocative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>aṉṉāy</form>
-<def>mother</def>
-<gramGrp>
-  <gram type="role">vocative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kāṇ</form>
-<def>see(v.r.ipt)</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>eṉṟ<c type="elided">u</c></form>
-<def>said</def>
-<form type="sandhi">eṉṟ</form>
-<gramGrp>
-  <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>iru</form>
-<def>two</def>
-</entry>
-<entry>
-<form>muṟai</form>
-<def>times</def>
-</entry>
-<entry>
-<form>taṉ</form>
-<def>self</def>
-</entry>
-<entry>
-<form>yāṉ</form>
-<def>I</def>
-</entry>
-<entry>
-<form>eṭuppa-<c type="glide">v</c>um</form>
-<def>wake up</def>
-<form type="simple">eṭuppa</form>
-<gramGrp>
-  <gram type="role">concessive</gram>
-  <gram type="role">infinitive</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>tuyil</form>
-<def>sleep</def>
-<form type="sandhi">tuyiṉ</form>
-</entry>
-<entry>
-<form>maṭintaṉaḷ-ē</form>
-<def>slept</def>
-<form type="simple">maṭintaṉaḷ</form>
-<gramGrp>
-  <gram type="role">feminine singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-<entry>
-<form>ilaṅk<c type="elided">u</c></form>
-<def>shine</def>
-<form type="sandhi">ilaṅk</form>
-<gramGrp>
-  <gram type="role">verbal root as adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>ilai</form>
-<def>leaf</def>
-</entry>
-<entry>
-<form>neṭu</form>
-<def>long</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>vēl</form>
-<def>spear</def>
-</entry>
-<entry>
-<form>aṇṇal-um</form>
-<def>majesty</def>
-<form type="simple">aṇṇal</form>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>pulampu</form>
-<def>loneliness</def>
-</entry>
-<entry>
-<form>tuyar</form>
-<def>affliction</def>
-</entry>
-<entry>
-<form>akala<c type="geminated">k</c></form>
-<def>depart</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kuṟi</form>
-<def>meeting-place</def>
-</entry>
-<entry>
-<form>vantōṉ-ē</form>
-<def>came</def>
-<form type="simple">vantōṉ</form>
-<gramGrp>
-  <gram type="role">masculine singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-</standOff>
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV18poem19">
+    <interp type="alignment" select="0">16MG20MG18MG6MG16MG30MGM,113M</interp>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp>
+      <gram type="role">vocative</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp>
+      <gram type="role">vocative</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>kāṇ</form>
+    <def>see</def>
+    <gramGrp>
+      <gram type="role">verbal root as imperative</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>eṉṟ<c type="elided">u</c></form>
+    <def>said</def>
+    <form type="sandhi">eṉṟ</form>
+    <gramGrp>
+      <gram type="role">absolutive</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>iru</form>
+    <def>two</def>
+    </entry>
+    <entry>
+    <form>muṟai</form>
+    <def>times</def>
+    </entry>
+    <entry>
+    <form>taṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>yāṉ</form>
+    <def>I</def>
+    </entry>
+    <entry>
+    <form>eṭuppa-<c type="glide">v</c>um</form>
+    <def>wake up</def>
+    <form type="simple">eṭuppa</form>
+    <gramGrp>
+      <gram type="role">concessive</gram>
+      <gram type="role">infinitive</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+    </entry>
+    <entry>
+    <form>tuyil</form>
+    <def>sleep</def>
+    <form type="sandhi">tuyiṉ</form>
+    </entry>
+    <entry>
+    <form>maṭintaṉaḷ-ē</form>
+    <def>slept</def>
+    <form type="simple">maṭintaṉaḷ</form>
+    <gramGrp>
+      <gram type="role">feminine singular</gram>
+      <gram type="role">perfective aspect</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form>ilaṅk<c type="elided">u</c></form>
+    <def>shine</def>
+    <form type="sandhi">ilaṅk</form>
+    <gramGrp>
+      <gram type="role">verbal root as adjective</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>ilai</form>
+    <def>leaf</def>
+    </entry>
+    <entry>
+    <form>neṭu</form>
+    <def>long</def>
+    <gramGrp>
+      <gram type="role">adjective</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>vēl</form>
+    <def>spear</def>
+    </entry>
+    <entry>
+    <form>aṇṇal-um</form>
+    <def>majesty</def>
+    <form type="simple">aṇṇal</form>
+    <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+    </entry>
+    <entry>
+    <form>pulampu</form>
+    <def>loneliness</def>
+    </entry>
+    <entry>
+    <form>tuyar</form>
+    <def>affliction</def>
+    </entry>
+    <entry>
+    <form>akala<c type="geminated">k</c></form>
+    <def>depart</def>
+    <gramGrp>
+      <gram type="role">infinitive</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>kuṟi</form>
+    <def>meeting-place</def>
+    </entry>
+    <entry>
+    <form>vantōṉ-ē</form>
+    <def>came</def>
+    <form type="simple">vantōṉ</form>
+    <gramGrp>
+      <gram type="role">masculine singular</gram>
+      <gram type="role">perfective aspect</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+    </entry>
+    </standOff>
   <standOff type="wordsplit" corresp="#TNV18poem22">
 <interp type="alignment" select="0">19ML32M2G34M2GM,91M</interp>
 <entry>
