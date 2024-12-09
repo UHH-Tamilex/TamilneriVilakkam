@@ -299,6 +299,16 @@
           ?
         </lg-->
       </div>
+      <div xml:id="TNV22poem12">
+        <lg type="edition"> 
+      <l>muḷaiyeyiṟu nirampā viḷamaip paruvat</l>
+<l>toḷitika ḻoruva ṉīṭṭiya</l>
+<l>taḷaiyaviḻ kaṇṇi tāṅkiṉa ḷuvantē</l></lg>
+<!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
@@ -3078,9 +3088,15 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-          <standOff corresp="#TNV22poem4" type="parallels">
-            <note xml:lang="en" target="#eyyā"> The KKms witness does not include this poem. There is a gap in the manuscript, represented by a series of dots over three lines. The print edition includes five poems in this space. As a footnote in the print edition, Vaiyapuripiḷḷai writes: <q xml:lang="Ta"><i>īṇṭu 79,80 eṉṟu iraṇṭu eṇṇukkuriya ēṭu vīṭuṟṟatu: ātaliṉ viṣayattoṭarpiṉṟu' eṉpatu toṉṉūl - nilayap pirati.</i></q></note>
-          </standOff>
+  <standOff corresp="#TNV22poem4" type="parallels">
+    <note xml:lang="en" target="#eyyā"> The KKms witness does not include this poem. There is a gap
+      in the manuscript, represented by a series of dots over three lines. The print edition
+      includes five poems in this space. As a footnote in the print edition, Vaiyapuripiḷḷai writes: <q
+        xml:lang="Ta">
+        <i>īṇṭu 79,80 eṉṟu iraṇṭu eṇṇukkuriya ēṭu vīṭuṟṟatu: ātaliṉ viṣayattoṭarpiṉṟu' eṉpatu toṉṉūl
+      - nilayap pirati.</i>
+      </q></note>
+  </standOff>
           <standOff type="wordsplit" corresp="#TNV22poem11">
 <interp type="alignment" select="0">54MG7MG5MG2M,71M</interp>
 <entry>
@@ -3330,7 +3346,148 @@
     
     </listApp>
     </standOff>
-    <standOff corresp="#TNV22poemextra" type="parallels">
-      <note xml:lang="en" target="#vāḻi murukē"> This poem only appears in the palm-leaf manuscript of the TNV, <ref target="https://tst-project.github.io/editor/?facs=34">UVSL950.</ref> In the paper copy and all printed editions it does not appear, and it is not mentioned in any notes. U. Ve. Sa. writes that he consulted the palm-leaf when editing the text, so I am not sure if this was simply an oversight or a conscious decision. In the KK it is attributed to the Poruḷiyal. The first line parallels the last line of <ref target="https://uhh-tamilex.github.io/Narrinai/NA34.xml">NA34</ref>.</note>
+  <standOff corresp="#TNV22poemextra" type="parallels">
+    <note xml:lang="en" target="#vāḻi murukē"> This poem only appears in the palm-leaf manuscript of
+      the TNV, <ref target="https://tst-project.github.io/editor/?facs=34">UVSL950.</ref> In the
+      paper copy and all printed editions it does not appear, and it is not mentioned in any notes.
+      U. Ve. Sa. writes that he consulted the palm-leaf when editing the text, so I am not sure if
+      this was simply an oversight or a conscious decision. In the KK it is attributed to the
+      Poruḷiyal. The first line parallels the last line of <ref
+        target="https://uhh-tamilex.github.io/Narrinai/NA34.xml">NA34</ref>.</note>
+  </standOff>
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV22poem12">
+    <interp type="alignment" select="0">34MG14ML34M2GM,87M</interp>
+    <entry>
+    <form>muḷai<c type="glide">y</c></form>
+    <def>sprout</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>eyiṟu</form>
+    <def>tooth</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>nirampā</form>
+    <def>not be full</def>
+    <gramGrp>
+      <gram type="role">negative</gram>
+      <gram type="role">peyareccam</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form><c type="glide">v</c>iḷamai<c type="geminated">p</c></form>
+    <def>youth</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>paruvatt’</form>
+    <def>season</def>
+    <form type="sandhi">paruvatt</form>
+    <gramGrp>
+      <gram type="role">oblique</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>oḷi</form>
+    <def>brightness</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>tikaḻ</form>
+    <def>shine</def>
+    <gramGrp>
+      <gram type="role">verbal root as peyareccam</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>oruvaṉ</form>
+    <def>one</def>
+    <gramGrp>
+      <gram type="role">pronominalised noun</gram>
+      <gram type="role">masculine singular</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>nīṭṭiya</form>
+    <def>extended</def>
+    <form type="sandhi">ṉīṭṭiya</form>
+    <gramGrp>
+      <gram type="role">perfective aspect</gram>
+      <gram type="role">peyareccam</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>taḷai</form>
+    <def>outer petal</def>
+    <gramGrp>
+      <gram type="role">root noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form><c type="glide">y</c>aviḻ</form>
+    <def>open</def>
+    <gramGrp>
+      <gram type="role">verbal root as peyareccam</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>kaṇṇi</form>
+    <def>chaplet</def>
+    <gramGrp>
+      <gram type="role">noun</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>tāṅkiṉaḷ</form>
+    <def>endured</def>
+    <gramGrp>
+      <gram type="role">feminine singular</gram>
+      <gram type="role">perfective aspect</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>uvant’-ē</form>
+    <def>rejoiced</def>
+    <form type="simple">uvantu</form>
+    <form type="sandhi">uvant</form>
+    <gramGrp>
+      <gram type="role">absolutive</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+    </entry>
     </standOff>
+    <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV22poem12" type="apparatus" source="alignments/TNV22poem12.xml"><listApp>
+      <app corresp="33,41">
+        <lem wit="#TNVed #TNVmspc #TNVc #KKedpc">toḷitika</lem>
+        <rdg wit="#TNVmsac">teḷitika</rdg>
+        <rdg wit="#KKms #KKedac">ta ḷaḷiya</rdg>
+      </app>
+      <app corresp="41,54">
+        <lem wit="#TNVed #TNVms #TNVc #KKedpc">ḻoruva ṉīṭṭiya</lem>
+        <rdg wit="#KKms #KKedac">ṉoruvaṉ</rdg>
+      </app>
+      <app corresp="54,64">
+        <lem wit="#TNVed #TNVms #TNVc">taḷaiyaviḻ</lem>
+        <rdg wit="#KKms #KKed">ṟaḷaiyaviḻ</rdg>
+      </app>
+      <app corresp="69,76">
+        <lem wit="#TNVed #TNVms #TNVc #KKedpc">tāṅkiṉa</lem>
+        <rdg wit="#KKms #KKedac">mulaiyum vārāḷ mutukkuṟai</rdg>
+      </app>
+      <app corresp="76,83">
+        <lem wit="#TNVed #TNVms #TNVc #KKedpc">ḷuvantē</lem>
+        <rdg wit="#KKms #KKedac">n taṉaḷē.</rdg>
+      </app>
+      
+      </listApp>
+      </standOff>
 </TEI>

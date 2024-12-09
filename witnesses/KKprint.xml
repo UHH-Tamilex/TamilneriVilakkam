@@ -181,5 +181,13 @@
 <l>pētai vāḻiya murukē yāvatu</l>
 <l>mētila ṉeṉpatai yuṇarntu</l>
 <l>vārānōy taṇiya varuta lāṉē</l></lg>  
+<lg xml:id="TNV22poem14" corresp="TNV22poem14">
+<milestone unit="page" n="128" facs="68"/><pb n="128"/>
+<l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
+<l>malaiya ṉoḷvēṟ kaṇṇi</l>
+<l>mulai<subst><del rend="commas">yiṉa[m]</del><add place="left">yum</add></subst> vārā mutukkuṟain taṉaḷē.</l></lg>
+        <lg xml:id="TNV22poem12" corresp="TNV22poem12">             
+  <l>muḷaiyeyiṟu nirampā viḷamaip paruvat<del rend="strikethrough">ta</del></l>
+<l><subst><del rend="strikethrough">ḷaḷiya ṉo</del><add place="left">toḷitika ḻo</add></subst>ruva<subst><del rend="implied">ṉ</del><add place="right"> ṉīṭṭiya</add></subst></l> ṟaḷaiyaviḻ kaṇṇi <subst><del rend="strikethrough">mulaiyum vārāḷ mutukkuṟain taṉaḷē.</del><add place="below">tāṅkiṉa ḷuvantē.</add></subst></lg>
       </body>
    </text></TEI>
