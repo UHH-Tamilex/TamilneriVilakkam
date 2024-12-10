@@ -95,15 +95,18 @@ inconsistent disambiguation of long and short e and o</summary>
 <l><space quantity="3" unit="characters"/> kaṇkaṇ ṭāṟṟiya</l>
 <l>peruntakai yaṇṇalaik kaḻa<del rend="strikethrough">ṉ</del>ṟiṉaṉ peritē</l></lg>
 <lg xml:id="TNV17poem5" corresp="TNV17poem5">  
+    <milestone unit="page" n="42" facs="24"/><pb n="42"/>    
 <l>ampumukaṅ kiḻitta puṇvāy<add place="above">k</add> <subst><del rend="strikethrough">ta</del><add place="above">ka</add></subst>laimāṉ</l>
 <l>pōntaṉa vuḷavō </l>
 <l>maṭa ṉōkka marīi<add rend="caret" place="above">yi</add>ṉam paṭarntē</l></lg>  
   <lg xml:id="TNV17poem7" corresp="TNV17poem7">
+  <milestone unit="page" n="53" facs="30"/><pb n="53"/>        
   <l>kai<subst><del rend="strikethrough">vva</del><add place="above">ya</add></subst>tu cemmalan taḻaiyē viṉāvatu</l>
 <l>puṇ vāya māvēl kaiviṭ</l>
 <l>ṭakalā ṉammaviv vakaṉpuṉai</l>
 <l>takaiyō ṉuḷḷiya taṟiyōm peritē</l></lg>
   <lg xml:id="TNV17poem35" corresp="TNV17poem35">
+    <milestone unit="page" n="63" facs="35"/><pb n="63"/>    
 <l>tantunī yaḷitta taṇṭaḻai kāṇalum</l>
 <l>vantaṉa ḷetirnta maṭantai neñca</l>
 <l>maṇmicai viḷaṅkiya vaḻuttūr matitara</l>
@@ -111,11 +114,13 @@ inconsistent disambiguation of long and short e and o</summary>
 <l>vā<subst>y<del rend="puḷḷi">a</del><add rend="caret" place="above">moḻi</add></subst>miḻta maṭuttavar maṉameṉa</l>
 <l>yāṉilai peṟṟaṉ ṟiyāṉaṟin tilaṉē</l></lg>
     <lg xml:id="TNV17poem38" corresp="TNV17poem38">
+      <milestone unit="page" n="68" facs="38"/><pb n="68"/>    
 <l>pē<del rend="brackets">y</del>tuṟal vāḻiniṉ kātaṟ ṟōḻi</l>
 <l>kaipuṉai kōla <add place="above" rend="caret">me</add>ṉaypeṟ ṟaṉṟē</l>
 <l>yaiya māvatu miṉṟip</l>
 <l>peypūṅ kōtai peruṅkaviṉ koḷavē</l></lg>
    <lg xml:id="TNV17poem40" corresp="TNV17poem40">
+     <milestone unit="page" n="69" facs="38"/><pb n="69"/>    
 <l>naṟumpūṅ kaṇṇiyum peruntaṇ kōtaiyum</l>
 <l>na<subst><del rend="strikethrough">tai</del><add place="above">kai</add></subst>vāyp piṇaiyalu mukaivāyc cūṭṭum</l>
 <l>puṉaintaṉai yaruḷal vēṇṭuñ</l>
@@ -126,16 +131,19 @@ inconsistent disambiguation of long and short e and o</summary>
 <l>talamaral vāḻi yaiya</l>
      <l>viruḷiṭai yeytalu <subst><del rend="overwritten">ma</del><add place="in-place">me</add></subst>matumā ṉamakkē</l></lg>
   <lg xml:id="TNV18poem18" corresp="TNV18poem18">
+    <milestone unit="page" n="83" facs="45"/><pb n="83"/>    
 <l>puḷḷun tuyiṟpuṭai peyar<add rend="caret" place="above">n</add>taṉa puṉaluḷ</l>
 <l>veḷḷita<subst><del rend="strikethrough">ṭ</del><add place="above">ḻk</add></subst> kaitai maṇikkāy tatumpa</l>
 <l>vantaṉaṉ kollō tāṉē</l>
 <l>ventiṟa laṇṇa ṉiṉaintaṉaṉ viraintē</l></lg>
   <lg xml:id="TNV18poem19" corresp="TNV18poem19">
+    <milestone unit="page" n="84" facs="46"/><pb n="84"/>
 <l>aṉṉāy kāṇeṉ ṟirumuṟai taṉṉai</l>
 <l>yeṭuppavun tuyiṉmaṭin tilaḷē</l>
 <l>yilaṅkilai neṭuvē laṇṇalum</l>
 <l>pulamputuya rakalak karuti vantōṉē</l></lg>
    <lg xml:id="TNV18poem22" corresp="TNV18poem22">
+      <milestone unit="page" n="89" facs="48"/><pb n="89"/>    
 <l>vaṇarcuri yaimpāl vāṇuta larivai</l>
 <l>yavaṭiṟa maṟital yāvatum</l>
      <l>puṇartuyiṉ maṟantaṉa<del rend="strikethrough">m</del> puḷḷiṉam peyarntē</l></lg>

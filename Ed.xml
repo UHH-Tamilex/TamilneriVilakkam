@@ -2233,50 +2233,39 @@
 
     </listApp>
   </standOff>
-  <standOff corresp="#TNV18poem19" type="apparatus" source="alignments/TNV18poem19.xml">
-    <listApp>
-      <app corresp="0,4">
-        <lem wit="#TNVms #TNVc #TNVed #KKedpc">aṉṉā</lem>
-        <rdg wit="#KKms #KKedac">aṉṉāy</rdg>
-      </app>
-      <app corresp="4,10">
-        <lem wit="#TNVms #TNVc #TNVed #KKedpc">yaṉṉāy</lem>
-        <rdg wit="#KKms #KKedac"/>
-      </app>
-      <app corresp="24,29">
-        <lem wit="#TNVmspc #TNVc #TNVed #KKedpc">taṉyā</lem>
-        <rdg wit="#TNVmsac">taṉkyā</rdg>
-        <rdg wit="#KKms #KKedac">taṉṉai</rdg>
-      </app>
-      <app corresp="29,39">
-        <lem wit="#TNVms #TNVc #TNVed #KKedpc">ṉeṭuppavun</lem>
-        <rdg wit="#KKms #KKedac">yeṭuppavun</rdg>
-      </app>
-      <app corresp="49,55">
-        <lem wit="#TNVms #TNVc #TNVed #KKedpc">taṉaḷē</lem>
-        <rdgGrp wit="#KKms #KKedac">
-          <rdg type="main">tilaḷē</rdg>
-          <rdg type="sandhi" wit="#KKedac">tilaḷē ...</rdg>
-        </rdgGrp>
-      </app>
-      <app corresp="55,64">
-        <lem wit="#TNVms #TNVc #TNVed #KKms #KKedpc">ilaṅkilai</lem>
-        <rdg wit="#KKedac">ilaṅkilai</rdg>
-      </app>
-      <app corresp="70,78">
-        <lem wit="#TNVcpc #TNVed #KKms #KKed">laṇṇalum</lem>
-        <rdgGrp wit="#TNVms #TNVcac">
-          <rdg type="main">leṭuttalum</rdg>
-          <rdg type="sandhi" wit="#TNVcac">leṭuttalum,</rdg>
-        </rdgGrp>
-      </app>
-      <app corresp="96,103">
-        <lem wit="#TNVms #TNVc #TNVed #KKedpc">kuṟivan</lem>
-        <rdg wit="#KKms #KKedac">karuti van</rdg>
-      </app>
-
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV18poem19" type="apparatus" source="alignments/TNV18poem19.xml"><listApp>
+    <app corresp="0,4">
+      <lem wit="#TNVms #TNVc #TNVed #KKedpc">aṉṉā</lem>
+      <rdg wit="#KKms #KKedac">aṉṉāy</rdg>
+    </app>
+    <app corresp="4,10">
+      <lem wit="#TNVms #TNVc #TNVed #KKedpc">yaṉṉāy</lem>
+      <rdg wit="#KKms #KKedac"/>
+    </app>
+    <app corresp="24,29">
+      <lem wit="#TNVmspc #TNVc #TNVed #KKedpc">taṉyā</lem>
+      <rdg wit="#TNVmsac">taṉkyā</rdg>
+      <rdg wit="#KKms #KKedac">taṉṉai</rdg>
+    </app>
+    <app corresp="29,39">
+      <lem wit="#TNVms #TNVc #TNVed #KKedpc">ṉeṭuppavun</lem>
+      <rdg wit="#KKms #KKedac">yeṭuppavun</rdg>
+    </app>
+    <app corresp="49,55">
+      <lem wit="#TNVms #TNVc #TNVed #KKedpc">taṉaḷē</lem>
+      <rdgGrp wit="#KKms #KKedac"><rdg type="main">tilaḷē</rdg><rdg type="sandhi" wit="#KKedac">tilaḷē ...</rdg></rdgGrp>
+    </app>
+    <app corresp="70,78">
+      <lem wit="#TNVcpc #TNVed #KKms #KKed">laṇṇalum</lem>
+      <rdgGrp wit="#TNVms #TNVcac"><rdg type="main">leṭuttalum</rdg><rdg type="sandhi" wit="#TNVcac">leṭuttalum,</rdg></rdgGrp>
+    </app>
+    <app corresp="96,103">
+      <lem wit="#TNVms #TNVc #TNVed #KKedpc">kuṟivan</lem>
+      <rdg wit="#KKms #KKedac">karuti van</rdg>
+    </app>
+    
     </listApp>
-  </standOff>
+    </standOff>
   <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV18poem19">
     <interp type="alignment" select="0">16MG20MG18MG6MG16MG30MGM,113M</interp>
     <entry>
@@ -3348,7 +3337,7 @@
     </standOff>
   <standOff corresp="#TNV22poemextra" type="parallels">
     <note xml:lang="en" target="#vāḻi murukē"> This poem only appears in the palm-leaf manuscript of
-      the TNV, <ref target="https://tst-project.github.io/editor/?facs=34">UVSL950.</ref> In the
+      the TNV, <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/witnesses/UVSLMS000950?facs=34">UVSL950.</ref> In the
       paper copy and all printed editions it does not appear, and it is not mentioned in any notes.
       U. Ve. Sa. writes that he consulted the palm-leaf when editing the text, so I am not sure if
       this was simply an oversight or a conscious decision. In the KK it is attributed to the
@@ -3358,14 +3347,14 @@
   <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV22poem12">
     <interp type="alignment" select="0">34MG14ML34M2GM,87M</interp>
     <entry>
-    <form>muḷai<c type="glide">y</c></form>
+    <form>muḷai</form>
     <def>sprout</def>
     <gramGrp>
       <gram type="role">noun</gram>
     </gramGrp>
     </entry>
     <entry>
-    <form>eyiṟu</form>
+    <form><c type="glide">y</c>eyiṟu</form>
     <def>tooth</def>
     <gramGrp>
       <gram type="role">noun</gram>
