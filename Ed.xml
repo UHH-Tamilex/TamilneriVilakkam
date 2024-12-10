@@ -309,6 +309,26 @@
           ?
         </lg-->
       </div>
+      <div xml:id="TNV22poem14">
+        <lg type="edition"> 
+          <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
+          <l>malaiya ṉoḷvēṟ kaṇṇi</l>
+          <l>mulaiyum vārāṇ mutukkuṟain taṉaḷē</l></lg>
+     <!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
+      <div xml:id="TNV22poem16">
+        <lg type="edition">
+          <l>iḷivaru cintaiyaṉ maṉṉē namvayiṉ</l>
+          <l>oḷitikaḻ peruntaḻai yīnta</l>
+          <l>aḷitikaḻ neñci ṉaruḷi ṉāṉē</l></lg>
+        <!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>               
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
@@ -3479,4 +3499,20 @@
       
       </listApp>
       </standOff>
+      <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV22poem16" type="apparatus" source="alignments/TNV22poem16.xml"><listApp>
+        <app corresp="7,16">
+          <lem wit="">cintaiyaṉ</lem>
+          <rdg wit="#TNVms #TNVc">cintaiyaḷ</rdg>
+        </app>
+        <app corresp="21,28">
+          <lem wit="#TNVms #TNVcpc">namvayi</lem>
+          <rdg wit="#TNVcac">ta mvayi</rdg>
+        </app>
+        <app corresp="52,60">
+          <lem wit="">aḷitikaḻ</lem>
+          <rdg wit="#TNVms #TNVc">vaṇitikaḻ</rdg>
+        </app>
+        
+        </listApp>
+        </standOff>
 </TEI>
