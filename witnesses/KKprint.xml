@@ -94,8 +94,8 @@
    
 <text corresp="#KKed">
       <body xml:lang="ta">
-         <milestone unit="page" n="32" facs="32"/>
-         <pb n="54"/>
+         <milestone unit="page" n="32" facs="21"/>
+         <pb n="32"/>
          <lg xml:id="TNV16poem9" corresp="TNV16poem9">
             <note place="margin" xml:lang="ta">pa. 13</note>
             <l>nōtaka vuṭaittē neñca matimicai</l>
@@ -113,12 +113,16 @@
             <l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l>
          </lg>
          <lg xml:id="TNV17poem7" corresp="TNV17poem7">
+           <milestone unit="page" n="54" facs="32"/>
+         <pb n="54"/>
            <l>kaiyatu ce<subst><del rend="underline">mmala</del><add place="above">yalaiya</add></subst>n taḻaiyē viṉā<subst><del rend="underline">va</del><add place="right">ya</add></subst>tu</l>
 <l>[tey<del rend="strikethrough">ya</del>]puṇvā<unsure><subst><del rend="strikethrough">y</del><add place="in-place">ya</add></subst></unsure> māvē kaiviṭ</l>
 <l>ṭakalā ṉammaviv vakaṉpuṉan</l>
 <l>takaiyō ṉuḷḷiya taṟi<subst><del rend="underline">yō</del><add place="above">yala</add></subst>m peritē</l>
          </lg>
         <lg xml:id="TNV17poem35" corresp="TNV17poem35">
+          <milestone unit="page" n="70" facs="40"/>
+         <pb n="70"/>
         <l>tantu nīyaḷitta taṇṭaḻai kāṇ[ṭa]lum</l>
 <l>vantaṉa ḷetirnta maṭantai neñcam</l>
 <l>maṇmicai viḷaṅkiya vaḻuttūr mati<subst>t<del rend="underline">ā</del><add place="right">ra</add></subst></l>
@@ -126,35 +130,49 @@
 <l>vāymoḻi yamiḻta maṭuttavar maṉameṉa</l>
 <l>yāṉilai peṟṟaṉ ṟiyāṉaṟin tilaṉē</l></lg>
         <lg xml:id="TNV17poem38" corresp="TNV17poem38">
+          <milestone unit="page" n="75" facs="42"/>
+         <pb n="75"/>
 <l>pētuṟal vāḻiniṉ kātaṟ ṟōḻi</l>
 <l>kaipuṉai kōla me<del rend="strikethrough">(</del>ṉa<del rend="strikethrough">)</del><subst><del rend="strikethrough">y</del><add place="right">mey</add></subst> peṟṟaṉṟē</l>
 <l>yaiyam yāvatu miṉṟip</l>
 <l>peypūṅ kōtai peruṅkaviṉ koḷa<subst><del rend="strikethrough">lē</del><add place="right">vē</add></subst></l></lg>
         <lg xml:id="TNV17poem40" corresp="TNV17poem40">
+          <milestone unit="page" n="76" facs="43"/>
+         <pb n="76"/>
 <l>naṟumpūṅ kaṇṇiyum peruntaṇ kōtaiyum</l>
 <l>nakaivāyp piṇaiyalu mukaivāyc cūṭṭum</l>
 <l>puṉaintaṉai yaruḷal vēṇṭum</l>
 <l>ciṉaṅ<subst><del rend="commas">keḻu kāṉavaṉ</del><add place="below">ko ṭāṉaic</add></subst> ceḻumaṭa makaḷē.</l></lg>
         <lg xml:id="TNV18poem11" corresp="TNV18poem11">
+          <milestone unit="page" n="105" facs="57"/>
+         <pb n="105"/>
 <l>varivaḷait tō<subst><del rend="strikethrough">ḻi</del><add place="right">ḷi</add></subst> yorutaṉi yoḻiyap</l>
 <l>piritu meṉṟi yāyiṟ peritaḻin<add place="right">tu</add></l>
 <l><subst><del rend="strikethrough">talamaral vāḻi yaiya</del><add place="bottom">pariyal vāḻiyō neñcē</add></subst></l>
 <l>iruḷiṭai <subst><del rend="strikethrough">yeyta</del><add place="right">yēka</add></subst>lu meytumā ṉamakkē</l></lg>  
         <lg xml:id="TNV18poem18" corresp="TNV18poem18">
+          <milestone unit="page" n="90" facs="50"/>
+         <pb n="90"/>
 <l>puḷḷun tuyi<subst><del rend="strikethrough">ṟ</del><add place="left">l</add></subst>puṭai pe<subst>y<del rend="puḷḷi">ā</del><add place="in-place">ar</add></subst>ntaṉa puṉaluḷ</l>
 <l><subst>v<del rend="strikethrough">e</del><add place="implied">a</add></subst>ḷḷitaḻ<subst><del rend="commas">k kaitai</del><add place="left">p puṉṉai</add></subst> maṇikkāy <subst><del rend="commas">tatumpa</del><add place="right">vīḻum</add></subst></l>
 <l>vantaṉaṉ kollō tāṉē</l>
 <l>ventiṟa laṇṇa ṉiṉaintaṉaṉ viraintē</l></lg>
            <lg xml:id="TNV18poem19" corresp="TNV18poem19">
+                <milestone unit="page" n="91" facs="50"/>
+         <pb n="91"/>
              <l>aṉṉā<subst><del rend="implied">y </del><add place="above" rend="caret">yaṉṉāy</add></subst> kāṇeṉ ṟirumuṟai <del rend="strikethrough">taṉṉai</del></l>
 <l><add place="left">taṉyā</add> <subst><del rend="strikethrough">ye</del><add place="right">ṉe</add></subst>ṭuppavun tuyiṉmaṭin <subst><del rend="strikethrough">tilaḷē ...</del><add place="right">taṉaḷē</add></subst></l>
 <l>ilaṅkilai neṭuvē laṇṇalum</l>
 <l>pulamputuya rakalak <subst><del rend="strikethrough">karuti</del><add place="left">kuṟi</add></subst> vantōṉē</l></lg>
 <lg xml:id="TNV18poem22" corresp="TNV18poem22">
+     <milestone unit="page" n="96" facs="53"/>
+         <pb n="96"/>
   <l>vaṇarcuri yaimpāl vāṇuta larivai</l>
 <l><subst><del rend="strikethrough">yavaṭiṟa maṟital</del><add place="left">aṇaitiṟa maṟiyalaṉ</add></subst> yāvatu<add place="right">m</add></l> 
 <l>puṇartuyiṉ maṟantaṉa puḷḷiṉam peyarntē</l></lg>
         <lg xml:id="TNV19poem9" corresp="TNV19poem9">
+             <milestone unit="page" n="82" facs="46"/>
+         <pb n="82"/>
 <l>itaṟkoṇ ṭi[ṉi]yāṉ teḷintu mēṉāḷ</l>
 <l>matikkōṭu [tu]ñcu<add place="left">ri</add>ñcu mālvarai vāḻkkaik</l>
 <l>kaṭavu ḷāka vallatu</l>
