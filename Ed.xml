@@ -3499,6 +3499,198 @@
       
       </listApp>
       </standOff>
+      <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV22poem14">
+        <interp type="alignment" select="0">16MG17MG24MG24MGM,86M</interp>
+        <entry>
+        <form>mutukkuṟaintaṉaḷ-ē</form>
+        <def>become ripe in wisdom</def>
+        <form type="simple">mutukkuṟaintaṉaḷ</form>
+        <gramGrp>
+          <gram type="role">feminine singular</gram>
+          <gram type="role">perfective aspect</gram>
+        </gramGrp>
+        <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+        </entry>
+        <entry>
+        <form>mutukkuṟaintaṉaḷ-ē</form>
+        <def>become ripe in wisdom</def>
+        <form type="simple">mutukkuṟaintaṉaḷ</form>
+        <gramGrp>
+          <gram type="role">feminine singular</gram>
+          <gram type="role">perfective aspect</gram>
+        </gramGrp>
+        <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+        </entry>
+        <entry>
+        <form>malaiyaṉ</form>
+        <def>hill</def>
+        <gramGrp>
+          <gram type="role">pronominalised noun</gram>
+          <gram type="role">masculine singular</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>oḷ</form>
+        <def>bright</def>
+        <gramGrp>
+          <gram type="role">adjective</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>vēl</form>
+        <def>spear</def>
+        <form type="sandhi">vēṟ</form>
+        <gramGrp>
+          <gram type="role">noun</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>kaṇṇi</form>
+        <def>chaplet</def>
+        <gramGrp>
+          <gram type="role">noun</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>mulai-<c type="glide">y</c>um</form>
+        <def>breast</def>
+        <form type="simple">mulai</form>
+        <gramGrp>
+          <gram type="role">noun</gram>
+        </gramGrp>
+        <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>vārāḷ</form>
+        <def>not come</def>
+        <form type="sandhi">vārāṇ</form>
+        <gramGrp>
+          <gram type="role">participial noun</gram>
+          <gram type="role">feminine singular</gram>
+          <gram type="role">negative</gram>
+        </gramGrp>
+        </entry>
+        <entry>
+        <form>mutukkuṟaintaṉaḷ-ē</form>
+        <def>become ripe in wisdom</def>
+        <form type="simple">mutukkuṟaintaṉaḷ</form>
+        <gramGrp>
+          <gram type="role">feminine singular</gram>
+          <gram type="role">perfective aspect</gram>
+        </gramGrp>
+        <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+        </entry>
+        </standOff>
+        <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV22poem16">
+          <interp type="alignment" select="0">16MG58MGM,77M</interp>
+          <entry>
+          <form>iḷi</form>
+          <def>contempt</def>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>varu</form>
+          <def>come</def>
+          <gramGrp>
+            <gram type="role">verbal root as peyareccam</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>cintaiyaṉ-maṉṉē</form>
+          <def>thought</def>
+          <form type="simple">cintaiyaṉ</form>
+          <gramGrp>
+            <gram type="role">pronominalised noun</gram>
+            <gram type="role">masculine singular</gram>
+          </gramGrp>
+          <gramGrp type="particle"><m type="enclitic">maṉṉē</m></gramGrp>
+          </entry>
+          <entry>
+          <form>nam</form>
+          <def>us</def>
+          <gramGrp>
+            <gram type="role">oblique</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>vayiṉ</form>
+          <def>place</def>
+          <gramGrp>
+            <gram type="role">postposition</gram>
+            <gram type="role">locative</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>oḷi</form>
+          <def>bright</def>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>tikaḻ</form>
+          <def>shine</def>
+          <gramGrp>
+            <gram type="role">verbal root as peyareccam</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>perum</form>
+          <def>great</def>
+          <form type="sandhi">perun</form>
+          <gramGrp>
+            <gram type="role">adjective</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>taḻai</form>
+          <def>leaf-skirt</def>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form><c type="glide">y</c>īnta</form>
+          <def>gave</def>
+          <gramGrp>
+            <gram type="role">perfective aspect</gram>
+            <gram type="role">peyareccam</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>aḷi</form>
+          <def>compassion</def>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>tikaḻ</form>
+          <def>shine</def>
+          <gramGrp>
+            <gram type="role">verbal root as peyareccam</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>neñciṉ</form>
+          <def>heart</def>
+          <gramGrp>
+            <gram type="role">oblique</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>aruḷiṉāṉ-ē</form>
+          <def>be considerate</def>
+          <form type="simple">aruḷiṉāṉ</form>
+          <gramGrp>
+            <gram type="role">masculine singular</gram>
+            <gram type="role">perfective aspect</gram>
+          </gramGrp>
+          <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+          </entry>
+          </standOff>
       <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV22poem16" type="apparatus" source="alignments/TNV22poem16.xml"><listApp>
         <app corresp="7,16">
           <lem wit="">cintaiyaṉ</lem>
@@ -3506,7 +3698,7 @@
         </app>
         <app corresp="21,28">
           <lem wit="#TNVms #TNVcpc">namvayi</lem>
-          <rdg wit="#TNVcac">ta mvayi</rdg>
+          <rdg wit="#TNVcac">tamvayi</rdg>
         </app>
         <app corresp="52,60">
           <lem wit="">aḷitikaḻ</lem>

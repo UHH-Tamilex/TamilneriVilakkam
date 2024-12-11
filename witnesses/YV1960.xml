@@ -21,7 +21,7 @@
                <msContents class="#STM">
                   <summary>Book</summary>
                   
-               <msItem xml:id="YV1960" defective="false"><title>YV</title></msItem></msContents>
+               <msItem xml:id="YV1960a" defective="false"><title>YV</title></msItem><msItem xml:id="YV1960b" defective="false"><title>YV1960b</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -85,14 +85,16 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    </facsimile>
-<text corresp="#YV1960"><body xml:lang="ta">
+<text corresp="#YV1960a"><body xml:lang="ta">
   <pb n="103"/>
-  <lg xml:id="TNV22poem14" corresp="#TNV22poem14">
+  <lg corresp="#TNV22poem14">
 <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiyaṉ oḷvēṟ kaṇṇi</l>
 <l>mulaiyum vārāḷ mutukkuṟain taṉaḷē</l></lg>
+
+  </body></text><text corresp="#YV1960b"><body xml:lang="ta">
   <pb n="214"/>
- <lg xml:id="TNV22poem14" corresp="#TNV22poem14"> 
+ <lg corresp="#TNV22poem14"> 
  <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiyaṉ oḷvēṟ kaṇṇi</l>
 <l>mulaiyiṉam vārāḷ mutukkuṟain taṉaḷē</l></lg>
