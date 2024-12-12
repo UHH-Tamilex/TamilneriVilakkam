@@ -328,7 +328,17 @@
         type="translation" xml:lang="en">
           ?
         </lg-->
-      </div>               
+      </div>     
+      <div xml:id="TNV23poem6">
+        <lg type="edition">
+      <l>ceṅkatirc celvaṉu mattañ cērntaṉaṉ</l>
+      <l>koṅkivar kuḻalō ṭivvaḻit</l>
+      <l>taṅkiṉai ceṉmō takaivey yōṉē</l></lg>
+      <!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>         
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
@@ -3707,4 +3717,136 @@
         
         </listApp>
         </standOff>
+        <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV23poem6">
+          <interp type="alignment" select="0">15MG20MG11MG31MGM,82M</interp>
+          <entry>
+          <form>cem</form>
+          <def>red</def>
+          <form type="sandhi">ceṅ</form>
+          <gramGrp>
+            <gram type="role">adjective</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>katir<c type="geminated">c</c></form>
+          <def>rays</def>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>celvaṉ-um</form>
+          <def>go</def>
+          <form type="simple">celvaṉ</form>
+          <gramGrp>
+            <gram type="role">participial noun</gram>
+            <gram type="role">masculine singular</gram>
+          </gramGrp>
+          <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+          </entry>
+          <entry>
+          <form>attam</form>
+          <def>road</def>
+          <form type="sandhi">attañ</form>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>cērntaṉaṉ</form>
+          <def>joined</def>
+          <gramGrp>
+            <gram type="role">masculine singular</gram>
+            <gram type="role">perfective aspect</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>koṅk’</form>
+          <def>pollen</def>
+          <form type="sandhi">koṅk</form>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>ivar</form>
+          <def>climb</def>
+          <gramGrp>
+            <gram type="role">verbal root as peyareccam</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>kuḻalōṭ’</form>
+          <def>locks</def>
+          <form type="sandhi">kuḻalōṭ</form>
+          <gramGrp>
+            <gram type="role">sociative</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>i<c type="geminated">v</c></form>
+          <def>this</def>
+          </entry>
+          <entry>
+          <form>vaḻi<c type="geminated">t</c></form>
+          <def>way</def>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>taṅkiṉai</form>
+          <def>stayed</def>
+          <gramGrp>
+            <gram type="role">participial noun</gram>
+            <gram type="role">singular</gram>
+            <gram type="role">second person</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>ceṉmō</form>
+          <def>go</def>
+          <gramGrp>
+            <gram type="role">imperative</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>takai</form>
+          <def>suitable</def>
+          <gramGrp>
+            <gram type="role">noun</gram>
+          </gramGrp>
+          </entry>
+          <entry>
+          <form>veyyōṉ-ē</form>
+          <def>hot</def>
+          <form type="simple">veyyōṉ</form>
+          <gramGrp>
+            <gram type="role">pronominalised noun</gram>
+            <gram type="role">masculine singular</gram>
+          </gramGrp>
+          <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+          </entry>
+          </standOff>
+          <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV23poem6" type="apparatus" source="alignments/TNV23poem6.xml"><listApp>
+            <app corresp="22,31">
+              <lem wit="#TNVc #TNVed #KKms #KKed">cērntaṉaṉ</lem>
+              <rdg wit="#TNVms">cēntaṉaṉ</rdg>
+            </app>
+            <app corresp="39,45">
+              <lem wit="#TNVc #TNVed #KKedpc">kuḻalō</lem>
+              <rdg wit="#TNVms">kuḻaliyō</rdg>
+              <rdg wit="#KKms #KKedac">kōtaiyō</rdg>
+            </app>
+            <app corresp="45,53">
+              <lem wit="#TNVmspc #TNVc #TNVed #KKms #KKed">ṭivvaḻit</lem>
+              <rdg wit="#TNVmsac">ṭevvaḻit</rdg>
+            </app>
+            <app corresp="61,66">
+              <lem wit="#TNVms #TNVc #TNVed #KKedpc">ceṉmō</lem>
+              <rdg wit="#KKms #KKedac">ceṉmē</rdg>
+            </app>
+            
+            </listApp>
+            </standOff>
 </TEI>
