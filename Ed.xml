@@ -25,11 +25,11 @@
             <abbr type="siglum">KKms</abbr>
             <expan>KKms</expan>
             <witness xml:id="KKmsac" type="ac">
-              <abbr type="siglum">KKmsac</abbr>
+              <abbr type="siglum">KKms<hi rend="subscript">ac</hi></abbr>
               <expan>KKms [ante correctionem]</expan>
             </witness>
             <witness xml:id="KKmspc" type="pc">
-              <abbr type="siglum">KKmspc</abbr>
+              <abbr type="siglum">KKms<hi rend="subscript">pc</hi></abbr>
               <expan>KKms [post correctionem]</expan>
             </witness>
           </witness>
@@ -37,11 +37,11 @@
             <abbr type="siglum">KKed</abbr>
             <expan>KKprint</expan>
             <witness xml:id="KKedac" type="ac">
-              <abbr type="siglum">KKedac</abbr>
+              <abbr type="siglum">KKed<hi rend="subscript">ac</hi></abbr>
               <expan>KKprint [ante correctionem]</expan>
             </witness>
             <witness xml:id="KKedpc" type="pc">
-              <abbr type="siglum">KKedpc</abbr>
+              <abbr type="siglum">KKed<hi rend="subscript">pc</hi></abbr>
               <expan>KKprint [post correctionem]</expan>
             </witness>
           </witness>
@@ -57,11 +57,11 @@
             <abbr type="siglum">TNVc</abbr>
             <expan>Tamiḻneṟi Viḷakkam Paper</expan>
             <witness xml:id="TNVcac" type="ac">
-              <abbr type="siglum">TNVcac</abbr>
+              <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
               <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
             </witness>
             <witness xml:id="TNVcpc" type="pc">
-              <abbr type="siglum">TNVcpc</abbr>
+              <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
               <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
             </witness>
           </witness>
@@ -69,13 +69,17 @@
             <abbr type="siglum">TNVms</abbr>
             <expan> Tamiḻneṟi Viḷakkam </expan>
             <witness xml:id="TNVmsac" type="ac">
-              <abbr type="siglum">TNVmsac</abbr>
+              <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
               <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
             </witness>
             <witness xml:id="TNVmspc" type="pc">
-              <abbr type="siglum">TNVmspc</abbr>
+              <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
               <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
             </witness>
+            <witness xml:id="TKn" source="witnesses/Tol.xml">
+            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+            <expan>Tolkāppiyam Nacci</expan>
+          </witness>
           </witness>
           <witness xml:id="Ed" source="witnesses/Ed.xml">
             <abbr type="siglum">Ed</abbr>
@@ -338,7 +342,30 @@
         type="translation" xml:lang="en">
           ?
         </lg-->
-      </div>         
+      </div>        
+      <div xml:id="TNV23poem21">
+        <lg type="edition">
+          <l>ivaḷē nalamēm paṭṭa vaṉpiṉa ḷivaṉē</l>
+          <l>kulamēm paṭṭa cāṉṟōr makaṉē</l>
+          <l>iruvar taṉmaiyu nōkkip</l>
+          <l>paruvara leytātu koṭuttalō paṇpē</l></lg>
+          <!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
+      <div xml:id="TNV24poem4">
+        <lg type="edition">
+      <l>āṟucel varuttañ cīṟaṭi civappavum</l>
+      <l>ciṉai nīṅku taḷiriṉ vaṇṇam vāṭavum</l>
+      <l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷoṭu</l>
+      <l>vēypayi laḻuva muvakkumeṉ</l>
+      <l>pētai neñcam peruntakai yuṭaittē</l></lg>
+      <!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
@@ -3849,4 +3876,58 @@
             
             </listApp>
             </standOff>
+   <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV23poem21" type="apparatus" source="alignments/TNV23poem21.xml"><listApp>
+<app corresp="0,5">
+  <lem wit="#TNVcpc #TNVed">ivaḷē</lem>
+  <rdg wit="#TNVms">vēḷē</rdg>
+  <rdg wit="#TNVcac">vaḷē</rdg>
+</app>
+<app corresp="24,30">
+  <lem wit="#TNVms">ḷivaṉē</lem>
+  <rdg wit="#TNVc #TNVed">ḷivaḷē</rdg>
+</app>
+<app corresp="82,89">
+  <lem wit="#TNVmspc #TNVc #TNVed">leytātu</lem>
+  <rdg wit="#TNVmsac">leyttātu</rdg>
+</app>
+
+</listApp>
+</standOff>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV24poem4" type="apparatus" source="alignments/TNV24poem4.xml"><listApp>
+<app corresp="0,6">
+  <lem wit="#TNVms #TNVc #TNVed #NAed">āṟucel</lem>
+  <rdg wit="#TKn">āṟucelal</rdg>
+</app>
+<app corresp="6,14">
+  <lem wit="#TNVms #TNVc #TNVed">varuttañ</lem>
+  <rdg wit="#NAed">varuttatuc</rdg>
+  <rdg wit="#TKn">varuttatavuñ</rdg>
+</app>
+<app corresp="20,30">
+  <lem wit="#TNVed">civappavum</lem>
+  <rdg wit="#TNVms #TNVc #NAed #TKn">civappavuñ</rdg>
+</app>
+<app corresp="53,60">
+  <lem wit="#TNVmspc #TNVc #TNVed #NAed #TKn">vāṭavum</lem>
+  <rdg wit="#TNVmsac">vāṭavuṅn</rdg>
+</app>
+<app corresp="82,90">
+  <lem wit="#TNVms #TNVc #TNVed">mivaḷoṭu</lem>
+  <rdg wit="#NAed #TKn">mivaḷuṭaṉ</rdg>
+</app>
+<app corresp="103,113">
+  <lem wit="#TNVms #TNVc #TNVed">muvakkumeṉ</lem>
+  <rdg wit="#NAed #TKn">muvakkum</rdg>
+</app>
+<app corresp="124,134">
+  <lem wit="#TNVms #TNVc #TNVed">peruntakai</lem>
+  <rdg wit="#NAed #TKn">peruntaka</rdg>
+</app>
+<app corresp="134,142">
+  <lem wit="#TNVms #TNVc #TNVed">yuṭaittē</lem>
+  <rdg wit="#NAed #TKn">vuṭaittē</rdg>
+</app>
+
+</listApp>
+</standOff>
 </TEI>
