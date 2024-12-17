@@ -251,6 +251,16 @@
           ?
         </lg-->
       </div>
+      <div xml:id="TNV19poem5">
+        <lg type="edition">
+      <l>murukaṟ cevviyoṭu pakalvari ṉivvaḻi</l>
+<l>viraviyaṟ kavvai yañcutum</l>
+<l>iravari ṉataṉiṉum peritañ cutumē</l></lg>
+<!--lg
+        type="translation" xml:lang="en">
+          ?
+        </lg-->
+      </div>
       <div xml:id="TNV19poem9">
         <lg type="edition">
           <l>itaṟkoṇ ṭiṉiyān teḷitu mēṉāḷ</l>
@@ -2608,7 +2618,38 @@
 
     </listApp>
   </standOff>
-  <standOff type="wordsplit" corresp="#TNV19poem9">
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV19poem5" type="apparatus" source="alignments/TNV19poem5.xml"><listApp>
+<app corresp="25,32">
+  <lem wit="#TNVms #TNVc #TNVed">ṉivvaḻi</lem>
+  <rdg wit="#KKms #KKed">ṉavvaḻi</rdg>
+</app>
+<app corresp="32,41">
+  <lem wit="#TNVc #TNVed #KKedpc">viraviyaṟ</lem>
+  <rdg wit="#TNVms"/>
+  <rdg wit="#KKms">yiraviyaṟ</rdg>
+  <rdg wit="#KKedac">yi(?ka)raviyaṟ</rdg>
+</app>
+<app corresp="41,47">
+  <lem wit="#TNVc #TNVed #KKms #KKed">kavvai</lem>
+  <rdg wit="#TNVms"/>
+</app>
+<app corresp="47,54">
+  <lem wit="#TNVc #TNVed #KKms #KKed">yañcutu</lem>
+  <rdg wit="#TNVms"/>
+</app>
+<app corresp="54,62">
+  <lem wit="#TNVcpc #TNVed #KKms #KKed">m iravari</lem>
+  <rdg wit="#TNVms">miruḷvari</rdg>
+  <rdg wit="#TNVcac">miru vari</rdg>
+</app>
+<app corresp="62,71">
+  <lem wit="#TNVmspc #TNVc #TNVed #KKms #KKed">ṉataṉiṉum</lem>
+  <rdg wit="#TNVmsac">ta ṉataṉiṉum</rdg>
+</app>
+
+</listApp>
+</standOff>
+  <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV19poem9">
 <interp type="alignment" select="0">8MG13ML12MG64M2G6MGM,110M</interp>
 <entry>
 <form>itaṉ</form>
@@ -2731,8 +2772,9 @@
 <form type="simple">matittaṉṟu</form>
 <form type="sandhi">matittaṉṟ</form>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
@@ -2748,54 +2790,53 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-    <standOff corresp="#TNV19poem9" type="apparatus" source="alignments/TNV19poem9.xml"><listApp>
-      <app corresp="7,14">
-        <lem wit="#TNVcpc #TNVed">ṭiṉiyān</lem>
-        <rdg wit="#TNVms #TNVcac"/>
-        <rdg wit="#KKms">ṭiyāṉ</rdg>
-        <rdg wit="#KKed">ṭi[ṉi]yāṉ</rdg>
-      </app>
-      <app corresp="14,20">
-        <lem wit="#TNVcpc #TNVed">teḷitu</lem>
-        <rdg wit="#TNVms">terintatu</rdg>
-        <rdg wit="#TNVcac">teḷintatu</rdg>
-        <rdg wit="#KKmsac">ṟeḻintu</rdg>
-        <rdg wit="#KKmspc">ṟeḷintu</rdg>
-        <rdg wit="#KKed">teḷintu</rdg>
-      </app>
-      <app corresp="20,25">
-        <lem wit="#TNVcpc #TNVed #KKms #KKed">mēṉāḷ</lem>
-        <rdg wit="#TNVms">vēmēṉāḷaṇ</rdg>
-        <rdg wit="#TNVcac">vēēmuṉāḷaṇ</rdg>
-      </app>
-      <app corresp="32,39">
-        <lem wit="#TNVcpc #TNVed">ṭuriñcu</lem>
-        <rdg wit="#TNVms #TNVcac">riñcu</rdg>
-        <rdg wit="#KKms">ṭuñcu</rdg>
-        <rdg wit="#KKedac">ṭu [tu]ñcuñcu</rdg>
-        <rdg wit="#KKedpc">ṭu [tu]ñcuriñcu</rdg>
-      </app>
-      <app corresp="47,55">
-        <lem wit="#TNVms #TNVc #TNVed #KKed">vāḻkkaik</lem>
-        <rdg wit="#KKms">vāṭkaik</rdg>
-      </app>
-      <app corresp="61,72">
-        <lem wit="#TNVms #TNVc #TNVed #KKed">ḷāka vallatu</lem>
-        <rdg wit="#KKmsac">ḷākala mallatum</rdg>
-        <rdg wit="#KKmspc">ḷāka mallatum</rdg>
-      </app>
-      <app corresp="88,98">
-        <lem wit="#TNVmspc #TNVc #TNVed">matittaṉṟō</lem>
-        <rdg wit="#TNVmsac">matittaṉteṟō</rdg>
-        <rdg wit="#KKms #KKed">matittaṉṟu</rdg>
-      </app>
-      <app corresp="98,104">
-        <lem wit="#TNVms #TNVc #TNVed">vilamē</lem>
-        <rdg wit="#KKms #KKed">milamē</rdg>
-      </app>
-      
-      </listApp>
-      </standOff>
+   <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV19poem9" type="apparatus" source="alignments/TNV19poem9.xml"><listApp>
+<app corresp="7,14">
+  <lem wit="#TNVcpc #TNVed">ṭiṉiyān</lem>
+  <rdg wit="#TNVms #TNVcac"/>
+  <rdg wit="#KKms">ṭiyāṉ</rdg>
+  <rdg wit="#KKed">ṭi[ṉi]yāṉ</rdg>
+</app>
+<app corresp="14,20">
+  <lem wit="#TNVcpc #TNVed">teḷitu</lem>
+  <rdg wit="#TNVms">terintatu</rdg>
+  <rdg wit="#TNVcac">teḷintatu</rdg>
+  <rdg wit="#KKmsac">ṟeḻintu</rdg>
+  <rdg wit="#KKmspc">ṟeḷintu</rdg>
+  <rdg wit="#KKed">teḷintu</rdg>
+</app>
+<app corresp="20,25">
+  <lem wit="#TNVcpc #TNVed #KKms #KKed">mēṉāḷ</lem>
+  <rdg wit="#TNVms">vēmēṉāḷaṇ</rdg>
+  <rdg wit="#TNVcac">vēēmuṉāḷaṇ</rdg>
+</app>
+<app corresp="32,39">
+  <lem wit="#TNVcpc #TNVed #KKedpc">ṭuriñcu</lem>
+  <rdg wit="#TNVms #TNVcac">riñcu</rdg>
+  <rdg wit="#KKms">ṭuñcu</rdg>
+  <rdg wit="#KKedac">ṭu [tu]ñcu</rdg>
+</app>
+<app corresp="47,55">
+  <lem wit="#TNVms #TNVc #TNVed #KKed">vāḻkkaik</lem>
+  <rdg wit="#KKms">vāṭkaik</rdg>
+</app>
+<app corresp="61,72">
+  <lem wit="#TNVms #TNVc #TNVed #KKed">ḷāka vallatu</lem>
+  <rdg wit="#KKmsac">ḷākala mallatum</rdg>
+  <rdg wit="#KKmspc">ḷāka mallatum</rdg>
+</app>
+<app corresp="88,98">
+  <lem wit="#TNVmspc #TNVc #TNVed">matittaṉṟō</lem>
+  <rdg wit="#TNVmsac">matittaṉteṟō</rdg>
+  <rdg wit="#KKms #KKed">matittaṉṟu</rdg>
+</app>
+<app corresp="98,104">
+  <lem wit="#TNVms #TNVc #TNVed">vilamē</lem>
+  <rdg wit="#KKms #KKed">milamē</rdg>
+</app>
+
+</listApp>
+</standOff>
       <standOff type="wordsplit" corresp="#TNV20poem5">
 <interp type="alignment" select="0">5MG25M2G38MGM,73M</interp>
 <entry>

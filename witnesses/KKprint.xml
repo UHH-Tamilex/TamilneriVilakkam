@@ -169,12 +169,18 @@
          <pb n="96"/>
   <l>vaṇarcuri yaimpāl vāṇuta larivai</l>
 <l><subst><del rend="strikethrough">yavaṭiṟa maṟital</del><add place="left">aṇaitiṟa maṟiyalaṉ</add></subst> yāvatu<add place="right">m</add></l> 
-<l>puṇartuyiṉ maṟantaṉa puḷḷiṉam peyarntē</l></lg>
+  <l>puṇartuyiṉ maṟantaṉa puḷḷiṉam peyarntē</l></lg>
+ <lg xml:id="TNV19poem5" corresp="TNV19poem5">
+  <milestone unit="page" n="107" facs="8"/>
+         <pb n="107"/>   
+<l>murukaṟ cevviyoṭu pakalvari ṉavvaḻi</l>
+<l><subst><del rend="strikethrough">yi(?ka)</del><add place="left">vi</add></subst>raviyaṟ kavvai yañcutu</l>
+<l>miravari ṉataṉiṉum peritañ cutumē</l></lg>
         <lg xml:id="TNV19poem9" corresp="TNV19poem9">
              <milestone unit="page" n="82" facs="46"/>
          <pb n="82"/>
 <l>itaṟkoṇ ṭi[ṉi]yāṉ teḷintu mēṉāḷ</l>
-<l>matikkōṭu [tu]ñcu<add place="left">ri</add>ñcu mālvarai vāḻkkaik</l>
+<l>matikkōṭu <subst><del rend="implied">[tu]</del><add place="left">ri</add></subst>ñcu mālvarai vāḻkkaik</l>
 <l>kaṭavu ḷāka vallatu</l>
 <l>maṭavaraṉ mātarai matittaṉṟu milamē</l></lg> 
         <lg xml:id="TNV20poem5" corresp="TNV20poem5">
