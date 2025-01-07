@@ -1,5 +1,62 @@
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">
-    <teiHeader><listWit><witness xml:id="KKms" source="KKms.xml"><abbr type="siglum">KKms</abbr><expan>KKms</expan><witness xml:id="KKmsac" type="ac"><abbr type="siglum">KKmsac</abbr><expan>KKms [ante correctionem]</expan></witness><witness xml:id="KKmspc" type="pc"><abbr type="siglum">KKmspc</abbr><expan>KKms [post correctionem]</expan></witness></witness><witness xml:id="KKed" source="KKprint.xml"><abbr type="siglum">KKed</abbr><expan>KKprint</expan><witness xml:id="KKedac" type="ac"><abbr type="siglum">KKedac</abbr><expan>KKprint [ante correctionem]</expan></witness><witness xml:id="KKedpc" type="pc"><abbr type="siglum">KKedpc</abbr><expan>KKprint [post correctionem]</expan></witness></witness><witness xml:id="TNVed" source="TNV1947.xml"><abbr type="siglum">TNVed</abbr><expan>TNV print</expan></witness><witness xml:id="TNVc" source="UVSL_48032.xml"><abbr type="siglum">TNVc</abbr><expan>Tamiḻneṟi Viḷakkam Paper</expan><witness xml:id="TNVcac" type="ac"><abbr type="siglum">TNVcac</abbr><expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan></witness><witness xml:id="TNVcpc" type="pc"><abbr type="siglum">TNVcpc</abbr><expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan></witness></witness><witness xml:id="TNVms" source="UVSLMS000950.xml"><abbr type="siglum">TNVms</abbr><expan> Tamiḻneṟi Viḷakkam  </expan><witness xml:id="TNVmsac" type="ac"><abbr type="siglum">TNVmsac</abbr><expan> Tamiḻneṟi Viḷakkam   [ante correctionem]</expan></witness><witness xml:id="TNVmspc" type="pc"><abbr type="siglum">TNVmspc</abbr><expan> Tamiḻneṟi Viḷakkam   [post correctionem]</expan></witness></witness></listWit>
+    <teiHeader><listWit><witness xml:id="KKms" source="witnesses/KKms.xml"><abbr type="siglum">KKms</abbr><expan>KKms</expan><witness xml:id="KKmsac" type="ac"><abbr type="siglum">KKmsac</abbr><expan>KKms [ante correctionem]</expan></witness><witness xml:id="KKmspc" type="pc"><abbr type="siglum">KKmspc</abbr><expan>KKms [post correctionem]</expan></witness></witness><witness xml:id="KKed" source="witnesses/KKprint.xml"><abbr type="siglum">KKed</abbr><expan>KKprint</expan><witness xml:id="KKedac" type="ac"><abbr type="siglum">KKedac</abbr><expan>KKprint [ante correctionem]</expan></witness><witness xml:id="KKedpc" type="pc"><abbr type="siglum">KKedpc</abbr><expan>KKprint [post correctionem]</expan></witness></witness><witness xml:id="TNVed" source="witnesses/TNV1947.xml"><abbr type="siglum">TNVed</abbr><expan>TNV print</expan></witness><witness xml:id="TNVc" source="witnesses/UVSL_48032.xml"><abbr type="siglum">TNVc</abbr><expan>Tamiḻneṟi Viḷakkam Paper</expan><witness xml:id="TNVcac" type="ac"><abbr type="siglum">TNVcac</abbr><expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan></witness><witness xml:id="TNVcpc" type="pc"><abbr type="siglum">TNVcpc</abbr><expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan></witness></witness><witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml"><abbr type="siglum">TNVms</abbr><expan> Tamiḻneṟi Viḷakkam  </expan><witness xml:id="TNVmsac" type="ac"><abbr type="siglum">TNVmsac</abbr><expan> Tamiḻneṟi Viḷakkam   [ante correctionem]</expan></witness><witness xml:id="TNVmspc" type="pc"><abbr type="siglum">TNVmspc</abbr><expan> Tamiḻneṟi Viḷakkam   [post correctionem]</expan></witness></witness></listWit>
+<encodingDesc>
+      <editorialDecl>
+        <normalization method="markup">
+<ab>ignore punctuation</ab>
+<ab>candrabindu as anusvāra</ab>
+<ab>geminated aspirated consonants</ab>
+<ab>geminated m after h</ab>
+<ab>geminated t</ab>
+<ab>geminated consonants after r</ab>
+<ab>final nasal variants</ab>
+<ab>internal nasal variants</ab>
+<ab>final anusvāra variants</ab>
+<ab>visarga aḥ before voiced consonants</ab>
+<ab>visarga aḥ before vowels</ab>
+<ab>visarga aḥ before unvoiced consonants and space + anusvāra</ab>
+<ab>visarga āḥ variants</ab>
+<ab>other visarga variants</ab>
+<ab>superfluous avagrahas</ab>
+<ab>double avagrahas</ab>
+<ab>avagrahas</ab>
+<ab>internal visarga variants</ab>
+<ab>final au/āv</ab>
+<ab>final su</ab>
+<ab>final i</ab>
+<ab>kcch/kś</ab>
+<ab>cś/tś</ab>
+<ab>cch/ch</ab>
+<ab>final t + hi</ab>
+<ab>final t + voiced syllable</ab>
+<ab>final t + n/m</ab>
+<ab>final t + c/j</ab>
+<ab>i/y + vowel</ab>
+<ab>bhd for bdh</ab>
+<ab>remove spaces</ab>
+        </normalization>
+        <ab type="tagfilters">
+<tag subtype="ignore">pc</tag>
+<tag subtype="ignore">cb</tag>
+<tag subtype="ignore">corr</tag>
+<tag subtype="ignore">damage</tag>
+<tag subtype="ignore">ex</tag>
+<tag subtype="ignore">label</tag>
+<tag subtype="ignore">lb</tag>
+<tag subtype="ignore">milestone</tag>
+<tag subtype="ignore">note</tag>
+<tag subtype="ignore">num</tag>
+<tag subtype="ignore">pb</tag>
+<tag subtype="ignore">ptr</tag>
+<tag subtype="ignore">anchor</tag>
+<tag subtype="ignore">locus</tag>
+<tag subtype="ignore">metamark</tag>
+<tag subtype="ignore">space</tag>
+<tag subtype="ignore">surplus</tag>
+<tag subtype="ignore">caesura</tag>
+        </ab>
+      </editorialDecl>
+    </encodingDesc>
         <xenoData><stemma format="nexml" id="stemma0"><nex:nexml xmlns:nex="http://www.nexml.org/2009" version="0.9"><nex:otus id="otus1"><nex:otu id="otu0" label="KKedac"/><nex:otu id="otu1" label="KKmsac"/><nex:otu id="otu2" label="KKmspc"/><nex:otu id="otu3" label="TNVcpc"/><nex:otu id="otu4" label="TNVed"/><nex:otu id="otu5" label="KKedpc"/><nex:otu id="otu6" label="TNVmsac"/><nex:otu id="otu7" label="TNVcac"/><nex:otu id="otu8" label="TNVmspc"/></nex:otus><nex:trees otus="otus1" id="trees1"><nex:tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="guidetree" label="guidetree" xsi:type="nex:FloatTree"><nex:node id="defaabcb-c1ff-479e-82a1-2dbd9e136d3a" root="true"/><nex:node id="08a2cff7-ccff-40e3-8106-b8d34f226ae8"/><nex:node id="9a53eb19-a202-440c-aae6-9dc53da85511" label="KKedac" otu="otu2"/><nex:node id="bea4471b-a800-43ed-9e61-492b1fde82b6"/><nex:node id="e47c1f5e-083e-43a3-9bb7-4d53afdf08b8" label="KKmsac" otu="otu4"/><nex:node id="6b55f57f-61bd-45c4-b84b-fdd1c02cb58b" label="KKmspc" otu="otu5"/><nex:node id="ed1c086a-a4d1-40ae-b920-73ead8b6dac5"/><nex:node id="35abc0de-3741-4fc2-bccb-c7f67311118c"/><nex:node id="7a8652ae-1335-411d-9ccb-3b9af4e77d2d"/><nex:node id="5fe66c2d-df50-4632-9baf-32dcd537af4d" label="TNVcpc" otu="otu9"/><nex:node id="e58e8a2d-9de4-4168-a074-704e5062e6f8" label="TNVed" otu="otu10"/><nex:node id="7f9eab1d-0d00-4b88-a1e7-63b0031dcec0" label="KKedpc" otu="otu11"/><nex:node id="72745d65-a318-42b8-8bc1-e8e72ca38989"/><nex:node id="cbc8815a-cddc-4dfe-9a19-4334558adab1" label="TNVmsac" otu="otu13"/><nex:node id="65716251-c409-4b3b-a36b-2e25cbb87cff"/><nex:node id="bb685775-52e8-4d31-b5bc-a292d966b7ab" label="TNVcac" otu="otu15"/><nex:node id="50d5ad12-1d02-43d4-882d-f34824573caa" label="TNVmspc" otu="otu16"/><nex:edge source="defaabcb-c1ff-479e-82a1-2dbd9e136d3a" target="08a2cff7-ccff-40e3-8106-b8d34f226ae8" id="edge0" length="0.0985017431739828"/><nex:edge source="defaabcb-c1ff-479e-82a1-2dbd9e136d3a" target="ed1c086a-a4d1-40ae-b920-73ead8b6dac5" id="edge1" length="0.0985017431739828"/><nex:edge source="08a2cff7-ccff-40e3-8106-b8d34f226ae8" target="9a53eb19-a202-440c-aae6-9dc53da85511" id="edge2" length="0.5412863628307995"/><nex:edge source="08a2cff7-ccff-40e3-8106-b8d34f226ae8" target="bea4471b-a800-43ed-9e61-492b1fde82b6" id="edge3" length="0"/><nex:edge source="ed1c086a-a4d1-40ae-b920-73ead8b6dac5" target="35abc0de-3741-4fc2-bccb-c7f67311118c" id="edge4" length="0.20352791354130972"/><nex:edge source="ed1c086a-a4d1-40ae-b920-73ead8b6dac5" target="72745d65-a318-42b8-8bc1-e8e72ca38989" id="edge5" length="0.07830311664385059"/><nex:edge source="bea4471b-a800-43ed-9e61-492b1fde82b6" target="e47c1f5e-083e-43a3-9bb7-4d53afdf08b8" id="edge6" length="0.4159703792997256"/><nex:edge source="bea4471b-a800-43ed-9e61-492b1fde82b6" target="6b55f57f-61bd-45c4-b84b-fdd1c02cb58b" id="edge7" length="0.25950480652476826"/><nex:edge source="35abc0de-3741-4fc2-bccb-c7f67311118c" target="7a8652ae-1335-411d-9ccb-3b9af4e77d2d" id="edge8" length="0.043534171189022364"/><nex:edge source="35abc0de-3741-4fc2-bccb-c7f67311118c" target="7f9eab1d-0d00-4b88-a1e7-63b0031dcec0" id="edge9" length="0.4089760439048721"/><nex:edge source="72745d65-a318-42b8-8bc1-e8e72ca38989" target="cbc8815a-cddc-4dfe-9a19-4334558adab1" id="edge10" length="0.2910270178766952"/><nex:edge source="72745d65-a318-42b8-8bc1-e8e72ca38989" target="65716251-c409-4b3b-a36b-2e25cbb87cff" id="edge11" length="0.1205858967536324"/><nex:edge source="7a8652ae-1335-411d-9ccb-3b9af4e77d2d" target="5fe66c2d-df50-4632-9baf-32dcd537af4d" id="edge12" length="0"/><nex:edge source="7a8652ae-1335-411d-9ccb-3b9af4e77d2d" target="e58e8a2d-9de4-4168-a074-704e5062e6f8" id="edge13" length="0"/><nex:edge source="65716251-c409-4b3b-a36b-2e25cbb87cff" target="bb685775-52e8-4d31-b5bc-a292d966b7ab" id="edge14" length="0"/><nex:edge source="65716251-c409-4b3b-a36b-2e25cbb87cff" target="50d5ad12-1d02-43d4-882d-f34824573caa" id="edge15" length="0.011187811002022867"/></nex:tree></nex:trees></nex:nexml></stemma></xenoData>
     </teiHeader>
     <TEI n="Ed">

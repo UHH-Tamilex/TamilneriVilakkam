@@ -2,6 +2,34 @@
     <teiHeader><listWit><witness xml:id="KKms" source="KKms.xml"><abbr type="siglum">KKms</abbr><expan>KKms</expan><witness xml:id="KKmsac" type="ac"><abbr type="siglum">KKmsac</abbr><expan>KKms [ante correctionem]</expan></witness><witness xml:id="KKmspc" type="pc"><abbr type="siglum">KKmspc</abbr><expan>KKms [post correctionem]</expan></witness></witness><witness xml:id="KKed" source="KKprint.xml"><abbr type="siglum">KKed</abbr><expan>KKprint</expan><witness xml:id="KKedac" type="ac"><abbr type="siglum">KKedac</abbr><expan>KKprint [ante correctionem]</expan></witness><witness xml:id="KKedpc" type="pc"><abbr type="siglum">KKedpc</abbr><expan>KKprint [post correctionem]</expan></witness></witness><witness xml:id="TNVed" source="TNV1947.xml"><abbr type="siglum">TNVed</abbr><expan>TNV print</expan></witness><witness xml:id="TNVc" source="UVSL_48032.xml"><abbr type="siglum">TNVc</abbr><expan>Tamiḻneṟi Viḷakkam Paper</expan><witness xml:id="TNVcac" type="ac"><abbr type="siglum">TNVcac</abbr><expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan></witness><witness xml:id="TNVcpc" type="pc"><abbr type="siglum">TNVcpc</abbr><expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan></witness></witness><witness xml:id="TNVms" source="UVSLMS000950.xml"><abbr type="siglum">TNVms</abbr><expan> Tamiḻneṟi Viḷakkam  </expan><witness xml:id="TNVmsac" type="ac"><abbr type="siglum">TNVmsac</abbr><expan> Tamiḻneṟi Viḷakkam   [ante correctionem]</expan></witness><witness xml:id="TNVmspc" type="pc"><abbr type="siglum">TNVmspc</abbr><expan> Tamiḻneṟi Viḷakkam   [post correctionem]</expan></witness></witness><witness xml:id="Ed" source="Ed.xml"><abbr type="siglum">Ed</abbr><expan>
           <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
         </expan></witness></listWit>
+<encodingDesc>
+      <editorialDecl>
+        <normalization method="markup">
+<ab>ignore punctuation</ab>
+<ab>ignore long/short e</ab>
+<ab>ignore long/short o</ab>
+<ab>insert glide after back vowels</ab>
+<ab>insert glide after front vowels</ab>
+<ab>final -m sandhi variants</ab>
+<ab>ignore puḷḷi</ab>
+<ab>remove spaces</ab>
+        </normalization>
+        <ab type="tagfilters">
+<tag subtype="ignore">pc</tag>
+<tag subtype="ignore">abbr</tag>
+<tag subtype="ignore">corr</tag>
+<tag subtype="ignore">ex</tag>
+<tag subtype="ignore">head</tag>
+<tag subtype="ignore">label</tag>
+<tag subtype="ignore">note</tag>
+<tag subtype="ignore">num</tag>
+<tag subtype="ignore">locus</tag>
+<tag subtype="ignore">metamark</tag>
+<tag subtype="ignore">supplied</tag>
+<tag subtype="ignore">surplus</tag>
+        </ab>
+      </editorialDecl>
+    </encodingDesc>
         <xenoData><stemma format="nexml" id="stemma0"><nex:nexml xmlns:nex="http://www.nexml.org/2009" version="0.9"><nex:otus id="otus1"><nex:otu id="otu0" label="TNVc"/><nex:otu id="otu1" label="TNVed"/><nex:otu id="otu2" label="Ed"/><nex:otu id="otu3" label="KKedpc"/><nex:otu id="otu4" label="KKmsac"/><nex:otu id="otu5" label="KKedac"/><nex:otu id="otu6" label="KKmspc"/><nex:otu id="otu7" label="TNVms"/></nex:otus><nex:trees otus="otus1" id="trees1"><nex:tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="guidetree" label="guidetree" xsi:type="nex:FloatTree"><nex:node id="c58a3375-1e62-4e63-bfdd-0f79a8067839" root="true"/><nex:node id="00c724fa-5bc6-4dfd-b5f4-6765ffcd3447"/><nex:node id="ca930b3d-91e9-45f2-afcd-1ab807b9ff38" label="TNVc" otu="otu2"/><nex:node id="748b54aa-1e8e-4ca6-b3ff-31ce69eb0183" label="TNVed" otu="otu3"/><nex:node id="2936f2c6-e929-4126-975b-7aadac0dac87"/><nex:node id="5f398f3b-d11f-403e-b8b0-6de546145c7e"/><nex:node id="8e9614ee-9874-428c-b627-079f3a20a819" label="Ed" otu="otu6"/><nex:node id="f3c78bd9-d492-469a-acbf-a73b5267b54d" label="KKedpc" otu="otu7"/><nex:node id="1c70ac8e-768b-46cd-bcd5-1babaa1bf255"/><nex:node id="eb9ca222-4889-487c-9c8b-eab950eca605"/><nex:node id="7377b2fe-02eb-413d-ba88-9babf7fb46bd" label="KKmsac" otu="otu10"/><nex:node id="d038a477-47a0-4c3a-9faf-9465cf15c6d8"/><nex:node id="a8888015-e037-4124-9286-4ed800bc617e" label="KKedac" otu="otu12"/><nex:node id="ef32d565-46a6-4217-a2a6-755cbb813ee5" label="KKmspc" otu="otu13"/><nex:node id="ef42b4a4-be0c-4bc4-a584-fd4761085037" label="TNVms" otu="otu14"/><nex:edge source="c58a3375-1e62-4e63-bfdd-0f79a8067839" target="00c724fa-5bc6-4dfd-b5f4-6765ffcd3447" id="edge0" length="0"/><nex:edge source="c58a3375-1e62-4e63-bfdd-0f79a8067839" target="2936f2c6-e929-4126-975b-7aadac0dac87" id="edge1" length="0"/><nex:edge source="00c724fa-5bc6-4dfd-b5f4-6765ffcd3447" target="ca930b3d-91e9-45f2-afcd-1ab807b9ff38" id="edge2" length="0"/><nex:edge source="00c724fa-5bc6-4dfd-b5f4-6765ffcd3447" target="748b54aa-1e8e-4ca6-b3ff-31ce69eb0183" id="edge3" length="0"/><nex:edge source="2936f2c6-e929-4126-975b-7aadac0dac87" target="5f398f3b-d11f-403e-b8b0-6de546145c7e" id="edge4" length="0"/><nex:edge source="2936f2c6-e929-4126-975b-7aadac0dac87" target="1c70ac8e-768b-46cd-bcd5-1babaa1bf255" id="edge5" length="0.2503590153220113"/><nex:edge source="5f398f3b-d11f-403e-b8b0-6de546145c7e" target="8e9614ee-9874-428c-b627-079f3a20a819" id="edge6" length="0"/><nex:edge source="5f398f3b-d11f-403e-b8b0-6de546145c7e" target="f3c78bd9-d492-469a-acbf-a73b5267b54d" id="edge7" length="0"/><nex:edge source="1c70ac8e-768b-46cd-bcd5-1babaa1bf255" target="eb9ca222-4889-487c-9c8b-eab950eca605" id="edge8" length="0.40014934330432195"/><nex:edge source="1c70ac8e-768b-46cd-bcd5-1babaa1bf255" target="ef42b4a4-be0c-4bc4-a584-fd4761085037" id="edge9" length="0.35283091673606326"/><nex:edge source="eb9ca222-4889-487c-9c8b-eab950eca605" target="7377b2fe-02eb-413d-ba88-9babf7fb46bd" id="edge10" length="0.2965764086113718"/><nex:edge source="eb9ca222-4889-487c-9c8b-eab950eca605" target="d038a477-47a0-4c3a-9faf-9465cf15c6d8" id="edge11" length="0.08348640065825674"/><nex:edge source="d038a477-47a0-4c3a-9faf-9465cf15c6d8" target="a8888015-e037-4124-9286-4ed800bc617e" id="edge12" length="0.12344613090311578"/><nex:edge source="d038a477-47a0-4c3a-9faf-9465cf15c6d8" target="ef32d565-46a6-4217-a2a6-755cbb813ee5" id="edge13" length="0.08852579608265694"/></nex:tree></nex:trees></nex:nexml></stemma></xenoData>
     </teiHeader>
     <TEI n="Ed">

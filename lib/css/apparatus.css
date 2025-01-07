@@ -222,6 +222,10 @@ a.alignment-pointer:link, a.alignment-pointer:active {
     display: none;
 }
 
+.hidden {
+    display: none;
+}
+
 @media (max-width: 600px) {
     #alignment-viewer {
         max-width: 90%;
