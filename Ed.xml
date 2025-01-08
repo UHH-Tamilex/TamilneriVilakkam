@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
-  schematypens="http://relaxng.org/ns/structure/1.0"
-  type="application/xml"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
 <?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -691,7 +689,7 @@
         <lem wit="#TNVcpc #TNVed">vāya</lem>
         <rdgGrp select="#KKedac #KKmspc #TNVms #TNVcac">
           <rdg type="main">vāyk</rdg>
-          <rdg type="sandhi" wit="#TNVms #TNVcac">vāyak</rdg>
+          <rdg type="minor" wit="#TNVms #TNVcac">vāyak</rdg>
         </rdgGrp>
         <rdg wit="#KKmsac">vāy</rdg>
         <rdg wit="#KKedpc">vāya,</rdg>
@@ -1432,7 +1430,7 @@
         <lem wit="#TNVed #KKed">neñcam</lem>
         <rdgGrp select="#TNVms #TNVc #KKms">
           <rdg type="main">neñca</rdg>
-          <rdg type="sandhi" wit="#TNVcpc">neñca,</rdg>
+          <rdg type="minor" wit="#TNVcpc">neñca,</rdg>
         </rdgGrp>
         <rdg wit="#NAed">ṉeñca</rdg>
       </app>
@@ -1449,8 +1447,8 @@
         <lem wit="#TNVed">matitaraṉ</lem>
         <rdgGrp select="#TNVms #TNVc #KKms #KKedpc">
           <rdg type="main">matitara</rdg>
-          <rdg type="sandhi" wit="#TNVcpc">matitara,</rdg>
-          <rdg type="sandhi" wit="#KKedpc">matitra</rdg>
+          <rdg type="minor" wit="#TNVcpc">matitara,</rdg>
+          <rdg type="minor" wit="#KKedpc">matitra</rdg>
         </rdgGrp>
         <rdg wit="#KKedac">matitā</rdg>
         <rdg wit="#NAed">matiyā</rdg>
@@ -1492,7 +1490,7 @@
         <lem wit="#TNVed">āṉilai</lem>
         <rdgGrp select="#TNVms #KKms #KKed #TNVcac">
           <rdg type="main">yāṉilai</rdg>
-          <rdg type="sandhi" wit="#TNVcac">yā ṉi lai</rdg>
+          <rdg type="minor" wit="#TNVcac">yā ṉi lai</rdg>
         </rdgGrp>
         <rdg wit="#TNVcpc">yā ni lai</rdg>
         <rdg wit="#NAed">yāṉiṟai</rdg>
@@ -1668,7 +1666,7 @@
         <rdg wit="#KKmsac">ṉaypeṟ</rdg>
         <rdgGrp select="#KKmspc #KKedac">
           <rdg type="main">meṉaypeṟ</rdg>
-          <rdg type="sandhi" wit="#KKedac">me(ṉa)y peṟ</rdg>
+          <rdg type="minor" wit="#KKedac">me(ṉa)y peṟ</rdg>
         </rdgGrp>
       </app>
       <app corresp="55,61">
@@ -2453,14 +2451,14 @@
         <lem wit="#TNVms #TNVc #TNVed #KKedpc">taṉaḷē</lem>
         <rdgGrp select="#KKms #KKedac">
           <rdg type="main">tilaḷē</rdg>
-          <rdg type="sandhi" wit="#KKedac">tilaḷē ...</rdg>
+          <rdg type="minor" wit="#KKedac">tilaḷē ...</rdg>
         </rdgGrp>
       </app>
       <app corresp="70,78">
         <lem wit="#TNVcpc #TNVed #KKms #KKed">laṇṇalum</lem>
         <rdgGrp select="#TNVms #TNVcac">
           <rdg type="main">leṭuttalum</rdg>
-          <rdg type="sandhi" wit="#TNVcac">leṭuttalum,</rdg>
+          <rdg type="minor" wit="#TNVcac">leṭuttalum,</rdg>
         </rdgGrp>
       </app>
       <app corresp="96,103">
@@ -3106,7 +3104,7 @@
         <lem wit="#TNVed #KKmspc">kāṉam</lem>
         <rdgGrp select="#KKed #TNVc #TNVms">
           <rdg type="main">kāṉañ</rdg>
-          <rdg type="sandhi" wit="#TNVcpc">kāṉañ,</rdg>
+          <rdg type="minor" wit="#TNVcpc">kāṉañ,</rdg>
         </rdgGrp>
         <rdg wit="#KKmsac">kāma</rdg>
       </app>
@@ -3459,8 +3457,8 @@
         <rdg wit="#TNVms">cāyali vaṉōy</rdg>
         <rdgGrp select="#TNVc #KKedac #KKms">
           <rdg type="main">cāyaliva ṇōy</rdg>
-          <rdg type="sandhi" wit="#KKedac">cāya liva ṇōy</rdg>
-          <rdg type="sandhi" wit="#KKms">cāya livaṇōy</rdg>
+          <rdg type="minor" wit="#KKedac">cāya liva ṇōy</rdg>
+          <rdg type="minor" wit="#KKms">cāya livaṇōy</rdg>
         </rdgGrp>
       </app>
       <app corresp="26,33">
