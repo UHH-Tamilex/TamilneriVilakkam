@@ -30,6 +30,7 @@ jobs:
           yarn pageindex Ed "Tamiḻneṟi Viḷakkam"
           yarn todb Ed
           yarn dbtohtml "Tamiḻneṟi Viḷakkam"
+          cd ../..
           git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v4
