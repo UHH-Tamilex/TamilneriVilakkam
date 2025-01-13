@@ -3489,9 +3489,11 @@
     <interp type="alignment" select="0">14M2G6M2G4MG43MGM,74M</interp>
     <entry>
       <form>pētai</form>
-      <def>foolish</def>
+      <def>foolish-you</def>
       <gramGrp>
-        <gram type="role">noun</gram>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">second person</gram>
+        <gram type="role">singular</gram>
       </gramGrp>
     </entry>
     <entry>
@@ -3526,7 +3528,7 @@
     </entry>
     <entry>
       <form>ēt’</form>
-      <def>case</def>
+      <def>cause</def>
       <form type="sandhi">ēt</form>
       <gramGrp>
         <gram type="role">noun</gram>
