@@ -3869,8 +3869,8 @@
       </gramGrp>
     </entry>
   </standOff>
-  <standOff xmlns="http://www.tei-c.org/ns/1.0" type="apparatus" corresp="#TNV22poem14" source="undefined"><interp type="normalization">
-   <desc type="tagfilters">
+ <standOff xmlns="http://www.tei-c.org/ns/1.0" type="apparatus" corresp="#TNV22poem14" source="alignments/TNV22poem14.xml"><interp type="normalization">
+  <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
