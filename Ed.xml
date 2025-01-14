@@ -3897,7 +3897,7 @@
     <lem wit="#KKedpc #TNVed #TNVc #TNVms #TKn #YV1960a">mulaiyum</lem>
     <rdgGrp select="#KKedac #YV1960b">
       <rdg type="main">mulaiyiṉa[m]</rdg>
-      <rdg type="minor" wit="#YV1960b">mulaiyum vā</rdg>
+      <rdg type="minor" wit="#YV1960b">mulaiyiṉam</rdg>
     </rdgGrp>
     <rdg wit="#KKms">mulaiyiṉa</rdg>
   </app>
@@ -3905,10 +3905,7 @@
     <lem wit="#TNVed #TNVc #TNVms">vārāṇ</lem>
     <rdg wit="#KKed #TKn">vārā</rdg>
     <rdg wit="#KKms">vāra</rdg>
-    <rdgGrp select="#YV1960a #YV1960b">
-      <rdg type="main">vārāḷ</rdg>
-      <rdg type="minor" wit="#YV1960b">rāḷ mu</rdg>
-    </rdgGrp>
+    <rdg wit="#YV1960a #YV1960b">vārāḷ</rdg>
   </app>
 </listApp></standOff>
   <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV22poem16">
