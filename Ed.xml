@@ -376,6 +376,27 @@
           ?
         </lg-->
       </div>
+      <div rend="parallel">
+        <lg xml:id="TNV24poem12">
+      <l>nāḷu nāḷu māḷviṉai yaḻuṅka</l>
+<l>illiruntu makiḻvōrk killaiyāṟ pukaḻeṉa</l>
+<l>oṇporuṭ kakalvarnaṅ kātalar</l>
+<l>kaṇpaṉi tuyaroḻi tōḻi nīyē</l></lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="parallel">
+        <lg xml:id="TNV24poem26">
+<l>toṭinaṭan tiḻiyac cāayt tōḷavar</l>
+<l>koṭumai kūṟiṉa vāyiṉuṅ koṭumai</l>
+<l>nalvarai nāṭark killai tōḻiyeṉ</l>
+<l>neñciṟ pirintatu milarētam</l>
+<l>kuṉṟa nōkkaṅ kaṭintatu milarē</l></lg>
+ <!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
@@ -4276,4 +4297,409 @@
     <rdg wit="#NAed #TKn">vuṭaittē</rdg>
   </app>
 </listApp></standOff>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV24poem12">
+<interp type="alignment" select="0">3MGMR3MG35MG5MG19MG38MG2M,113M</interp>
+<entry>
+<form>nāḷ-um</form>
+<def>day</def>
+<form type="simple">nāḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>nāḷ-um</form>
+<def>day</def>
+<form type="simple">nāḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>āḷ</form>
+<def>man</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aḻuṅka</form>
+<def>abstain</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>il<c type="geminated">l</c></form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iruntu</form>
+<def>sat</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>makiḻvōrkk’</form>
+<def>rejoice</def>
+<form type="sandhi">makiḻvōrkk</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>illai-<c type="glide">y</c>āl</form>
+<def>not</def>
+<form type="simple">illai</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
+</entry>
+<entry>
+<form>pukaḻ</form>
+<def>praise</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḷ</form>
+<def>shining</def>
+<form type="sandhi">oṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruṭk’</form>
+<def>wealth</def>
+<form type="sandhi">poruṭk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akalvar</form>
+<def>departs</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nam</form>
+<def>our</def>
+<form type="sandhi">naṅ</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kātalar</form>
+<def>lover</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṉi</form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyar</form>
+<def>misery</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻi</form>
+<def>stop(v.r.ipt.)</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nī-<c type="glide">y</c>ē</form>
+<def>you</def>
+<form type="simple">nī</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" type="apparatus" corresp="#TNV24poem12" source="alignments/TNV24poem12.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="23,32">
+    <lem wit="#NAed #TNVcpc #TNVms">illiruntu</lem>
+    <rdg wit="#TNVcac">lilliruntu</rdg>
+  </app>
+  <app corresp="32,41">
+    <lem wit="#TNVc #TNVms">makiḻvōrk</lem>
+    <rdg wit="#NAed">makiḻvōṟ</rdg>
+  </app>
+  <app corresp="90,98">
+    <lem wit="#TNVc #TNVms">tuyaroḻi</lem>
+    <rdg wit="#NAed">tuṭaiyiṉit</rdg>
+  </app>
+</listApp></standOff>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV24poem26">
+<interp type="alignment" select="0">10MG36MG24MG26M2G15MR14M2G6MGM,141M</interp>
+<entry>
+<form>toṭi</form>
+<def>bangle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭant’</form>
+<def>walked</def>
+<form type="sandhi">naṭant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻiya<c type="geminated">c</c></form>
+<def>descend</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cāay<c type="geminated">t</c></form>
+<def>become emaciated</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avar</form>
+<def>that man</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭumai</form>
+<def>cruelty</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiṉa</form>
+<def>spoke</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āyiṉ-um</form>
+<def>although</def>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">v</c>āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>koṭumai</form>
+<def>cruelty</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭarkk’</form>
+<def>land</def>
+<form type="sandhi">nāṭarkk</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>illai</form>
+<def>not</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉ</form>
+<def>my</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neñciṉ</form>
+<def>heart</def>
+<form type="sandhi">neñciṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirintat’-um</form>
+<def>separate</def>
+<form type="simple">pirintatu</form>
+<form type="sandhi">pirintat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ilar</form>
+<def>not</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ētam</form>
+<def>suffering</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṉṟam</form>
+<def>hill</def>
+<form type="sandhi">kuṉṟan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōkkam</form>
+<def>sight</def>
+<form type="sandhi">nōkkaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭintat’-um</form>
+<def>chase away</def>
+<form type="simple">kaṭintatu</form>
+<form type="sandhi">kaṭintat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ilar-ē</form>
+<def>not</def>
+<form type="simple">ilar</form>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

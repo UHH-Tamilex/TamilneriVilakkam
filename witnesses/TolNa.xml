@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>NAprint</title>
+            <title>Tolkāppiyam Nacci</title>
             
-         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
             <date>2025</date>
@@ -15,13 +15,13 @@
                   <repository>
                      <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
                   </repository>
-                  <idno type="shelfmark">NAprint</idno>
+                  <idno type="shelfmark">TolNa</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>test</summary>
+                  <summary>Tolkāppiyam Nacci. Porulatikaram up to poruliyal</summary>
                   
-               <msItem xml:id="NAed" defective="false"><title>NAprint</title></msItem></msContents>
+               <msItem xml:id="TKn" defective="false"><title>Tolkāppiyam Nacci</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -38,7 +38,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="1"/>
+                           <measure unit="folio" quantity="342"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -80,44 +80,28 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>test</p></encodingDesc>
+      <encodingDesc><p>eva style</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/dli.jZY9lup2kZl6TuXGlZQdjZQdkZUy.TVA_BOK_0006786/manifest.json"/></facsimile>
-<text corresp="#NAed"><body xml:lang="ta">
-  <milestone unit="page" n="171" facs="171"/>
-  <pb n="161"/>
-  <lg xml:id="TNV17poem7" corresp="TNV17poem7">
- <l>kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
-<l>taiya puṇvāya māvē kaiviṭ</l>
-<l>ṭakalā ṉammaviv vakaṉpuṉan</l>
-<l>takaiyō ṉuḷḷiya taṟitalu maritē</l></lg>
-   <lg xml:id="TNV17poem13" corresp="TNV17poem13"> <l>tūymai cāṉṟa tolkuṭit tōṉṟi</l>
-<l>vāymai nāviṉ matiyāṉ pōla</l>
-<l>uyartava muṉivar cārvāp</l>
-<l>peyarā nilaiyatu piṟaṅkutiru malaiyē</l></lg>
-  <lg xml:id="TNV17poem35" corresp="TNV17poem35">
-<l>tantunī yaḷitta taṇṭaḻai kāṇṭalum</l>
-<l>vantaṉa ḷetirnta maṭantaitaṉ ṉeñca</l>
-<l>maṇmicai viḷaṅki vaḻuttīr matiyā</l>
-<l>ṉuṇṇiyaṟ paṉuva ṉuḻaiporu ṇuṉitta</l>
-<l>vāymoḻi yamuta maṭukkuvaṇ maṉṉē</l>
-<l>yāṉiṟai peṟṟatu milaḷē</l></lg>
-  <lg xml:id="TNV17poem40" corresp="TNV17poem40">
-  <l>naṟumpūṅ kaṇṇiyum peruntaṇ kōtaiyu</l>
-<l>nakaivāyp piṇaiyalu mukaivāyc cūṭṭum</l>
-<l>puṉaintaṉai yaruḷal vēṇṭuñ</l>
-<l>ciṉaṅko ṭāṉaic ceḻumaṭa māṉē</l></lg>
-<lg xml:id="TNV24poem4" corresp="TNV24poem4">  
-<l>āṟucel varuttatuc cīṟaṭi civappavuñ</l>
+   </facsimile>
+<text corresp="#TKn"> <body xml:lang="ta">
+   <pb n="10"/>
+   <lg xml:id="TNV22poem14" corresp="TNV22poem14">
+<l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
+<l>malaiya ṉoḷvēṟ kaṇṇi</l>
+<l>mulaiyum vārā mutukkuṟain taṉaḷē</l></lg>
+   <lg xml:id="TNV24poem4" corresp="TNV24poem4">
+<l>āṟucelal varuttatavuñ cīṟaṭi civappavuñ</l>
 <l>ciṉainīṅku taḷiriṉ vaṇṇam vāṭavun</l>
 <l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷuṭaṉ</l>
 <l>vēypayi laḻuva muvakkum</l>
-<l>pētai neñcam peruntaka vuṭaittē</l></lg>
-  <lg xml:id="TNV24poem12" corresp="TNV24poem12">  
-<l>nāḷu nāḷu māḷviṉai yaḻuṅka</l>
-<l>illiruntu makiḻvōṟ killaiyāṟ pukaḻeṉa</l>
-<l>oṇporuṭ kakalvarnaṅ kātalar</l>
-<l>kaṇpaṉi tuṭaiyiṉit tōḻi nīyē</l></lg>
-</body></text></TEI>
+<l>pētai neñcam peruntaka vuṭaittē</l></lg>     
+<lg xml:id="TNV24poem26" corresp="TNV24poem26">
+  <l>koṭinilai nekiḻac cāayt tōḷavar</l>
+  <l>koṭumai kūṟiṉa vāyiṉuṅ koṭumai</l>
+<l>nalvarai nāṭar killai tōḻiyeṉ</l>
+  <l>neñciṟ pirintatūu milarē taṅkuṟai</l>
+  <l>nōkkaṅ kaṭintatūu milarē</l>
+  <l>nilattiṉum peritē nontavar natpē</l></lg>
+   </body></text></TEI>
