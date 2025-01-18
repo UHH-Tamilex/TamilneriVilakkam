@@ -17,7 +17,7 @@
     min-height: 50%;
     height: fit-content;
     max-height: 100vh;
-    background: #f5f2f0;
+    background: rgba(245,242,240,0.65);
     padding: 1rem;
     margin: 1rem;
     font-size: 1.1rem;
@@ -101,6 +101,7 @@
 .popup-warnings {
     border: 1px dotted red;
     margin-right: 0.5rem;
+    background: white;
 }
 
 .popup-warnings > div {
