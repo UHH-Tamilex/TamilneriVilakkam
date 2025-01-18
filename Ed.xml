@@ -108,6 +108,165 @@
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
+    <div rend="sūtra">
+    <lg xml:id="TNV1">
+  <l>akattatum puṟattatu māyiru pakutiyiṉ</l>
+<l>mikuttatu māki virintatu poruḷē</l> 
+    </lg>
+   <!--lg xml:lang="en">
+          ?
+        </lg--> 
+    </div>
+  <div rend="sūtra">
+    <lg xml:id="TNV2"> 
+   <l>mutalkaru vaṇainta vuripporu ḷakamē</l></lg>
+   <!--lg xml:lang="en">
+          ?
+        </lg--> 
+   </div> 
+   <div rend="sūtra">
+    <lg xml:id="TNV3">
+  <l>poruppē vemparal puṟavoṭu paḻaṉam</l>
+<l>parappamai vāri kuṟuñcimutaṟ pākē</l> 
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+ <div rend="sūtra">
+    <lg xml:id="TNV4">
+<l>kūtir vēṉil koḻuṅkā roḻipaṉi</l>
+<l>vēṉil muṉpaṉi meyyuyar poḻutē</l>    
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV5">
+    <l>iruṇilai yucci mālai vaikaṟai</l>
+<l>poruṇilai yanti puṇarkkum poḻutē</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV6">
+ <l>teyva māṉiṭañ ceyti yuṇavō</l>
+<l>ṭeytiya vicaivilaṅ kiṉaiyaṉa piṟavum</l>
+<l>poytīr karuveṉap pukaṉṟaṉar koḷalē</l>  
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV7">
+ <l>murukaṉu miraviyu māyaṉum vēntaṉum</l>
+<l>varuṇaṉu māka vakuttaṉar koḷalē</l> 
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV8">
+ <l>veṟpaṉ kuṟavar viṭalai ~eyiṉar</l>
+<l>oṟkam-il kuṟu-m-poṟai nāṭaṉ kuṭavar</l>
+<l>makuṇaṉ uḻavar cērppaṉ paratavar</l>
+<l>iṉaiyaṉa piṟavum makkaḷ peyarē</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV9">
+<l>niṟaittē ṉaḻittalu neṟicceṉ ṟalaittalum</l>
+<l>orukkiṉa mōmpalu muḻavoṭu payiṟalum</l>
+<l>tiraikkaṭaṟ cēṟalō ṭiṉaiyaṉa ceyalē</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV10">  
+<l>tiṉaiyē taruppaṇa mutirai cennel</l>
+<l>vilaikō ḷiṉaiyaṉa mēviya vuṇavē</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV11">
+<l>murukiyaṅ kuṟuñci tuṭiyē pañcuram</l>
+<l> vēṟaṅ kōṭpaṟai tāram</l>
+<l>palliya maruta maḻappaṟai cevvaḻi</l>
+<l>colliya piṟavuñ coṟṟavaṟ ṟicaiyē</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+ <div rend="sūtra">
+    <lg xml:id="TNV12"> 
+<l>vēṅkai kāntaḷ cīya mayilē</l> 
+<l>pāṅkar marāmarañ cennāy paruntē</l> 
+<l>kuruntē mullai yiralai puṟavē</l> 
+<l>kāñci kaḻunīr mēti yaṉṉam</l> 
+<l>kaitai muṇṭakaṅ karāmē kampuḷeṉ</l> 
+<l>ṟeytiya piṟavu miyampiya vilaṅkē</l> 
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+ <div rend="sūtra">
+    <lg xml:id="TNV13">
+<l>puṇartalum piritalu miruttalu mūṭalum</l>
+<l>maṉaivayi ṉiraṅkalu mavaṟṟi ṉimittamum</l>
+<l>kaḷavoṭu kaṟpeṉak kavainar kūṟiya</l>
+<l>aḷavi luripporu ḷāku meṉmaṉār</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV14">
+<l>muntiya nūlōr moḻintaveṇ maṇattiṉum</l>
+<l>kantiruva muṟaimai kaḷaveṉap paṭumē</l> 
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV15">
+<l>taṉṉayan teḷitalun talaippiri vaccamum</l>
+<l>iṉṉiyal vaṉpoṟai yeytuta larumaiyum</l>
+<l>uyireṉak kūṟalu māṟṟiṉaṉ peyartalum</l>
+<l>ceyirtapu kātaṟ ṟeyvap puṇarcci</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>           
+<div rend="sūtra">
+    <lg xml:id="TNV16">
+<l>viṉātalum viṭuttaluṅ kaḻaṟalu maṟuttalum</l>
+<l>nōtalum yāṇṭeṉa viṉṉuḻi yeṉṟalum</l>
+<l>mātaraik kāṇṭalu maṉṉiya vakuttalum</l>
+<l>kiḻavōṟ kicaittalu māṟṟāṉ kiḷattalum</l>
+<l>paḻavarai viṭuttalum pāṅkaṟ kūṭṭam</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>              
       <div rend="parallel">
         <lg xml:id="TNV16poem9">
           <l>nōtaka vuṭaittē neñca matimicai</l>
@@ -119,6 +278,31 @@
           ?
         </lg-->
       </div>
+      <div rend="sūtra">
+    <lg xml:id="TNV17">
+<l>pāṅkuṇar vaiyuṟa virantukuṟai yuṟutalum</l>
+<l>āṅkavaḷ viṉātalu matiyuṭa ṉākkalum</l>
+<l>tuṇitaluñ cēṭpaṭa niṟuttaluñ cuṭṭiya</l>
+<l>taṟiyēṉaṟivaṉ maṟaiyē leṉṟalum</l>
+<l>kuṟiyā kūṟalum paṭaittaṉa moḻitalum</l>
+<l>ariya ḷeṉṟalu nīkū ṟeṉṟalum</l>
+<l>nakaikoṇ ṭāṟṟalu nakāturai yeṉṟalum</l>
+<l>kaiyuṟai yeḷimai kāṭṭalu meyyuṟa</l>
+<l>ovvā teṉṟalu mavaṇilai yuṇarntu</l>
+<l>koḷkuva ṉeṉṟalu maṭaṉmā kūṟalum</l>
+<l>maṟṟatu vilakkaluṅ kaiyuṟai kōṭalum</l>
+<l>viḻaiya vuṇarttalu nāṇoṭu nīṅkalum</l>
+<l>valitākac collik kuṟainayap pittalum</l>
+<l>taḻīik kōṭalun taḻaiyēṟ pittalum</l>
+<l>kaiyuṟai yetirntamai meypeṟa vicaittalum</l>
+<l>virumpiṭa muraittaluṅ kuṟiyoṭu nīṅkalum</l>
+<l>puṉaintu nilaiyalu nilaimai kūṟalum</l>
+<l>pāṅkikoṇ ṭikattalum pakaṟkuṟi yākum</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
       <div rend="parallel">
         <lg xml:id="TNV17poem5">
           <l>ampumukaṅ kiḻitta vempuṇ vāya</l>
@@ -196,6 +380,22 @@
           ?
         </lg-->
       </div>
+<div rend="sūtra">
+    <lg xml:id="TNV18">   
+<l>kātaṉ mikaviṉ vāyviṭu kiḷaviyum</l>
+<l>tōḻi ciṟaippuṟat tēkiṭu kiḷaviyum</l>
+<l>ceṟippaṟi vuṟuttaluñ cūḷeṉa niṉaittalum</l>
+<l>iṟappa nuvaṟalu miruḷvara vēṇṭalum</l>
+<l>maṟuttalu nērtaluṅ kuṟiyiṭam vakuttalum</l>
+<l>nayappa moḻitalu mavaṉvara vuṇarttalum</l>
+<l>kuṟittuḻi yuyttalum peyarcciyo ṭalkuṟic</l>
+<l>ciṟaippuṟa mākac ceppalu nōtalum</l>
+<l>iṟaippuṟa mākiya viravuk kuṟiyē</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>       
       <div rend="parallel">
         <lg xml:id="TNV18poem11">
           <l>varivaḷait tōḷi yorutaṉi yoḻiyap</l>
@@ -251,6 +451,20 @@
           ?
         </lg-->
       </div>
+      <div rend="sūtra">
+    <lg xml:id="TNV19">
+<l>varuneṟi niṉaintu vāraleṉṟalum</l>
+<l>kāppiṭai yīṭṭiṟ kaiyaṟu kiḷaviyum</l>
+<l>varuka veṉṟalum vāra leṉṟalum</l>
+<l>paṭaittu moḻitaluṅ kuṭittiṟaṅ kūṟalum</l>
+<l>arivaiyai yiṉṟiyā ṉaṟintē ṉeṉṟalō</l>
+<l>ṭuriyaṉa kiḷanta piṟavun tokaii</l>
+<l>varaivu kaṭāta lāku meṉmaṉār</l>    
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
       <div rend="parallel">
         <lg xml:id="TNV19poem5">
           <l>murukaṟ cevviyoṭu pakalvari ṉivvaḻi</l>
@@ -272,6 +486,19 @@
           ?
         </lg-->
       </div>
+      <div rend="sūtra">
+    <lg xml:id="TNV20">
+<l>alarperi teṉṟalu mayalvarai vuraittalum</l>
+<l>ulakiyal kūṟi nīyurai yeṉṟalum</l>
+<l>curañcela vāṟṟu niṉṉō ṭeṉṟalum</l>
+<l>varuntiṟa muraittalum vaḻinayap pittalum</l>
+<l>virumpiṉa ṉērnta pāvak kiḷaviyum</l>
+<l>poruntu meṉmaṉār pōkkuṭaṉ valittal</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>    
       <div rend="parallel">
         <lg xml:id="TNV20poem5">
           <l>tīyiṉum veyya veṉkuvai yāyiṉ</l>
@@ -282,6 +509,34 @@
           ?
         </lg-->
       </div>
+      <div rend="sūtra">
+    <lg xml:id="TNV21">
+<l>mukkaṭ kūṭṭa mutalā nāṉkum</l>
+<l>tokkiya loḻukkaṅ kaṟpeṉat tōṉṟum</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>
+<div rend="sūtra">
+    <lg xml:id="TNV22"> 
+<l>maṟutalai yillā māṇpiyal kiḷaviyiṟ</l>
+<l>ṟalaivi tōḻik kaṟattoṭu niṟṟalum</l>
+<l>cevili pukaḻtalun tōḻi yuṇarttalum</l>
+<l>mutuvāyk kaṭṭuvi murukeṉa moḻitalum</l>
+<l>atukuṟit tiṉaitalu maṟala viṉavalum</l>
+<l>poyyeṉa moḻitalum poṉṟat tuṇitalum</l>
+<l>kaiyaṉ ṟeṉṟaluṅ kārikai nērtalum</l>
+<l>pāṅki veṟikkaṭ paṭarkkaimuṉ ṉilaiyum</l>
+<l>īṉṟō ṭaṉvayiṟ kaittā yiyampalum</l>
+<l>varaivetir maṟuttalu maiyalun teḷittalum</l>
+<l>kiḷanta tamarvayi ṉaṟṟāy kiḷattalum</l>
+<l>iḷaiyōṟ ketirtalum veḷippaṭai yeṉmaṉār</l>  
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>    
       <div rend="parallel">
         <lg xml:id="TNV22poem4">
           <l>eyyā vuḷḷamō ṭiṉaiyal vāḻi</l>
@@ -343,6 +598,21 @@
           ?
         </lg-->
       </div>
+      <div rend="sūtra">
+    <lg xml:id="TNV23">
+<l>kaiyaṭai makiḻcci kaṇṭōr kūṟṟē</l> 
+<l>naivuṭaic cevili naṟṟāy moḻiyē</l> 
+<l>celcurat tiraṅkal kaṇṭōr teḷittal</l> 
+<l>ilvayiṟ peyarta liḷaiyōr celavē</l> 
+<l>aṟintaṉaṉ maṟaita layalōr moḻital</l> 
+<l>peyarntaṉar varutal peruṅkiḷai makiḻvē</l> 
+<l>tāyar kūṟṟē talaimakaṉ moḻiyō</l> 
+<l>ṭāyiṉa piṟavu muṭaṉcela vākum</l>  
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>  
       <div rend="parallel">
         <lg xml:id="TNV23poem6">
           <l>ceṅkatirc celvaṉu mattañ cērntaṉaṉ</l>
@@ -364,7 +634,23 @@
           ?
         </lg-->
       </div>
-      <div rend="parallel">
+      <div rend="sūtra">
+    <lg xml:id="TNV24">      
+<l>pirivakai yuṇarttalum pāṅki kūṟa</l>
+<l>uritiṉi ṉaḻuṅkalu maḻuṅkāk kālai</l>
+<l>aṟikuva ṉeṉṟalu maṟiyak kūṟalum</l>
+<l>naṟunuta liṉaitalu nayavarak kūṟalum</l>
+<l>teriyiḻai nērtaluñ celavuṭaṉ mayaṅkalum</l>
+<l>vantatu poḻuteṉa varuntalun tōḻi</l>
+<l>nontaṉa ḷuraippavu nōvāḷ kūṟalum</l>
+<l>āṟṟu vittalu māyiṭai varuvōṉ</l>
+<l>mēṉavuñ cēyiṭaip piriveṉak koḷalē</l>  
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>  
+<div rend="parallel">
         <lg xml:id="TNV24poem4">
           <l>āṟucel varuttañ cīṟaṭi civappavum</l>
           <l>ciṉai nīṅku taḷiriṉ vaṇṇam vāṭavum</l>
@@ -397,6 +683,19 @@
           ?
         </lg-->
 </div>
+<div rend="sūtra">
+    <lg xml:id="TNV25"> 
+<l>vāyiṉ maṟuttalum vāyil kūṟalum</l>
+<l>tōḻi māṟṟalum pulavi tōṟṟalum</l>
+<l>kiḻavaṉ pulattaluṅ kiḻavi pulattalum</l>
+<l>viḻaikunaṉ viḻaiyā ṉivaṉeṉa viḷampalum</l>
+<l>tāykaṇ ṭuraittalun tāṅkiya kātaliṉ</l>
+<l>āyiṉa piṟavu māyiṭaip pirivē</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+</div>    
     </body>
   </text>
   <standOff corresp="#TNV16poem9" type="wordsplit">
