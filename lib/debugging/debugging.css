@@ -274,12 +274,30 @@ th.superEntry {
     display: none;
 }
 
-.editbutton {
+.editmenu {
     position: relative;
-    left: -1rem;
-    top: 0;
-    height: 0;
+    left: -1.5rem;
+    top: 1rem;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
 }
-.editbutton:hover svg {
-    fill:  rgb(168,81,16);
+.editmenu button {
+    height: 1.2rem;
+    width: 1.1rem;
+    background-color: rgb(240,202,121);
+    border-color: rgb(240,202,121);
+    border-radius: 0.3rem;
+    padding: 0;
+    margin-left: -0.1rem;
+    margin-top: -0.1rem;
+}
+.editmenu button svg {
+    height: 0.7rem;
+    width: 0.7rem;
+}
+.editmenu button:hover {
+    background-color: #eeee99;
+    border-color: #eeee00;
 }
