@@ -112,7 +112,7 @@
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
-    <div rend="sūtra">
+    <div type="mūlam" rend="parallel">
     <lg xml:id="TNV1">
   <l>akattatum puṟattatu māyiru pakutiyiṉ</l>
 <l>mikuttatu māki virintatu poruḷē</l> 
@@ -121,14 +121,14 @@
           ?
         </lg--> 
     </div>
-  <div rend="sūtra">
+  <div type="mūlam" rend="parallel">
     <lg xml:id="TNV2"> 
    <l>mutalkaru vaṇainta vuripporu ḷakamē</l></lg>
    <!--lg xml:lang="en">
           ?
         </lg--> 
    </div> 
-   <div rend="sūtra">
+   <div type="mūlam" rend="parallel">
     <lg xml:id="TNV3">
   <l>poruppē vemparal puṟavoṭu paḻaṉam</l>
 <l>parappamai vāri kuṟuñcimutaṟ pākē</l> 
@@ -137,7 +137,7 @@
           ?
         </lg-->
 </div>
- <div rend="sūtra">
+ <div type="mūlam" rend="parallel">
     <lg xml:id="TNV4">
 <l>kūtir vēṉil koḻuṅkā roḻipaṉi</l>
 <l>vēṉil muṉpaṉi meyyuyar poḻutē</l>    
@@ -146,7 +146,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV5">
     <l>iruṇilai yucci mālai vaikaṟai</l>
 <l>poruṇilai yanti puṇarkkum poḻutē</l>
@@ -155,7 +155,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV6">
  <l>teyva māṉiṭañ ceyti yuṇavō</l>
 <l>ṭeytiya vicaivilaṅ kiṉaiyaṉa piṟavum</l>
@@ -165,7 +165,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV7">
  <l>murukaṉu miraviyu māyaṉum vēntaṉum</l>
 <l>varuṇaṉu māka vakuttaṉar koḷalē</l> 
@@ -174,7 +174,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV8">
  <l>veṟpaṉ kuṟavar viṭalai ~eyiṉar</l>
 <l>oṟkam-il kuṟu-m-poṟai nāṭaṉ kuṭavar</l>
@@ -185,7 +185,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV9">
 <l>niṟaittē ṉaḻittalu neṟicceṉ ṟalaittalum</l>
 <l>orukkiṉa mōmpalu muḻavoṭu payiṟalum</l>
@@ -195,7 +195,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV10">  
 <l>tiṉaiyē taruppaṇa mutirai cennel</l>
 <l>vilaikō ḷiṉaiyaṉa mēviya vuṇavē</l>
@@ -204,7 +204,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV11">
 <l>murukiyaṅ kuṟuñci tuṭiyē pañcuram</l>
 <l> vēṟaṅ kōṭpaṟai tāram</l>
@@ -215,7 +215,7 @@
           ?
         </lg-->
 </div>
- <div rend="sūtra">
+ <div type="mūlam" rend="parallel">
     <lg xml:id="TNV12"> 
 <l>vēṅkai kāntaḷ cīya mayilē</l> 
 <l>pāṅkar marāmarañ cennāy paruntē</l> 
@@ -228,7 +228,7 @@
           ?
         </lg-->
 </div>
- <div rend="sūtra">
+ <div type="mūlam" rend="parallel">
     <lg xml:id="TNV13">
 <l>puṇartalum piritalu miruttalu mūṭalum</l>
 <l>maṉaivayi ṉiraṅkalu mavaṟṟi ṉimittamum</l>
@@ -239,7 +239,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV14">
 <l>muntiya nūlōr moḻintaveṇ maṇattiṉum</l>
 <l>kantiruva muṟaimai kaḷaveṉap paṭumē</l> 
@@ -248,7 +248,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV15">
 <l>taṉṉayan teḷitalun talaippiri vaccamum</l>
 <l>iṉṉiyal vaṉpoṟai yeytuta larumaiyum</l>
@@ -259,7 +259,7 @@
           ?
         </lg-->
 </div>           
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV16">
 <l>viṉātalum viṭuttaluṅ kaḻaṟalu maṟuttalum</l>
 <l>nōtalum yāṇṭeṉa viṉṉuḻi yeṉṟalum</l>
@@ -282,7 +282,7 @@
           ?
         </lg-->
       </div>
-      <div rend="sūtra">
+      <div type="mūlam" rend="parallel">
     <lg xml:id="TNV17">
 <l>pāṅkuṇar vaiyuṟa virantukuṟai yuṟutalum</l>
 <l>āṅkavaḷ viṉātalu matiyuṭa ṉākkalum</l>
@@ -384,7 +384,7 @@
           ?
         </lg-->
       </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV18">   
 <l>kātaṉ mikaviṉ vāyviṭu kiḷaviyum</l>
 <l>tōḻi ciṟaippuṟat tēkiṭu kiḷaviyum</l>
@@ -455,7 +455,7 @@
           ?
         </lg-->
       </div>
-      <div rend="sūtra">
+      <div type="mūlam" rend="parallel">
     <lg xml:id="TNV19">
 <l>varuneṟi niṉaintu vāraleṉṟalum</l>
 <l>kāppiṭai yīṭṭiṟ kaiyaṟu kiḷaviyum</l>
@@ -490,7 +490,7 @@
           ?
         </lg-->
       </div>
-      <div rend="sūtra">
+      <div type="mūlam" rend="parallel">
     <lg xml:id="TNV20">
 <l>alarperi teṉṟalu mayalvarai vuraittalum</l>
 <l>ulakiyal kūṟi nīyurai yeṉṟalum</l>
@@ -513,7 +513,7 @@
           ?
         </lg-->
       </div>
-      <div rend="sūtra">
+      <div type="mūlam" rend="parallel">
     <lg xml:id="TNV21">
 <l>mukkaṭ kūṭṭa mutalā nāṉkum</l>
 <l>tokkiya loḻukkaṅ kaṟpeṉat tōṉṟum</l>
@@ -522,7 +522,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV22"> 
 <l>maṟutalai yillā māṇpiyal kiḷaviyiṟ</l>
 <l>ṟalaivi tōḻik kaṟattoṭu niṟṟalum</l>
@@ -602,7 +602,7 @@
           ?
         </lg-->
       </div>
-      <div rend="sūtra">
+      <div type="mūlam" rend="parallel">
     <lg xml:id="TNV23">
 <l>kaiyaṭai makiḻcci kaṇṭōr kūṟṟē</l> 
 <l>naivuṭaic cevili naṟṟāy moḻiyē</l> 
@@ -629,7 +629,7 @@
       </div>
       <div rend="parallel">
         <lg xml:id="TNV23poem21">
-          <l>ivaḷē nalamēm paṭṭa vaṉpiṉa ḷivaṉē</l>
+          <l>ivaḷē nalamēm paṭṭa vaṉpiṉa ḷivaḷē</l>
           <l>kulamēm paṭṭa cāṉṟōr makaṉē</l>
           <l>iruvar taṉmaiyu nōkkip</l>
           <l>paruvara leytātu koṭuttalō paṇpē</l>
@@ -638,7 +638,7 @@
           ?
         </lg-->
       </div>
-      <div rend="sūtra">
+      <div type="mūlam" rend="parallel">
     <lg xml:id="TNV24">      
 <l>pirivakai yuṇarttalum pāṅki kūṟa</l>
 <l>uritiṉi ṉaḻuṅkalu maḻuṅkāk kālai</l>
@@ -687,7 +687,7 @@
           ?
         </lg-->
 </div>
-<div rend="sūtra">
+<div type="mūlam" rend="parallel">
     <lg xml:id="TNV25"> 
 <l>vāyiṉ maṟuttalum vāyil kūṟalum</l>
 <l>tōḻi māṟṟalum pulavi tōṟṟalum</l>
@@ -4517,7 +4517,7 @@
     <rdg wit="#KKms #KKedac">ceṉmē</rdg>
   </app>
 </listApp></standOff>
-  <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV23poem21" type="apparatus" source="alignments/TNV23poem21.xml"><interp type="normalization">
+ <standOff xmlns="http://www.tei-c.org/ns/1.0" corresp="#TNV23poem21" type="apparatus" source="alignments/TNV23poem21.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -4533,14 +4533,17 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,5">
-    <lem wit="#TNVed #TNVcpc">ivaḷē</lem>
-    <rdg wit="#TNVcac">vaḷē</rdg>
-    <rdg wit="#TNVms"><sic>vē</sic>ḷē</rdg>
+  <app corresp="0,1">
+    <lem wit="#TNVed #TNVcpc">i</lem>
+    <rdg wit="#TNVcac #TNVms"/>
+  </app>
+  <app corresp="1,5">
+    <lem wit="#TNVed #TNVc">vaḷē</lem>
+    <rdg wit="#TNVms">vēḷē</rdg>
   </app>
   <app corresp="24,30">
-    <lem wit="#TNVms">ḷivaṉē</lem>
-    <rdg wit="#TNVed #TNVc">ḷivaḷē</rdg>
+    <lem wit="#TNVed #TNVc">ḷivaḷē</lem>
+    <rdg wit="#TNVms">ḷivaṉē</rdg>
   </app>
   <app corresp="82,89">
     <lem wit="#TNVed #TNVc #TNVmspc">leytātu</lem>
