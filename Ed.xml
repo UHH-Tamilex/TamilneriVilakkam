@@ -91,9 +91,13 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="TKn" source="witnesses/Tol.xml">
+          <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
             <expan>Tolkāppiyam Nacci</expan>
+          </witness>
+          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+            <expan>Tolkāppiyam Pēr</expan>
           </witness>
           <witness xml:id="Ed" source="Ed.xml">
             <abbr type="siglum">Ed</abbr>
@@ -5001,4 +5005,66 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" type="apparatus" corresp="#TNV24poem26" source="alignments/TNV24poem26.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,9">
+    <lem wit="#TNVc #TNVms">toṭinaṭan</lem>
+    <rdg wit="#TKn">koṭinilai</rdg>
+    <rdg wit="#TKp">toṭinilai</rdg>
+  </app>
+  <app corresp="9,16">
+    <lem wit="#TNVc #TNVmspc">tiḻiyac</lem>
+    <rdg wit="#TNVmsac">tiḻirayac</rdg>
+    <rdg wit="#TKn #TKp">nekiḻac</rdg>
+  </app>
+  <app corresp="16,21">
+    <lem wit="#TNVc #TKn #TKp">cāayt</lem>
+    <rdg wit="#TNVms">cāay</rdg>
+  </app>
+  <app corresp="35,41">
+    <lem wit="#TNVc #TNVms #TKn">kūṟiṉa</lem>
+    <rdg wit="#TKp">kūṟiya</rdg>
+  </app>
+  <app corresp="63,69">
+    <lem wit="#TNVc #TNVms">nāṭark</lem>
+    <rdg wit="#TKn #TKp">nāṭar</rdg>
+  </app>
+  <app corresp="81,88">
+    <lem wit="#TKn #TKp">ṉ neñciṟ</lem>
+    <rdg wit="#TNVmsac">ṉ<gap reason="illegible" unit="character" quantity="1"/>ñciṟ</rdg>
+    <rdg wit="#TNVc #TNVmspc">ṉeñciṟ</rdg>
+  </app>
+  <app corresp="88,97">
+    <lem wit="#TNVms">pirintatu</lem>
+    <rdg wit="#TNVc">virintatu</rdg>
+    <rdg wit="#TKn #TKp">pirintatūu</rdg>
+  </app>
+  <app corresp="106,111">
+    <lem wit="#TNVcpc #TNVms">kuṉṟa</lem>
+    <rdg wit="#TNVcac">kuṉr a</rdg>
+    <rdg wit="#TKn #TKp">kuṟai</rdg>
+  </app>
+  <app corresp="117,126">
+    <lem wit="#TNVc #TNVms">kaṭintatu</lem>
+    <rdg wit="#TKn #TKp">kaṭintatūu</rdg>
+  </app>
+  <app corresp="126,132">
+    <lem wit="#TNVc #TNVms #TKp">milarē</lem>
+    <rdg wit="#TKn">milarē nilattiṉum peritē nontavar natpē</rdg>
+  </app>
+</listApp></standOff>
 </TEI>
