@@ -1,0 +1,50 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 15.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TNV15">
+        <l>taṉṉayan teḷitalun talaippiri vaccamum</l>
+<l>iṉṉiyal vaṉpoṟai yeytuta larumaiyum</l>
+<l>uyireṉak kūṟalu māṟṟiṉaṉ peyartalum</l>
+<l>ceyirtapu kātaṟ ṟeyvap puṇarcci</l>
+</lg>
+<!--lg xml:lang="en">
+          ?
+        </lg-->
+        </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head xml:lang="en">Commentary</head>
+<p xml:id="TNV15comm">
+e-tu. collappaṭṭa pākiṉuḷ teyvappuṇarcciyāmāṟu uṇarttutal nutaliṟṟu.
+</p>
+</body>
+</text>
+</TEI>
