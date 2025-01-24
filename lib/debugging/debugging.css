@@ -58,6 +58,10 @@
     overflow-y: scroll;
     overflow-x: scroll;
 }
+.tempsplits {
+    color: #989895;
+    opacity: 0.65;
+}
 
 .popup textarea.notes {
     display: none;
