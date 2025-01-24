@@ -22,14 +22,7 @@
                     <msContents class="#STM">
 
 
-                        <summary>Paper MS in good condition. Some corrections and cross-referencing
-                            of verses in pencil or blue ink. Occasional pulli also added, presumably
-                            as a later clarification, in either pencil, blue or black ink. There are
-                            full stops and occasional commas, some of which are later additions in
-                            pencil. Currently missing 8 pages (249-263 in the numbering in the top
-                            right of the pages). Cūttiram 22 cuts out in the middle and then the
-                            next available page shows the end of the 25th example poem to the 24th
-                            cūttiram. </summary>
+                        <summary>Paper MS in good condition. Some corrections and cross-referencing of verses in pencil or blue ink. Occasional pulli also added, presumably as a later clarification, in either pencil, blue or black ink. There are full stops and occasional commas, some of which are later additions in pencil. Currently missing 8 pages (249-263 in the numbering in the top right of the pages). Cūttiram 22 cuts out in the middle and then the next available page shows the end of the 25th example poem to the 24th cūttiram. </summary>
                         
                     <msItem xml:id="TNVc" defective="false" class="#illakkanam"><title xml:lang="ta">tamiḻneṟiviḷakkam</title><textLang mainLang="tam"/></msItem></msContents>
                     <physDesc>
@@ -96,10 +89,7 @@
         </fileDesc>
         <encodingDesc>
             
-        <p>Restored puḷḷis. Where sandhi results in a final and initial letter combining into
-                one letter, it has been left unresolved (and thus the words left unsplit).
-                Overshort-u sandhi left unresloved (and thus words left unsplit). Glides retained
-                and added to the beginning of the latter word. </p></encodingDesc>
+        <p>Restored puḷḷis. Where sandhi results in a final and initial letter combining into one letter, it has been left unresolved (and thus the words left unsplit). Overshort-u sandhi left unresloved (and thus words left unsplit). Glides retained and added to the beginning of the latter word. </p></encodingDesc>
 
         
     <revisionDesc/></teiHeader>
@@ -116,216 +106,120 @@
                 <l>tamiḻneṟi viḷakkam</l>
                 <l>poruḷiyal</l>
             </p>
-            <lg xml:id="TNV1">
-                <lb n="1"/>
-                <l>akattatum puṟattatum āy iru pakutiyiṉ</l>
+            <lg xml:id="TNV1">              
+                <l><lb n="1"/>akattatum puṟattatum āy iru pakutiyiṉ</l>
                 <l>mikuttatum ā<lb n="2"/>ki virintatu poruḷē.</l>
             </lg>
-            <p xml:id="TNV1comm">e-tu. niṟutta muṟaiyāṉē poruḷ i<lb n="3"/>lakkaṇam ām
-                āṟuṇarttutaṉutaliṟṟu. eṉavē yivvōt<lb n="4"/>tup poruḷiyal eṉpatāyiṟṟu. akattiṉ
-                ākiya vakappo<lb n="5"/>ruḷum puṟattiṉ ākiya puṟapporuḷum āy iru vakaiyiṉum ā<lb n="6"/>kiya vakappuṟapporuḷum eṉa mūvīṟṟatāyp pal vēṟu<lb n="7"/> vakaip paṭṭa
-                tuṟaikaḷāṟ parappuṭaiyatu poruḷ ām e<lb n="8"/>ṉṟa vāṟu. puṟac ceykai
-                yuḷateṉiṉumikuti vakaiyāl aka<lb n="9"/>m paṟṟi nikaḻtaliṉ iru talaiyun tīrā
-                vaṉpiṟṟākiya kāmama<lb n="10"/>kapporuḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakai<lb n="11"/>yāṟ puṟac ceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟa<lb n="12"/>m
-                puṟapporuḷ eṉ<del rend="strikethrough">p</del>pa<del rend="strikethrough">ṭṭa</del>tu.
-                akam allā viṉpamum puṟa<lb n="13"/>m allāp poruḷ ceyal vakaiyum aṟamum ataṉ payaṉ
-                ākiya vī<lb n="14"/>ṭum iru vakai nikaḻcciyunōkkik kōṭaliṉ akappuṟappo<lb n="15"/>ruḷ
-                eṉappaṭṭaṉa veṉpatu. (1) </p>
+            <p xml:id="TNV1comm1">e-tu. niṟutta muṟaiyāṉē poruḷ i<lb n="3"/>lakkaṇam ām āṟuṇarttutaṉutaliṟṟu.eṉavē yivvōt<lb n="4"/>tup poruḷiyal eṉpatāyiṟṟu.</p> 
+          <p xml:id="TNV1comm2">akattiṉ ākiya vakappo<lb n="5"/>ruḷum puṟattiṉ ākiya puṟapporuḷum āy iru vakaiyiṉum ā<lb n="6"/>kiya vakappuṟapporuḷum eṉa mūvīṟṟatāyp pal vēṟu<lb n="7"/> vakaip paṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷ ām e<lb n="8"/>ṉṟa vāṟu.</p> 
+          <p xml:id="TNV1comm3">puṟac ceykai yuḷateṉiṉumikuti vakaiyāl aka<lb n="9"/>m paṟṟi nikaḻtaliṉ iru talaiyun tīrā vaṉpiṟṟākiya kāmama<lb n="10"/>kapporuḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakai<lb n="11"/>yāṟ puṟac ceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟa<lb n="12"/>m puṟapporuḷ eṉ<del rend="strikethrough">p</del>pa<del rend="strikethrough">ṭṭa</del>tu. akam allā viṉpamum puṟa<lb n="13"/>m allāp poruḷ ceyal vakaiyum aṟamum ataṉ payaṉ ākiya vī<lb n="14"/>ṭum iru vakai nikaḻcciyunōkkik kōṭaliṉ akappuṟappo<lb n="15"/>ruḷ eṉappaṭṭaṉa veṉpatu. (1) </p>
             <lg xml:id="TNV2">
-                <lb n="16"/>
-                <l> mutalkaru vaṇainta vuripporu ḷakamē.</l>
+<l><lb n="16"/>mutalkaru vaṇainta vuripporu ḷakamē,</l>
             </lg>
-            <p xml:id="TNV2comm"><lb n="17"/>e-tu. collappaṭṭaṉavuḷ akapporuḷ ām āṟuṇarttu<lb n="18"/>taṉutaliṟṟu. mutaluṅ karuvuñ cārnta vuripporuḷ akappo<lb n="19"/>ruḷā <subst><del rend="overwritten">ākaṟa</del><add place="above">m</add></subst>eṉṟa
-                vāṟu. mutal eṉappaṭṭatiṭamuṅ kālamum e<lb n="20"/>ṉṟuṇarvatu. karu veṉappaṭṭa poruṭ
-                ceykai yoḻittu<lb n="21"/>k koḷka. atuvum uriyum paṇpeṉappaṭum innāṉkiṉ kūṭ<lb n="22"/>ṭamun tiṇai yeṉappaṭum eṉpatu. (2) </p>
-            <lg xml:id="TNV3">
-                <lb n="23"/>
-                <l>poruppē vemparal puṟavoṭu paḻaṉam</l>
-                <lb n="24"/>
-                <l>parappamai vāri kuṟuñcimutaṟ pākē.</l>
+            <p xml:id="TNV2comm1"><lb n="17"/>e-tu. collappaṭṭaṉavuḷ akapporuḷ ām āṟuṇarttu<lb n="18"/>taṉutaliṟṟu.</p> 
+          <p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta vuripporuḷ akappo<lb n="19"/>ruḷā <subst><del rend="overwritten">ākaṟa</del><add place="above">m</add></subst>eṉṟavāṟu.</p> 
+          <p xml:id="TNV2comm3">mutal eṉappaṭṭatiṭamuṅ kālamum e<lb n="20"/>ṉṟuṇarvatu. karu veṉappaṭṭa poruṭ ceykai yoḻittu<lb n="21"/>k koḷka. atuvum uriyum paṇpeṉappaṭum innāṉkiṉ kūṭ<lb n="22"/>ṭamun tiṇai yeṉappaṭum eṉpatu. (2)</p>
+            <lg xml:id="TNV3">                
+                <l><lb n="23"/>poruppē vemparal puṟavoṭu paḻaṉam</l>                
+                <l><lb n="24"/>parappamai vāri kuṟuñcimutaṟ pākē.</l>
             </lg>
-            <p xml:id="TNV3comm"><lb n="25"/> e-tu. aintiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu. <lb n="26"/>malaic cāralum vem paral attamuñ ciṟutūṟ uṭaip puṟavum<lb n="27"/>alarkañaliya
-                paḻaṉa<del rend="commas">mu</del>ñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cār<lb n="28"/>nta
-                perumaṇalekkaruṅ kuṟuñci pālai mullai marutaney<lb n="29"/>tal eṉa vaim
-                peruntiṇaiyunilamutal eṉṟa vāṟu. (3) </p>
-            <lg xml:id="TNV4">
-                <lb n="30"/>
-                <l>kūtir vēṉil koḻuṅkā roḻipaṉi</l>
-                <lb n="31"/>
-                <l>vēṉil muṉpaṉi meyyuyar poḻutē.</l>
+            <p xml:id="TNV3comm"><lb n="25"/>e-tu. aintiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu. <lb n="26"/>malaic cāralum vem paral attamuñ ciṟutūṟ uṭaip puṟavum<lb n="27"/>alarkañaliya paḻaṉa<del rend="commas">mu</del>ñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cār<lb n="28"/>nta perumaṇalekkaruṅ kuṟuñci pālai mullai marutaney<lb n="29"/>tal eṉa vaim peruntiṇaiyunilamutal eṉṟa vāṟu. (3) </p>
+            <lg xml:id="TNV4">                
+                <l><lb n="30"/>kūtir vēṉil koḻuṅkā roḻipaṉi</l>                
+                <l><lb n="31"/>vēṉil muṉpaṉi meyyuyar poḻutē.</l>
             </lg>
-            <p xml:id="TNV4comm"><lb n="32"/>e-tu. aintiṇaikkuṅ kālamutaluṭ perumpoḻutām āṟ<lb n="33"/>uṇarttutaṉutaliṟṟu. aippaciyuṅ kārttikaiyum ākiya kū<pb n="2" facs="2"/><lb n="1"/>tirk kālamum āṉiyum āṭiyum ākiya vēṉiṟ kālamum āvaṇiyu<lb n="2"/>m
-                puraṭṭātiyum ākiya kārkālamumāciyum paṅkuṉiyum ākiya<lb n="3"/> piṉpaṉik kālamuñ
-                cittiraiyum vaikāciyum ākiya viḷavē<lb n="4"/>ṉiṟ kālamumārkaḻiyun taiyum ākiya
-                muṉpaṉik kālamumu<lb n="5"/>ṟaiyāṉē aintiṇaikkum <del rend="strikethrough">ritu?</del>uyar
-                kāla mutal ām eṉṟavāṟu. (4) </p>
-            <lg xml:id="TNV5">
-                <lb n="6"/>
-                <l>iruṇilai yucci mālai vaikaṟai</l>
-                <lb n="7"/>
-                <l>poruṇilai yanti puṇarkkum poḻutē.</l>
+            <p xml:id="TNV4comm1"><lb n="32"/>e-tu. aintiṇaikkuṅ kālamutaluṭ perumpoḻutām āṟ<lb n="33"/>uṇarttutaṉutaliṟṟu.</p>
+          <p xml:id="TNV4comm2">aippaciyuṅ kārttikaiyum ākiya kū<pb n="2" facs="2"/><lb n="1"/>tirk kālamum āṉiyum āṭiyum ākiya vēṉiṟ kālamum āvaṇiyu<lb n="2"/>m puraṭṭātiyum ākiya kārkālamumāciyum paṅkuṉiyum ākiya<lb n="3"/> piṉpaṉik kālamuñ cittiraiyum vaikāciyum ākiya viḷavē<lb n="4"/>ṉiṟ kālamumārkaḻiyun taiyum ākiya muṉpaṉik kālamumu<lb n="5"/>ṟaiyāṉē aintiṇaikkumu<add place="above">ritu</add><del rend="strikethrough">ritu</del>yar kāla mutal ām eṉṟavāṟu. (4) </p>
+            <lg xml:id="TNV5">               
+                <l><lb n="6"/>iruṇilai yucci mālai vaikaṟai</l>                
+                <l><lb n="7"/>poruṇilai yanti puṇarkkum poḻutē.</l>
             </lg>
-            <p xml:id="TNV5comm"><lb n="8"/>e-tu. ciṟu kāla mutal ām āṟuṇarttutaṉutaliṟṟu. naṭuvu<lb n="9"/>paṭṭa viruḷ yāmamuṅ katir kāyum uccip poḻutumālaip<lb n="10"/> poḻutum
-                pularkālaiyum antiyum<del rend="strikethrough/bracket">mu</del> eṟpāṭumuṟaiyāṉē<lb n="11"/> aintiṇaikkuñ ciṟu kāla mutal ām eṉṟavāṟu. (5) </p>
-            <lg xml:id="TNV6">
-                <lb n="12"/>
-                <l>teyva māṉiṭañ ceyti yuṇavō</l>
-                <lb n="13"/>
-                <l>ṭeytiya vicaivilaṅ kiṉaiyaṉa piṟavum</l>
-                <lb n="14"/>
-                <l>poytīr karuveṉap pukaṉṟaṉar koḷalē.</l>
+            <p xml:id="TNV5comm1"><lb n="8"/>e-tu. ciṟu kāla mutal ām āṟuṇarttutaṉutaliṟṟu.</p> 
+         <p xml:id="TNV5comm2">naṭuvu<lb n="9"/>paṭṭa viruḷ yāmamuṅ katir kāyum uccip poḻutumālaip<lb n="10"/> poḻutum pularkālaiyum antiyum<del rend="strikethrough/bracket">mu</del> eṟpāṭumuṟaiyāṉē<lb n="11"/> aintiṇaikkuñ ciṟu kāla mutal ām eṉṟavāṟu. (5) </p>
+            <lg xml:id="TNV6">              
+                <l> <lb n="12"/>teyva māṉiṭañ ceyti yuṇavō</l>                
+                <l><lb n="13"/>ṭeytiya vicaivilaṅ kiṉaiyaṉa piṟavum</l>                
+                <l><lb n="14"/>poytīr karuveṉap pukaṉṟaṉar koḷalē.</l>
             </lg>
-            <p xml:id="TNV6comm"><lb n="15"/>e-tu. karupporuḷ ām āṟuṇarttutaṉutaliṟṟu. col<lb n="16"/>lappaṭṭa mutaṟ poruṭ kuriya teyvamum avvaḻi vāḻum makkaḷu<lb n="17"/>m
-                avarkaḷ toḻilkaḷum uṇpārkkut tuppākiya vuṇavum<lb n="18"/> <subst><add place="above">i</add><del rend="implied">v</del></subst>caiyum
-                āṅkaṇ vāḻum vilaṅ<add place="above">ku</add>kaḷum piṟavum aintiṇaik<lb n="19"/>kup
-                peṟṟa karup poruḷ ām eṉṟavāṟu. (6) </p>
-            <lg xml:id="TNV7">
-                <lb n="20"/>
-                <l>murukaṉu miraviyu māyaṉum vēntaṉum</l>
-                <lb n="21"/>
-                <l>varuṇaṉu māka vakuttaṉar koḷalē.</l>
+            <p xml:id="TNV6comm1"><lb n="15"/>e-tu. karupporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV6comm2">col<lb n="16"/>lappaṭṭa mutaṟ poruṭ kuriya teyvamum avvaḻi vāḻum makkaḷu<lb n="17"/>m avarkaḷ toḻilkaḷum uṇpārkkut tuppākiya vuṇavum<lb n="18"/> <subst><add place="above">i</add><del rend="implied">v</del></subst>caiyum āṅkaṇ vāḻum vilaṅ<add place="above">ku</add>kaḷum piṟavum aintiṇaik<lb n="19"/>kup peṟṟa karup poruḷ ām eṉṟavāṟu. (6) </p>
+            <lg xml:id="TNV7">              
+                <l><lb n="20"/>murukaṉu miraviyu māyaṉum vēntaṉum</l>               
+                <l><lb n="21"/>varuṇaṉu māka vakuttaṉar koḷalē.</l>
             </lg>
-            <p xml:id="TNV7comm"><lb n="22"/>e-tu. collappaṭṭa karuviṉuḷ atiteyvam ām āṟuṇa<lb n="23"/>rttutaṉutaliṟṟu. murukavēḷum pakalōṉumāyaṉum inti<lb n="24"/>raṉum
-                varuṇaṉumuṟaiyāṉē aintiṇaikkum atiteyvam ā<lb n="25"/>m eṉṟavāṟu. (7) </p>
-            <lg xml:id="TNV8">
-                <lb n="26"/>
-                <l>veṟpaṉ kuṟavar viṭalai yeyiṉar</l>
-                <lb n="27"/>
-                <l>oṟkamil kuṟumpoṟai nāṭaṉ kuṭavar</l>
-                <lb n="28"/>
-                <l>makuṇa ṉuḻavar cērppaṉ paratava</l>
-                <lb n="29"/>
-                <l>riṉaiyaṉa piṟavu makkaṭ peyarē.</l>
+            <p xml:id="TNV7comm1"><lb n="22"/>e-tu. collappaṭṭa karuviṉuḷ atiteyvam ām āṟuṇa<lb n="23"/>rttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV7comm2">murukavēḷum pakalōṉumāyaṉum inti<lb n="24"/>raṉum varuṇaṉumuṟaiyāṉē aintiṇaikkum atiteyvam ā<lb n="25"/>m eṉṟavāṟu. (7)</p>
+            <lg xml:id="TNV8">                
+                <l><lb n="26"/>veṟpaṉ kuṟavar viṭalai yeyiṉar</l>               
+                <l><lb n="27"/>oṟkamil kuṟumpoṟai nāṭaṉ kuṭavar</l>                
+                <l><lb n="28"/>makuṇa ṉuḻavar cērppaṉ paratava</l>                
+                <l><lb n="29"/>riṉaiyaṉa piṟavu makkaṭ peyarē.</l>
             </lg>
-            <p xml:id="TNV8comm"><lb n="30"/>e-tu. makkaṭ peyar ām āṟuṇarttutaṉutaliṟṟu. veṟ<lb n="31"/>paṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ cērppaṉ eṉ<lb n="32"/>paṉa
-                talaimakaṉ peyar. kuṟavar eyiṉar kuṭavar uḻavar parata<lb n="33"/>var eṉpaṉa
-                vannilattu vāḻvār peyar. piṟavum eṉṟata<lb n="34"/>ṉāṟ poruppaṉ malaiyaṉ cilampaṉ
-                koṭicci kuṟatti ku<lb n="35"/>ṟavar iṟavuḷar eṉavuṅ. kāḷai viṭalai yeyiṉar eyiṟṟi
-                ma<pb n="3" facs="4"/><lb n="1"/>ṟavar eṉavum, aṇṇal, mīḷi yiṭaicciyar āycciyar kō<lb n="2"/>valar iṭaiyar potuvar āyar eṉavum, ūraṉ kiḻatti maṉai<lb n="3"/>vi
-                kaṭaiyar kaṭaiciyar eṉavum, koṇkaṉ <subst><del><gap reason="illegible" quantity="1" unit="character"/>
-            </del><add place="above">ṟu</add></subst>
-                ṟaivaṉ<sic>.</sic> ṟu<lb n="4"/>ṟaivi<sic>.</sic> paratti nuḷaiyar nuḷaicciyar
-                eṉavum varuvaṉa ve<lb n="5"/>llāṅ koḷka. (8) </p>
-            <lg xml:id="TNV9">
-                <lb n="6"/>
-                <l>niṟaittē ṉaḻittalu neṟicceṉ ṟalaittalu</l>
-                <lb n="7"/>
-                <l>morukkiṉa mōmpalu muḻavoṭu payiṟalun</l>
-                <lb n="8"/>
-                <l>tiraikkaṭaṟ cēṟalō ṭiṉaiyaṉa ceyalē.</l>
+            <p xml:id="TNV8comm1"><lb n="30"/>e-tu. makkaṭ peyar ām āṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV8comm2">veṟ<lb n="31"/>paṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ cērppaṉ eṉ<lb n="32"/>paṉa talaimakaṉ peyar. kuṟavar eyiṉar kuṭavar uḻavar parata<lb n="33"/>var eṉpaṉa vannilattu vāḻvār peyar.</p> <p xml:id="TNV8comm3">piṟavum eṉṟata<lb n="34"/>ṉāṟ poruppaṉ malaiyaṉ cilampaṉ koṭicci kuṟatti ku<lb n="35"/>ṟavar iṟavuḷar eṉavuṅ. kāḷai viṭalai yeyiṉar eyiṟṟi ma<pb n="3" facs="4"/><lb n="1"/>ṟavar eṉavum, aṇṇal, mīḷi yiṭaicciyar āycciyar kō<lb n="2"/>valar iṭaiyar potuvar āyar eṉavum, ūraṉ kiḻatti maṉai<lb n="3"/>vi kaṭaiyar kaṭaiciyar eṉavum, koṇkaṉ <subst><del><gap reason="illegible" quantity="1" unit="character"/></del><add place="above">ṟu</add></subst>ṟaivaṉ<sic>.</sic> ṟu<lb n="4"/>ṟaivi<sic>.</sic> paratti nuḷaiyar nuḷaicciyar eṉavum varuvaṉa ve<lb n="5"/>llāṅ koḷka. (8)</p>
+            <lg xml:id="TNV9">                
+                <l><lb n="6"/>niṟaittē ṉaḻittalu neṟicceṉ ṟalaittalu</l>              
+                <l><lb n="7"/>morukkiṉa mōmpalu muḻavoṭu payiṟalun</l>                
+                <l><lb n="8"/>tiraikkaṭaṟ cēṟalō ṭiṉaiyaṉa ceyalē.</l>
             </lg>
-            <p xml:id="TNV9comm"><lb n="9"/>e-tu. ceyti yām āṟuṇarttutaṉutaliṟṟu. tēṉaḻit<lb n="10"/>talum
-                āṟalaittaluniraimēyttalum uḻutaluṅ kaṭalūṭu pu<lb n="11"/>kutalum eṉṟip peṟṟi
-                yellām ā<add place="above">ṇ</add>ṭaic ceyti yām e-ṟu.<lb n="12"/> iṉaiya
-                veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum <sic>ur</sic> e<lb n="13"/>ṟitalum
-                niraikōṭalum varakaritalum ēṟukōṭalum vi<lb n="14"/>ḻavayartalum puṉalāṭalum
-                uppākkutalumuttuk kuḷitt<lb n="15"/>alum uḷḷiṭṭaṉa vellāṅ koḷka. (9) </p>
-            <lg xml:id="TNV10">
-                <lb n="16"/>
-                <l>tiṉaiyē taruppaṇa mutirai cennel</l>
-                <lb n="17"/>
-                <l>vilaikō ḷiṉaiyaṉa mēviya vuṇavē.</l>
+            <p xml:id="TNV9comm1"><lb n="9"/>e-tu. ceyti yām āṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV9comm2">tēṉaḻit<lb n="10"/>talum āṟalaittaluniraimēyttalum uḻutaluṅ kaṭalūṭu pu<lb n="11"/>kutalum eṉṟip peṟṟi yellām ā<add place="above">ṇ</add>ṭaic ceyti yām e-ṟu.</p><lb n="12"/> <p xml:id="TNV9comm3">iṉaiya veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum <sic>ur</sic> e<lb n="13"/>ṟitalum niraikōṭalum varakaritalum ēṟukōṭalum vi<lb n="14"/>ḻavayartalum puṉalāṭalum uppākkutalumuttuk kuḷitt<lb n="15"/>alum uḷḷiṭṭaṉa vellāṅ koḷka. (9)</p>
+            <lg xml:id="TNV10">                
+                <l><lb n="16"/>tiṉaiyē taruppaṇa mutirai cennel</l>                
+                <l><lb n="17"/>vilaikō ḷiṉaiyaṉa mēviya vuṇavē.</l>
             </lg>
-            <p xml:id="TNV10comm"><lb n="18"/>e-tu. uṇavām āṟuṇarttutaṉutaliṟṟu. tiṉaiyun tarup<lb n="19"/>paṇamum varaku mutaliyaṉavum vayal viḷaiyuñ cennellu<lb n="20"/>m uppu
-                vilaiyum uḷḷiṭṭaṉa vellām uṇavām eṉṟavāṟu.<lb n="21"/> iṉaiya veṉṟataṉāl
-                vetirnelluṅ kiḻaṅkun tēṉey<lb n="22"/>yum aruvi nīruñ cuṉai nīrum āṟ alaittaṉavum
-                vaṟuñ cuṉai nīrum u<lb n="23"/>vari nīruṅ kāṉyāṟṟu nīrum veṇṇelluṅ kiṇaṟṟu nī<lb n="24"/>rum poykai nīrumaṇaṟ kūvaṉīrum uḷḷiṭṭaṉa vellāṅ<lb n="25"/> koḷka.
-                (10) </p>
-            <lg xml:id="TNV11">
-                <lb n="26"/>
-                <l>murukiyaṅ kuṟuñci tuṭiyē p<del rend="underline">ai</del>añcuram</l>
-                <lb n="27"/>
-                <l>perukiya vāma<subst><del rend="implied">y</del><add place="above">v</add></subst>ēṟaṅ kōṭpaṟai tāram</l>
-                <lb n="28"/>
-                <l>palliya maruta maḻappaṟai cevvaḻi</l>
-                <lb n="29"/>
-                <l>colliya piṟavuñ coṟṟavaṟ ṟicaiyē.</l>
+            <p xml:id="TNV10comm1"><lb n="18"/>e-tu. uṇavām āṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV10comm2">tiṉaiyun tarup<lb n="19"/>paṇamum varaku mutaliyaṉavum vayal viḷaiyuñ cennellu<lb n="20"/>m uppu vilaiyum uḷḷiṭṭaṉa vellām uṇavām eṉṟavāṟu.</p><lb n="21"/> 
+          <p xml:id="TNV10comm3">iṉaiya veṉṟataṉāl vetirnelluṅ kiḻaṅkun tēṉey<lb n="22"/>yum aruvi nīruñ cuṉai nīrum āṟ alaittaṉavum vaṟuñ cuṉai nīrum u<lb n="23"/>vari nīruṅ kāṉyāṟṟu nīrum veṇṇelluṅ kiṇaṟṟu nī<lb n="24"/>rum poykai nīrumaṇaṟ kūvaṉīrum uḷḷiṭṭaṉa vellāṅ<lb n="25"/> koḷka. (10)</p>
+            <lg xml:id="TNV11">                
+                <l><lb n="26"/>murukiyaṅ kuṟuñci tuṭiyē p<del rend="underline">ai</del>añcuram</l>                
+                <l><lb n="27"/>perukiya vāma<subst><del rend="implied">y</del><add place="above">v</add></subst>ēṟaṅ kōṭpaṟai tāram</l>                
+              <l><lb n="28"/>palliya maruta maḻappaṟai cevvaḻi</l>                
+                <l><lb n="29"/>colliya piṟavuñ coṟṟavaṟ ṟicaiyē.</l>
             </lg>
-            <p xml:id="TNV11comm"><lb n="30"/>e-tu. icai yām āṟuṇarttutaṉutaliṟṟu. veṟippaṟaiyu<lb n="31"/>ṅ kuṟuñ<sic>u</sic>cip paṇṇun tuṭiyum pañcurap paṇṇu<add place="above">m
-                ēṟa</add>ṅkōṭ<lb n="32"/> paṟaiyun tārap paṇṇunellari kiṇaiyumutaṟ palliyamu<lb n="33"/>marutap paṇṇuneytaṟ paṟaiyuñ cevvaḻip paṇṇum uḷ<lb n="34"/>ḷiṭṭaṉa
-                vaintiṇaikkum icai yām eṉṟavāṟu. piṟavum eṉ<lb n="35"/>ṟataṉāṟ ṟoṇṭakap paṟaiyum
-                pūcaṟ paṟaiyum vēyṅkuḻalum<pb n="4" facs="5"/> <lb n="1"/> yāḻum nāvāyp paṟaiyum
-                uḷḷiṭṭaṉa vellāṅ koḷka. e-ṟu. </p>
-            <lg xml:id="TNV12">
-                <lb n="2"/>
-                <l>vēṅkai kāntaṭ cīya mayilē</l>
-                <lb n="3"/>
-                <l>pāṅk<del rend="underline">ā</del>ar marāmarañ cennāy paruntē</l>
-                <lb n="4"/>
-                <l>kuruntē mullai yiralai puṟavē</l>
-                <lb n="5"/>
-                <l>kāñci kaḻunīr mēti yaṉṉaṅ</l>
-                <lb n="6"/>
-                <l>kaitai muṇṭakaṅ karāmē kampuḷeṉ</l>
-                <lb n="7"/>
-                <l>ṟeytiya piṟavu miyampiya vilaṅkē.</l>
+            <p xml:id="TNV11comm1"><lb n="30"/>e-tu. icai yām āṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV11comm2">veṟippaṟaiyu<lb n="31"/>ṅ kuṟuñ<sic>u</sic>cip paṇṇun tuṭiyum pañcurap paṇṇu<add place="above">m ēṟa</add>ṅkōṭ<lb n="32"/> paṟaiyun tārap paṇṇunellari kiṇaiyumutaṟ palliyamu<lb n="33"/>marutap paṇṇuneytaṟ paṟaiyuñ cevvaḻip paṇṇum uḷ<lb n="34"/>ḷiṭṭaṉa vaintiṇaikkum icai yām eṉṟavāṟu.</p> <p xml:id="TNV11comm3">piṟavum eṉ<lb n="35"/>ṟataṉāṟ ṟoṇṭakap paṟaiyum pūcaṟ paṟaiyum vēyṅkuḻalum<pb n="4" facs="5"/> <lb n="1"/> yāḻum nāvāyp paṟaiyum uḷḷiṭṭaṉa vellāṅ koḷka. e-ṟu. </p>
+            <lg xml:id="TNV12">                
+                <l><lb n="2"/>vēṅkai kāntaṭ cīya mayilē</l>                
+                <l><lb n="3"/>pāṅk<del rend="underline">ā</del>ar marāmarañ cennāy paruntē</l>             
+                <l><lb n="4"/>kuruntē mullai yiralai puṟavē</l>              
+                <l><lb n="5"/>kāñci kaḻunīr mēti yaṉṉaṅ</l>               
+                <l><lb n="6"/>kaitai muṇṭakaṅ karāmē kampuḷeṉ</l>                
+                <l><lb n="7"/>ṟeytiya piṟavu miyampiya vilaṅkē.</l>
             </lg>
-            <p xml:id="TNV12comm"><lb n="8"/>e-tu. vilaṅkām āṟuṇarttutaṉutaliṟṟu. vēṅkai mara<lb n="9"/>mum pūṅkulaik kāntaḷuñ cīyamāvumayiṟ puḷḷum ōmai mara<lb n="10"/>muma<subst>r<add place="above">
-        ā</add><del rend="implied">a</del></subst>m
-                pūvuñ cen<subst><del><gap reason="illegible" quantity="1" unit="character"/>
-            </del><add>n</add></subst>āy māvum paruntup
-                puḷḷum, kurunta<lb n="11"/> maramuṅ koṭippū mullaiyum iralai māvum puṟavup puḷḷum<lb n="12"/> kāñci maramum pūṅkaḻu nīrum erumai māvum aṉṉap puḷḷum<lb n="13"/>
-                tāḻai maramum pūṅkaḻi muḷḷiyumutalai māvuṅ kampu<sic>ḷ</sic> puḷ<lb n="14"/>ḷum piṟavum aintiṇaikkuriya vilaṅkām eṉṟavāṟu. pi<lb n="15"/>ṟavum eṉṟataṉāl akiluñ cantaṉamum vēṅkaip pūvuñ cuṉai<lb n="16"/>k
-                kuvaḷaip pūvum puliyum yāṉaiyuṅ kiḷiyum vēṅkaiyum<lb n="17"/> kurām pūvum pātiram
-                pūvumurukkuṅ koṉṟaiyun tōṉ<lb n="18"/>ṟip pūvumuyaluṅ kāṉaṅ kōḻiyumarutum vañciyun
-                tāma<lb n="19"/>raip pūvunīrnāyun tārāvum puṉṉaiyuñāḻaluneytaṟ<lb n="20"/> pūvum
-                aṉṉamuma<del rend="bracketed">pa</del>kaṉṟilum uḷḷiṭṭaṉa vellāṅ koḷka. </p>
+            <p xml:id="TNV12comm1"><lb n="8"/>e-tu. vilaṅkām āṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV12comm2">vēṅkai mara<lb n="9"/>mum pūṅkulaik kāntaḷuñ cīyamāvumayiṟ puḷḷum ōmai mara<lb n="10"/>muma<subst>r<add place="above">ā</add><del rend="implied">a</del></subst>m pūvuñ cen<subst><del><gap reason="illegible" quantity="1" unit="character"/> </del><add>n</add></subst>āy māvum paruntup puḷḷum, kurunta<lb n="11"/> maramuṅ koṭippū mullaiyum iralai māvum puṟavup puḷḷum<lb n="12"/> kāñci maramum pūṅkaḻu nīrum erumai māvum aṉṉap puḷḷum<lb n="13"/> tāḻai maramum pūṅkaḻi muḷḷiyumutalai māvuṅ kampu<sic>ḷ</sic> puḷ<lb n="14"/>ḷum piṟavum aintiṇaikkuriya vilaṅkām eṉṟavāṟu.</p> 
+          <p xml:id="TNV12comm3">pi<lb n="15"/>ṟavum eṉṟataṉāl akiluñ cantaṉamum vēṅkaip pūvuñ cuṉai<lb n="16"/>k kuvaḷaip pūvum puliyum yāṉaiyuṅ kiḷiyum vēṅkaiyum<lb n="17"/> kurām pūvum pātiram pūvumurukkuṅ koṉṟaiyun tōṉ<lb n="18"/>ṟip pūvumuyaluṅ kāṉaṅ kōḻiyumarutum vañciyun tāma<lb n="19"/>raip pūvunīrnāyun tārāvum puṉṉaiyuñāḻaluneytaṟ<lb n="20"/> pūvum aṉṉamuma<del rend="bracketed">pa</del>kaṉṟilum uḷḷiṭṭaṉa vellāṅ koḷka. </p>
             <lg xml:id="TNV13">
-                <lb n="21"/>
-                <l>puṇartalum piritalu miruttalu mūṭalu</l>
-                <lb n="22"/>
-                <l>maṉaivayi ṉiraṅkalu mavaṟṟi ṉimittamuṅ</l>
-                <lb n="23"/>
-                <l>kaḷavoṭu kaṟpeṉak kavainar kūṟiya</l>
-                <lb n="24"/>
-                <l>vaḷavi luripporu ḷāku meṉmaṉār.</l>
+                <l><lb n="21"/>puṇartalum piritalu miruttalu mūṭalu</l>
+                <l><lb n="22"/>maṉaivayi ṉiraṅkalu mavaṟṟi ṉimittamuṅ</l>
+                <l><lb n="23"/>kaḷavoṭu kaṟpeṉak kavainar kūṟiya</l>            
+                <l><lb n="24"/>vaḷavi luripporu ḷāku meṉmaṉār.</l>
             </lg>
-            <p xml:id="TNV13comm"><lb n="25"/>e-tu. uripporuḷ ām āṟuṇarttutaṉutaliṟṟu. puṇarta<lb n="26"/>lum puṇartaṉimittamum, piritalum piritaṉimittamum, irut<lb n="27"/>talum
-                iruttaṉimittamum ūṭalum ūṭaṉimittamum iraṅkalum iraṅ<lb n="28"/>kaṉimittamuṅ
-                kaḷavuṅ kaṟpum eṉa vaṭakkik kūṟappaṭṭa vaḷa<lb n="29"/>vil uripporuḷām eṉṟavāṟu.
-                kuṟuñci mutal aivakai ni<lb n="30"/>lattiṟkuñ ciṟappu nōkki yavaḻip puṇartaṉ mutal
-                nirai ni<lb n="31"/>raiyāṟ koḷḷappaṭum. avvaḻic ciṟupāṉmai eṉai<lb n="32"/>ttiṟku
-                muriya vaḻakkoṭu paṭṭavāṟu koḷka. (13) </p>
-            <lg xml:id="TNV14">
-                <lb n="33"/>
-                <l>muntiya nūlōr moḻintaveṇ maṇatti<subst><del rend="overwritten">va</del><add><unclear>ṉu</unclear>
-                </add></subst>
-                    ṅ</l>
-                <lb n="34"/>
-                <l>kantiruva muṟaimai kaḷaveṉap paṭumē.</l>
+            <p xml:id="TNV13comm1"><lb n="25"/>e-tu. uripporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV13comm2">puṇarta<lb n="26"/>lum puṇartaṉimittamum, piritalum piritaṉimittamum, irut<lb n="27"/>talum iruttaṉimittamum ūṭalum ūṭaṉimittamum iraṅkalum iraṅ<lb n="28"/>kaṉimittamuṅ kaḷavuṅ kaṟpum eṉa vaṭakkik kūṟappaṭṭa vaḷa<lb n="29"/>vil uripporuḷām eṉṟavāṟu.</p> 
+          <p xml:id="TNV13comm3">kuṟuñci mutal aivakai ni<lb n="30"/>lattiṟkuñ ciṟappu nōkki yavaḻip puṇartaṉ mutal nirai ni<lb n="31"/>raiyāṟ koḷḷappaṭum. avvaḻic ciṟupāṉmai eṉai<lb n="32"/>ttiṟku muriya vaḻakkoṭu paṭṭavāṟu koḷka. (13) </p>
+            <lg xml:id="TNV14">                
+                <l><lb n="33"/>muntiya nūlōr moḻintaveṇ maṇatti<subst><del rend="overwritten">va</del><add><unclear>ṉu</unclear></add></subst>ṅ</l>                
+                <l><lb n="34"/>kantiruva muṟaimai kaḷaveṉap paṭumē.</l>
             </lg>
-            <p xml:id="TNV14comm"><lb n="35"/>e-tu. kaikōḷ iraṇṭiṉuḷḷuṅ kaḷavoḻukkam ām ā<pb n="5" facs="6"/><lb n="1"/>ṟuṇarttutaṉutaliṟṟu. toṉṉūl āciriyarkaḷāṟ col<lb n="2"/>lappaṭṭa
-                vaṟanilai yoppup poruḷ kōḷ teyvam arum<lb n="3"/> poruḷ valinilai pēy nilai
-                kantiruvam eṉappaṭṭa <add place="above">maṇa</add>m eṭṭi<lb n="4"/>ṉuḷḷuṅ kantiru
-                vaḻakkam pōlvatu kaḷavoḻukkam<lb n="5"/> eṉṟavāṟu. aṟanilai yāvatu. nāṟpatteṭṭi
-                yāṇṭu pirama<lb n="6"/>cariyaṅ kāttāṟkup paṉṉīrāṭṭaip pirāyattāḷai yaṇi<lb n="7"/>kalam
-                aṇintu koṭuppatu. iḵtoppil kūṭṭam ātaliṟ po<lb n="8"/>runtāk kāmattiṉ pāṟpaṭum.
-                oppāvatu. maittuṉak kō<lb n="9"/>ttirattāṟku māṟṟātu koṭuppatu. itu kaṟpiṉ pāṟpaṭu<lb n="10"/>m. poruḷ kōḷ āvatu. āṉum āṉ ēṟum poṟ kōṭṭu<lb n="11"/>p poṟkuḷam
-                piṉavākac cey<del rend="underline">va</del>taṟṟōṭu nīriṟ koṭupp<lb n="12"/>atu.
-                ivvāṟ <sic>ō</sic>taṟkaṇ ottapirāya mutalāyiṉ avaṟṟuḷave<lb n="13"/>ṉiṟ kaṟpiṉ
-                pāṟpaṭum aṉṟeṉiṟ poruntāk kāmattiṉ<lb n="14"/>pāṟpaṭum. teyvam āvatu.
-                vēḷviyāciriyaṟku vēḷvi<lb n="15"/>ttī muṉṉark koṭuppatu. ituvum poruḷ kōḷō ṭo<lb n="16"/>kkum. arumporuḷ viṉai yāvatu. kollēṟu taḻuvutal<lb n="17"/> villēṟṟu
-                mutaliyaṉa ceytārkkuk koṭuppatu. itu va<lb n="18"/>ṉmaṇam ātaliṟ poruntāk kāmattiṉ
-                pāṟpaṭum. vali<lb n="19"/>nilai yāvatu tamariṉum avaḷiṉum peṟātu valintu koḷva<lb n="20"/>tu. ituvum ataṉ pāṟpaṭum. pēynilai yāvatu. kaḷittāṇ<lb n="21"/>māṭṭun
-                tuyiṉṟāṇmāṭṭuñ celvatu. ituvum poruntā<lb n="22"/>k kāmattiṉ pāṟpaṭum. kantiruvam
-                āvatu. ottāriruvar<lb n="23"/> tāmē kaḷaviṉāṟ kūṭuṅ kūṭṭam. itaṉāl oruvāṟaṟamuṉ ā<lb n="24"/>kiya voppumai yuṭaittēṉum āṇ mutalākac colla<lb n="25"/>ppaṭṭa
-                kaḷavoḻukkan teyvap puṇarcciyum pāṅkaṟ kū<lb n="26"/>ṭṭamun tōḻiyiṟ kūṭṭattup
-                pakaṟkuṟiyum iravukkuṟiyum<lb n="27"/> varaivu kaṭātalum uṭaṉpōkku valittalum eṉa
-                vāṟām. e – ṟu. </p>
-            <lg xml:id="TNV15">
-                <lb n="28"/>
-                <l>taṉṉayan teḷitalun talaippiri vaccamu</l>
-                <lb n="29"/>
-                <l>miṉṉiyal vaṉpoṟai yeytuta larumaiyu</l>
-                <lb n="30"/>
-                <l>muyireṉak kūṟalu māṟṟiṉaṉ peyartaluñ</l>
-                <lb n="31"/>
-                <l>ceyirtapu kātaṟ ṟeyvap puṇarcci.</l>
+            <p xml:id="TNV14comm1"><lb n="35"/>e-tu. kaikōḷ iraṇṭiṉuḷḷuṅ kaḷavoḻukkam ām ā<pb n="5" facs="6"/><lb n="1"/>ṟuṇarttutaṉutaliṟṟu.</p> <p xml:id="TNV14comm2">toṉṉūl āciriyarkaḷāṟ col<lb n="2"/>lappaṭṭa vaṟanilai yoppup poruḷ kōḷ teyvam arum<lb n="3"/> poruḷ valinilai pēy nilai kantiruvam eṉappaṭṭa <add place="above">maṇa</add>m eṭṭi<lb n="4"/>ṉuḷḷuṅ kantiru vaḻakkam pōlvatu kaḷavoḻukkam<lb n="5"/> eṉṟavāṟu.</p> 
+          <p xml:id="TNV14comm3">aṟanilai yāvatu. nāṟpatteṭṭi yāṇṭu pirama<lb n="6"/>cariyaṅ kāttāṟkup paṉṉīrāṭṭaip pirāyattāḷai yaṇi<lb n="7"/>kalam aṇintu koṭuppatu. iḵtoppil kūṭṭam ātaliṟ po<lb n="8"/>runtāk kāmattiṉ pāṟpaṭum.</p> 
+          <p xml:id="TNV14comm4">oppāvatu. maittuṉak kō<lb n="9"/>ttirattāṟku māṟṟātu koṭuppatu. itu kaṟpiṉ pāṟpaṭu<lb n="10"/>m.</p>
+           <p xml:id="TNV14comm5">poruḷ kōḷ āvatu. āṉum āṉ ēṟum poṟ kōṭṭu<lb n="11"/>p poṟkuḷam piṉavākac cey<del rend="underline">va</del>taṟṟōṭu nīriṟ koṭupp<lb n="12"/>atu. ivvāṟ <sic>ō</sic>taṟkaṇ ottapirāya mutalāyiṉ avaṟṟuḷave<lb n="13"/>ṉiṟ kaṟpiṉ pāṟpaṭum aṉṟeṉiṟ poruntāk kāmattiṉ<lb n="14"/>pāṟpaṭum.</p> 
+           <p xml:id="TNV14comm6">teyvam āvatu. vēḷviyāciriyaṟku vēḷvi<lb n="15"/>ttī muṉṉark koṭuppatu. ituvum poruḷ kōḷō ṭo<lb n="16"/>kkum.</p>
+           <p xml:id="TNV14comm7">arumporuḷ viṉai yāvatu. kollēṟu taḻuvutal<lb n="17"/> villēṟṟu mutaliyaṉa ceytārkkuk koṭuppatu. itu va<lb n="18"/>ṉmaṇam ātaliṟ poruntāk kāmattiṉ pāṟpaṭum.</p> 
+           <p xml:id="TNV14comm8">vali<lb n="19"/>nilai yāvatu tamariṉum avaḷiṉum peṟātu valintu koḷva<lb n="20"/>tu. ituvum ataṉ pāṟpaṭum.</p> 
+          <p xml:id="TNV14comm9">pēynilai yāvatu. kaḷittāṇ<lb n="21"/>māṭṭun tuyiṉṟāṇmāṭṭuñ celvatu. ituvum poruntā<lb n="22"/>k kāmattiṉ pāṟpaṭum.</p> 
+          <p xml:id="TNV14comm10">kantiruvam āvatu. ottāriruvar<lb n="23"/> tāmē kaḷaviṉāṟ kūṭuṅ kūṭṭam. itaṉāl oruvāṟaṟamuṉ ā<lb n="24"/>kiya voppumai yuṭaittēṉum āṇ mutalākac colla<lb n="25"/>ppaṭṭa kaḷavoḻukkan teyvap puṇarcciyum pāṅkaṟ kū<lb n="26"/>ṭṭamun tōḻiyiṟ kūṭṭattup pakaṟkuṟiyum iravukkuṟiyum<lb n="27"/> varaivu kaṭātalum uṭaṉpōkku valittalum eṉa vāṟām. e – ṟu. </p>
+            <lg xml:id="TNV15">                
+                <l><lb n="28"/>taṉṉayan teḷitalun talaippiri vaccamu</l>                
+                <l><lb n="29"/>miṉṉiyal vaṉpoṟai yeytuta larumaiyu</l>                
+                <l><lb n="30"/>muyireṉak kūṟalu māṟṟiṉaṉ peyartaluñ</l>                
+                <l><lb n="31"/>ceyirtapu kātaṟ ṟeyvap puṇarcci.</l>
             </lg>
-            <p xml:id="TNV15comm"><lb n="32"/>e-tu. collappaṭṭa pākiṉuṭ ṭeyvap puṇarcci yām ā<lb n="33"/>ṟuṇarttutaṉutaliṟṟu. muṟ ceyviṉai kāraṇamākak kaṇṇu<lb n="34"/>ṟṟup
-                puṇarnta piṉpu talaimakaṉayappuṇarttalun teruṭṭa<lb n="35"/>lum pirivaccamum
-                vaṉpoṟaiyum eytutal arumaiyum uyi<pb n="6" facs="7"/><lb n="1"/>r eṉṟalum āṟṟip
-                peyartalum eṉappaṭṭaṉa teyvap puṇa<lb n="2"/>rcci yām eṉṟavāṟu. </p>
+            <p xml:id="TNV15comm1"><lb n="32"/>e-tu. collappaṭṭa pākiṉuṭ ṭeyvap puṇarcci yām ā<lb n="33"/>ṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV15comm2">muṟ ceyviṉai kāraṇamākak kaṇṇu<lb n="34"/>ṟṟup puṇarnta piṉpu talaimakaṉayappuṇarttalun teruṭṭa<lb n="35"/>lum pirivaccamum vaṉpoṟaiyum eytutal arumaiyum uyi<pb n="6" facs="7"/><lb n="1"/>r eṉṟalum āṟṟip peyartalum eṉappaṭṭaṉa teyvap puṇa<lb n="2"/>rcci yām eṉṟavāṟu. </p>
             <lg xml:id="TNV15poem1" corresp="#KT2">
                 <note place="above">kuṟun. 2</note>
                 <l>koṅkutēr vā<sic>ṭ</sic>kkai <sic>ai</sic>ñciṟait tu<lb n="3"/>mpi.</l>
@@ -348,8 +242,7 @@
             <lg xml:id="TNV15poem3">
                 <l>iṉaiyal vāḻi pirivoṉ ṟilaṉē,</l>
                 <l>naṉai<lb n="10"/>malar naṟumpūṅ kōtai<add>,</add></l>
-                <l>yamaiyē<sic>,</sic> ṉiṉṉaiyā ṉakaṉṟa<subst><del rend="scribble">ṉ</del><lb n="11"/><add place="left">ñ</add></subst>
-                    āṉṟē.</l>
+                <l>yamaiyē<sic>,</sic> ṉiṉṉaiyā ṉakaṉṟa <subst><del rend="scribble">ṉ</del><lb n="11"/><add place="left">ñ</add></subst>āṉṟē.</l>
             </lg>
             <p xml:id="TNV15koḷu3">eṉpatu. pirivaccam.</p>
             <lg xml:id="TNV15poem4">
@@ -387,26 +280,21 @@
             <lg xml:id="TNV15poem9">
                 <lb n="24"/>
                 <l>uṭaiyai vāḻi neñcē yiṭaikoṇ<add place="below">,</add></l>
-                <l>ṭaḻuṅka lōmpumati<lb n="25"/> <sic>t</sic> taḻaṅkoli mikunīr<add place="below">,</add></l>
+                <l>ṭaḻuṅka lōmpumati<lb n="25"/><sic>t</sic> taḻaṅkoli mikunīr<add place="below">,</add></l>
                 <l>vaḻut<subst><del rend="implied">tar</del><add place="above">tūr</add></subst> kākkum puṇaiyiṉ<add place="below">,</add></l>
                 <l>vi<lb n="26"/>ḻuttuṇai cāṉṟa mikuperuṅ kiḷaiyē.</l>
             </lg>
             <p xml:id="TNV15koḷu9">eṉpatu pāṅkaṉai<lb n="27"/> niṉaittāṟṟip peyarntatu. (15)</p>
-            <lg xml:id="TNV16">
-                <lb n="28"/>
-                <l> 16. viṉātalum viṭuttaluṅ kaḻaṟalu maṟuttalu</l>
+            <lg xml:id="TNV16">                
+                <l><lb n="28"/>16. viṉātalum viṭuttaluṅ kaḻaṟalu maṟuttalu</l>
                 <l><lb n="29"/>nōtalum <add place="above">y</add>āṇṭeṉa viṉṉuḻi yeṉṟalu</l>
                 <l><lb n="30"/>mātaraik kāṇṭalu maṉṉiya vakuttaluṅ</l>
                 <l><lb n="31"/>kiḻavō<subst><del rend="implied">r</del><add place="above">ṟ</add></subst><sic>k</sic>
                     kicaittalu māṟṟāṉ kiḷattalum</l>
                 <l><lb n="32"/>paḻavarai viṭuttalum pāṅkaṟ kūṭṭam.</l>
             </lg>
-            <p xml:id="TNV16comm"><lb n="33"/>e-tu. pāṅkaṟ kūṭṭam ām āṟuṇarttutaṉutaliṟṟu. pā<lb n="34"/>ṅkaṉ ṟalaimakaṟ kuṟṟa viṉātalun talaimakaṉ iṉṉateṉṟa<lb n="35"/>lum
-                pāṅkaṉ <sic>a</sic>kaṉ kaḻaṟalun talaimakaṉ kaḻaṟṟetir maruttalu<pb n="8" facs="9"/><lb n="1"/>m pāṅkaṉōtalum evviṭat tevvuruveṉṟalun talaimaka<lb n="2"/>ṉiṉṉaviṭattiṉṉavuru
-                veṉṟalum pāṅkaṉ avviṭattavvu<lb n="3"/>ruk kāṇṭalun talaimakaṉaip perumai kūṟalum,
-                peyarn<del rend="scribble">ta</del>tu<lb n="4"/> vantu talaimakaṟkuraittalun
-                talaimakaṉ ṟalaimakaḷaik kaṇ<lb n="5"/>ṭaṇaitalum uṟaviṉāṟṟāṉ kūṟalum viṭuttalum
-                pāṅkaṟkū<lb n="6"/>ṭṭam ām eṉṟavāṟu. </p>
+            <p xml:id="TNV16comm1"><lb n="33"/>e-tu. pāṅkaṟ kūṭṭam ām āṟuṇarttutaṉutaliṟṟu.</p> 
+          <p xml:id="TNV16comm2">pā<lb n="34"/>ṅkaṉ ṟalaimakaṟ kuṟṟa viṉātalun talaimakaṉ iṉṉateṉṟa<lb n="35"/>lum pāṅkaṉ <sic>a</sic>kaṉ kaḻaṟalun talaimakaṉ kaḻaṟṟetir maruttalu<pb n="8" facs="9"/><lb n="1"/>m pāṅkaṉōtalum evviṭat tevvuruveṉṟalun talaimaka<lb n="2"/>ṉiṉṉaviṭattiṉṉavuru veṉṟalum pāṅkaṉ avviṭattavvu<lb n="3"/>ruk kāṇṭalun talaimakaṉaip perumai kūṟalum, peyarn<del rend="scribble">ta</del>tu<lb n="4"/> vantu talaimakaṟkuraittalun talaimakaṉ ṟalaimakaḷaik kaṇ<lb n="5"/>ṭaṇaitalum uṟaviṉāṟṟāṉ kūṟalum viṭuttalum pāṅkaṟkū<lb n="6"/>ṭṭam ām eṉṟavāṟu. </p>
             <lg xml:id="TNV16poem1">
                 <l>muṉṉiṉai muṭippatoṉ ṟuḷatuko<lb n="7"/>ṉ mūvakai.</l>
                 <l>nuṇṇiya paṉuvali ṉuḻaintako</l>
@@ -453,10 +341,7 @@
                 <l>kaṇṇē kāviyaṅ kayamalar nutalē,</l>
                 <l>taṇṇiḷa mati<lb n="23"/>yeṉat takumē patiyum</l>
                 <l>perumalaic cāraṟ cīṟū</l>
-                <l><sic><subst><del rend="commas">raru<add place="above"><del rend="strikethrough">lara</del></add></del></subst>
-                    </sic>
-                    raru<subst><del rend="commas">mai</del><add place="above">niṟai</add></subst><lb n="24"/>vāṅkiya vāyiḻai
-                    taṉakkē</l>
+                <l><sic><subst><del rend="commas">raru<add place="above"><del rend="strikethrough">lara</del></add></del></subst></sic>raru<subst><del rend="commas">mai</del><add place="above">niṟai</add></subst><lb n="24"/>vāṅkiya vāyiḻai taṉakkē</l>
             </lg>
             <p xml:id="TNV16koḷu7">talaimakaṉ kuṟiyuraittatu.</p>
             <lb n="25"/>
@@ -554,9 +439,7 @@
             <lb n="5"/>
             <p xml:id="TNV17koḷu2">vēṟupāṭu kaṇṭu pāṅki yaiyuṟṟatu.</p>
             <lg xml:id="TNV17poem3">
-                <l>kaṇṇi<del rend="underline">ṉ</del><sic><note place="above">pairu</note>
-                    </sic> takai<lb n="6"/>ciṟan
-                    taṉavē taṇṇeṉ<add place="below">,</add></l>
+                <l>kaṇṇi<del rend="underline">ṉ</del><sic><add place="above">yaica</add></sic> takai <lb n="6"/>ciṟantaṉavē taṇṇeṉ<add place="below">,</add></l>
                 <l>pūntaḻai cevviya pōlum<lb n="7"/> vāṅkiruṅ<add place="below">,</add></l>
                 <l>kūntalu malkulum poliya<add place="below"/></l>
                 <l>vēnti<subst><del rend="implied">ṉī</del><add place="above">ṉi</add></subst><lb n="8"/>r koṇmiṉyām
@@ -586,8 +469,7 @@
             <lg xml:id="TNV17poem7">
                 <l>kaiyatu ceyalaiyan ta<lb n="19"/>ḻaiyē viṉāya<add place="below">,</add></l>
                 <l>teypuṇ vāya mā<add place="in-place">vē kaiviṭ,</add></l>
-                <l><add place="in-place">ṭaka</add>lā ṉamma<lb n="20"/>vi<subst><del rend="strikethrough">m ma</del><add place="above">v va</add></subst>
-                    kaṉ<sic>pulan</sic><add place="below">,</add></l>
+                <l><add place="in-place">ṭaka</add>lā ṉamma<lb n="20"/>vi<subst><del rend="strikethrough">m ma</del><add place="above">v va</add></subst>kaṉpulan<add place="below">,</add></l>
                 <l>takaiyō ṉuḷḷiya taṟiyalam peritē.<lb n="21"/></l>
             </lg>
             <p xml:id="TNV17koḷu7">talaimakaṉait tōḻi yaiyuṟṟatu.</p>
@@ -605,10 +487,7 @@
             <p xml:id="TNV17koḷu9">talaimakaṉaic<lb n="26"/> cēṭpaṭa niṟuttatu.</p>
             <lg xml:id="TNV17poem10">
                 <l>vāṅkiruñ cilampiṉ vaṇṭa layarun<lb n="27"/></l>
-                <l>tēṅ<unclear>ka</unclear><add place="above">ma</add>ḻ <subst><del rend="scribble">
-                    <unclear>kū</unclear>
-                </del><add place="above">kū</add></subst>ntaṉ
-                    makaḷiruḷ,</l>
+                <l>tēṅ<unclear>ka</unclear><add place="above">ma</add>ḻ <subst><del rend="scribble"> <unclear>kū</unclear></del><add place="above">kū</add></subst>ntaṉ makaḷiruḷ,</l>
                 <l>yāṅkā kiya<subst><del rend="underline">ḷō</del><add place="above">tō</add></subst> vēnta<lb n="28"/>ṉiṉ
                     ṉaruḷē.</l>
             </lg>
@@ -640,8 +519,7 @@
             </lg>
             <p xml:id="TNV17koḷu14">tōḻi paṭaittu moḻintatu.</p>
             <lg xml:id="TNV17poem15">
-                <l>alava ṉā<sic><add place="above">
-                            <del rend="strikethrough">ṭ</del></add></sic>ṭalu
+                <l>alava ṉā<sic><add place="above"><del rend="strikethrough">ṭ</del></add></sic>ṭalu
                     māṭṭā ḷ<lb n="4"/>āyamoṭu,</l>
                 <l>malarpūṅ kāṉal vaṇṭalu mayarā,</l>
                 <l>ḷōviyap<lb n="5"/> pāvai yottaṉaḷ,</l>
@@ -671,7 +549,7 @@
             </lg>
             <p xml:id="TNV17koḷu18">niṉkuṟai nīyē<lb n="15"/> kūṟeṉṟatu.</p>
             <lg xml:id="TNV17poem19">
-                <l>uḷatā lammavōr kuṟipp<sic><del rend="underline">e</del></sic> yāvatu,</l>
+                <l>uḷatā lammavōr kuṟipp<del rend="underline">ē</del> yāvatu,</l>
                 <l>vaḷai<lb n="16"/>yē muṉkai maṭantaitaṉ,</l>
                 <l>muḷaiyeyiṟ ṟarumpiya mukiḻ<lb n="17"/>nakai tāṉē.</l>
             </lg>
@@ -700,8 +578,7 @@
                     <del rend="strikethrough">ē</del></add><subst><del rend="implied">veḷu</del><add place="above"><del rend="strikethrough">ḷā</del></add><add place="above">yeḷi</add></subst>mai
                 kūṟi<lb n="25"/>yatu.</p>
             <lg xml:id="TNV17poem23">
-                <l>māṇeḻi laṇṇal vāṅ<sic><subst><del rend="implied">kutu</del><add place="above">kala</add></subst>
-                    </sic>m yāmē,</l>
+                <l>māṇeḻi laṇṇal vāṅ<sic><subst><del rend="implied">kutu</del><add place="above">kala</add></subst></sic>m yāmē,</l>
                 <l>cēṇuyar<lb n="26"/> cilampiṉ yāṅkaṇuṅ,</l>
                 <l>kāṇa<subst><del rend="implied">ṉa</del><add place="above">la</add></subst> maṉṉōvik kamaḻpūn<lb n="27"/>
                     taḻaiyē.</l>
@@ -790,7 +667,7 @@
                 <l>maṇmicai viḷaṅki<add place="above">ya</add> vaḻuttūr matitara<add place="in-place">,</add></l>
                 <l>ṉuṇṇiyaṟ paṉu<lb n="25"/>va ṉuḻaiporu ṇuṉitta<add place="in-place">,</add></l>
                 <l>vāymoḻi yamirta maṭuttavar<lb n="26"/> maṉameṉa<add place="in-place">,</add></l>
-                <l><sic>y</sic>ā <subst><del rend="implied">ṉi</del><add place="above">ni</add></subst> lai peṟṟaṉṟi yāṉaṟin
+                <l><sic>y</sic>ā<subst><del rend="implied">ṉi</del><add place="above">ni</add></subst>lai peṟṟaṉṟi yāṉaṟin
                     tilaṉē.</l>
             </lg>
             <p xml:id="TNV17koḷu35">kai<lb n="27"/> yuṟai yetirntamai kūṟiṟṟu.</p>
@@ -804,10 +681,7 @@
             <lg xml:id="TNV17poem37" corresp="#KT1">
                 <note place="above">ku. 1</note>
                 <l>ceṅkaḷam paṭakkoṉ ṟavuṇart tē<lb n="31"/>ytta</l>
-                <l><del rend="scribble">
-                        <gap reason="illegible" unit="character" quantity="1"/>
-                    </del>ceṅkō
-                    lampiṉ ceṅkōṭṭi yāṉaik</l>
+                <l><del rend="scribble"><gap reason="illegible" unit="character" quantity="1"/></del>ceṅkō lampiṉ ceṅkōṭṭi yāṉaik</l>
                 <l>kaḻaṟo<lb n="32"/>ṭic cē<gap reason="illegible" quantity="1" unit="character"/>y
                     kuṉṟaṅ</l>
                 <l>kurutip pūviṉ kulaikkān taṭṭē.</l>
@@ -841,8 +715,8 @@
             </lg>
             <p xml:id="TNV17koḷu40">koṇṭu nīṅkal. (17)</p>
             <lg xml:id="TNV18">
-                <lb n="9"/>
-                <l>kātaṉ mikavi<subst><del rend="implied">ṉā</del><add place="above">ṉ</add></subst> vāyviṭu kiḷaviyun,</l>
+                
+                <l><lb n="9"/>kātaṉ mikavi<subst><del rend="implied">ṉā</del><add place="above">ṉ</add></subst> vāyviṭu kiḷaviyun,</l>
                 <l>tōḻi ciṟai<lb n="10"/>ppuṟat tēkiṭu kiḷaviyuñ,</l>
                 <l>ceṟippaṟi vuṟuttaluñ cūḷe<lb n="11"/>ṉa niṉaittalu,</l>
                 <l>miṟappa nuvaṟalu miruḷvara vēṇṭalum,<lb n="12"/></l>
@@ -1874,8 +1748,8 @@
             </lg>
             <p xml:id="TNV24koḷu34">eṉpatu<lb n="31"/> talaimakaṭkut talaimakaṉ colliyatu. (24)</p>
             <lg xml:id="TNV25">
-                <lb n="32"/>
-                <l>vāyiṉ maṟuttalum vāyil kūṟalun</l>
+                
+                <l><lb n="32"/>vāyiṉ maṟuttalum vāyil kūṟalun</l>
                 <l><lb n="33"/>tōḻi māṟṟalum pulavi tōṟṟalum</l>
                 <l><lb n="34"/>kiḻavaṉ pulattaluṅ kiḻavi pulattalum</l>
                 <l><lb n="35"/>viḻaikunaṉ viḻaiyā ṉivaṉeṉa viḷampalun</l>
