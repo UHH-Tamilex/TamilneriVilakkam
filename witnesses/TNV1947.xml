@@ -21,7 +21,7 @@
                <msContents class="#STM">
                   <summary>test</summary>
                   
-               <msItem xml:id="TNVed" defective="false"><title>TNV </title></msItem></msContents>
+               <msItem xml:id="TNV1947" defective="false"><title>TNV </title></msItem></msContents>
                <physDesc>
                   
                   
@@ -85,7 +85,7 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    </facsimile>
-<text corresp="#TNVed"><body xml:lang="ta">
+<text corresp="#TNV1947"><body xml:lang="ta">
  <p xml:id="incipit">
                 <l> kaṇapati tuṇai</l>
                 <l>tamiḻneṟi viḷakkam</l>
