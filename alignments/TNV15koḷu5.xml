@@ -1,0 +1,54 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">
+  
+    <teiHeader>
+<listWit><witness xml:id="KKms" source="KKms.xml"><abbr type="siglum">KKms</abbr><expan>KKms</expan><listWit><witness xml:id="KKmsac" n="ac"><abbr type="siglum">KKmsac</abbr><expan>KKms [ante correctionem]</expan></witness><witness xml:id="KKmspc" n="pc"><abbr type="siglum">KKmspc</abbr><expan>KKms [post correctionem]</expan></witness></listWit></witness><witness xml:id="KKed" source="KKprint.xml"><abbr type="siglum">KKed</abbr><expan>KKprint</expan><listWit><witness xml:id="KKedac" n="ac"><abbr type="siglum">KKedac</abbr><expan>KKprint [ante correctionem]</expan></witness><witness xml:id="KKedpc" n="pc"><abbr type="siglum">KKedpc</abbr><expan>KKprint [post correctionem]</expan></witness></listWit></witness><witness xml:id="KT2" source="KT2.xml"><abbr type="siglum">KT2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">Iṟaiyaṉār</persName>: <i>HE</i></expan><listWit><witness xml:id="KT2-C2" select="#C2"><abbr type="siglum">KT2-C2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">Iṟaiyaṉār</persName>: <i>HE</i> [witness C2]</expan></witness></listWit></witness><witness xml:id="KT40" source="KT40.xml"><abbr type="siglum">KT40</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 40. <persName xml:lang="ta">Cempulappeyaṉīrār</persName>: <i>HE / SHE</i></expan></witness><witness xml:id="NAed" source="NAprint.xml"><abbr type="siglum">NAed</abbr><expan>NAprint</expan></witness><witness xml:id="TNV1937" source="TNV_1937.xml"><abbr type="siglum">TNV1937</abbr><expan>TNV 1937</expan></witness><witness xml:id="TNV1947" source="TNV1947.xml"><abbr type="siglum">TNV1947</abbr><expan>TNV print</expan><listWit><witness xml:id="TNV1947ac" n="ac"><abbr type="siglum">TNV1947ac</abbr><expan>TNV print [ante correctionem]</expan></witness><witness xml:id="TNV1947pc" n="pc"><abbr type="siglum">TNV1947pc</abbr><expan>TNV print [post correctionem]</expan></witness></listWit></witness><witness xml:id="TKn" source="TolNa.xml"><abbr type="siglum">TKn</abbr><expan>Tolkāppiyam Nacci</expan></witness><witness xml:id="TKp" source="TolPe.xml"><abbr type="siglum">TKp</abbr><expan>Tolkāppiyam Pēr</expan></witness><witness xml:id="TNVc" source="UVSL_48032.xml"><abbr type="siglum">TNVc</abbr><expan>Tamiḻneṟi Viḷakkam Paper</expan><listWit><witness xml:id="TNVcac" n="ac"><abbr type="siglum">TNVcac</abbr><expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan></witness><witness xml:id="TNVcpc" n="pc"><abbr type="siglum">TNVcpc</abbr><expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan></witness></listWit></witness><witness xml:id="TNVms" source="UVSLMS000950.xml"><abbr type="siglum">TNVms</abbr><expan>Tamiḻneṟi Viḷakkam</expan><listWit><witness xml:id="TNVmsac" n="ac"><abbr type="siglum">TNVmsac</abbr><expan>Tamiḻneṟi Viḷakkam [ante correctionem]</expan></witness><witness xml:id="TNVmspc" n="pc"><abbr type="siglum">TNVmspc</abbr><expan>Tamiḻneṟi Viḷakkam [post correctionem]</expan></witness></listWit></witness><witness xml:id="YV1960a" source="YV1960.xml"><abbr type="siglum">YV1960a</abbr><expan>YV1960</expan></witness><witness xml:id="YV1960b" source="YV1960.xml"><abbr type="siglum">YV1960b</abbr><expan>YV1960</expan></witness><witness xml:id="Ed" source="TNV15ed.xml"><abbr type="siglum">Ed</abbr><expan><title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 15.</expan></witness></listWit>
+    <encodingDesc>
+      <editorialDecl>
+        <normalization method="markup">
+<ab>ignore punctuation</ab>
+<ab>ignore long/short e</ab>
+<ab>ignore long/short o</ab>
+<ab>insert glide after back vowels</ab>
+<ab>insert glide after front vowels</ab>
+<ab>final -m sandhi variants</ab>
+<ab>ignore puḷḷi</ab>
+<ab>remove spaces</ab>
+        </normalization>
+        <ab type="tagfilters">
+<tag subtype="ignore">pc</tag>
+<tag subtype="ignore">abbr</tag>
+<tag subtype="ignore">corr</tag>
+<tag subtype="ignore">ex</tag>
+<tag subtype="ignore">head</tag>
+<tag subtype="ignore">label</tag>
+<tag subtype="ignore">note</tag>
+<tag subtype="ignore">num</tag>
+<tag subtype="ignore">locus</tag>
+<tag subtype="ignore">metamark</tag>
+<tag subtype="ignore">supplied</tag>
+<tag subtype="ignore">surplus</tag>
+        </ab>
+      </editorialDecl>
+    </encodingDesc>
+    
+        <xenoData>
+      <stemma format="nexml" id="stemma0"><nex:nexml xmlns:nex="http://www.nexml.org/2009" version="0.9"><nex:otus id="otus1"><nex:otu id="otu0" label="TNV1947"/><nex:otu id="otu1" label="TNVc"/><nex:otu id="otu2" label="Ed"/><nex:otu id="otu3" label="TNV1937"/><nex:otu id="otu4" label="TNVms"/></nex:otus><nex:trees otus="otus1" id="trees1"><nex:tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="guidetree" label="guidetree" xsi:type="nex:FloatTree"><nex:node id="241b5e16-b8b2-464a-bdb5-2c79d83b30f5" root="true"/><nex:node id="1f8bb453-02b7-4a1e-a917-013d7ee39532"/><nex:node id="dbceec92-20fb-4990-944b-dfe0ec60ea77" label="TNV1947" otu="otu2"/><nex:node id="1dac974d-7cae-4d6b-a664-8400a4742ee3" label="TNVc" otu="otu3"/><nex:node id="17746e29-7058-4a28-b57c-eefc988df8db"/><nex:node id="64113c04-4f66-40fe-a8be-d04fbb7c163b"/><nex:node id="56d06054-ba64-4bd0-bb66-93be3a4e61f9" label="Ed" otu="otu6"/><nex:node id="310fc9cc-5b89-42f0-8ce1-8df6911c1c2e" label="TNV1937" otu="otu7"/><nex:node id="ef8930c2-8605-4a9e-b3d4-c865f0a1a0ff" label="TNVms" otu="otu8"/><nex:edge source="241b5e16-b8b2-464a-bdb5-2c79d83b30f5" target="1f8bb453-02b7-4a1e-a917-013d7ee39532" id="edge0" length="0"/><nex:edge source="241b5e16-b8b2-464a-bdb5-2c79d83b30f5" target="17746e29-7058-4a28-b57c-eefc988df8db" id="edge1" length="0"/><nex:edge source="1f8bb453-02b7-4a1e-a917-013d7ee39532" target="dbceec92-20fb-4990-944b-dfe0ec60ea77" id="edge2" length="0.5"/><nex:edge source="1f8bb453-02b7-4a1e-a917-013d7ee39532" target="1dac974d-7cae-4d6b-a664-8400a4742ee3" id="edge3" length="0.5"/><nex:edge source="17746e29-7058-4a28-b57c-eefc988df8db" target="64113c04-4f66-40fe-a8be-d04fbb7c163b" id="edge4" length="0"/><nex:edge source="17746e29-7058-4a28-b57c-eefc988df8db" target="ef8930c2-8605-4a9e-b3d4-c865f0a1a0ff" id="edge5" length="1"/><nex:edge source="64113c04-4f66-40fe-a8be-d04fbb7c163b" target="56d06054-ba64-4bd0-bb66-93be3a4e61f9" id="edge6" length="0.5"/><nex:edge source="64113c04-4f66-40fe-a8be-d04fbb7c163b" target="310fc9cc-5b89-42f0-8ce1-8df6911c1c2e" id="edge7" length="0.5"/></nex:tree></nex:trees></nex:nexml></stemma>
+    </xenoData>
+    
+  </teiHeader>
+
+    <TEI n="Ed">
+        <text><cl><w n="0">i</w><w n="1">tu</w><w n="2">vu</w><w n="3">ma</w><w n="4" lemma="tu">tu.</w></cl></text>
+    </TEI>
+    <TEI n="TNVms">
+        <text><cl><w n="0" lemma="i"> i</w><w n="1">tu</w><w n="2">vu</w><w n="3">ma</w><w n="4" lemma="tu">tu.</w></cl></text>
+    </TEI>
+    <TEI n="TNVc">
+        <text><cl><w n="0">i</w><w n="1">tu</w><w n="2">vu</w><w n="3">ma</w><w n="4" lemma="tu">tu.</w></cl></text>
+    </TEI>
+    <TEI n="TNV1937">
+        <text><cl><w n="0">i</w><w n="1">tu</w><w n="2">vu</w><w n="3">ma</w><w n="4" lemma="tu">tu.</w></cl></text>
+    </TEI>
+    <TEI n="TNV1947">
+        <text><cl><w n="0">i</w><w n="1">tu</w><w n="2">vu</w><w n="3">ma</w><w n="4" lemma="tu">tu.</w></cl></text>
+    </TEI></teiCorpus>
