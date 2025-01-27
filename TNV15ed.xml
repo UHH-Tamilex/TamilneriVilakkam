@@ -13,6 +13,7 @@
       <sourceDesc>
         <msDesc xml:lang="en">
           <msIdentifier>
+          <idno type="siglum">Ed</idno>
           </msIdentifier>
           <msContents>
             <summary>
@@ -56,7 +57,7 @@
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
             <abbr type="siglum">TNV1947</abbr>
             <expan>TNV 1947</expan></witness>
-           <witness xml:id="TNV1347" source="witnesses/TNV_1937.xml">
+           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
             <abbr type="siglum">TNV1937</abbr>
             <expan>TNV 1937</expan> 
           <listWit><witness xml:id="TNVedac" n="ac"><abbr type="siglum">TNVedac</abbr><expan>TNV print [ante correctionem]</expan></witness><witness xml:id="TNVedpc" n="pc"><abbr type="siglum">TNVedpc</abbr><expan>TNV print [post correctionem]</expan></witness></listWit></witness>
