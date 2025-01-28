@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 2. </title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 3. </title>
         <title type="sub">Experimenting with formatting for the final edition.</title>
       </titleStmt>
       <publicationStmt>
@@ -20,7 +20,7 @@
           </msContents>
         </msDesc>
         <listWit>
-          <witness xml:id="Ed" source="TNV2ed.xml">
+          <witness xml:id="Ed" source="TNV3ed.xml">
             <abbr type="siglum">Ed</abbr>
             <expan>
               <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
@@ -156,56 +156,19 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV2">
-      <l>mutalkaru vaṇainta vuripporu ḷakamē</l></lg>
-<p xml:lang="en"><hi rend="italic">akam</hi> is <hi rend="italic">mutal</hi> and <hi rend="italic">karu</hi> together with <hi rend="italic">uripporul</hi>.</p>
-      </div>
+      <l>poruppē vemparal puṟavoṭu paḻaṉam</l>
+<l>parappamai vāri kuṟuñcimutaṟ pākē</l></lg>
+<p xml:lang="en">
+Beginning with <hi rend="italic">kuṟuñci</hi> the division [of the tiṇai biomes] is [into] mountain, hot gravel, forest, farmland, and water joined to the sea.</p>
+</div>
 </body>
 </text>
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-<p xml:id="TNV2comm1">e – tu. collappaṭṭaṉavaṟṟuḷ akapporuḷ āmāṟu uṇarttutaṉutaliṟṟu.</p>
-<p xml:id="TNV2comm2">(i – ḷ.) mutaluṅ karuvuñ cārnta uripporuḷ akapporuḷ ām eṉṟavāṟu.</p>  
-<p xml:id="TNV2comm3">mutal eṉappaṭṭatu viṭamum kālamum eṉṟuṇarvatu. karu veṉappaṭṭa poruḷ ceykai yoḻittuk koḷka. 
-atuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamum tiṇai yeṉappaṭum eṉpatu. (2)</p>
-</body></text><standOff corresp="#TNV2" type="wordsplit">
-<interp type="alignment" select="0">31MGM,33M</interp>
-<entry>
-<form>mutal</form>
-<def>mutal</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>karu</form>
-<def>karu</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">v</c>aṇainta</form>
-<def>joined</def>
-<gramGrp>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">v</c>uripporuḷ</form>
-<def>uripporul</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>akam-ē</form>
-<def>akam</def>
-<form type="simple">akam</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-</standOff></TEI>
+<p xml:id="TNV3comm1">e-tu. aintiṇaikkum iṭamutal āmāṟu uṇarttutal nutaliṟṟu.</p>
+<p xml:id="TNV3comm2">(i-ḷ.) malaiccāralum, vemparalattamum, ciṟutūṟuṭaip puṟavum, 
+malarkañaliya paḻaṉañcūḻnta vayalum,
+ kaṭaloṭu kaḻi cārnta perumaṇalekkarum kuṟuñci, pālai, 
+ mullai, marutam, neytaleṉa aimperuntiṇaiyiṉ nilamutaleṉṟavāṟu. (3)</p>
+ </body></text></TEI>      
