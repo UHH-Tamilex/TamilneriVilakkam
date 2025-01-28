@@ -19,7 +19,8 @@
             </summary>
           </msContents>
         </msDesc>
-        <listWit><witness xml:id="Ed" source="TNV15ed.xml">
+        <listWit>
+          <witness xml:id="Ed" source="TNV15ed.xml">
             <abbr type="siglum">Ed</abbr>
             <expan>
               <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
@@ -37,7 +38,9 @@
                 <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
                 <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
               </witness>
-              <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
+            </listWit>
+          </witness>
+          <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
             <abbr type="siglum">TNVc</abbr>
             <expan>Tamiḻneṟi Viḷakkam Paper</expan>
             <listWit>
@@ -49,7 +52,9 @@
                 <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
                 <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
               </witness>
-              <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
             <abbr type="siglum">TNV1937</abbr>
             <expan>TNV 1937</expan>
             <listWit>
@@ -61,7 +66,9 @@
                 <abbr type="siglum">TNV1937pc</abbr>
                 <expan>TNV print [post correctionem]</expan>
               </witness>
-              <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
             <abbr type="siglum">TNV1947</abbr>
             <expan>TNV 1947</expan>
             <listWit>
@@ -73,6 +80,8 @@
                 <abbr type="siglum">TNV1947pc</abbr>
                 <expan>TNV print [post correctionem]</expan>
               </witness>
+            </listWit>
+          </witness>
           <witness xml:id="KKms" source="witnesses/KKms.xml">
             <abbr type="siglum">KKms</abbr>
             <expan>KKms</expan>
@@ -105,14 +114,6 @@
             <abbr type="siglum">NAed</abbr>
             <expan>NAprint</expan>
           </witness>          
-            </listWit>
-          </witness>          
-            </listWit>
-          </witness>         
-            </listWit>
-          </witness>
-            </listWit>
-          </witness>
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
             <expan>Tolkāppiyam Nacci</expan>
@@ -121,7 +122,6 @@
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
             <expan>Tolkāppiyam Pēr</expan>
           </witness>
-          
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
             <abbr type="siglum">YV1960a</abbr>
             <expan>YV1960</expan>
@@ -130,8 +130,7 @@
             <abbr type="siglum">YV1960b</abbr>
             <expan>YV1960</expan>
           </witness>
-          <listWit>
-            <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
+          <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
               <abbr type="siglum">KT2</abbr>
               <expan>KT2</expan>
               <listWit>
@@ -141,12 +140,11 @@
                     Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
                 </witness>
               </listWit>
-              <listWit>
-              <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
+          </witness>
+          <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
               <abbr type="siglum">KT40</abbr>
-              <expan>KT40</expan></witness></listWit>
-            </witness>
-          </listWit>
+              <expan>KT40</expan>
+          </witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
