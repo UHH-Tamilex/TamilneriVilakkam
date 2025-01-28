@@ -20,7 +20,7 @@
           </msContents>
         </msDesc>
         <listWit>
-          <witness xml:id="Ed" source="TNV3ed.xml">
+          <witness xml:id="Ed" source="TNV4ed.xml">
             <abbr type="siglum">Ed</abbr>
             <expan>
               <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
@@ -155,107 +155,22 @@
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <div type="mūlam" rend="parallel">
-      <lg xml:id="TNV3">
-      <l>poruppē vemparal puṟavoṭu paḻaṉam</l>
-<l>parappamai vāri kuṟuñcimutaṟ pākē</l></lg>
-<p xml:lang="en">
-Beginning with <hi rend="italic">kuṟuñci</hi>, the division [of the <hi rend="italic">tiṇai</hi> biomes] is: mountain, hot gravel, forest, farmland, and water joined to the sea.</p>
-</div>
-</body>
-</text>
-<text xml:lang="ta" type="edition" corresp="#Ed">
+      <lg xml:id="TNV4">
+<l>kūtir vēṉil koḻuṅkā roḻipaṉi</l>
+<l>vēṉil muṉpaṉi meyyuyar poḻutē</l></lg>
+<p xml:lang="en">The true seasons are the cold season, the hot season, the full rainy season,
+ the season of ceasing dew, the hot season, and the early dew season.</p>
+ </div>
+ </body>
+ </text>
+ <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-<p xml:id="TNV3comm1">e-tu. aintiṇaikkum iṭamutal āmāṟu uṇarttutal nutaliṟṟu.</p>
-<p xml:id="TNV3comm2">(i-ḷ.) malaic cāralum, vemparal attamum, ciṟutūṟuṭaip puṟavum, 
-malarkañaliya paḻaṉañcūḻnta vayalum,
- kaṭaloṭu kaḻi cārnta perumaṇalekkarum kuṟuñci, pālai, 
- mullai, marutam, neytaleṉa aimperuntiṇaiyiṉ nilamutaleṉṟavāṟu. (3)</p>
- </body></text><standOff corresp="#TNV3" type="wordsplit">
-<interp type="alignment" select="0">6M2G30MG23M2GM,65M</interp>
-<entry>
-<form>porupp<c type="elided">u</c>-ē</form>
-<def>mountain</def>
-<form type="simple">poruppu</form>
-<form type="sandhi">porupp</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-<entry>
-<form>vem</form>
-<def>hot</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>paral</form>
-<def>gravel</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>puṟavoṭu</form>
-<def>forest</def>
-<gramGrp>
-  <gram type="role">sociative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>paḻaṉam</form>
-<def>farmland</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>parapp<c type="elided">u</c></form>
-<def>expanse</def>
-<form type="sandhi">parapp</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>amai</form>
-<def>join</def>
-<gramGrp>
-  <gram type="role">verbal root as peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>vāri</form>
-<def>water</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kuṟuñci</form>
-<def>kuṟuñci</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>mutal</form>
-<def>beginning</def>
-<form type="sandhi">mutaṟ</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>pāk<c type="elided">u</c>-ē</form>
-<def>division</def>
-<form type="simple">pāku</form>
-<form type="sandhi">pāk</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-</standOff></TEI>
+<p xml:id="TNV4comm1">e-tu. aintiṇaikkum kālamutaluṭ perumpoḻutu āmāṟu uṇarttutal nutaliṟṟu.</p>
+<p xml:id="TNV4comm2"> 
+(i-ḷ.) aippaciyuṅ kārttikaiyumākiya kūtirk kālamum, āṉiyum āṭiyumākiya vēṉiṟkālamum, 
+āvaṇiyum puraṭṭātiyumākiya kārkālamum, māciyum paṅkuṉiyumākiya piṉpaṉik kālamum, 
+cittiraiyum vaikāciyumākiya iḷavēṉiṟ kālamum, mārkaḻiyum taiyumākiya muṉpaṉikkālamum 
+muṟaiyāṉē aintiṇaikkum uyar kālamutalām eṉṟavāṟu. (4)</p>
+      </body></text>
+      </TEI>
