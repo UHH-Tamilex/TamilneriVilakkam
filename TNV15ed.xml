@@ -2845,9 +2845,6 @@
     <lem wit="#TNVms #TNVc">lāka</lem>
     <rdg wit="#TNV1937 #TNV1947">lākam</rdg>
   </app>
-<<<<<<< Updated upstream
-</listApp></standOff></TEI>
-=======
 </listApp></standOff><standOff type="apparatus" corresp="#TNV15poem9" source="alignments/TNV15poem9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -2906,4 +2903,3 @@
     <rdg wit="#KKedac">[kā]ṉṟa</rdg>
   </app>
 </listApp></standOff></TEI>
->>>>>>> Stashed changes
