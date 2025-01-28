@@ -190,7 +190,7 @@
 </p>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem1" corresp="#KT2">
-          <l>koṅkutēr vāḻkkai<note place="foot"><q xml:lang="ta"><hi rend="italic">vāṭkkai</hi></q> is noted as a western dialect variant by the Tamil Lexicon. No citations are provided. Thus, due to the lack of textual evidence and for ease of comprehension, I choose the standard spelling.</note> yañciṟait<note place="foot">I find the spelling of <q xml:lang="ta"><hi rend="italic">jañciṟait</hi></q> quite curious. I am unaware or any dialect or orthographic norm that would represent <q xml:lang="ta"><hi rend="italic">ya</hi></q>as <q xml:lang="ta"><hi rend="italic">ja</hi></q>. Is this simply a mistake? This is also the only grantha character in the two TNV manuscripts.</note> tumpi</l>
+          <l>koṅkutēr vāḻkkai<app><note><q xml:lang="ta"><hi rend="italic">vāṭkkai</hi></q> is noted as a western dialect variant by the Tamil Lexicon. No citations are provided. Thus, due to the lack of textual evidence and for ease of comprehension, I choose the standard spelling.</note> yañciṟait<note place="foot">I find the spelling of <q xml:lang="ta"><hi rend="italic">jañciṟait</hi></q> quite curious. I am unaware or any dialect or orthographic norm that would represent <q xml:lang="ta"><hi rend="italic">ya</hi></q>as <q xml:lang="ta"><hi rend="italic">ja</hi></q>. Is this simply a mistake? This is also the only grantha character in the two TNV manuscripts.</note></app> tumpi</l>
           <l>kāmañ ceppātu kaṇṭatu moḻimō</l>
           <l>payiliyatu keḻīiya naṭpiṉ mayiliyaṟ</l>
           <l>ceṟiyeyiṟ ṟarivai kūntali</l>
@@ -259,7 +259,7 @@
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem7">
           <l>pulaṉaṉ ṟeṉpa viṉṉuyi ratuvē</l>
-          <l>alarmulai yākan tāṅki</l>
+          <l>yalarmulai yākan tāṅki</l>
           <l>nilavoḷi matiyi ṉilavume ṉuyirē</l>
         </lg>
       </div>
