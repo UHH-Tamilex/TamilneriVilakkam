@@ -165,7 +165,7 @@
     <body>
       <head xml:lang="en">Commentary</head>
 <p xml:id="TNV2comm1">e – tu. collappaṭṭaṉavuḷ akapporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
-<p xml:id="TNV2comm2">(i – ḷ.) mutaluṅ karuvuñ cārnta uripporuḷ akapporuḷ ām eṉṟavāṟu.</p>  
+<p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta uripporuḷ akapporuḷ ām eṉṟavāṟu.</p>  
 <p xml:id="TNV2comm3">mutal eṉappaṭṭatiṭamum kālamum eṉṟuṇarvatu. karu veṉappaṭṭa poruṭ ceykai yoḻittuk koḷka. 
 vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉappaṭum eṉpatu. (2)</p>
 </body></text><standOff corresp="#TNV2" type="wordsplit">
@@ -332,11 +332,11 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
   </desc>
 </interp><listApp>
   
-  <app corresp="20,26">
+  <app corresp="14,20">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cārnta</lem>
     <rdg wit="#TNVmsac">cānta</rdg>
   </app>
-  <app corresp="35,55">
+  <app corresp="29,49">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">akapporuḷ ām eṉṟavāṟu.</lem>
     <rdg wit="#TNVcac">akappo<lb n="19"/>ruḷāra<gap reason="illegible" unit="character" quantity="1"/>ṟaṉṟavāṟu.</rdg>
     <rdg wit="#TNVms">akapporuḷā</rdg>
@@ -358,7 +358,7 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
   </desc>
 </interp><listApp>
   <app corresp="0,21">
-    <lem wit="#TNVc">mutal eṉappaṭṭatiṭamum</lem>
+    <lem wit="#TNVc #TNV1937 #TNV1947">mutal eṉappaṭṭatiṭamum</lem>
     
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/>ṉappaṭṭatiṭamuṅ</rdg>
   </app>
@@ -368,4 +368,309 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
     <lem wit="#TNVc #TNV1937 #TNV1947">koḷka. vatuvum uriyum</lem>
     <rdg wit="#TNVms">koḷ<gap reason="lost" unit="character" quantity="4"/><lb n="2"/><gap reason="lost" unit="character" quantity="4"/>m</rdg>
   </app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV2" source="alignments/TNV2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="9,17">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vaṇainta</lem>
+    <rdg wit="#TNVmsac">paṇainta</rdg>
+  </app>
+  <app corresp="26,32">
+    <lem wit="#TNVc #TNV1937 #TNV1947">ḷakamē</lem>
+    <rdg wit="#TNVms">ḷākum.</rdg>
+  </app>
+</listApp></standOff><standOff corresp="#TNV2comm2" type="wordsplit">
+<interp type="alignment" select="0">5MG6MG38M,50MG</interp>
+<entry>
+<form>mutal-um</form>
+<def>base</def>
+<form type="simple">mutal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>karu-<c type="glide">v</c>um</form>
+<def>constituent elements</def>
+<form type="simple">karu</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cārnta</form>
+<def>joined</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uri<c type="geminated">p</c></form>
+<def>uri</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>poetic content</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akam</form>
+<def>inside</def>
+<form type="sandhi">akap</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>poetic content</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟa</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṟu</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV2comm3" type="wordsplit">
+<interp type="alignment" select="0">15MG4MG7MG5MG52MG6MG7MG24MG27M,43MG38M2G28MG38MGMGM</interp>
+<entry>
+<form>mutal</form>
+<def>base</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭat<c type="elided">u</c></form>
+<def>happened</def>
+<form type="sandhi">paṭṭat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭam-um</form>
+<def>place</def>
+<form type="simple">iṭam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kālam-um</form>
+<def>time</def>
+<form type="simple">kālam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarvatu</form>
+<def>is known</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karu</form>
+<def>contituent elements</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭa</form>
+<def>happened</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>poetic content</def>
+<form type="sandhi">poruṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceykai</form>
+<def>action</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oḻittu<c type="geminated">k</c></form>
+<def>excluding</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷka</form>
+<def>grasp</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>atu-<c type="glide">v</c>um</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uri-<c type="glide">y</c>um</form>
+<def>uri</def>
+<form type="simple">uri</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>paṇp<c type="elided">u</c></form>
+<def>nature</def>
+<form type="sandhi">paṇp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭum</form>
+<def>happens</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">n</c></form>
+<def>this</def>
+</entry>
+<entry>
+<form>nāṉkiṉ</form>
+<def>four</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṭṭam-um</form>
+<def>union</def>
+<form type="simple">kūṭṭam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tiṇai</form>
+<def>landscape</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭum</form>
+<def>happens</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpatu</form>
+<def>say-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>()</form>
+<def>2</def>
+<form type="sandhi">(2)</form>
+</entry>
+</standOff></TEI>

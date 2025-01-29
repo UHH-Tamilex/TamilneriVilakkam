@@ -168,7 +168,7 @@ Beginning with <hi rend="italic">kuṟuñci</hi>, the division [of the <hi rend=
       <head xml:lang="en">Commentary</head>
 <p xml:id="TNV3comm1">e-tu. aintiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
 <p xml:id="TNV3comm2">(i-ḷ.) malaic cāralum vemparal attamum ciṟutūṟuṭaip puṟavumalarkañaliya 
-paḻaṉañcūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta perumaṇalekkaruṅ kuṟuñci pālai 
+paḻaṉamuñcūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta perumaṇalekkaruṅ kuṟuñci pālai 
  mullai marutaneytal eṉa vaimperuntiṇaiyiṉilamutaleṉṟavāṟu. (3)</p>
  </body></text><standOff corresp="#TNV3" type="wordsplit">
 <interp type="alignment" select="0">6M2G30MG23M2GM,65M</interp>
@@ -296,7 +296,7 @@ paḻaṉañcūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta perumaṇalekkaruṅ
 </interp><listApp>
  
   <app corresp="34,65">
-    <lem wit="#TNVc">ciṟutūṟuṭaip puṟavumalarkañaliya</lem>
+    <lem wit="#TNVc #TNV1937 #TNV1947">ciṟutūṟuṭaip puṟavumalarkañaliya</lem>
     <rdg wit="#TNVms">ciṟutūṟ u<gap reason="lost" unit="character" quantity="4"/><lb n="4"/><gap reason="lost" unit="character" quantity="1"/>vumalarkañaliya</rdg>
     
   </app>
@@ -309,14 +309,34 @@ paḻaṉañcūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta perumaṇalekkaruṅ
     <rdg wit="#TNVmsac">kaṭalo<gap reason="illegible" unit="character" quantity="1"/>ṭu</rdg>
   </app>
   <app corresp="133,151">
-    <lem wit="#TNVc">mullai marutaneytal</lem>
+    <lem wit="#TNVc #TNV1937 #TNV1947">mullai marutaneytal</lem>
     <rdg wit="#TNVms">mu<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>rutaneytal</rdg>
-    <rdgGrp select="#TNV1937 #TNV1947">
+    
      
-    </rdgGrp>
+
   </app>
   <app corresp="163,174">
     <lem wit="#TNVms #TNVc">tiṇaiyunila</lem>
     <rdg wit="#TNV1937 #TNV1947">tiṇaiyiṉ nila</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV3" source="alignments/TNV3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="23,40">
+    <lem wit="#TNVc #TNV1937 #TNV1947">paḻaṉam parappamai</lem>
+    <rdg wit="#TNVms">paḻa<gap reason="lost" unit="character" quantity="4"/><lb n="3"/> pamai</rdg>
   </app>
 </listApp></standOff></TEI>
