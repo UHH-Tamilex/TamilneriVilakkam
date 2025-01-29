@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 3. </title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 4. </title>
         <title type="sub">Experimenting with formatting for the final edition.</title>
       </titleStmt>
       <publicationStmt>
@@ -166,11 +166,76 @@
  <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-<p xml:id="TNV4comm1">e-tu. aintiṇaikkum kālamutaluṭ perumpoḻutu āmāṟu uṇarttutal nutaliṟṟu.</p>
+<p xml:id="TNV4comm1">e-tu. aintiṇaikkuṅ kālamutaluṭ perumpoḻutām āṟuṇarttutaṉutaliṟṟu.</p>
 <p xml:id="TNV4comm2"> 
-(i-ḷ.) aippaciyuṅ kārttikaiyumākiya kūtirk kālamum, āṉiyum āṭiyumākiya vēṉiṟkālamum, 
-āvaṇiyum puraṭṭātiyumākiya kārkālamum, māciyum paṅkuṉiyumākiya piṉpaṉik kālamum, 
-cittiraiyum vaikāciyumākiya iḷavēṉiṟ kālamum, mārkaḻiyum taiyumākiya muṉpaṉikkālamum 
-muṟaiyāṉē aintiṇaikkum uyar kālamutalām eṉṟavāṟu. (4)</p>
+(i-ḷ.) aippaciyuṅ kārttikaiyum ākiya kūtirk kālamum āṉiyum āṭiyumākiya vēṉiṟkālamum 
+āvaṇiyum puraṭṭātiyumākiya kārkālamumāciyum paṅkuṉiyumākiya piṉpaṉik kālamuñ 
+cittiraiyum vaikāciyum ākiya iḷavēṉiṟ kālamumārkaḻiyun taiyum ākiya muṉ paṉikkālamumuṟaiyāṉē aintiṇaikkum uyar kālamutalām eṉṟavāṟu. (4)</p>
       </body></text>
-      </TEI>
+      <standOff type="apparatus" corresp="#TNV4comm1" source="alignments/TNV4comm1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  
+  <app corresp="40,61">
+    <lem wit="#TNVc">āṟuṇarttutaṉutaliṟṟu.</lem>
+   
+    <rdg wit="#TNVms">āṟuṇarttutanu</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV4comm2" source="alignments/TNV4comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+ 
+  <app corresp="95,116">
+    <lem wit="#TNVc">ākiya kārkālamumāciyum</lem>
+   
+    <rdg wit="#TNVms">āki<gap reason="lost" unit="character" quantity="4"/><lb n="8"/>lamumāciyum</rdg>
+  </app>
+  <app corresp="131,139">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">piṉpaṉik</lem>
+    <rdg wit="#TNVmsac">piṉipaṉik</rdg>
+  </app>
+  <app corresp="146,157">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cittiraiyum</lem>
+    <rdg wit="#TNVmsac">cittairaiyum</rdg>
+  </app>
+  <app corresp="167,172">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ākiya</lem>
+    <rdg wit="#TNVmsac">ākiyu</rdg>
+  </app>
+  <app corresp="172,181">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">viḷavēṉiṟ</lem>
+    <rdg wit="#TNVmsac">yu<gap reason="illegible" unit="character" quantity="1"/>viḷavēṉiṟ</rdg>
+  </app>
+  <app corresp="181,197">
+    <lem wit="#TNVc">kālamumārkaḻiyun</lem>
+    
+    <rdg wit="#TNVms">kālamumār<gap reason="lost" unit="character" quantity="4"/><lb n="9"/></rdg>
+  </app>
+ 
+</listApp></standOff></TEI>

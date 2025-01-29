@@ -164,10 +164,10 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-<p xml:id="TNV2comm1">e – tu. collappaṭṭaṉavaṟṟuḷ akapporuḷ āmāṟu uṇarttutaṉutaliṟṟu.</p>
+<p xml:id="TNV2comm1">e – tu. collappaṭṭaṉavuḷ akapporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
 <p xml:id="TNV2comm2">(i – ḷ.) mutaluṅ karuvuñ cārnta uripporuḷ akapporuḷ ām eṉṟavāṟu.</p>  
-<p xml:id="TNV2comm3">mutal eṉappaṭṭatu viṭamum kālamum eṉṟuṇarvatu. karu veṉappaṭṭa poruḷ ceykai yoḻittuk koḷka. 
-atuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamum tiṇai yeṉappaṭum eṉpatu. (2)</p>
+<p xml:id="TNV2comm3">mutal eṉappaṭṭatiṭamum kālamum eṉṟuṇarvatu. karu veṉappaṭṭa poruṭ ceykai yoḻittuk koḷka. 
+vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉappaṭum eṉpatu. (2)</p>
 </body></text><standOff corresp="#TNV2" type="wordsplit">
 <interp type="alignment" select="0">31MGM,33M</interp>
 <entry>
@@ -208,4 +208,164 @@ atuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamum tiṇai yeṉappa
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#TNV2comm1" type="wordsplit">
+<interp type="alignment" select="0">2M2G16MG30ML9M,6MG53MG</interp>
+<entry>
+<form>eṉpatu</form>
+<def>say</def>
+<form type="sandhi">e–tu</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colla<c type="geminated">p</c></form>
+<def>speak</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭaṉa</form>
+<def>happened</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṟṟuḷ</form>
+<def>them</def>
+<form type="sandhi">vaṟṟuḷ</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akam</form>
+<def>inside</def>
+<form type="sandhi">akap</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>poetic content</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ām</form>
+<def>is</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟu</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarttutal</form>
+<def>make known</def>
+<form type="sandhi">uṇarttutaṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutaliṟṟu</form>
+<def>intend</def>
+<form type="sandhi">ṉutaliṟṟu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff type="apparatus" corresp="#TNV2comm1" source="alignments/TNV2comm1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="2,5">
+    <lem wit="#TNVc #TNV1937 #TNV1947">tu.</lem>
+    <rdg wit="#TNVms"/>
+  </app>
+  <app corresp="5,21">
+    <lem wit="#TNVc">collappaṭṭaṉavuḷ</lem>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="8"/><gap reason="lost" unit="character" quantity="3"/>ṭṭaṉavuḷ</rdg>
+    <rdg wit="#TNV1937 #TNV1947">collappaṭṭaṉavaṟṟuḷ</rdg>
+  </app>
+ 
+</listApp></standOff><standOff type="apparatus" corresp="#TNV2comm2" source="alignments/TNV2comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  
+  <app corresp="20,26">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cārnta</lem>
+    <rdg wit="#TNVmsac">cānta</rdg>
+  </app>
+  <app corresp="35,55">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">akapporuḷ ām eṉṟavāṟu.</lem>
+    <rdg wit="#TNVcac">akappo<lb n="19"/>ruḷāra<gap reason="illegible" unit="character" quantity="1"/>ṟaṉṟavāṟu.</rdg>
+    <rdg wit="#TNVms">akapporuḷā</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV2comm3" source="alignments/TNV2comm3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,21">
+    <lem wit="#TNVc">mutal eṉappaṭṭatiṭamum</lem>
+    
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/>ṉappaṭṭatiṭamuṅ</rdg>
+  </app>
+  
+ 
+  <app corresp="73,92">
+    <lem wit="#TNVc #TNV1937 #TNV1947">koḷka. vatuvum uriyum</lem>
+    <rdg wit="#TNVms">koḷ<gap reason="lost" unit="character" quantity="4"/><lb n="2"/><gap reason="lost" unit="character" quantity="4"/>m</rdg>
+  </app>
+</listApp></standOff></TEI>
