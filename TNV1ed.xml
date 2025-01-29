@@ -420,14 +420,11 @@ iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="23,37">
-    <lem wit="#TNVc #TNV1937 #TNV1947">poruḷilakkaṇam</lem>
-    <rdg wit="#TNVms">poruḷ ilakkaṇa</rdg>
-  </app>
-  <app corresp="37,60">
-    <lem wit="#TNVc">āmāṟuṇarttutaṉutaliṟṟu.</lem>
+  
+  <app corresp="28,60">
+    <lem wit="#TNVc #TNV1937 #TNV1947">ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu.</lem>
    
-    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="2"/>rttuta<sic>n</sic>utaliṟṟu.</rdg>
+    <rdg wit="#TNVms">ilakkaṇa<gap reason="lost" unit="character" quantity="4"/><lb n="2"/>rttutanutaliṟṟu.</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV1comm2" source="alignments/TNV1comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -446,19 +443,19 @@ iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa
   </desc>
 </interp><listApp>
   
-  <app corresp="50,68">
-    <lem wit="#TNVc #TNV1937 #TNV1947">puṟapporuḷum, āyiru</lem>
+  <app corresp="49,66">
+    <lem wit="#TNVc #TNV1937 #TNV1947">puṟapporuḷum āyiru</lem>
     <rdg wit="#TNVms">puṟap<gap reason="lost" unit="character" quantity="4"/><lb n="3"/>y iru</rdg>
   </app>
-  <app corresp="121,132">
+  <app corresp="119,130">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vakaippaṭṭa</lem>
     <rdg wit="#TNVmsac"><gap reason="illegible" unit="character" quantity="2"/> vakaip paṭṭa</rdg>
   </app>
-  <app corresp="156,172">
+  <app corresp="154,170">
     <lem wit="#TNVc #TNV1937 #TNV1947">poruḷāmeṉṟavāṟu.</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="4"/>ṉṟavāṟu.</rdg>
-  </app>
   
+  </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV1comm3" source="alignments/TNV1comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -496,7 +493,7 @@ iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="1"/> īṭum</rdg>
   </app>
   <app corresp="264,288">
-    <lem wit="#TNVc">iruvakai nikaḻcciyunōkkik</lem>
+    <lem wit="#TNVc #TNV1937 #TNV1947">iruvakai nikaḻcciyunōkkik</lem>
     <rdg wit="#TNVms">iru va<gap reason="lost" unit="character" quantity="4"/><lb n="7"/>ciyunōkkik</rdg>
   </app>
 </listApp></standOff><standOff corresp="#TNV1comm2" type="wordsplit">

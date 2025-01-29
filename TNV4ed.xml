@@ -233,9 +233,33 @@ cittiraiyum vaikāciyum ākiya viḷavēṉiṟ kālamumārkaḻiyun taiyum āki
     <rdg wit="#TNVmsac">yu<gap reason="illegible" unit="character" quantity="1"/>viḷavēṉiṟ</rdg>
   </app>
   <app corresp="181,197">
-    <lem wit="#TNVc">kālamumārkaḻiyun</lem>
+    <lem wit="#TNVc #TNV1937 #TNV1947">kālamumārkaḻiyun</lem>
     
     <rdg wit="#TNVms">kālamumār<gap reason="lost" unit="character" quantity="4"/><lb n="9"/></rdg>
   </app>
  
+</listApp></standOff><standOff type="apparatus" corresp="#TNV4" source="alignments/TNV4.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="10,17">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">koḻuṅkā</lem>
+    <rdg wit="#TNVmsac">k<gap reason="illegible" unit="character" quantity="1"/>oḻuṅkā</rdg>
+  </app>
+  <app corresp="17,25">
+    <lem wit="#TNVc #TNV1937 #TNV1947">roḻipaṉi</lem>
+    <rdg wit="#TNVms">ro<gap reason="lost" unit="character" quantity="4"/><lb n="6"/></rdg>
+  </app>
 </listApp></standOff></TEI>
