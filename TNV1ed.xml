@@ -172,7 +172,7 @@ puṟapporuḷum, āyiru vakaiyiṉum ākiya akappuṟapporuḷum eṉa mūvī�
 vakaippaṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷāmeṉṟavāṟu. </p>
 <p xml:id="TNV1comm3">puṟac ceykai uḷateṉiṉum mikutivakaiyāl akampaṟṟi nikaḻtaliṉ
 irutalaiyum tīrā vaṉpiṟṟākiya kāmam akapporuḷ eṉpatu. akanikaḻcci uḷateṉiṉum
-mikuti vakaiyāṟ puṟacceykaiyāl nikaḻtaliṟ kuṟṟappāṭillā maṟam puṟapporuḷ eṉpatu.
+mikuti vakaiyāṟ puṟacceykaiyāl nikaḻtaliṟ kuṟṟappāṭillā maṟam puṟapporuḷ eṉpatu<note place="foot">I think the 'corrected' reading here makes sense. There is no reason why this construction whould not mirror that found in the previous sentence.</note>.
 akamallā iṉpamum puṟamallāp poruḷ ceyal vakaiyum aṟamum ataṉ payaṉākiya vīṭum
 iruvakai nikaḻcciyum nōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa veṉpatu. (1)</p>
 
@@ -421,24 +421,83 @@ iruvakai nikaḻcciyum nōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭa�
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,7">
-    <lem wit="#TNV1937 #TNV1947">eṉpatu,</lem>
-    <rdgGrp select="#TNVms #TNVc">
-      <rdg type="main">etu.</rdg>
-      <rdg type="minor" wit="#TNVc">e-tu.</rdg>
-    </rdgGrp>
-  </app>
   <app corresp="23,37">
     <lem wit="#TNVc #TNV1937 #TNV1947">poruḷilakkaṇam</lem>
     <rdg wit="#TNVms">poruḷ ilakkaṇa</rdg>
   </app>
   <app corresp="37,60">
     <lem wit="#TNVc">āmāṟuṇarttutaṉutaliṟṟu.</lem>
+   
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="2"/>rttuta<sic>n</sic>utaliṟṟu.</rdg>
-    
   </app>
-  <app corresp="60,65">
-    <lem wit="#TNVms #TNV1937 #TNV1947">eṉavē</lem>
-    <rdg wit="#TNVc">eṉavē</rdg>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV1comm2" source="alignments/TNV1comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  
+  <app corresp="50,68">
+    <lem wit="#TNVc #TNV1937 #TNV1947">puṟapporuḷum, āyiru</lem>
+    <rdg wit="#TNVms">puṟap<gap reason="lost" unit="character" quantity="4"/><lb n="3"/>y iru</rdg>
+  </app>
+  <app corresp="121,132">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vakaippaṭṭa</lem>
+    <rdg wit="#TNVmsac"><gap reason="illegible" unit="character" quantity="2"/> vakaip paṭṭa</rdg>
+  </app>
+  <app corresp="156,172">
+    <lem wit="#TNVc #TNV1937 #TNV1947">poruḷāmeṉṟavāṟu.</lem>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="4"/>ṉṟavāṟu.</rdg>
+  </app>
+  
+</listApp></standOff><standOff type="apparatus" corresp="#TNV1comm3" source="alignments/TNV1comm3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="81,95">
+    <lem wit="#TNVc #TNV1937 #TNV1947">kāmam akapporuḷ</lem>
+    <rdg wit="#TNVms">kāma<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>ruḷ</rdg>
+  </app>
+  <app corresp="178,188">
+    <lem wit="#TNVc #TNV1937 #TNV1947">puṟapporuḷ</lem>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="6"/>ruḷ</rdg>
+  </app>
+  <app corresp="188,195">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">eṉpatu.</lem>
+    <rdg wit="#TNVms #TNVcac">eṉappaṭṭatu.</rdg>
+  </app>
+  <app corresp="211,221">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puṟamallāp</lem>
+    <rdg wit="#TNVmsac">puṟaṅm allāp</rdg>
+  </app>
+  <app corresp="259,264">
+    <lem wit="#TNVc #TNV1937 #TNV1947">vīṭum</lem>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="1"/> īṭum</rdg>
+  </app>
+  <app corresp="264,288">
+    <lem wit="#TNVc">iruvakai nikaḻcciyunōkkik</lem>
+    <rdg wit="#TNVms">iru va<gap reason="lost" unit="character" quantity="4"/><lb n="7"/>ciyunōkkik</rdg>
   </app>
 </listApp></standOff></TEI>
