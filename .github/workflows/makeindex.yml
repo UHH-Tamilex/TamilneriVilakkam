@@ -27,8 +27,8 @@ jobs:
         run: |
           cd lib/_indexer
           yarn install
-          yarn pageindex Ed "Tamiḻneṟi Viḷakkam"
-          yarn todb Ed
+          yarn pageindex TNV "Tamiḻneṟi Viḷakkam"
+          yarn todb TNV
           yarn dbtohtml "Tamiḻneṟi Viḷakkam"
           cd ../..
           git pull
