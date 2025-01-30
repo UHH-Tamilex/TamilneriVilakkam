@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 5. </title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 6. </title>
         <title type="sub">Experimenting with formatting for the final edition.</title>
       </titleStmt>
       <publicationStmt>
@@ -155,20 +155,23 @@
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <div type="mūlam" rend="parallel">
-      <lg xml:id="TNV5">
-      <l>iruṇilai yucci mālai vaikaṟai</l>
-<l>poruṇilai yanti puṇarkkum poḻutē</l></lg>
+      <lg xml:id="TNV6">
+      <l>teyva māṉiṭañ ceyti yuṇavō</l>
+<l>ṭeytiya vicaivilaṅ kiṉaiyaṉa piṟavum</l>
+<l>poytīr karuveṉap pukaṉṟaṉar koḷalē</l></lg>
 </div>
 </body>
 </text>
- <text xml:lang="ta" type="edition" corresp="#Ed">
+<text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-      <p xml:id="TNV5comm1">e-tu. ciṟu kālamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
-<p xml:id="TNV5comm2">naṭuvupaṭṭa viruḷ yāmamuṅ katir kāyum uccippoḻutumālaippoḻutum pular kālaiyum antiyum eṟpāṭum muṟaiyāṉē ain tiṇaikkum ciṟukāla mutalā meṉṟavāṟu.<note>(5)</note></p>
+      <p xml:id="TNV6comm1">e-tu. karupporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:id="TNV6comm2">collappaṭṭa mutaṟporuṭkuriya teyvamum avvaḻi vāḻumakkaḷum 
+      avarkaḷ toḻilkaḷum uṇpārkkut tuppākiya uṇavum icaiyum āṅkaṇ vāḻum vilaṅkukaḷum 
+      piṟavum aintiṇaikkup peṟṟa karupporuḷā meṉṟavāṟu. <note>(6)</note></p>
       </body>
       </text>
-      <standOff type="apparatus" corresp="#TNV5" source="alignments/TNV5.xml"><interp type="normalization">
+      <standOff type="apparatus" corresp="#TNV6comm2" source="alignments/TNV6comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -184,97 +187,186 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="8,18">
-    <lem wit="#TNVc #TNV1937 #TNV1947">yucci mālai</lem>
+  
+  <app corresp="35,41">
+    <lem wit="#TNVc #TNV1937 #TNV1947">avvaḻi</lem>
     <rdg wit="#TNVms"/>
   </app>
-  <app corresp="35,40">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">yanti</lem>
-    <rdg wit="#TNVmsac">yanti yu</rdg>
+  <app corresp="70,79">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uṇpārkkut</lem>
+    <rdg wit="#TNVmsac">uṇarvārkkut</rdg>
   </app>
-  <app corresp="49,55">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">poḻutē</lem>
-    <rdg wit="#TNVmsac">po<gap reason="illegible" unit="character" quantity="1"/>ḻutē.</rdg>
+  <app corresp="88,94">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uṇavum</lem>
+    <rdg wit="#TNVmsac"/>
   </app>
-</listApp></standOff><standOff corresp="#TNV5" type="wordsplit">
-<interp type="alignment" select="0">4ML27ML24M,57M</interp>
+
+  <app corresp="111,123">
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">vilaṅkukaḷum</lem>
+    <rdg wit="#TNVcac">vilaṅkaḷum</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV6comm1" source="alignments/TNV6comm1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp>
+</standOff><standOff type="apparatus" corresp="#TNV6" source="alignments/TNV6.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="30,40">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vicaivilaṅ</lem>
+    <rdg wit="#TNVmsac">vicaivikalaṅ</rdg>
+  </app>
+  <app corresp="40,49">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kiṉaiyaṉa</lem>
+    <rdg wit="#TNVmsac">kiṉai<unclear>yi</unclear>yaṉa</rdg>
+  </app>
+</listApp></standOff><standOff corresp="#TNV6" type="wordsplit">
+<interp type="alignment" select="0">6ML18MG17MG12MG33MGM,92M</interp>
 <entry>
-<form>iruḷ</form>
-<def>darkness</def>
-<form type="sandhi">iruṇ</form>
+<form>teyvam</form>
+<def>god</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nilai</form>
-<def>state</def>
-<form type="sandhi">ṇilai</form>
+<form>māṉiṭam</form>
+<def>mankind</def>
+<form type="sandhi">māṉiṭañ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>ucci</form>
-<def>midday</def>
+<form>ceyti</form>
+<def>occupation</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mālai</form>
-<def>evening</def>
+<form><c type="glide">y</c>uṇavōṭ<c type="elided">u</c></form>
+<def>food</def>
+<form type="sandhi"><c type="glide">y</c>uṇavōṭ</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">sociative</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vaikaṟai</form>
-<def>dawn</def>
+<form>eytiya</form>
+<def>be suitable</def>
 <gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>poruḷ</form>
-<def>essence</def>
-<form type="sandhi">poruṇ</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>nilai</form>
-<def>state</def>
-<form type="sandhi">ṇilai</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>yanti</form>
-<def>twilight</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>puṇarkkum</form>
-<def>uniting</def>
-<gramGrp>
-  <gram type="role">imperfect aspect</gram>
   <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>poḻutē</form>
-<def>time</def>
+<form><c type="glide">v</c>icai</form>
+<def>music</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
-</standOff><standOff corresp="#TNV5comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G12ML8MG10ML9M,6MG38MG</interp>
+<entry>
+<form>vilaṅk<c type="elided">u</c></form>
+<def>animal</def>
+<form type="sandhi">vilaṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉaiyaṉa</form>
+<def>such</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟa-<c type="glide">v</c>um</form>
+<def>other</def>
+<form type="simple">piṟa</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>poy</form>
+<def>lie</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīr</form>
+<def>end</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karu</form>
+<def>constituent elements</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukaṉṟaṉar</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷal-ē</form>
+<def>taking</def>
+<form type="simple">koḷal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV6comm1" type="wordsplit">
+<interp type="alignment" select="0">2M2G17MG10ML9M,6MG34MG</interp>
 <entry>
 <form>eṉpatu</form>
-<def>say-it</def>
+<def>say</def>
 <form type="sandhi">e-tu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
@@ -282,22 +374,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ciṟu</form>
-<def>small</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kālam</form>
-<def>time</def>
+<form>karu<c type="geminated">p</c></form>
+<def>contituent elements</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mutal</form>
-<def>base</def>
+<form>poruḷ</form>
+<def>poetic matter</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -334,13 +419,13 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff><standOff corresp="#TNV5comm2" type="wordsplit">
-<interp type="alignment" select="0">21MG34M2G12MG7MG8M2G10MG11M2G11ML15M,139MG</interp>
+</standOff><standOff corresp="#TNV6comm2" type="wordsplit">
+<interp type="alignment" select="0">22MG11MG13ML5MG17MG15MG9M2G6MG23MG6MG41M,178MG</interp>
 <entry>
-<form>naṭuvu</form>
-<def>middle</def>
+<form>colla<c type="geminated">p</c></form>
+<def>speak</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -352,135 +437,185 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>iruḷ</form>
-<def>darkness</def>
+<form>mutal</form>
+<def>base</def>
+<form type="sandhi">mutaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>yāmam-um</form>
-<def>midnight</def>
-<form type="simple">yāmam</form>
+<form>poruṭk<c type="elided">u</c></form>
+<def>poetic matter</def>
+<form type="sandhi">poruṭk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uriya</form>
+<def>right</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvam-um</form>
+<def>god</def>
+<form type="simple">teyvam</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>katir</form>
-<def>sun</def>
+<form>a<c type="geminated">v</c></form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kāyum</form>
-<def>burns</def>
+<form>vāḻum</form>
+<def>living</def>
 <gramGrp>
   <gram type="role">imperfect aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ucci<c type="geminated">p</c></form>
-<def>midday</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>poḻutu</form>
-<def>time of day</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>mālai<c type="geminated">p</c></form>
-<def>evening</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>poḻut<c type="elided">u</c>-um</form>
-<def>time of day</def>
-<form type="simple">poḻutu</form>
-<form type="sandhi">poḻut</form>
+<form>makkaḷ-um</form>
+<def>people</def>
+<form type="simple">makkaḷ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>pular</form>
-<def>dawn</def>
+<form>avarkaḷ</form>
+<def>they</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">plural</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kālai-<c type="glide">y</c>um</form>
-<def>time</def>
-<form type="simple">kālai</form>
+<form>toḻilkaḷ-um</form>
+<def>occupations</def>
+<form type="simple">toḻilkaḷ</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṇpārkku<c type="geminated">t</c></form>
+<def>eat</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tupp<c type="elided">u</c></form>
+<def>strength</def>
+<form type="sandhi">tupp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇav<c type="elided">u</c>-um</form>
+<def>food</def>
+<form type="simple">uṇavu</form>
+<form type="sandhi">uṇav</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>icai-<c type="glide">y</c>um</form>
+<def>music</def>
+<form type="simple">icai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>anti-<c type="glide">y</c>um</form>
-<def>twilight</def>
-<form type="simple">anti</form>
+<form>āṅkaṇ</form>
+<def>there</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻum</form>
+<def>living</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilaṅkukaḷ-um</form>
+<def>animals</def>
+<form type="simple">vilaṅkukaḷ</form>
+<gramGrp>
+  <gram type="role">plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>eṟpāṭ<c type="elided">u</c>-um</form>
-<def>dusk</def>
-<form type="simple">eṟpāṭu</form>
-<form type="sandhi">eṟpāṭ</form>
+<form>piṟa-<c type="glide">v</c>um</form>
+<def>other</def>
+<form type="simple">piṟa</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>muṟaiyāṉ-ē</form>
-<def>tradition</def>
-<form type="simple">muṟaiyāṉ</form>
-<gramGrp>
-  <gram type="role">instrumental</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-<entry>
-<form>aintiṇaikk<c type="elided">u</c>-um</form>
-<def>five-landscapes</def>
-<form type="simple">aintiṇaikku</form>
-<form type="sandhi">aintiṇaikk</form>
+<form>aintiṇaikku<c type="geminated">p</c></form>
+<def>5 lanscapes</def>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>ciṟu</form>
-<def>small</def>
+<form>peṟṟa</form>
+<def>obtained</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kālam</form>
-<def>time</def>
+<form>karu<c type="geminated">p</c></form>
+<def>contituent elemnets</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mutal</form>
-<def>base</def>
+<form>poruḷ</form>
+<def>poetic matter</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -507,58 +642,4 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV5comm1" source="alignments/TNV5comm1.xml"><interp type="normalization">
-  <desc type="tagfilters">
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
-  </desc>
-</interp><listApp>
-  <app corresp="20,41">
-    <lem wit="#TNVc #TNV1937 #TNV1947">āṟuṇarttutaṉutaliṟṟu.</lem>
-    
-    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu.</rdg>
-  </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV5comm2" source="alignments/TNV5comm2.xml"><interp type="normalization">
-  <desc type="tagfilters">
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
-  </desc>
-</interp><listApp>
-  
-  <app corresp="16,23">
-    <lem wit="#TNVc #TNV1937">yāmamuṅ</lem>
-    <rdg wit="#TNVms"><gap reason="illegible" unit="character" quantity="3"/><lb n="2"/>muṅ</rdg>
-    <rdg wit="#TNV1947">yāmmum,</rdg>
-  </app>
-  <app corresp="77,92">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">eṟpāṭumuṟaiyāṉē</lem>
-    <rdgGrp select="#TNVms #TNVcac">
-      <rdg type="main">emuṟpāṭumuṟaiyāṉē</rdg>
-      <rdg type="minor" wit="#TNVcac">ēmuṟpāṭumuṟaiyāṉē<lb n="11"/></rdg>
-    </rdgGrp>
-  </app>
-  <app corresp="118,128">
-    <lem wit="#TNVc #TNV1937 #TNV1947">meṉṟavāṟu.</lem>
-    <rdg wit="#TNVms">m eṉ<gap reason="illegible" unit="character" quantity="3"/><lb n="3"/>ṟu. 5.</rdg>
-  </app>
-</listApp></standOff></TEI>
+</standOff></TEI>
