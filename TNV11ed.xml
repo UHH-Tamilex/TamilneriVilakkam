@@ -157,7 +157,7 @@
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV11">
       <l>murukiyaṅ kuṟuñci tuṭiyē pañcuram</l>
-<l>perukicai vēṟaṅ kōṭpaṟai tāram</l>
+<l>perukicai yēṟaṅ kōṭpaṟai tāram</l>
 <l>palliya maruta maḻappaṟai cevvaḻi</l>
 <l>colliya piṟavuñ coṟṟavaṟ ṟicaiyē</l>
 </lg>
@@ -186,7 +186,7 @@ and others mentioned [elsewhere are] mentioned as music.</p>
       </body>
       </text>
       <standOff corresp="#TNV11" type="wordsplit">
-<interp type="alignment" select="0">5MG15MG44ML33MG12MG4MG2M,121M</interp>
+<interp type="alignment" select="0">5MG15MG15MG30ML33MG12MG4MG2M,123M</interp>
 <entry>
 <form>muruk<c type="elided">u</c></form>
 <def>Murukaṉ</def>
@@ -199,8 +199,6 @@ and others mentioned [elsewhere are] mentioned as music.</p>
 <form>iyam</form>
 <def>drum</def>
 <form type="sandhi">iyaṅ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>kuṟuñci</form>
@@ -226,17 +224,24 @@ and others mentioned [elsewhere are] mentioned as music.</p>
 </gramGrp>
 </entry>
 <entry>
-<form>perukiya</form>
+<form>peruk<c type="elided">u</c></form>
 <def>become big</def>
+<form type="sandhi">peruk</form>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
-  <gram type="role">perfective aspect</gram>
+  <gram type="role">verbal root as adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>ēṟam</form>
+<form>icai</form>
+<def>sound</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ēṟam</form>
 <def>bull</def>
-<form type="sandhi"><c type="glide">v</c>ēṟaṅ</form>
+<form type="sandhi"><c type="glide">y</c>ēṟaṅ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -273,8 +278,6 @@ and others mentioned [elsewhere are] mentioned as music.</p>
 <entry>
 <form><c type="geminated">l</c>iyam</form>
 <def>drum</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>marutam</form>
@@ -758,4 +761,50 @@ and others mentioned [elsewhere are] mentioned as music.</p>
   <gram type="role">optative</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff type="apparatus" corresp="#TNV11" source="alignments/TNV11.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="22,30">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">pañcuram</lem>
+    <rdg wit="#TNVms #TNVcac">paiñcuram <note place="foot">This maybe also be a dialectical variation, but I have found no other instances of its occurrence or of a similar phonetic variant in this text (a-&gt;ai), so I print the standard reading of the word.</note></rdg>
+  </app>
+  <app corresp="30,39">
+    <lem wit="#TNVms">perukicai</lem>
+    <rdgGrp select="#TNVc #TNV1937 #TNV1947">
+      <rdg type="main">perukiya</rdg>
+      <rdg type="minor" wit="#TNVc"><lb n="27"/>perukiya</rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="39,44">
+    <lem wit="#TNVms #TNVcac">yēṟaṅ</lem>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947">vēṟaṅ</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV11comm1" source="alignments/TNV11comm1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp></standOff></TEI>
