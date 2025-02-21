@@ -160,19 +160,25 @@
 <l>morukkiṉa mōmpalu muḻavoṭu payiṟalun</l>
 <l>tiraikkaṭaṟ cēṟalō ṭiṉaiyaṉa ceyalē</l>
 </lg>
-<p xml:lang="en">Destroying full honey-combs; going on the road and harassing; protecting gathered herds; practising ploughing and going on the rolling sea - such is the work.</p>
+<p xml:lang="en">Destroying full honey-combs; going on the road and harassing; protecting gathered herds; practising ploughing and going on the rolling sea - such are the actions.</p>
 </div>
 </body>
 </text>
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-      <p xml:id="TNV9comm1">e-tu. ceyti yām āṟuṇarttutaṉnutaliṟṟu.</p>
+      <p xml:id="TNV9comm1">e-tu. ceyti yām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way [in which] the actions occur.</p>
       <p xml:id="TNV9comm2">tēṉ aḻittalum āṟalaittaluniraimēyttalum 
       uḻutaluṅ kaṭal ūṭu pukutalum eṉṟip peṟṟi yellām āṇṭaic ceytiyām eṉṟa vāṟu.</p>
+      <p xml:lang="en">Destroying honey-combs; harassing on the road; grazing herds; 
+      ploughing and entering into the sea - all [of these] are the actions [performed] in each respective place.</p>
       <p xml:id="TNV9comm3">iṉaiyaṉa veṉṟataṉāṟ tiṉai yaritaluṅ kiḻaṅku akaḻtalum ūr 
       eṟitalunirai kōṭalum varakaritalum ēṟu kōṭalum viḻavayartalum puṉal āṭalum uppākkutalumuttuk 
       kuḷittalum uḷḷiṭṭaṉa vellāṅ koḷka. (9)</p>
+      <p xml:lang="en">Because he says "<hi rend="italic">iṉaiyaṉa</hi>", harvesting italian millet; harvesting root vegetables; raiding towns; seizing cattle-herds; 
+      harvesting common millet; capturing bulls; performing ceremonies; playing in the flood; making salt and diving for pearls –
+       understand that all [of these] are included.</p>
       </body>
       </text>
       <standOff corresp="#TNV9" type="wordsplit">
@@ -298,11 +304,420 @@
 </entry>
 <entry>
 <form>ceyal-ē</form>
-<def>work</def>
+<def>action</def>
 <form type="simple">ceyal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV9comm1" type="wordsplit">
+<interp type="alignment" select="0">2M2G13MG10ML9M,6MG30MG</interp>
+<entry>
+<form>eṉpatu</form>
+<def>say-it</def>
+<form type="sandhi">e-tu</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyti</form>
+<def>action</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟ<c type="elided">u</c></form>
+<def>way</def>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarttutal</form>
+<def>make known</def>
+<form type="sandhi">uṇarttutaṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutaliṟṟu</form>
+<def>intend</def>
+<form type="sandhi">ṉutaliṟṟu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV9comm2" type="wordsplit">
+<interp type="alignment" select="0">10MG4MG8MGMR12MG8MG17MG5MG36M,108MG</interp>
+<entry>
+<form>tēṉ</form>
+<def>honeycomb</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḻittal-um</form>
+<def>destroying</def>
+<form type="simple">aḻittal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>āṟ<c type="elided">u</c></form>
+<def>road</def>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>alaittal-um</form>
+<def>harassing</def>
+<form type="simple">alaittal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>nirai</form>
+<def>herd</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mēyttal-um</form>
+<def>grazing</def>
+<form type="simple">mēyttal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uḻutal-um</form>
+<def>ploughing</def>
+<form type="simple">uḻutal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūṭu</form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukutal-um</form>
+<def>entering</def>
+<form type="simple">pukutal</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">p</c></form>
+<def>this</def>
+</entry>
+<entry>
+<form>peṟṟi</form>
+<def>order</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ellām</form>
+<def>all</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṇṭai<c type="geminated">c</c></form>
+<def>there</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyti</form>
+<def>action</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟa</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṟu</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV9comm3" type="wordsplit">
+<interp type="alignment" select="0">46MG11MR10MG7MG6MG10MG7MG7MG11MG5MG7MG2ML13MG26M,177MGMGM</interp>
+<entry>
+<form>iṉaiyaṉa</form>
+<def>such</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉṟataṉāl</form>
+<def>saying</def>
+<form type="sandhi"><c type="glide">v</c>eṉṟataṉāṟ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">instrumental</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṉai</form>
+<def>italian millet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aritalum</form>
+<def>harvesting</def>
+<form type="sandhi"><c type="glide">y</c>aritaluṅ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻaṅku</form>
+<def>root vegetables</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akaḻtal-um</form>
+<def>digging up</def>
+<form type="simple">akaḻtal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṟitalum</form>
+<def>raiding</def>
+<form type="sandhi">eṟitalun</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nirai</form>
+<def>herds</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭal-um</form>
+<def>seizing</def>
+<form type="simple">kōṭal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varak<c type="elided">u</c></form>
+<def>common millet</def>
+<form type="sandhi">varak</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arital-um</form>
+<def>hravesting</def>
+<form type="simple">arital</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ēṟu</form>
+<def>bull</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭal-um</form>
+<def>seizing</def>
+<form type="simple">kōṭal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>viḻav<c type="elided">u</c></form>
+<def>festival</def>
+<form type="sandhi">viḻav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ayartal-um</form>
+<def>preparing</def>
+<form type="simple">ayartal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭal-um</form>
+<def>bathing</def>
+<form type="simple">āṭal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>upp<c type="elided">u</c></form>
+<def>salt</def>
+<form type="sandhi">upp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākkutal-um</form>
+<def>making become</def>
+<form type="simple">ākkutal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>muttu<c type="geminated">k</c></form>
+<def>pearl</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuḷittal-um</form>
+<def>diving</def>
+<form type="simple">kuḷittal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>inside</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>iṭṭaṉa</form>
+<def>put</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ellām</form>
+<def>all</def>
+<form type="sandhi"><c type="glide">v</c>ellāṅ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷka</form>
+<def>grasp</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>()</form>
+<def>9</def>
+<form type="sandhi">(9)</form>
 </entry>
 </standOff></TEI>
