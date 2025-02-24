@@ -171,7 +171,6 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV8comm1">e-tu. makkaṭ peyar ām āṟuṇarttutaṉutaliṟṟu.
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram] intends to make know the way in which the names of the humans occur.</hi></p>
       </p>
       <p xml:id="TNV8comm2">veṟpaṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ cērppaṉ eṉpaṉa talaimakaṉ peyar. 
       kuṟavar eyiṉar kuṭavar uḻavar paratavar eṉpaṉa vannilattu vāḻvār peyar eṉṟavāṟu.
@@ -936,4 +935,77 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
   <gram type="role">optative</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff type="apparatus" corresp="#TNV8comm2" source="alignments/TNV8comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="126,135">
+    <lem wit="#TNV1937 #TNV1947">eṉṟavāṟu.</lem>
+    <rdg wit="#TNVms #TNVc"/>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV8comm3" source="alignments/TNV8comm3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="24,32">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">malaiyaṉ</lem>
+    <rdg wit="#TNVmsac">melaiyaṉ</rdg>
+  </app>
+  <app corresp="32,40">
+    <lem wit="#TNVc #TNV1937 #TNV1947">cilampaṉ</lem>
+    <rdg wit="#TNVmsac">cil<sic>ai</sic>m<unclear><gap reason="illegible" unit="character" quantity="1"/></unclear>paṉ</rdg>
+    <rdg wit="#TNVmspc">cil<sic>ai</sic>mpaṉ</rdg>
+  </app>
+  <app corresp="69,75">
+    <lem wit="#TNVms #TNVc">eṉavuṅ</lem>
+    <rdg wit="#TNV1937 #TNV1947">eṉavum;</rdg>
+  </app>
+  <app corresp="80,87">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">viṭalai</lem>
+    <rdg wit="#TNVmsac">viṭa<gap reason="illegible" unit="character" quantity="1"/>lai</rdg>
+  </app>
+  <app corresp="183,190">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">maṉaivi</lem>
+    <rdg wit="#TNVmsac">maṉaivi k</rdg>
+  </app>
+  <app corresp="214,220">
+    <lem wit="#TNVms #TNVc">koṇkaṉ</lem>
+    <rdg wit="#TNV1937 #TNV1947">koṇkaṉ,</rdg>
+  </app>
+  <app corresp="220,228">
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">ṟuṟaivaṉ</lem>
+    <rdg wit="#TNVcac"><gap reason="illegible" quantity="1" unit="character"/>ṟaivaṉ<sic>.</sic></rdg>
+  </app>
+  <app corresp="228,235">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ṟuṟaivi</lem>
+    <rdg wit="#TNVmsac">ṟai<unclear>vi</unclear>vi</rdg>
+  </app>
+  <app corresp="261,267">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">eṉavum</lem>
+    <rdg wit="#TNVmsac">eṉa</rdg>
+  </app>
+</listApp></standOff></TEI>
