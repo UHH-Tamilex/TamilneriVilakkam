@@ -173,9 +173,9 @@
       uḻutaluṅ kaṭal ūṭu pukutalum eṉṟip peṟṟi yellām āṇṭaic ceytiyām eṉṟa vāṟu.</p>
       <p xml:lang="en">Destroying honey-combs; harassing on the road; grazing herds; 
       ploughing and entering into the sea - all [of these] are the actions [performed] in each respective place.</p>
-      <p xml:id="TNV9comm3">iṉaiyaṉa veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅku akaḻtalum ūr 
+      <p xml:id="TNV9comm3">iṉaiyaṉa veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum ūr 
       eṟitalunirai kōṭalum varakaritalum ēṟu kōṭalum viḻavayartalum puṉal āṭalum uppākkutalumuttuk 
-      kuḷittalum uḷḷiṭṭaṉa vellāṅ koḷka. (9)</p>
+      kuḷittalum uḷḷiṭṭaṉa vellāṅ koḷka. <note>(9)</note></p>
       <p xml:lang="en">Because he says "<hi rend="italic">iṉaiyaṉa</hi>", understand that all [of these] are included: harvesting italian millet; harvesting root vegetables; raiding towns; seizing cattle-herds; 
       harvesting common millet; capturing bulls; performing ceremonies; playing in the flood; making salt and diving for pearls.
        .</p>
@@ -504,7 +504,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV9comm3" type="wordsplit">
-<interp type="alignment" select="0">46MG11MR10MG7MG6MG10MG7MG7MG11MG5MG7MG2ML13MG26M,177MGMGM</interp>
+<interp type="alignment" select="0">38MG7MG11MR10MG7MG6MG10MG7MG7MG11MG5MG7MG2ML13MG26M,177MGMGM</interp>
 <entry>
 <form>iṉaiyaṉa</form>
 <def>such</def>
@@ -527,6 +527,7 @@
 <entry>
 <form>tiṉai</form>
 <def>italian millet</def>
+<form type="sandhi">ṟiṉai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -540,8 +541,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kiḻaṅku</form>
+<form>kiḻaṅk<c type="elided">u</c></form>
 <def>root vegetables</def>
+<form type="sandhi">kiḻaṅk</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -718,7 +720,7 @@
 <entry>
 <form>()</form>
 <def>9</def>
-<form type="sandhi">(9)</form>
+<form type="sandhi"><note>(9)</note></form>
 </entry>
 </standOff><standOff type="apparatus" corresp="#TNV9" source="alignments/TNV9.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -755,4 +757,81 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff></TEI>
+</interp></standOff><standOff type="apparatus" corresp="#TNV9comm2" source="alignments/TNV9comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,12">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tēṉ aḻittalum</lem>
+    <rdg wit="#TNVmsac">tēṉeḻittalum<note place="foot">I assume this was just a scribal error -- the scribe repeated the <hi rend="italic">kompu</hi>. I could not thing of any reasonable interpretation of this with the <hi rend="italic">kompu</hi>, hence why I have represented it as such, whereas the reading in the edition is word-split.</note></rdg>
+  </app>
+  <app corresp="37,45">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uḻutaluṅ</lem>
+    <rdg wit="#TNVmsac">uḻuta<sic>lu</sic>luṅ</rdg>
+  </app>
+  <app corresp="78,84">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">āṇṭaic</lem>
+    <rdgGrp select="#TNVms #TNVcac">
+      <rdg type="main">āṭai<lb n="8"/>c</rdg>
+      <rdg type="minor" wit="#TNVcac">āṭaic</rdg>
+    </rdgGrp>
+  </app>
+  
+</listApp></standOff><standOff type="apparatus" corresp="#TNV9comm3" source="alignments/TNV9comm3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,8">
+    <lem wit="#TNV1937 #TNV1947">iṉaiyaṉa</lem>
+    <rdg wit="#TNVms #TNVc">iṉaiya<note place="foot">I have emended here in line with UVC. The commmentator is referring back to the <hi rend="italic">cūttiram</hi> and in both the palm-leaf and paper copy, the <hi rend="italic">cūttiram</hi> reads <hi rend="italic">iṉaiyaṉa</hi>.</note></rdg>
+  </app>
+  <app corresp="8,23">
+    <lem wit="#TNVmspc #TNVc">veṉṟataṉāṟ ṟiṉai</lem>
+    
+    <rdg wit="#TNVmsac">veṉtaṉāṟ ṟiṉai</rdg>
+  </app>
+  
+  <app corresp="47,49">
+    <lem wit="#TNV1937 #TNV1947">ūr</lem>
+    <rdg wit="#TNVms #TNVc">
+      <sic>ur</sic>
+    </rdg>
+  </app>
+  
+  <app corresp="68,81">
+    <lem wit="#TNVc #TNV1937 #TNV1947">varakaritalum</lem>
+    <rdg wit="#TNVms">varakari <gap reason="lost" unit="character" quantity="1"/>lu<lb n="9"/>m</rdg>
+  </app>
+  <app corresp="133,143">
+    <lem wit="#TNVc #TNV1937 #TNV1947">kuḷittalum</lem>
+    <rdg wit="#TNVms">kuḷittutalum</rdg>
+  </app>
+  <app corresp="158,164">
+    <lem wit="#TNVc #TNV1937 #TNV1947">koḷka.</lem>
+    <rdg wit="#TNVms">ko</rdg>
+  </app>
+</listApp></standOff></TEI>

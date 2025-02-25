@@ -980,25 +980,17 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
     <rdg wit="#TNVmsac">cil<sic>ai</sic>m<unclear><gap reason="illegible" unit="character" quantity="1"/></unclear>paṉ</rdg>
     <rdg wit="#TNVmspc">cil<sic>ai</sic>mpaṉ</rdg>
   </app>
-  <app corresp="69,75">
-    <lem wit="#TNVms #TNVc">eṉavuṅ</lem>
-    <rdg wit="#TNV1937 #TNV1947">eṉavum;</rdg>
-  </app>
   <app corresp="80,87">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">viṭalai</lem>
     <rdg wit="#TNVmsac">viṭa<gap reason="illegible" unit="character" quantity="1"/>lai</rdg>
   </app>
   <app corresp="183,190">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">maṉaivi</lem>
-    <rdg wit="#TNVmsac">maṉaivi k</rdg>
+    <rdg wit="#TNVmsac">maṉaivik</rdg>
   </app>
-  <app corresp="214,220">
-    <lem wit="#TNVms #TNVc">koṇkaṉ</lem>
-    <rdg wit="#TNV1937 #TNV1947">koṇkaṉ,</rdg>
-  </app>
-  <app corresp="220,228">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">ṟuṟaivaṉ</lem>
-    <rdg wit="#TNVcac"><gap reason="illegible" quantity="1" unit="character"/>ṟaivaṉ<sic>.</sic></rdg>
+  <app corresp="214,228">
+    <lem wit="#TNVms #TNVcpc">koṇkaṉ ṟuṟaivaṉ</lem>
+    <rdg wit="#TNVcac">koṇkaṉ <gap reason="illegible" quantity="1" unit="character"/>ṟaivaṉ<sic>.</sic></rdg>
   </app>
   <app corresp="228,235">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ṟuṟaivi</lem>

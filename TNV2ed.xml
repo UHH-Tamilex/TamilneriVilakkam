@@ -167,7 +167,7 @@
 <p xml:id="TNV2comm1">e – tu. collappaṭṭaṉavuḷ akapporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
 <p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta uripporuḷ akapporuḷ ām eṉṟavāṟu.</p>  
 <p xml:id="TNV2comm3">mutal eṉappaṭṭatiṭamum kālamum eṉṟuṇarvatu. karu veṉappaṭṭa poruṭ ceykai yoḻittuk koḷka. 
-vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉappaṭum eṉpatu. (2)</p>
+vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉappaṭum eṉpatu. <note>(2)</note></p>
 </body></text><standOff corresp="#TNV2" type="wordsplit">
 <interp type="alignment" select="0">31MGM,33M</interp>
 <entry>
@@ -667,6 +667,6 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
 <entry>
 <form>()</form>
 <def>2</def>
-<form type="sandhi">(2)</form>
+<form type="sandhi"><note>(2)</note></form>
 </entry>
 </standOff></TEI>
