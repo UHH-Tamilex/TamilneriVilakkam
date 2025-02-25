@@ -1208,10 +1208,7 @@ aṉṉamumakaṉṟilum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">cennāy</lem>
     <rdg wit="#TNVcac">cen<gap reason="illegible" quantity="1" unit="character"/> āy</rdg>
   </app>
-  <app corresp="232,238">
-    <lem wit="#TNVms #TNV1937 #TNV1947">kampuṭ</lem>
-    <rdg wit="#TNVc">kampu<sic>ḷ</sic></rdg>
-  </app>
+  
   <app corresp="238,244">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puḷḷum</lem>
     <rdg wit="#TNVmsac">puḷḷuṅm.</rdg>
@@ -1235,12 +1232,7 @@ aṉṉamumakaṉṟilum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app corresp="13,34">
-    <lem wit="#TNVms #TNVc">āṟuṇarttutaṉutaliṟṟu.</lem>
-    <rdg wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu.</rdg>
-  </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV12" source="alignments/TNV12.xml"><interp type="normalization">
+</interp></standOff><standOff type="apparatus" corresp="#TNV12" source="alignments/TNV12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
