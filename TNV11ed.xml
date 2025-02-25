@@ -173,14 +173,14 @@ and others mentioned [elsewhere are] mentioned as music.</p>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV11comm1">e-tu. icai yām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way music occurs.</p>
-      <p xml:id="TNV11comm2">veṟip paṟaiyuṅ kuṟuñcip paṇṇun tuṭiyum pañcurap paṇṇum ēṟaṅkōṭ paṟaiyun 
-      tārap paṇṇunellari kiṇai mutaṟ palliyamumarutap paṇṇuneytaṟ paṟaiyuñ cevvaḻip paṇṇum uḷḷiṭṭaṉa 
+      <p xml:id="TNV11comm2">veṟip paṟaiyuṅ kuṟuñcip paṇṇun tuṭiyum pañcurap paṇṇuṅ kōṭ paṟaiyun 
+      tārap paṇṇunellari kiṇaiyumutaṟ palliyamumarutap paṇṇuneytaṟ paṟaiyuñ cevvaḻip paṇṇum uḷḷiṭṭaṉa 
       vaintiṇaikkum icai yām eṉṟa vāṟu.</p>
       <p xml:lang="en">The <hi rend="italic">Veṟi</hi> drum and the <hi rend="italic">Kuṟuñci</hi> scale; 
-      the <hi rend="italic">Tuṭi</hi> drum and the <hi rend="italic">Pañcuram</hi> scale; many instruments 
+      the <hi rend="italic">Tuṭi</hi> drum and the <hi rend="italic">Pañcuram</hi> scale; the [bull-]seizing drum and the <hi rend="italic">Tāram</hi> scale; many instruments 
       beginning with the harvest drum and the <hi rend="italic">Marutam</hi> scale; <hi rend="italic">Neytal</hi> 
       drum and the <hi rend="italic">Cevvaḻi</hi> scale - they are included in the music for all the five tinais.</p>
-      <p xml:id="TNV11comm3">piṟavum eṉṟataṉāṟ toṇṭakap paṟaiyum pūcaṟ paṟaiyum vēyṅkuḻalum yāḻunāvāyp paṟaiyum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
+      <p xml:id="TNV11comm3">piṟavum eṉṟataṉāṟ ṟoṇṭakap paṟaiyum pūcaṟ paṟaiyum vēyṅkuḻalum yāḻunāvāyp paṟaiyum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
       <p xml:lang="en">Because he says "<hi rend="italic">piṟavum</hi>", understand that all [of these] are included: 
       the <hi rend="italic">toṇṭaka</hi> drum, the <hi rend="italic">pūcal</hi> drum, the bamboo pipe, the <hi rend="italic">yāḻ</hi> and the <hi rend="italic">nāvāy</hi> drum.</p>
       </body>
@@ -394,7 +394,7 @@ and others mentioned [elsewhere are] mentioned as music.</p>
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV11comm2" type="wordsplit">
-<interp type="alignment" select="0">10MG14MG7MG14MG15MG11MG2MR25MG2ML9MG2MR11MG14MG23M2G18M,191MG</interp>
+<interp type="alignment" select="0">10MG14MG7MG14MG11MG11MG2MR12MG3ML12MG2ML9MG2MR11MG14MG23M2G18M,191MG</interp>
 <entry>
 <form>veṟi<c type="geminated">p</c></form>
 <def>Veṟi</def>
@@ -454,16 +454,8 @@ and others mentioned [elsewhere are] mentioned as music.</p>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>ēṟam</form>
-<def>bull</def>
-<form type="sandhi">ēṟaṅ</form>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
 <form>kōḷ</form>
-<def>taking</def>
+<def>seizing</def>
 <form type="sandhi">kōṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -510,11 +502,13 @@ and others mentioned [elsewhere are] mentioned as music.</p>
 </gramGrp>
 </entry>
 <entry>
-<form>kiṇai</form>
+<form>kiṇai-<c type="glide">y</c>um</form>
 <def>Kiṇai drum</def>
+<form type="simple">kiṇai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>mutal</form>
@@ -536,8 +530,6 @@ and others mentioned [elsewhere are] mentioned as music.</p>
 <def>dr</def>
 <form type="simple">iyam</form>
 <form type="sandhi"><c type="geminated">l</c>iyam</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -793,6 +785,52 @@ and others mentioned [elsewhere are] mentioned as music.</p>
     <rdg wit="#TNVcpc #TNV1937 #TNV1947">vēṟaṅ</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV11comm1" source="alignments/TNV11comm1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp></standOff><standOff type="apparatus" corresp="#TNV11comm2" source="alignments/TNV11comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="13,21">
+    <lem wit="#TNVms #TNV1937 #TNV1947">kuṟuñcip</lem>
+    <rdg wit="#TNVc">kuṟuñ<sic>u</sic>cip</rdg>
+  </app>
+  <app corresp="42,51">
+    <lem wit="#TNVms #TNVcac">paṇṇuṅ kōṭ</lem>
+    <rdgGrp select="#TNVcpc #TNV1937 #TNV1947">
+      <rdg type="main">paṇṇum; ēṟaṅkōṭ</rdg>
+      <rdg type="minor" wit="#TNVcpc">paṇṇum ēṟaṅkōṭ<lb n="32"/></rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="76,88">
+    <lem wit="#TNVms #TNVc #TNV1937">kiṇaiyumutaṟ</lem>
+    <rdg wit="#TNV1947">kiṇai mutaṟ</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV11comm3" source="alignments/TNV11comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
