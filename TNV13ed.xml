@@ -20,7 +20,7 @@
           </msContents>
         </msDesc>
         <listWit>
-          <witness xml:id="Ed" source="TNV12ed.xml">
+          <witness xml:id="Ed" source="TNV13ed.xml">
             <abbr type="siglum">Ed</abbr>
             <expan>
               <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
@@ -168,10 +168,10 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV13comm1">e-tu. uripporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram] intends to make known the way in which <hi rend="italic">uripporuḷ</hi> occurs.</hi></p>
-      <p xml:id="TNV13comm2">puṇartalum puṇartaṉimittamum piritalum piritaṉimittamum iruttalum iruttaṉnimittamum
-       ūṭalum ūṭaṉimittamum iraṅkalum iraṅkal nimittamuṅ kaḷavuṅ kaṟpum eṉa vaṭakkik kūṟap paṭṭa 
-      aḷavil uripporuḷ ām eṉṟavāṟu.
+      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way in which <hi rend="italic">uripporuḷ</hi> occurs.</p>
+      <p xml:id="TNV13comm2">puṇartalum puṇartaṉimittamum piritalum piritaṉimittamum iruttalum iruttaṉimittamum
+       ūṭalum ūṭaṉimittamum iraṅkalum iraṅkaṉimittamuṅ kaḷavuṅ kaṟpum eṉa vaṭakkik kūṟap paṭṭa 
+      vaḷavil uripporuḷ ām eṉṟavāṟu.
 </p>
 <p xml:lang="en">Uniting and the signs of uniting, searating and the signs of separating, expecting an the signs of expecting, sulking and the signs of sulking, crying and the signs of crying - thus does <hi rend="italic">uripporuḷ</hi> occur within the scope that is controlled and named as <hi rend="italic">kaḷavu</hi> and <hi rend="italic">kaṟpu</hi>.
 </p>
@@ -841,14 +841,25 @@
 </interp><listApp>
   <app corresp="105,121">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">iraṅkaṉimittamuṅ</lem>
-    <rdg wit="#TNVmsac">iraṅ kaṉimittamu<gap reason="illegible" unit="character" quantity="1">m</gap>ṅ</rdg>
-  </app>
-  <app corresp="162,173">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uripporuḷ ām</lem>
-    <rdg wit="#TNVmsac">uripporuḷā</rdg>
+    <rdg wit="#TNVmsac">iraṅ kaṉimittamu<gap reason="illegible" unit="character" quantity="1"/>ṅ</rdg>
   </app>
   <app corresp="173,182">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">eṉṟavāṟu.</lem>
-    <rdg wit="#TNVmsac">mm e<lb n="4"/>ṉṟavāṟu</rdg>
+    <rdg wit="#TNVmsac">me<lb n="4"/>ṉṟavāṟu</rdg>
   </app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV13comm3" source="alignments/TNV13comm3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp></standOff></TEI>
