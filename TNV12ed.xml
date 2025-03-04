@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 12. </title>
+        <title type="sub">Experimenting with formatting for the final edition.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listWit>
+          <witness xml:id="Ed" source="TNV12ed.xml">
+            <abbr type="siglum">Ed</abbr>
+            <expan>
+              <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
+            </expan>
+          </witness> 
+          <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
+            <abbr type="siglum">TNVms</abbr>
+            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <listWit>
+              <witness xml:id="TNVmsac" n="ac">
+                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
+                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNVmspc" n="pc">
+                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
+                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
+            <abbr type="siglum">TNVc</abbr>
+            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <listWit>
+              <witness xml:id="TNVcac" n="ac">
+                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNVcpc" n="pc">
+                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
+            <abbr type="siglum">TNV1937</abbr>
+            <expan>TNV 1937</expan>
+            <listWit>
+              <witness xml:id="TNV1937ac" n="ac">
+                <abbr type="siglum">TNV1937ac</abbr>
+                <expan>TNV print [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNV1937pc" n="pc">
+                <abbr type="siglum">TNV1937pc</abbr>
+                <expan>TNV print [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
+            <abbr type="siglum">TNV1947</abbr>
+            <expan>TNV 1947</expan>
+            <listWit>
+              <witness xml:id="TNV1947ac" n="ac">
+                <abbr type="siglum">TNV1947ac</abbr>
+                <expan>TNV print [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNV1947pc" n="pc">
+                <abbr type="siglum">TNV1947pc</abbr>
+                <expan>TNV print [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="KKms" source="witnesses/KKms.xml">
+            <abbr type="siglum">KKms</abbr>
+            <expan>KKms</expan>
+            <listWit>
+              <witness xml:id="KKmsac" n="ac">
+                <abbr type="siglum">KKms<hi rend="subscript">ac</hi></abbr>
+                <expan>KKms [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="KKmspc" n="pc">
+                <abbr type="siglum">KKms<hi rend="subscript">pc</hi></abbr>
+                <expan>KKms [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="KKed" source="witnesses/KKprint.xml">
+            <abbr type="siglum">KKed</abbr>
+            <expan>KKprint</expan>
+            <listWit>
+              <witness xml:id="KKedac" n="ac">
+                <abbr type="siglum">KKed<hi rend="subscript">ac</hi></abbr>
+                <expan>KKprint [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="KKedpc" n="pc">
+                <abbr type="siglum">KKed<hi rend="subscript">pc</hi></abbr>
+                <expan>KKprint [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="NAed" source="witnesses/NAprint.xml">
+            <abbr type="siglum">NAed</abbr>
+            <expan>NAprint</expan>
+          </witness>          
+          <witness xml:id="TKn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+            <expan>Tolkāppiyam Nacci</expan>
+          </witness>
+          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+            <expan>Tolkāppiyam Pēr</expan>
+          </witness>
+          <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
+            <abbr type="siglum">YV1960a</abbr>
+            <expan>YV1960</expan>
+          </witness>
+          <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
+            <abbr type="siglum">YV1960b</abbr>
+            <expan>YV1960</expan>
+          </witness>
+          <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
+              <abbr type="siglum">KT2</abbr>
+              <expan>KT2</expan>
+              <listWit>
+                <witness xml:id="KT2-C2" select="#C2">
+                  <abbr type="siglum">KT2-C2</abbr>
+                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
+                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
+                </witness>
+              </listWit>
+          </witness>
+          <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
+              <abbr type="siglum">KT40</abbr>
+              <expan>KT40</expan>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition" corresp="#Ed">
+    <body>
+      <div type="mūlam" rend="parallel">
+      <lg xml:id="TNV12">
+      <l>vēṅkai kāntaṭ cīya mayilē</l>
+<l>pāṅkar marāmarañ cennāy paruntē</l>
+<l>kuruntē mullai yiralai puṟavē</l>
+<l>kāñci kaḻunīr mēti yaṉṉaṅ</l>
+<l>kaitai muṇṭakaṅ karāmē kampuḷeṉ</l>
+<l>ṟeytiya piṟavu miyampiya vilaṅkē</l></lg>
+<p xml:lang="en">Kino tree, Malabar glory lily, lion, peacock,
+<hi rend="italic">Pāṅkar</hi> tree, <hi rend="italic">Maṟā</hi> tree, wild dog, kite,
+wild lime, jasmine, <hi rend="italic">iralai</hi> deer, pigeon,
+Portia tree, waterlily, buffalo, swan,
+<hi rend="italic">Kaitai</hi> tree, <hi rend="italic">Muṇṭakam</hi> tree, alligator, water fowl
+and appropriate others [are] the living things mentioned.
+</p>
+</div>
+</body>
+</text>
+<text xml:lang="ta" type="edition" corresp="#Ed">
+    <body>
+      <head xml:lang="en">Commentary</head>
+      <p xml:id="TNV12comm1">e-tu. vilaṅkām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way in which living things occur.</p>
+<p xml:id="TNV12comm2">vēṅkai maramum pūṅkulaik kāntaḷuñ cīyamāvumayiṟ puḷḷum ōmai maramumarām pūvuñ cennāy māvum 
+paruntup puḷḷuṅ kurunta maramuṅ koṭip pū mullaiyum iralai māvum puṟavup puḷḷuṅ 
+kāñci maramum pūṅ kaḻunīrum erumai māvum aṉṉap puḷḷun tāḻai maramum pūṅ kaḻi muḷḷiyumutalai māvuṅ 
+kampuṭ puḷḷum piṟavum aintiṇaikkuriya vilaṅkām eṉṟa vāṟu.</p>
+<p xml:id="TNV12comm3">piṟavum eṉṟataṉāl akiluñ cantaṉamum vēṅkaip pūvuñ cuṉaik kuvaḷaip pūvum 
+puliyum yāṉaiyuṅ kiḷiyum vēṅkaiyuṅ kurām pūvum pātiram pūvumurukkuṅ koṉṟaiyun tōṉṟip pūvumuyaluṅ 
+kāṉaṅ kōḻiyumarutum vañciyun tāmaraip pūvunīrnāyun tārāvum puṉṉaiyuñāḻaluneytaṟ pūvum 
+aṉṉamumakaṉṟilum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
+</body>
+</text>
+<standOff corresp="#TNV12" type="wordsplit">
+<interp type="alignment" select="0">17ML4MG28M2G7M2G19M2G42MG10MG10MG17M2GM,168M</interp>
+<entry>
+<form>vēṅkai</form>
+<def>Kino tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāntaḷ</form>
+<def>Malabar glory lily</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cīyam</form>
+<def>lion</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayil-ē</form>
+<def>peacock</def>
+<form type="simple">mayil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>pāṅkar</form>
+<def>Pāṅkar tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>marāmaram</form>
+<def>Marā tree</def>
+<form type="sandhi">marāmarañ</form>
+</entry>
+<entry>
+<form>cennāy</form>
+<def>wild dog</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>parunt<c type="elided">u</c>-ē</form>
+<def>kite</def>
+<form type="simple">paruntu</form>
+<form type="sandhi">parunt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kurunt<c type="elided">u</c>-ē</form>
+<def>Wild-lime tree</def>
+<form type="simple">kuruntu</form>
+<form type="sandhi">kurunt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>mullai</form>
+<def>jasmine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iralai</form>
+<def>Iralai deer</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟav<c type="elided">u</c>-ē</form>
+<def>dove</def>
+<form type="simple">puṟavu</form>
+<form type="sandhi">puṟav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kāñci</form>
+<def>Kāñci tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻunīr</form>
+<def>waterlily</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mēti</form>
+<def>bufallo</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉṉam</form>
+<def>goose</def>
+<form type="sandhi"><c type="glide">y</c>aṉṉaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaitai</form>
+<def>Kaitai tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṇṭakam</form>
+<def>Muṇṭakam tree</def>
+<form type="sandhi">muṇṭakaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karām-ē</form>
+<def>alligator</def>
+<form type="simple">karām</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kampuḷ</form>
+<def>water fowl</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eytiya</form>
+<def>be suitable</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟa-<c type="glide">v</c>um</form>
+<def>other</def>
+<form type="simple">piṟa</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>iyampiya</form>
+<def>articulated</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilaṅk<c type="elided">u</c>-ē</form>
+<def>living beings</def>
+<form type="simple">vilaṅku</form>
+<form type="sandhi">vilaṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV12comm1" type="wordsplit">
+<interp type="alignment" select="0">2M2G9MG4MG10ML9M,6MG31MG</interp>
+<entry>
+<form>eṉpatu</form>
+<def>say</def>
+<form type="sandhi">e-tu</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilaṅk<c type="elided">u</c></form>
+<def>living beings</def>
+<form type="sandhi">vilaṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟ<c type="elided">u</c></form>
+<def>way</def>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarttutal</form>
+<def>make known</def>
+<form type="sandhi">uṇarttutaṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutaliṟṟu</form>
+<def>intend</def>
+<form type="sandhi">ṉutaliṟṟu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV12comm2" type="wordsplit">
+<interp type="alignment" select="0">11MG17MG7MLMG3ML7MG12MG2ML6MG11MG14MG11ML4MG15MG11MG13MG13MG12MG10MG11MG13MG14MG3ML8MG12MG7MG13MG11MG11M,310MG</interp>
+<entry>
+<form>vēṅkai</form>
+<def>Kino tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maram-um</form>
+<def>tree</def>
+<form type="simple">maram</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<form type="sandhi">pūṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kulai<c type="geminated">k</c></form>
+<def>cluster</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāntaḷ-um</form>
+<def>Malabar glory lily</def>
+<form type="simple">kāntaḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cīyam</form>
+<def>lion</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mā-<c type="glide">v</c>um</form>
+<def>animal</def>
+<form type="simple">mā</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mayil</form>
+<def>peacock</def>
+<form type="sandhi">mayiṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puḷ-<c type="geminated">ḷ</c>um</form>
+<def>bird</def>
+<form type="simple">puḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ōmai</form>
+<def>Ōmai tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maram-um</form>
+<def>tree</def>
+<form type="simple">maram</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>marām</form>
+<def>Marām</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū-<c type="glide">v</c>um</form>
+<def>flower</def>
+<form type="simple">pū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cennāy</form>
+<def>wild dog</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mā-<c type="glide">v</c>um</form>
+<def>animal</def>
+<form type="simple">mā</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>paruntu<c type="geminated">p</c></form>
+<def>kite</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puḷ-<c type="geminated">ḷ</c>um</form>
+<def>bird</def>
+<form type="simple">puḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kuruntam</form>
+<def>Wild-lime tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maram-um</form>
+<def>tree</def>
+<form type="simple">maram</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>koṭi<c type="geminated">p</c></form>
+<def>creeper</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mullai-<c type="glide">y</c>um</form>
+<def>jasmine</def>
+<form type="simple">mullai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>iralai</form>
+<def>Iralai deer</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mā-<c type="glide">v</c>um</form>
+<def>animal</def>
+<form type="simple">mā</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>puṟavu<c type="geminated">p</c></form>
+<def>dove</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puḷ-<c type="geminated">ḷ</c>um</form>
+<def>bird</def>
+<form type="simple">puḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kāñci</form>
+<def>Kāñci tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maram-um</form>
+<def>tree</def>
+<form type="simple">maram</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<form type="sandhi">pūṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻunīr-um</form>
+<def>Purple waterlily</def>
+<form type="simple">kaḻunīr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>erumai</form>
+<def>buffalo</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mā-<c type="glide">v</c>um</form>
+<def>animal</def>
+<form type="simple">mā</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>aṉṉam</form>
+<def>goose</def>
+<form type="sandhi">aṉṉap</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puḷ-<c type="geminated">ḷ</c>un</form>
+<def>bird</def>
+<form type="sandhi">puḷ<c type="geminated">ḷ</c>un</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāḻai</form>
+<def>screwpine tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maram-um</form>
+<def>tree</def>
+<form type="simple">maram</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<form type="sandhi">pūṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻi</form>
+<def>backwater</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muḷḷi-<c type="glide">y</c>um</form>
+<def>Muḷḷi plant</def>
+<form type="simple">muḷḷi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mutalai</form>
+<def>crocodile</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mā-<c type="glide">v</c>um</form>
+<def>animal</def>
+<form type="simple">mā</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kampuḷ</form>
+<def>water fowl</def>
+<form type="sandhi">kampuṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puḷ-<c type="geminated">ḷ</c>um</form>
+<def>bird</def>
+<form type="simple">puḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>piṟa-<c type="glide">v</c>um</form>
+<def>other</def>
+<form type="simple">piṟa</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>aintiṇaikk<c type="elided">u</c></form>
+<def>five landscapes</def>
+<form type="sandhi">aintiṇaikk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uriya</form>
+<def>right</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilaṅk<c type="elided">u</c></form>
+<def>living beings</def>
+<form type="sandhi">vilaṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟa</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṟu</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV12comm3" type="wordsplit">
+<interp type="alignment" select="0">4MG16MG10MG11MG19MG7MG8MG7MG9MG10MG12MG3ML5M2G8MG11MG3ML4MG11MG3ML4M2G7MG13MG2MR6MG6MG9MG2MG5MGMR8MG8MG2ML7MG23M,298MG</interp>
+<entry>
+<form>piṟa-<c type="glide">v</c>um</form>
+<def>other</def>
+<form type="simple">piṟa</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eṉṟataṉāl</form>
+<def>saying</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">instrumental</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akil-um</form>
+<def>eagle-wood</def>
+<form type="simple">akil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cantaṉam-um</form>
+<def>sandalwood</def>
+<form type="simple">cantaṉam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vēṅkai<c type="geminated">p</c></form>
+<def>kino tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū-<c type="glide">v</c>um</form>
+<def>flower</def>
+<form type="simple">pū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cuṉai<c type="geminated">k</c></form>
+<def>mountain-pool</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuvaḷai<c type="geminated">p</c></form>
+<def>waterlily</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū-<c type="glide">v</c>um</form>
+<def>flower</def>
+<form type="simple">pū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>puli-<c type="glide">y</c>um</form>
+<def>tiger</def>
+<form type="simple">puli</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>yāṉai-<c type="glide">y</c>um</form>
+<def>elephant</def>
+<form type="simple">yāṉai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kiḷi-<c type="glide">y</c>um</form>
+<def>parakeet</def>
+<form type="simple">kiḷi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vēṅkai-<c type="glide">y</c>uṅ</form>
+<def>tiger</def>
+<form type="sandhi">vēṅkai<c type="glide">y</c>uṅ</form>
+</entry>
+<entry>
+<form>kurām</form>
+<def>bottle-flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū-<c type="glide">v</c>um</form>
+<def>flower</def>
+<form type="simple">pū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pātiram</form>
+<def>pātiram</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū-<c type="glide">v</c>um</form>
+<def>flower</def>
+<form type="simple">pū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>murukk<c type="elided">u</c>-um</form>
+<def>Palash tree</def>
+<form type="simple">murukku</form>
+<form type="sandhi">murukk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>koṉṟai-<c type="glide">y</c>un</form>
+<def>Laburnum</def>
+<form type="sandhi">koṉṟai<c type="glide">y</c>un</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟi<c type="geminated">p</c></form>
+<def>Malabar glory-lily</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū-<c type="glide">v</c>um</form>
+<def>flower</def>
+<form type="simple">pū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>muyal-um</form>
+<def>hare</def>
+<form type="simple">muyal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kāṉam</form>
+<def>forest</def>
+<form type="sandhi">kāṉaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōḻi-<c type="glide">y</c>um</form>
+<def>fowl</def>
+<form type="simple">kōḻi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>marut<c type="elided">u</c>-um</form>
+<def>myrobalan tree</def>
+<form type="simple">marutu</form>
+<form type="sandhi">marut</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vañci-<c type="glide">y</c>um</form>
+<def>Vañci</def>
+<form type="simple">vañci</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tāmarai<c type="geminated">p</c></form>
+<def>lotus</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū-<c type="glide">v</c>um</form>
+<def>flower</def>
+<form type="simple">pū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>nīrnāy-un</form>
+<def>otter</def>
+<form type="sandhi">nīrnāyun</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tārā-<c type="glide">v</c>um</form>
+<def>duck</def>
+<form type="simple">tārā</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>puṉṉai-<c type="glide">y</c>um</form>
+<def>Puṉṉai tree</def>
+<form type="simple">puṉṉai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ñāḻal-um</form>
+<def>Ñāḻal tree</def>
+<form type="simple">ñāḻal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>neytal</form>
+<def>blue waterlily</def>
+<form type="sandhi">neytaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū-<c type="glide">v</c>um</form>
+<def>flower</def>
+<form type="simple">pū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>aṉṉam-um</form>
+<def>goose</def>
+<form type="simple">aṉṉam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>makaṉṟil-um</form>
+<def>Makaṉṟil bird</def>
+<form type="simple">makaṉṟil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>inside</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>iṭṭaṉa</form>
+<def>put</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ellām</form>
+<def>all</def>
+<form type="sandhi"><c type="glide">v</c>ellāṅ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷka</form>
+<def>grasp</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff type="apparatus" corresp="#TNV12comm2" source="alignments/TNV12comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="30,43">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cīyamāvumayiṟ</lem>
+    <rdg wit="#TNVmsac">cīyamāvuñmayi<lb n="4"/>ṟ</rdg>
+  </app>
+  <app corresp="53,64">
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">maramumarām</lem>
+    <rdg wit="#TNVcac">mara<lb n="10"/>mumaram</rdg>
+  </app>
+  <app corresp="64,69">
+    <lem wit="#TNVms #TNVc #TNV1947">pūvuñ</lem>
+    <rdg wit="#TNV1937">pūvuṅ,</rdg>
+  </app>
+  <app corresp="69,75">
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">cennāy</lem>
+    <rdg wit="#TNVcac">cen<gap reason="illegible" quantity="1" unit="character"/> āy</rdg>
+  </app>
+  
+  <app corresp="238,244">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puḷḷum</lem>
+    <rdg wit="#TNVmsac">puḷḷuṅm.</rdg>
+  </app>
+  <app corresp="244,283">
+    <lem wit="#TNVc #TNV1937 #TNV1947">piṟavum aintiṇaikkuriya vilaṅkām eṉṟa vāṟu.</lem>
+    <rdg wit="#TNVms"/>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV12comm1" source="alignments/TNV12comm1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp></standOff><standOff type="apparatus" corresp="#TNV12" source="alignments/TNV12.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="6,12">
+    <lem wit="#TNVms #TNVc">kāntaṭ</lem>
+    <rdg wit="#TNV1937 #TNV1947">kāntaḷ</rdg>
+  </app>
+  <app corresp="22,28">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">pāṅkar</lem>
+    <rdg wit="#TNVmsac">pāṅkāra<unclear>m</unclear></rdg>
+    <rdgGrp select="#TNVmspc #TNVcac">
+      <rdg type="main">pāṅkāra<lb n="2"/></rdg>
+      <rdg type="minor" wit="#TNVcac"><lb n="3"/>pāṅkāra</rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="118,126">
+    <lem wit="#TNVc #TNV1937 #TNV1947">kampuḷeṉ</lem>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="2"/>puḷeṉ</rdg>
+  </app>
+</listApp></standOff></TEI>

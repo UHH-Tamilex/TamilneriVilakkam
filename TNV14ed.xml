@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 14. </title>
+        <title type="sub">Experimenting with formatting for the final edition.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listWit>
+          <witness xml:id="Ed" source="TNV14ed.xml">
+            <abbr type="siglum">Ed</abbr>
+            <expan>
+              <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
+            </expan>
+          </witness> 
+          <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
+            <abbr type="siglum">TNVms</abbr>
+            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <listWit>
+              <witness xml:id="TNVmsac" n="ac">
+                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
+                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNVmspc" n="pc">
+                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
+                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
+            <abbr type="siglum">TNVc</abbr>
+            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <listWit>
+              <witness xml:id="TNVcac" n="ac">
+                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNVcpc" n="pc">
+                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
+            <abbr type="siglum">TNV1937</abbr>
+            <expan>TNV 1937</expan>
+            <listWit>
+              <witness xml:id="TNV1937ac" n="ac">
+                <abbr type="siglum">TNV1937ac</abbr>
+                <expan>TNV print [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNV1937pc" n="pc">
+                <abbr type="siglum">TNV1937pc</abbr>
+                <expan>TNV print [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
+            <abbr type="siglum">TNV1947</abbr>
+            <expan>TNV 1947</expan>
+            <listWit>
+              <witness xml:id="TNV1947ac" n="ac">
+                <abbr type="siglum">TNV1947ac</abbr>
+                <expan>TNV print [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNV1947pc" n="pc">
+                <abbr type="siglum">TNV1947pc</abbr>
+                <expan>TNV print [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="KKms" source="witnesses/KKms.xml">
+            <abbr type="siglum">KKms</abbr>
+            <expan>KKms</expan>
+            <listWit>
+              <witness xml:id="KKmsac" n="ac">
+                <abbr type="siglum">KKms<hi rend="subscript">ac</hi></abbr>
+                <expan>KKms [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="KKmspc" n="pc">
+                <abbr type="siglum">KKms<hi rend="subscript">pc</hi></abbr>
+                <expan>KKms [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="KKed" source="witnesses/KKprint.xml">
+            <abbr type="siglum">KKed</abbr>
+            <expan>KKprint</expan>
+            <listWit>
+              <witness xml:id="KKedac" n="ac">
+                <abbr type="siglum">KKed<hi rend="subscript">ac</hi></abbr>
+                <expan>KKprint [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="KKedpc" n="pc">
+                <abbr type="siglum">KKed<hi rend="subscript">pc</hi></abbr>
+                <expan>KKprint [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="NAed" source="witnesses/NAprint.xml">
+            <abbr type="siglum">NAed</abbr>
+            <expan>NAprint</expan>
+          </witness>          
+          <witness xml:id="TKn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+            <expan>Tolkāppiyam Nacci</expan>
+          </witness>
+          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+            <expan>Tolkāppiyam Pēr</expan>
+          </witness>
+          <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
+            <abbr type="siglum">YV1960a</abbr>
+            <expan>YV1960</expan>
+          </witness>
+          <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
+            <abbr type="siglum">YV1960b</abbr>
+            <expan>YV1960</expan>
+          </witness>
+          <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
+              <abbr type="siglum">KT2</abbr>
+              <expan>KT2</expan>
+              <listWit>
+                <witness xml:id="KT2-C2" select="#C2">
+                  <abbr type="siglum">KT2-C2</abbr>
+                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
+                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
+                </witness>
+              </listWit>
+          </witness>
+          <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
+              <abbr type="siglum">KT40</abbr>
+              <expan>KT40</expan>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition" corresp="#Ed">
+    <body>
+      <div type="mūlam" rend="parallel">
+      <lg xml:id="TNV14">
+      <l>muntiya nūlōr moḻintaveṇ maṇattiluṅ</l>
+<l>kantiruva muṟaimai kaḷaveṉap paṭumē.</l></lg>
+<p xml:lang="en">Amongst the eight [types of] marriage mentioned by those prior theoreticians, the <hi rend="italic">kaniruvam</hi> custom is called <hi rend="italic">kaḷavu</hi></p>
+</div>
+</body>
+</text>
+<text xml:lang="ta" type="edition" corresp="#Ed">
+    <body>
+      <head xml:lang="en">Commentary</head>
+      <p xml:id="TNV14comm1">e-tu. kaikōḷ iraṇṭiṉ uḷḷuṅ kaḷavoḻukkām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way in which, 
+      of the two [which form] <hi rend="italic">kaikōḷ</hi>, the <hi rend="italic">kaḷavu</hi> conduct occurs.</p>
+      <p xml:id="TNV14comm2">toṉ ṉūl āciriyarkaḷāṟ collappaṭṭa vaṟanilai yoppu poruḷ kōṭeyvam arum poruḷ 
+      vali nilai pēy nilai kantiruvam eṉappaṭṭa maṇam eṭṭiṉ uḷḷuṅ kantiruva vaḻakkam pōlvatu kaḷavoḻukkam ām eṉṟavāṟu.</p>
+      <p xml:lang="en"><hi rend="italic">aṟanilai</hi>, <hi rend="italic">oppu</hi>, <hi rend="italic">poruḷ kōḷ</hi>, <hi rend="italic">teyvam</hi>, <hi rend="italic">arum poruḷ</hi>, <hi rend="italic">vali nilai</hi>, <hi rend="italic">pēy nilai</hi>, <hi rend="italic">kantiruvam</hi> which are 
+      [all] mentioned by the teachers of the old treatises - amongst those eight [types of] marriage, the <hi rend="italic">kantiruvam</hi> 
+      custom is the same as the <hi rend="italic">kaḷavu</hi> conduct.</p>
+      <p xml:id="TNV14comm3">aṟanilai yāvatu nāṟpatteṭṭiyāṇṭu piramacariyaṅ kāttāṟkup paṉṉīrāṭṭaip pirāyattāḷai 
+      vaṇikalam aṇintu koṭuppatu. iḵtoppil kūṭṭam ātaliṟ poruntāk kāmattiṉ pāṟ paṭum</p>
+      <p xml:lang="en">As for <hi rend="italic">aṟanilai</hi>, to a protector who is a 48 year old <hi rend="italic">brahmacharya</hi>, a 12 year old girl is 
+      given after being decorated with ornaments. This falls to the side of unsuitable love because this union is 
+      unequal.</p>
+      <p xml:id="TNV14comm4">oppāvatu maittuṉak kōttirattāṟku māṟṟātu koṭuppatu. itu kaṟpiṉ pāṟ paṭum.</p>
+      <p xml:lang="en">As for <hi rend="italic">oppu</hi>, [it is] the giving [of the bride] without refusal to the <hi rend="italic">kōttiram</hi> of one’s maternal cousin. This falls to the side of <hi rend="italic">kaṟpu</hi>.</p>
+      <p xml:id="TNV14comm5">poruḷ kōḷ āvatu āṉum āṉ ēṟum poṟ kōṭṭup poṟ kuḷam piṉavākac ceytavaṟṟōṭu nīriṟ koṭuppatu.
+       ivvāṟītaṟkaṇ otta pirāya mutal āyiṉ avaṟṟuḷaveṉiṟ kaṟpiṉ pāṟ paṭum; aṉṟeṉiṟ poruntāk kāmattiṉ pāṟ paṭum</p>
+      <!--p xml:lang="en">As for <hi rend="italic">poruḷ kōḷ</hi>, after making a cow and a bull have gold horns and hooves, 
+      it is the giving [of the bride] along with them by means of [the pouring of] water. In this way, 
+      in the case of giving, if the factors beginning with being the same age exist, then this falls to the side 
+      of <hi rend="italic">karpu</hi>. If one says something different, then this falls to the side to unsuitable love</p-->
+      <p xml:id="TNV14comm6">teyvam āvatu vēḷvi yāciriyaṟku vēḷvit tī muṉṉar koṭuppatu. ituvum poruḷ kōḷōṭokkum</p> 
+      <p xml:lang="en">As for <hi rend="italic">teyvam</hi>, [it is] the giving [of the bride] to the sacrificial priest before the sacrificial fire. This too is the same as <hi rend="italic">poruḷ kōḷ</hi>.</p>
+<p xml:id="TNV14comm7">arum poruḷ viṉai yāvatu kol lēṟu taḻuvutal vil lēṟṟu mutalaṉa ceytārkkuk koṭuppatu. 
+itu vaṉ maṇam ātaliṟ poruntāk kāmattiṉ pāṟ paṭum.</p>
+<p xml:lang="en">As for <hi rend="italic">arum poruḷ viṉai</hi>, [it is] the giving [of the bride] to the one who does the actions of 
+embracing the murderous bull, bowmanship etc. This falls to the side of unsuitable love because this is a forced marriage.</p>
+<p xml:id="TNV14comm8">vali nilai yāvatu tamariṉum avaḷiṉum peṟātu valintu koḷvatu. ituvum ataṉ pāṟ paṭum.</p>
+<p xml:lang="en">As for <hi rend="italic">vali nilai</hi>, [it is] the forceful taking without obtaining [permission] from either her relations or her. This also falls to that side [of being a forced marriage].
+</p>
+<p xml:id="TNV14comm9">pēy nilai yāvatu kaḷittāṇ māṭṭun tuyiṉṟāṇ māṭṭuñ celvatu. ituvum poruntāk kāmattiṉ pāṟ paṭum.</p>
+<p xml:lang="en">As for <hi rend="italic">pēy nilai</hi>, [it is] the going [off with the bride] when she is intoxicated or sleeping. This too falls to the side of unsuitable love.</p>
+<p xml:id="TNV14comm10">kantiruvam āvatu ottār iruvar tāmē kaḷaviṉāṟ kūṭuṅ kūṭṭam. itaṉāl oruvāṟaṟamuṉ ākiya voppumai
+ yuṭaittēṉum āṇ mutalākac collappaṭṭa kaḷavoḻukkan teyvap puṇarcciyum pāṅkaṟ kūṭṭamun tōḻiyiṟ kūṭṭattup 
+ pakaṟ kuṟiyum iravuk kuṟiyum varaivu kaṭātalum uṭaṉ pōkku valittalum eṉa vāṟām eṉra vāṟu. <note>14.</note></p>
+ <!--p xml:lang="en">
+ <̤/p-->
+ </body>
+ </text>
+ <standOff corresp="#TNV14" type="wordsplit">
+<interp type="alignment" select="0">30MG12ML12MG9MG2M,68MG</interp>
+<entry>
+<form>muntiya</form>
+<def>be before</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nūlōr</form>
+<def>treatise</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻinta</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṇ</form>
+<def>eight</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇattil-um</form>
+<def>marriage</def>
+<form type="simple">maṇattil</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kantiruvam</form>
+<def>kantiruvam</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṟaimai</form>
+<def>custom</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷav<c type="elided">u</c></form>
+<def>clandestine stage</def>
+<form type="sandhi">kaḷav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭum-ē</form>
+<def>happens</def>
+<form type="simple">paṭum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV14comm1" type="wordsplit">
+<interp type="alignment" select="0">2M2G18MG8MG9MG10ML9M,6MG54MG</interp>
+<entry>
+<form>eṉpatu</form>
+<def>say</def>
+<form type="sandhi">e-tu</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaikōḷ</form>
+<def>kaikōḷ</def>
+</entry>
+<entry>
+<form>iraṇṭiṉ</form>
+<def>two</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ-<c type="geminated">ḷ</c>um</form>
+<def>inside</def>
+<form type="simple">uḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kaḷav<c type="elided">u</c></form>
+<def>clandestine stage</def>
+<form type="sandhi">kaḷav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukkām</form>
+<def>conduct</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟ<c type="elided">u</c></form>
+<def>way</def>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarttutal</form>
+<def>make known</def>
+<form type="sandhi">uṇarttutaṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutaliṟṟu</form>
+<def>intend</def>
+<form type="sandhi">ṉutaliṟṟu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV14comm2" type="wordsplit">
+<interp type="alignment" select="0">34MR18ML62MG12MG20MG18M,168MG</interp>
+<entry>
+<form>tol</form>
+<def>ancient</def>
+<form type="sandhi">toṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nūl</form>
+<def>treatise</def>
+<form type="sandhi">ṉūl</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āciriyarkaḷāl</form>
+<def>teachers</def>
+<form type="sandhi">āciriyarkaḷāṟ</form>
+<gramGrp>
+  <gram type="role">instrumental</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colla<c type="geminated">p</c></form>
+<def>speak</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭa</form>
+<def>happened</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aṟam</form>
+<def>duty</def>
+<form type="sandhi"><c type="glide">v</c>aṟan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>quality</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oppu</form>
+<def>similarity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>object</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōḷ</form>
+<def>taking</def>
+<form type="sandhi">kōṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>divine</def>
+<form type="sandhi">ṭeyvam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>object</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vali</form>
+<def>strength</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>quality</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pēy</form>
+<def>fiend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>quality</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kantiruvam</form>
+<def>kantiruvam</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭa</form>
+<def>happened</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇam</form>
+<def>marriage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṭṭiṉ</form>
+<def>eight</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ-<c type="geminated">ḷ</c>um</form>
+<def>inside</def>
+<form type="simple">uḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kantiruvam</form>
+<def>kantiruvam</def>
+<form type="sandhi">kantiruva</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻakkam</form>
+<def>custom</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlvatu</form>
+<def>be similar</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷav<c type="elided">u</c></form>
+<def>clandestine stage</def>
+<form type="sandhi">kaḷav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukkam</form>
+<def>custom</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟa</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṟu</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

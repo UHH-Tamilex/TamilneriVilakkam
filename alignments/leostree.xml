@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<nex:nexml generator="SplitsTree6" version="0.9" xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sp5="https://github.com/danielhuson/splitstree6">
+
+	<otus id="otus1" label="TaxaBlock">
+		<otu id="otu1" label="KKedac"/>
+		<otu id="otu2" label="KKmsac"/>
+		<otu id="otu3" label="KKmspc"/>
+		<otu id="otu4" label="KKedpc"/>
+		<otu id="otu5" label="NAed"/>
+		<otu id="otu6" label="TNVcac"/>
+		<otu id="otu7" label="TNVmspc"/>
+		<otu id="otu8" label="TNVmsac"/>
+		<otu id="otu9" label="TNVcpc"/>
+	</otus>
+	
+	<trees otus="otus1" id="trees1" label="TreesBlock">
+		<tree id="tree1" label="tree1" xsi:type="nex:FloatTree">
+			<node id="n1" label="KKedac" otu="otu1"/>
+			<node id="n2" label="KKmsac" otu="otu2"/>
+			<node id="n3" label="KKmspc" otu="otu3"/>
+			<node id="n4" label="KKedpc" otu="otu4"/>
+			<node id="n5" label="NAed" otu="otu5"/>
+			<node id="n6" label="TNVcac" otu="otu6"/>
+			<node id="n7" label="TNVmspc" otu="otu7"/>
+			<node id="n8" label="TNVmsac" otu="otu8"/>
+			<node id="n9" label="TNVcpc" otu="otu9"/>
+			<node id="n10"/>
+			<node id="n11"/>
+			<node id="n12"/>
+			<node id="n13"/>
+			<node id="n14"/>
+			<node id="n15"/>
+			<node id="n16" root="true"/>
+			<edge source="n10" target="n2" id="e1" length="0.03448275476694107"/>
+			<edge source="n10" target="n3" id="e2" length="3.725290298461914E-9"/>
+			<edge source="n11" target="n1" id="e3" length="0.02442530170083046"/>
+			<edge source="n11" target="n10" id="e4" length="0.07902297377586365"/>
+			<edge source="n12" target="n6" id="e5" length="-3.122502256758253E-17"/>
+			<edge source="n12" target="n7" id="e6" length="-3.122502256758253E-17"/>
+			<edge source="n13" target="n12" id="e7" length="0.008620682172477245"/>
+			<edge source="n13" target="n8" id="e8" length="0.00862069707363844"/>
+			<edge source="n14" target="n13" id="e9" length="0.12931033968925476"/>
+			<edge source="n14" target="n9" id="e10" length="0.0"/>
+			<edge source="n15" target="n11" id="e11" length="0.08836206793785095"/>
+			<edge source="n15" target="n5" id="e12" length="0.05818966031074524"/>
+			<edge source="n16" target="n15" id="e13" length="0.010775849223136902"/>
+			<edge source="n16" target="n4" id="e14" length="0.010775871574878693"/>
+			<edge source="n16" target="n14" id="e15" length="0.023706898093223572"/>
+		</tree>
+	</trees>
+</nex:nexml>

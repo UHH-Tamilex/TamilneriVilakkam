@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 3. </title>
+        <title type="sub">Experimenting with formatting for the final edition.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listWit>
+          <witness xml:id="Ed" source="TNV3ed.xml">
+            <abbr type="siglum">Ed</abbr>
+            <expan>
+              <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
+            </expan>
+          </witness> 
+          <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
+            <abbr type="siglum">TNVms</abbr>
+            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <listWit>
+              <witness xml:id="TNVmsac" n="ac">
+                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
+                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNVmspc" n="pc">
+                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
+                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
+            <abbr type="siglum">TNVc</abbr>
+            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <listWit>
+              <witness xml:id="TNVcac" n="ac">
+                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNVcpc" n="pc">
+                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
+            <abbr type="siglum">TNV1937</abbr>
+            <expan>TNV 1937</expan>
+            <listWit>
+              <witness xml:id="TNV1937ac" n="ac">
+                <abbr type="siglum">TNV1937ac</abbr>
+                <expan>TNV print [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNV1937pc" n="pc">
+                <abbr type="siglum">TNV1937pc</abbr>
+                <expan>TNV print [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
+            <abbr type="siglum">TNV1947</abbr>
+            <expan>TNV 1947</expan>
+            <listWit>
+              <witness xml:id="TNV1947ac" n="ac">
+                <abbr type="siglum">TNV1947ac</abbr>
+                <expan>TNV print [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNV1947pc" n="pc">
+                <abbr type="siglum">TNV1947pc</abbr>
+                <expan>TNV print [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="KKms" source="witnesses/KKms.xml">
+            <abbr type="siglum">KKms</abbr>
+            <expan>KKms</expan>
+            <listWit>
+              <witness xml:id="KKmsac" n="ac">
+                <abbr type="siglum">KKms<hi rend="subscript">ac</hi></abbr>
+                <expan>KKms [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="KKmspc" n="pc">
+                <abbr type="siglum">KKms<hi rend="subscript">pc</hi></abbr>
+                <expan>KKms [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="KKed" source="witnesses/KKprint.xml">
+            <abbr type="siglum">KKed</abbr>
+            <expan>KKprint</expan>
+            <listWit>
+              <witness xml:id="KKedac" n="ac">
+                <abbr type="siglum">KKed<hi rend="subscript">ac</hi></abbr>
+                <expan>KKprint [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="KKedpc" n="pc">
+                <abbr type="siglum">KKed<hi rend="subscript">pc</hi></abbr>
+                <expan>KKprint [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="NAed" source="witnesses/NAprint.xml">
+            <abbr type="siglum">NAed</abbr>
+            <expan>NAprint</expan>
+          </witness>          
+          <witness xml:id="TKn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+            <expan>Tolkāppiyam Nacci</expan>
+          </witness>
+          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+            <expan>Tolkāppiyam Pēr</expan>
+          </witness>
+          <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
+            <abbr type="siglum">YV1960a</abbr>
+            <expan>YV1960</expan>
+          </witness>
+          <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
+            <abbr type="siglum">YV1960b</abbr>
+            <expan>YV1960</expan>
+          </witness>
+          <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
+              <abbr type="siglum">KT2</abbr>
+              <expan>KT2</expan>
+              <listWit>
+                <witness xml:id="KT2-C2" select="#C2">
+                  <abbr type="siglum">KT2-C2</abbr>
+                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
+                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
+                </witness>
+              </listWit>
+          </witness>
+          <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
+              <abbr type="siglum">KT40</abbr>
+              <expan>KT40</expan>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition" corresp="#Ed">
+    <body>
+      <div type="mūlam" rend="parallel">
+      <lg xml:id="TNV3">
+      <l>poruppē vemparal puṟavoṭu paḻaṉam</l>
+<l>parappamai vāri kuṟuñcimutaṟ pākē</l></lg>
+<p xml:lang="en">
+Beginning with <hi rend="italic">kuṟuñci</hi>, the division [of the <hi rend="italic">tiṇai</hi> biomes] is: mountain, hot gravel, forest, farmland, and water joined to the sea.</p>
+</div>
+</body>
+</text>
+<text xml:lang="ta" type="edition" corresp="#Ed">
+    <body>
+      <head xml:lang="en">Commentary</head>
+<p xml:id="TNV3comm1">e-tu. aintiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:id="TNV3comm2">(i-ḷ.) malaic cāralum vemparal attamum ciṟutūṟuṭaip puṟavumalarkañaliya 
+paḻaṉamuñcūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta perumaṇalekkaruṅ kuṟuñci pālai 
+ mullai marutaneytal eṉa vaimperuntiṇaiyiṉilamutaleṉṟavāṟu. <note>(3)</note></p>
+ </body></text><standOff corresp="#TNV3" type="wordsplit">
+<interp type="alignment" select="0">6M2G30MG23M2GM,65M</interp>
+<entry>
+<form>porupp<c type="elided">u</c>-ē</form>
+<def>mountain</def>
+<form type="simple">poruppu</form>
+<form type="sandhi">porupp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vem</form>
+<def>hot</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paral</form>
+<def>gravel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟavoṭu</form>
+<def>forest</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paḻaṉam</form>
+<def>farmland</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>parapp<c type="elided">u</c></form>
+<def>expanse</def>
+<form type="sandhi">parapp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>amai</form>
+<def>join</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāri</form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟuñci</form>
+<def>kuṟuñci</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>beginning</def>
+<form type="sandhi">mutaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāk<c type="elided">u</c>-ē</form>
+<def>division</def>
+<form type="simple">pāku</form>
+<form type="sandhi">pāk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff type="apparatus" corresp="#TNV3comm1" source="alignments/TNV3comm1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="27,48">
+    <lem wit="#TNVc">āṟuṇarttutaṉutaliṟṟu.</lem>
+    
+    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu.</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV3comm2" source="alignments/TNV3comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+ 
+  <app corresp="34,65">
+    <lem wit="#TNVc #TNV1937 #TNV1947">ciṟutūṟuṭaip puṟavumalarkañaliya</lem>
+    <rdg wit="#TNVms">ciṟutūṟ u<gap reason="lost" unit="character" quantity="4"/><lb n="4"/><gap reason="lost" unit="character" quantity="1"/>vumalarkañaliya</rdg>
+    
+  </app>
+  <app corresp="65,74">
+    <lem wit="#TNVms #TNVcac">paḻaṉamuñ</lem>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947">paḻaṉañ</rdg>
+  </app>
+  <app corresp="87,95">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kaṭaloṭu</lem>
+    <rdg wit="#TNVmsac">kaṭalo<gap reason="illegible" unit="character" quantity="1"/>ṭu</rdg>
+  </app>
+  <app corresp="133,151">
+    <lem wit="#TNVc #TNV1937 #TNV1947">mullai marutaneytal</lem>
+    <rdg wit="#TNVms">mu<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>rutaneytal</rdg>
+    
+     
+
+  </app>
+  <app corresp="163,174">
+    <lem wit="#TNVms #TNVc">tiṇaiyunila</lem>
+    <rdg wit="#TNV1937 #TNV1947">tiṇaiyiṉ nila</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV3" source="alignments/TNV3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="23,40">
+    <lem wit="#TNVc #TNV1937 #TNV1947">paḻaṉam parappamai</lem>
+    <rdg wit="#TNVms">paḻa<gap reason="lost" unit="character" quantity="4"/><lb n="3"/> pamai</rdg>
+  </app>
+</listApp></standOff></TEI>

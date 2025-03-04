@@ -1,0 +1,82 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">
+  
+    
+    <teiHeader>
+<listWit><witness xml:id="KKms" source="KKms.xml"><abbr type="siglum">KKms</abbr><expan>KKms</expan><listWit><witness xml:id="KKmsac" n="ac"><abbr type="siglum">KKmsac</abbr><expan>KKms [ante correctionem]</expan></witness><witness xml:id="KKmspc" n="pc"><abbr type="siglum">KKmspc</abbr><expan>KKms [post correctionem]</expan></witness></listWit></witness><witness xml:id="KKed" source="KKprint.xml"><abbr type="siglum">KKed</abbr><expan>KKprint</expan><listWit><witness xml:id="KKedac" n="ac"><abbr type="siglum">KKedac</abbr><expan>KKprint [ante correctionem]</expan></witness><witness xml:id="KKedpc" n="pc"><abbr type="siglum">KKedpc</abbr><expan>KKprint [post correctionem]</expan></witness></listWit></witness><witness xml:id="KT2" source="KT2.xml"><abbr type="siglum">KT2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">Iṟaiyaṉār</persName>: <i>HE</i></expan><listWit><witness xml:id="KT2-C2" select="#C2"><abbr type="siglum">KT2-C2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">Iṟaiyaṉār</persName>: <i>HE</i> [witness C2]</expan></witness></listWit></witness><witness xml:id="KT40" source="KT40.xml"><abbr type="siglum">KT40</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 40. <persName xml:lang="ta">Cempulappeyaṉīrār</persName>: <i>HE / SHE</i></expan></witness><witness xml:id="NAed" source="NAprint.xml"><abbr type="siglum">NAed</abbr><expan>NAprint</expan></witness><witness xml:id="TNV1937" source="TNV_1937.xml"><abbr type="siglum">TNV1937</abbr><expan>TNV 1937</expan></witness><witness xml:id="TNV1947" source="TNV1947.xml"><abbr type="siglum">TNV1947</abbr><expan>TNV print</expan><listWit><witness xml:id="TNV1947ac" n="ac"><abbr type="siglum">TNV1947ac</abbr><expan>TNV print [ante correctionem]</expan></witness><witness xml:id="TNV1947pc" n="pc"><abbr type="siglum">TNV1947pc</abbr><expan>TNV print [post correctionem]</expan></witness></listWit></witness><witness xml:id="TKn" source="TolNa.xml"><abbr type="siglum">TKn</abbr><expan>Tolkāppiyam Nacci</expan></witness><witness xml:id="TKp" source="TolPe.xml"><abbr type="siglum">TKp</abbr><expan>Tolkāppiyam Pēr</expan></witness><witness xml:id="TNVc" source="UVSL_48032.xml"><abbr type="siglum">TNVc</abbr><expan>Tamiḻneṟi Viḷakkam Paper</expan><listWit><witness xml:id="TNVcac" n="ac"><abbr type="siglum">TNVcac</abbr><expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan></witness><witness xml:id="TNVcpc" n="pc"><abbr type="siglum">TNVcpc</abbr><expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan></witness></listWit></witness><witness xml:id="TNVms" source="UVSLMS000950.xml"><abbr type="siglum">TNVms</abbr><expan>Tamiḻneṟi Viḷakkam</expan><listWit><witness xml:id="TNVmsac" n="ac"><abbr type="siglum">TNVmsac</abbr><expan>Tamiḻneṟi Viḷakkam [ante correctionem]</expan></witness><witness xml:id="TNVmspc" n="pc"><abbr type="siglum">TNVmspc</abbr><expan>Tamiḻneṟi Viḷakkam [post correctionem]</expan></witness></listWit></witness><witness xml:id="YV1960a" source="YV1960.xml"><abbr type="siglum">YV1960a</abbr><expan>YV1960</expan></witness><witness xml:id="YV1960b" source="YV1960.xml"><abbr type="siglum">YV1960b</abbr><expan>YV1960</expan></witness><witness xml:id="Ed" source="TNV5ed.xml"><abbr type="siglum">Ed</abbr><expan><title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 5.</expan></witness></listWit>
+    <encodingDesc>
+      <editorialDecl>
+        <normalization method="markup">
+<ab>ignore punctuation</ab>
+<ab>ignore long/short e</ab>
+<ab>ignore long/short o</ab>
+<ab>insert glide after back vowels</ab>
+<ab>insert glide after front vowels</ab>
+<ab>final -m sandhi variants</ab>
+<ab>final -m elision</ab>
+<ab>final -ṇ sandhi</ab>
+<ab>final -ṉ sandhi</ab>
+<ab>final -l sandhi</ab>
+<ab>final -ḷ sandhi</ab>
+<ab>remove spaces</ab>
+        </normalization>
+        <ab type="tagfilters">
+<tag subtype="ignore">pc</tag>
+<tag subtype="ignore">abbr</tag>
+<tag subtype="ignore">corr</tag>
+<tag subtype="ignore">ex</tag>
+<tag subtype="ignore">head</tag>
+<tag subtype="ignore">label</tag>
+<tag subtype="ignore">note</tag>
+<tag subtype="ignore">num</tag>
+<tag subtype="ignore">locus</tag>
+<tag subtype="ignore">metamark</tag>
+<tag subtype="ignore">supplied</tag>
+<tag subtype="ignore">surplus</tag>
+        </ab>
+      </editorialDecl>
+    </encodingDesc>
+    
+        
+        <xenoData>
+      <stemma format="nexml" id="stemma0"><nex:nexml xmlns:nex="http://www.nexml.org/2009" version="0.9"><nex:otus id="otus1"><nex:otu id="otu0" label="TNV1947"/><nex:otu id="otu1" label="TNVc"/><nex:otu id="otu2" label="Ed"/><nex:otu id="otu3" label="TNV1937"/><nex:otu id="otu4" label="TNVmsac"/><nex:otu id="otu5" label="TNVmspc"/></nex:otus><nex:trees otus="otus1" id="trees1"><nex:tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="guidetree" label="guidetree" xsi:type="nex:FloatTree"><nex:node id="cca55e2d-8cd3-4789-abfb-f8babf77baee" root="true"/><nex:node id="32b6e029-0b03-4eec-837c-9cf230e8b16f"/><nex:node id="c71f268f-b586-4dec-b26d-802e4ec05c75"/><nex:node id="e32e3c36-adc2-4d1f-8574-1eec1557a54d" label="TNV1947" otu="otu3"/><nex:node id="9268c99d-ea93-4218-964e-d8015016a914" label="TNVc" otu="otu4"/><nex:node id="255bd59c-6909-4389-8076-436972154f38"/><nex:node id="0ef57987-1650-4e1e-a981-5d0229045a29" label="Ed" otu="otu6"/><nex:node id="9f1649d0-3028-4f7e-adb1-30e2197e084b" label="TNV1937" otu="otu7"/><nex:node id="3fe1fc7f-d8df-48fc-8fe2-c1a91ad33c21"/><nex:node id="eca87c73-5a49-4316-95f4-c4de67c276bb" label="TNVmsac" otu="otu9"/><nex:node id="4883a2ca-76e0-4dfe-b997-d465e29b9870" label="TNVmspc" otu="otu10"/><nex:edge source="cca55e2d-8cd3-4789-abfb-f8babf77baee" target="32b6e029-0b03-4eec-837c-9cf230e8b16f" id="edge0" length="0.3921587356870355"/><nex:edge source="cca55e2d-8cd3-4789-abfb-f8babf77baee" target="3fe1fc7f-d8df-48fc-8fe2-c1a91ad33c21" id="edge1" length="0.3921587356870355"/><nex:edge source="32b6e029-0b03-4eec-837c-9cf230e8b16f" target="c71f268f-b586-4dec-b26d-802e4ec05c75" id="edge2" length="0"/><nex:edge source="32b6e029-0b03-4eec-837c-9cf230e8b16f" target="255bd59c-6909-4389-8076-436972154f38" id="edge3" length="0"/><nex:edge source="3fe1fc7f-d8df-48fc-8fe2-c1a91ad33c21" target="eca87c73-5a49-4316-95f4-c4de67c276bb" id="edge4" length="0.2090550082423283"/><nex:edge source="3fe1fc7f-d8df-48fc-8fe2-c1a91ad33c21" target="4883a2ca-76e0-4dfe-b997-d465e29b9870" id="edge5" length="0.19369111025253133"/><nex:edge source="c71f268f-b586-4dec-b26d-802e4ec05c75" target="e32e3c36-adc2-4d1f-8574-1eec1557a54d" id="edge6" length="0"/><nex:edge source="c71f268f-b586-4dec-b26d-802e4ec05c75" target="9268c99d-ea93-4218-964e-d8015016a914" id="edge7" length="0"/><nex:edge source="255bd59c-6909-4389-8076-436972154f38" target="0ef57987-1650-4e1e-a981-5d0229045a29" id="edge8" length="0"/><nex:edge source="255bd59c-6909-4389-8076-436972154f38" target="9f1649d0-3028-4f7e-adb1-30e2197e084b" id="edge9" length="0"/></nex:tree></nex:trees></nex:nexml></stemma>
+    </xenoData>
+    
+    
+  </teiHeader>
+
+    
+    <TEI n="TNV1947">
+        
+        <text><cl><w n="0" lemma="i"> i</w><w n="1">r</w><w n="2">u</w><w n="3">ṇ</w><w n="4">i</w><w n="5">l</w><w n="6" lemma="ai">ai </w></cl><cl><w n="7">y</w><w n="8">u</w><w n="9">c</w><w n="10">c</w><w n="11" lemma="i">i </w><w n="12">m</w><w n="13">ā</w><w n="14">l</w><w n="15" lemma="ai">ai </w></cl><cl><w n="16">v</w><w n="17">ai</w><w n="18">k</w><w n="19">a</w><w n="20">ṟ</w><w n="21" lemma="ai">ai </w></cl><cl><w n="22">p</w><w n="23">o</w><w n="24">r</w><w n="25">u</w><w n="26">ṇ</w><w n="27">i</w><w n="28">l</w><w n="29" lemma="ai">ai </w></cl><cl><w n="30">y</w><w n="31">a</w><w n="32">n</w><w n="33">t</w><w n="34" lemma="i">i </w><w n="35"/><w n="36"/></cl><cl><w n="37">p</w><w n="38">u</w><w n="39">ṇ</w><w n="40">a</w><w n="41">r</w><w n="42">k</w><w n="43">k</w><w n="44">u</w><w n="45" lemma="m">m </w></cl><cl><w n="46">p</w><w n="47">o</w><w n="48"/><w n="49">ḻ</w><w n="50">u</w><w n="51">t</w><w n="52" lemma="e">ē</w></cl></text>
+    
+    </TEI>
+    
+    <TEI n="TNVc">
+        
+        <text><cl><w n="0" lemma="i"> i</w><w n="1">r</w><w n="2">u</w><w n="3">ṇ</w><w n="4">i</w><w n="5">l</w><w n="6" lemma="ai">ai </w></cl><cl><w n="7">y</w><w n="8">u</w><w n="9">c</w><w n="10">c</w><w n="11" lemma="i">i </w><w n="12">m</w><w n="13">ā</w><w n="14">l</w><w n="15" lemma="ai">ai </w></cl><cl><w n="16">v</w><w n="17">ai</w><w n="18">k</w><w n="19">a</w><w n="20">ṟ</w><w n="21" lemma="ai">ai </w></cl><cl><w n="22">p</w><w n="23">o</w><w n="24">r</w><w n="25">u</w><w n="26">ṇ</w><w n="27">i</w><w n="28">l</w><w n="29" lemma="ai">ai </w></cl><cl><w n="30">y</w><w n="31">a</w><w n="32">n</w><w n="33">t</w><w n="34" lemma="i">i </w><w n="35"/><w n="36"/></cl><cl><w n="37">p</w><w n="38">u</w><w n="39">ṇ</w><w n="40">a</w><w n="41">r</w><w n="42">k</w><w n="43">k</w><w n="44">u</w><w n="45" lemma="m">m </w></cl><cl><w n="46">p</w><w n="47">o</w><w n="48"/><w n="49">ḻ</w><w n="50">u</w><w n="51">t</w><w n="52" lemma="e">ē. </w></cl></text>
+    
+    </TEI>
+    
+    <TEI n="Ed">
+        
+        <text><cl><w n="0" lemma="i"> i</w><w n="1">r</w><w n="2">u</w><w n="3">ṇ</w><w n="4">i</w><w n="5">l</w><w n="6" lemma="ai">ai </w></cl><cl><w n="7">y</w><w n="8">u</w><w n="9">c</w><w n="10">c</w><w n="11" lemma="i">i </w><w n="12">m</w><w n="13">ā</w><w n="14">l</w><w n="15" lemma="ai">ai </w></cl><cl><w n="16">v</w><w n="17">ai</w><w n="18">k</w><w n="19">a</w><w n="20">ṟ</w><w n="21" lemma="ai">ai </w></cl><cl><w n="22">p</w><w n="23">o</w><w n="24">r</w><w n="25">u</w><w n="26">ṇ</w><w n="27">i</w><w n="28">l</w><w n="29" lemma="ai">ai </w></cl><cl><w n="30">y</w><w n="31">a</w><w n="32">n</w><w n="33">t</w><w n="34" lemma="i">i </w><w n="35"/><w n="36"/></cl><cl><w n="37">p</w><w n="38">u</w><w n="39">ṇ</w><w n="40">a</w><w n="41">r</w><w n="42">k</w><w n="43">k</w><w n="44">u</w><w n="45" lemma="m">m </w></cl><cl><w n="46">p</w><w n="47">o</w><w n="48"/><w n="49">ḻ</w><w n="50">u</w><w n="51">t</w><w n="52" lemma="e">ē</w></cl></text>
+    
+    </TEI>
+    
+    <TEI n="TNV1937">
+        
+        <text><cl><w n="0" lemma="i"> i</w><w n="1">r</w><w n="2">u</w><w n="3">ṇ</w><w n="4">i</w><w n="5">l</w><w n="6" lemma="ai">ai </w></cl><cl><w n="7">y</w><w n="8">u</w><w n="9">c</w><w n="10">c</w><w n="11" lemma="i">i </w><w n="12">m</w><w n="13">ā</w><w n="14">l</w><w n="15" lemma="ai">ai </w></cl><cl><w n="16">v</w><w n="17">ai</w><w n="18">k</w><w n="19">a</w><w n="20">ṟ</w><w n="21" lemma="ai">ai </w></cl><cl><w n="22">p</w><w n="23">o</w><w n="24">r</w><w n="25">u</w><w n="26">ṇ</w><w n="27">i</w><w n="28">l</w><w n="29" lemma="ai">ai </w></cl><cl><w n="30">y</w><w n="31">a</w><w n="32">n</w><w n="33">t</w><w n="34" lemma="i">i </w><w n="35"/><w n="36"/></cl><cl><w n="37">p</w><w n="38">u</w><w n="39">ṇ</w><w n="40">a</w><w n="41">r</w><w n="42">k</w><w n="43">k</w><w n="44">u</w><w n="45" lemma="m">m </w></cl><cl><w n="46">p</w><w n="47">o</w><w n="48"/><w n="49">ḻ</w><w n="50">u</w><w n="51">t</w><w n="52" lemma="e">ē</w></cl></text>
+    
+    </TEI>
+    
+    <TEI n="TNVmsac">
+        
+        <text><cl><w n="0">i</w><w n="1">r</w><w n="2">u</w><w n="3">ṇ</w><w n="4">i</w><w n="5">l</w><w n="6" lemma="ai">ai </w></cl><cl><w n="7">‡</w><w n="8">‡</w><w n="9">‡</w><w n="10">‡</w><w n="11"/><w n="12"/><w n="13"/><w n="14"/><w n="15"/></cl><cl><w n="16">v</w><w n="17">ai</w><w n="18">k</w><w n="19">a</w><w n="20">ṟ</w><w n="21" lemma="ai">ai </w></cl><cl><w n="22">p</w><w n="23">o</w><w n="24">r</w><w n="25">u</w><w n="26">ṇ</w><w n="27">i</w><w n="28">l</w><w n="29" lemma="ai">ai </w></cl><cl><w n="30">y</w><w n="31">a</w><w n="32">n</w><w n="33">t</w><w n="34" lemma="i">i </w><w n="35">y</w><w n="36">u</w></cl><cl><w n="37">p</w><w n="38">u</w><w n="39">ṇ</w><w n="40">a</w><w n="41">r</w><w n="42">k</w><w n="43">k</w><w n="44">u</w><w n="45" lemma="m">m </w></cl><cl><w n="46">p</w><w n="47">o</w><w n="48">‡</w><w n="49">ḻ</w><w n="50">u</w><w n="51">t</w><w n="52" lemma="e">ē.</w></cl></text>
+    
+    </TEI>
+    
+    <TEI n="TNVmspc">
+        
+        <text><cl><w n="0">i</w><w n="1">r</w><w n="2">u</w><w n="3">ṇ</w><w n="4">i</w><w n="5">l</w><w n="6" lemma="ai">ai </w></cl><cl><w n="7">‡</w><w n="8">‡</w><w n="9">‡</w><w n="10">‡</w><w n="11"/><w n="12"/><w n="13"/><w n="14"/><w n="15"/></cl><cl><w n="16">v</w><w n="17">ai</w><w n="18">k</w><w n="19">a</w><w n="20">ṟ</w><w n="21" lemma="ai">ai </w></cl><cl><w n="22">p</w><w n="23">o</w><w n="24">r</w><w n="25">u</w><w n="26">ṇ</w><w n="27">i</w><w n="28">l</w><w n="29" lemma="ai">ai </w></cl><cl><w n="30">y</w><w n="31">a</w><w n="32">n</w><w n="33">t</w><w n="34" lemma="i">i </w><w n="35"/><w n="36"/></cl><cl><w n="37">p</w><w n="38">u</w><w n="39">ṇ</w><w n="40">a</w><w n="41">r</w><w n="42">k</w><w n="43">k</w><w n="44">u</w><w n="45" lemma="m">m </w></cl><cl><w n="46">p</w><w n="47">o</w><w n="48"/><w n="49">ḻ</w><w n="50">u</w><w n="51">t</w><w n="52" lemma="e">ē.</w></cl></text>
+    
+    </TEI></teiCorpus>

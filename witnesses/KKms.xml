@@ -1,0 +1,220 @@
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>KKms</title>
+            
+         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                  </repository>
+                  <idno type="shelfmark">KKms</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>test
+inconsistent disambiguation of long and short e and o</summary>
+                  
+               <msItem xml:id="KKms" defective="false"><title>KKms</title></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="baad">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="1"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>test</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://zenodo.org/api/iiif/record:14197257/manifest" facs="1"/></facsimile>
+<text corresp="#KKms"><body xml:lang="ta">
+<milestone unit="page" n="11" facs="8"/>    
+ <lg corresp="#TNV15poem3">
+<l>iṉaiyal vāḻi pirivoṉ ṟilaṉē</l>
+<l>naṉaimalar naṟumpūṅ kōtai</l>
+<l>yamaiveṉu......nā ṉakaṉṟa ñāṉṟē</l></lg> 
+  <milestone unit="page" n="13" facs="9"/>
+<lg corresp="#TNV15poem5"> 
+<l>iṉaiyal vāḻi yemmūr malarnta</l>
+<l>paḻaṉat tāmaraik keḻīiya va...niṉ</l>
+<l>kaṇṇeṉa malarnta kāmar cuṉaimalar</l>
+<l>na<del rend="strikethrough">ṟuṅka</del>ṇṇi nāḷu nalaṉuka rummē</l></lg>
+<milestone unit="page" n="15" facs="10"/>
+  <lg corresp="#TNV15poem6"> 
+  <l>... maṭantai<del rend="strikethrough">k</del> kūṭṭaṅ</l>
+<l>kaṉavē tēriṉ yāvatu</l>
+<l>naṉavē yāyiṉu naṇṇalō varitē.</l></lg>
+<milestone unit="page" n="16" facs="11"/>
+<lg corresp="#TNV15poem7">
+<l>p...ṉ ṟeṉpa viṉṉuyi rituvē</l>
+<l>yalarmulai yāyat tāṅka</l>
+<l>ṇilavoḷi <del rend="strikethrough">yā</del>matiyeṉa nilavumeṉ ṉuyirē</l></lg>
+  <milestone unit="page" n="18" facs="12"/>
+<lg corresp="#TNV15poem9">
+<l>uṭaiyai vāḻi neñcē yiṭaikkoṇ</l>
+<l>ṭaḻuṅkak kōmpumati taḻaṅkoli mikunīr</l>
+<l>vaḻuttūr kākku mapuṇai</l>
+<l>viḻuttuṇaik ...ṉṟa mikuperuṅ kiḷaiyē.</l></lg>
+  <milestone unit="page" n="30" facs="30"/>
+    <pb n="30"/>
+  <lg corresp="#TNV16poem9">
+    <l>nōtaka vuṭaittē neñca matimicai</l>
+<l>mātar kuvaḷai malarn ta<space quantity="2" unit="characters"/></l>
+<l><space quantity="3" unit="characters"/> kaṇkaṇ ṭāṟṟiya</l>
+<l>peruntakai yaṇṇalaik kaḻa<del rend="strikethrough">ṉ</del>ṟiṉaṉ peritē</l></lg>
+<lg corresp="#TNV17poem5">  
+    <milestone unit="page" n="42" facs="24"/><pb n="42"/>    
+<l>ampumukaṅ kiḻitta puṇvāy<add place="above">k</add> <subst><del rend="strikethrough">ta</del><add place="above">ka</add></subst>laimāṉ</l>
+<l>pōntaṉa vuḷavō </l>
+<l>maṭa ṉōkka marīi<add rend="caret" place="above">yi</add>ṉam paṭarntē</l></lg>  
+  <lg corresp="#TNV17poem7">
+  <milestone unit="page" n="53" facs="30"/><pb n="53"/>        
+  <l>kai<subst><del rend="strikethrough">vva</del><add place="above">ya</add></subst>tu cemmalan taḻaiyē viṉāvatu</l>
+<l>puṇ vāya māvēl kaiviṭ</l>
+<l>ṭakalā ṉammaviv vakaṉpuṉai</l>
+<l>takaiyō ṉuḷḷiya taṟiyōm peritē</l></lg>
+  <lg corresp="#TNV17poem35">
+    <milestone unit="page" n="63" facs="35"/><pb n="63"/>    
+<l>tantunī yaḷitta taṇṭaḻai kāṇalum</l>
+<l>vantaṉa ḷetirnta maṭantai neñca</l>
+<l>maṇmicai viḷaṅkiya vaḻuttūr matitara</l>
+<l><subst><del rend="strikethrough">ṟu</del><add place="in-place">ṉu</add></subst>ṇṇiyaṟ ṟamiḻi ṉuḻaiporu tuḷitta</l>
+<l>vā<subst>y<del rend="puḷḷi">a</del><add rend="caret" place="above">moḻi</add></subst>miḻta maṭuttavar maṉameṉa</l>
+<l>yāṉilai peṟṟaṉ ṟiyāṉaṟin tilaṉē</l></lg>
+    <lg corresp="#TNV17poem38">
+      <milestone unit="page" n="68" facs="38"/><pb n="68"/>    
+<l>pē<del rend="brackets">y</del>tuṟal vāḻiniṉ kātaṟ ṟōḻi</l>
+<l>kaipuṉai kōla <add place="above" rend="caret">me</add>ṉaypeṟ ṟaṉṟē</l>
+<l>yaiya māvatu miṉṟip</l>
+<l>peypūṅ kōtai peruṅkaviṉ koḷavē</l></lg>
+   <lg corresp="#TNV17poem40">
+     <milestone unit="page" n="69" facs="38"/><pb n="69"/>    
+<l>naṟumpūṅ kaṇṇiyum peruntaṇ kōtaiyum</l>
+<l>na<subst><del rend="strikethrough">tai</del><add place="above">kai</add></subst>vāyp piṇaiyalu mukaivāyc cūṭṭum</l>
+<l>puṉaintaṉai yaruḷal vēṇṭuñ</l>
+<l>ciṉaṅkeḻu kāṉavaṉ ceḻumaṭa makaḷē.</l></lg>
+   <lg corresp="#TNV18poem11">
+<l>varivaḷait tōḻi yorutaṉi yoḻiyap</l>
+<l>piritu meṉṟi yāyiṟ peritaḻin</l>
+<l>talamaral vāḻi yaiya</l>
+     <l>viruḷiṭai yeytalu <subst><del rend="overwritten">ma</del><add place="in-place">me</add></subst>matumā ṉamakkē</l></lg>
+  <lg corresp="#TNV18poem18">
+    <milestone unit="page" n="83" facs="45"/><pb n="83"/>    
+<l>puḷḷun tuyiṟpuṭai peyar<add rend="caret" place="above">n</add>taṉa puṉaluḷ</l>
+<l>veḷḷita<subst><del rend="strikethrough">ṭ</del><add place="above">ḻk</add></subst> kaitai maṇikkāy tatumpa</l>
+<l>vantaṉaṉ kollō tāṉē</l>
+<l>ventiṟa laṇṇa ṉiṉaintaṉaṉ viraintē</l></lg>
+  <lg corresp="#TNV18poem19">
+    <milestone unit="page" n="84" facs="46"/><pb n="84"/>
+<l>aṉṉāy kāṇeṉ ṟirumuṟai taṉṉai</l>
+<l>yeṭuppavun tuyiṉmaṭin tilaḷē</l>
+<l>yilaṅkilai neṭuvē laṇṇalum</l>
+<l>pulamputuya rakalak karuti vantōṉē</l></lg>
+   <lg corresp="#TNV18poem22">
+      <milestone unit="page" n="89" facs="48"/><pb n="89"/>    
+<l>vaṇarcuri yaimpāl vāṇuta larivai</l>
+<l>yavaṭiṟa maṟital yāvatum</l>
+     <l>puṇartuyiṉ maṟantaṉa<del rend="strikethrough">m</del> puḷḷiṉam peyarntē</l></lg>
+  <lg corresp="#TNV19poem5">
+  <milestone unit="page" n="102" facs="55"/><pb n="102"/>    
+<l>murukaṟ cevviyoṭu pakalvari ṉavvaḻi</l>
+<l>yiraviyaṟ kavvai yañcutu</l>
+<l>miravari ṉataṉiṉum peritañ cutumē</l></lg>
+  <lg corresp="#TNV19poem9">
+<l>itaṟkoṇ ṭiyāṉ ṟe<subst><del rend="strikethrough">ḻi</del><add place="above">ḷi</add></subst>ntu mēṉāḷ</l>
+<l>matikkō ṭuñcu mālvarai vāṭkaik</l>
+<l>kaṭavu ḷāka<del rend="strikethrough">la</del> mallatum</l>
+<l>maṭavaraṉ mātarai matittaṉṟu milamē</l></lg>
+<lg corresp="#TNV20poem5">
+  <milestone unit="page" n="114" facs="61"/><pb n="114"/>
+<l>tīyiṉum veṉkuvai yāyiṉ</l>
+<l>yāvatu miṉiya kā<add rend="caret" place="above">ṉa</add>m</l>
+<l>cēyuyar ci<subst><del rend="strikethrough"><unclear>lam</unclear></del><add place="above">lampa</add></subst> niṉṉoṭu celiṉē</l></lg>  
+  <lg corresp="#TNV22poem11">
+  <milestone unit="page" n="124" facs="66"/><pb n="124"/>
+<l>taṇṇeṉ cāya livaṇōy taṇiya</l>
+<l>veṇṇiṉa rāyiṉ maṉṉō</l>
+<l>vaṇṇa lākamu muṇṇumō <subst><del rend="overwritten">ya</del><add place="in-place"><unclear>pu</unclear></add></subst>liyē</l></lg>
+<lg corresp="#TNV22poemextra">
+   <milestone unit="page" n="126" facs="67"/><pb n="126"/>
+<l>pētai vāḻiya murukē yāvatu</l>
+<l>mētila ṉeṉpatai yuṇarntu</l>
+<l>vārānōy taṇiya varuta lāṉē</l></lg>
+  <lg corresp="#TNV22poem14">
+    <milestone unit="page" n="126" facs="67"/><pb n="126"/>
+<l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
+<pb n="127"/><l><space unit="character" quantity="7"/><del rend="strikethrough">ḷ</del> malaiya ṉoṇvēṟ kaṇṇi</l>
+<l>mulaiyiṉa vāra mutukkuṟain taṉaḷē.</l></lg>    
+  <lg corresp="#TNV22poem12">
+   <milestone unit="page" n="127" facs="67"/><pb n="127"/>
+<l>muḷaiyeyiṟu nirampā viḷamaip paruvatta</l>
+<l>ḷaḷiya<space unit="character" quantity="7"/> ṉoruvaṉ ṟaḷaiyaviḻ kaṇṇi</l>
+<l>mulaiyum vārāḷ mutukkuṟain taṉaḷē.</l></lg>
+  <lg corresp="#TNV23poem6">
+   <milestone unit="page" n="145" facs="76"/><pb n="145"/>
+<l>ceṅkatirc celvaṉu mattañ cērntaṉaṉ</l>
+<l>koṅkivar kōtaiyō ṭivvaḻit</l>
+<l>taṅkiṉai ceṉmē takaivey yōṉē.</l></lg>
+</body>
+
+
+</text></TEI>

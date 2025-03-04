@@ -1,0 +1,18 @@
+
+BEGIN TREES;
+[Number of trees: 1]
+PROPERTIES partialTrees=no rooted=yes;
+TRANSLATE
+	1 'KKedac',
+	2 'KKmsac',
+	3 'KKmspc',
+	4 'KKedpc',
+	5 'NAed',
+	6 'TNVcac',
+	7 'TNVmspc',
+	8 'TNVmsac',
+	9 'TNVcpc',
+;
+[TREES]
+		[1] tree 'NJ-tree'=[&R] (((1:0.0244253,(2:0.03448275,3:0):0.07902297):0.08836207,5:0.05818966):0.01077585,4:0.01077587,(((6:0,7:0):0.00862068,8:0.0086207):0.12931034,9:0):0.0237069);
+END; [TREES]
