@@ -810,20 +810,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app corresp="0,5">
-    <lem wit="#TNVms #TNVc #TNV1937">e-tu.</lem>
-    <rdg wit="#TNV1947"/>
-  </app>
-  <app corresp="5,14">
-    <lem wit="#TNVc #TNV1937 #TNV1947">uripporuḷ</lem>
-    <rdg wit="#TNVms">urip poruḷ</rdg>
-  </app>
-  <app corresp="16,37">
-    <lem wit="#TNVms #TNVc">āṟuṇarttutaṉutaliṟṟu.</lem>
-    <rdg wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu.</rdg>
-  </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV13comm2" source="alignments/TNV13comm2.xml"><interp type="normalization">
+</interp></standOff><standOff type="apparatus" corresp="#TNV13comm2" source="alignments/TNV13comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
