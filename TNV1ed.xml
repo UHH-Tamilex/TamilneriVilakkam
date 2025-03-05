@@ -166,14 +166,14 @@ that which is <hi rend="italic">puṟam</hi> and that which exceeds those two ca
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-<p xml:id="TNV1comm1">eṉpatu, niṟutta muṟaiyāṉē poruḷilakkaṇam ām āṟuṇarttutaṉutaliṟṟu. eṉavē yivvōttup poruḷiyal eṉpatāyiṟṟu.</p>
-<p xml:id="TNV1comm2">(itaṉ poruḷ.) akattiṉ ākiya vakapporuḷum puṟattiṉ ākiya
-puṟapporuḷum āyiru vakaiyiṉum ākiya vakappuṟapporuḷum eṉa mūvīṟṟatāyp pal vēṟu
-vakaippaṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷāmeṉṟavāṟu. </p>
-<p xml:id="TNV1comm3">puṟac ceykai yuḷateṉiṉumikutivakaiyāl akampaṟṟi nikaḻtaliṉ
-irutalaiyum tīrā vaṉpiṟṟākiya kāmam akapporuḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakaiyāṟ puṟacceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟam puṟapporuḷ eṉpatu<note place="foot">I think the 'corrected' reading here makes sense. There is no reason why this construction whould not mirror that found in the previous sentence.</note>.
-akamallā viṉpamum puṟamallāp poruḷ ceyal vakaiyum aṟamum ataṉ payaṉākiya vīṭum
-iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa veṉpatu. <note>(1)</note></p>
+<p xml:id="TNV1comm1">eṉpatu niṟutta muṟaiyāṉē poruḷ ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu. eṉavē yivvōttup poruḷ iyal eṉpatāyiṟṟu.</p>
+<p xml:id="TNV1comm2">akattiṉ ākiya vakap poruḷum puṟattiṉ ākiya
+puṟap poruḷum āy iru vakaiyiṉum ākiya vakap puṟap poruḷum eṉa mū vīṟṟatāyp pal vēṟu
+vakaip paṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷ ām eṉṟa vāṟu. </p>
+<p xml:id="TNV1comm3">puṟac ceykai yuḷateṉiṉumikuti vakaiyāl akam paṟṟi nikaḻtaliṉ
+iru talaiyum tīrā vaṉpiṟṟākiya kāmam akap poruḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakaiyāṟ puṟac ceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟam puṟap poruḷ eṉpatu<note place="foot">I think the 'corrected' reading here makes sense. There is no reason why this construction whould not mirror that found in the previous sentence.</note>.
+akam allā viṉpamum puṟam allāp poruḷ ceyal vakaiyum aṟamum ataṉ payaṉ ākiya vīṭum
+iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭaṉa veṉpatu. <note>1.</note></p>
 
  
  </body>
@@ -420,11 +420,17 @@ iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  
-  <app corresp="28,60">
+  <app corresp="0,6">
+    <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
+    <rdgGrp select="#TNVms #TNVc">
+      <rdg type="main">etu.</rdg>
+      <rdg type="minor" wit="#TNVc">e-tu.</rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="27,59">
     <lem wit="#TNVc #TNV1937 #TNV1947">ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu.</lem>
-   
     <rdg wit="#TNVms">ilakkaṇa<gap reason="lost" unit="character" quantity="4"/><lb n="2"/>rttutanutaliṟṟu.</rdg>
+    
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV1comm2" source="alignments/TNV1comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -442,19 +448,18 @@ iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  
-  <app corresp="49,66">
-    <lem wit="#TNVc #TNV1937 #TNV1947">puṟapporuḷum āyiru</lem>
-    <rdg wit="#TNVms">puṟap<gap reason="lost" unit="character" quantity="4"/><lb n="3"/>y iru</rdg>
+  <app corresp="37,51">
+    <lem wit="#TNVc #TNV1937 #TNV1947">puṟap poruḷum āy</lem>
+    <rdg wit="#TNVms">puṟap<gap reason="lost" unit="character" quantity="4"/><lb n="3"/>y</rdg>
   </app>
-  <app corresp="119,130">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vakaippaṭṭa</lem>
-    <rdg wit="#TNVmsac"><gap reason="illegible" unit="character" quantity="2"/> vakaip paṭṭa</rdg>
+  <app corresp="103,113">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vēṟu vakaip</lem>
+    <rdg wit="#TNVmsac">vēṟu<gap reason="illegible" unit="character" quantity="2"/> vakaip</rdg>
   </app>
-  <app corresp="154,170">
-    <lem wit="#TNVc #TNV1937 #TNV1947">poruḷāmeṉṟavāṟu.</lem>
+  <app corresp="142,158">
+    <lem wit="#TNVc #TNV1937 #TNV1947">poruḷ ām eṉṟa vāṟu.</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="4"/>ṉṟavāṟu.</rdg>
-  
+    
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV1comm3" source="alignments/TNV1comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -473,42 +478,31 @@ iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa
   </desc>
 </interp><listApp>
   <app corresp="81,95">
-    <lem wit="#TNVc #TNV1937 #TNV1947">kāmam akapporuḷ</lem>
+    <lem wit="#TNVc #TNV1937 #TNV1947">kāmam akap poruḷ</lem>
     <rdg wit="#TNVms">kāma<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>ruḷ</rdg>
   </app>
   <app corresp="178,188">
-    <lem wit="#TNVc #TNV1937 #TNV1947">puṟapporuḷ</lem>
+    <lem wit="#TNVc #TNV1937 #TNV1947">puṟap poruḷ</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="6"/>ruḷ</rdg>
   </app>
   <app corresp="188,195">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">eṉpatu.</lem>
     <rdg wit="#TNVms #TNVcac">eṉappaṭṭatu.</rdg>
   </app>
-  <app corresp="211,221">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puṟamallāp</lem>
-    <rdg wit="#TNVmsac">puṟaṅm allāp</rdg>
+  <app corresp="211,216">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puṟam</lem>
+    <rdg wit="#TNVmsac">puṟaṅm</rdg>
   </app>
   <app corresp="259,264">
     <lem wit="#TNVc #TNV1937 #TNV1947">vīṭum</lem>
-    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="1"/> īṭum</rdg>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="1"/>īṭum</rdg>
   </app>
-  <app corresp="264,288">
-    <lem wit="#TNVc #TNV1937 #TNV1947">iruvakai nikaḻcciyunōkkik</lem>
-    <rdg wit="#TNVms">iru va<gap reason="lost" unit="character" quantity="4"/><lb n="7"/>ciyunōkkik</rdg>
+  <app corresp="267,288">
+    <lem wit="#TNVc #TNV1937 #TNV1947">vakai nikaḻcciyunōkkik</lem>
+    <rdg wit="#TNVms">va<gap reason="lost" unit="character" quantity="4"/><lb n="7"/>ciyunōkkik</rdg>
   </app>
 </listApp></standOff><standOff corresp="#TNV1comm2" type="wordsplit">
-<interp type="alignment" select="0">34MG26MG16MG21MG13MG37MG24M,37MG26MG111MG</interp>
-<entry>
-<form>(itaṉ</form>
-<def>this</def>
-<gramGrp>
-  <gram type="role">oblique</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>poruḷ.)</form>
-<def>meaning</def>
-</entry>
+<interp type="alignment" select="0">22MG25MG15MG22MG13MG37MG24M,72MG90MG</interp>
 <entry>
 <form>akattiṉ</form>
 <def>inside</def>
@@ -583,8 +577,6 @@ iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa
 <entry>
 <form>iru</form>
 <def>two</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vakaiyiṉ-um</form>
@@ -638,8 +630,6 @@ iruvakai nikaḻcciyunōkkik kōṭaliṉ akappuṟapporuḷ eṉappaṭṭaṉa
 <entry>
 <form>mū</form>
 <def>three</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vīṟṟat<c type="elided">u</c></form>

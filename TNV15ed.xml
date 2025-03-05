@@ -176,10 +176,10 @@
       <p xml:id="TNV15comm1">
         e-tu. collappaṭṭa pākiṉuṭ ṭeyvap puṇarcci yām āṟuṇarttutaṉutaliṟṟu.
 </p>
-      <p xml:lang="en"> The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way
+      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way
         in which <hi rend="italic">teyvappuṇarcci</hi> in the aforementioned division occurs. </p>
-      <p xml:id="TNV15comm2">(i–ḷ.) muṟ ceyviṉai kāraṇam ākak kaṇṇuṟṟup puṇarnta piṉpu talaimakaṉ nayappuṇarttalum, teruṭṭalum, pirivaccamum, vaṉpoṟaiyum, eytutal arumaiyum, uyir eṉṟalum āṟṟip peyartalu meṉappaṭṭaṉa
-        teyvap puṇarcciyām eṉṟavāṟu.
+      <p xml:id="TNV15comm2">muṟ ceyviṉai kāraṇam ākak kaṇṇuṟṟup puṇarnta piṉpu talaimakaṉ nayappuṇarttalum, teruṭṭalum, pirivaccamum, vaṉpoṟaiyum, eytutal arumaiyum, uyir eṉṟalum āṟṟip peyartalu meṉappaṭṭaṉa
+        teyvap puṇarcciyām eṉṟa vāṟu.
       </p>
       <p xml:lang="en">After meeting and uniting on account of previous action, the uniting [with
         her] and the making known of the talaimakaṉ’s desire, the fear of separation, comfort[ing],
@@ -216,7 +216,7 @@
         <lg xml:id="TNV15poem3">
           <l>iṉaiyal vāḻi pirivoṉ ṟilaṉē</l>
           <l>naṉaimalar naṟumpūṅ kōtai</l>
-          <l>yamaiyē ṉiṉṉaiyā ṉakaṉṟa nāṉṟē<note place="foot">The Tamil Lexicon cites the <term xml:lang="ta"><hi rend="italic">Tivviya Pirapantam</hi></term> for this seeminly alternate spelling of the more well attested <term xml:lang="ta"><hi rend="italic">ñāṉṟu</hi></term>. Since this is the reading of UVSL950 and it is attested elsewhere, I have chosen to take it. I consider it a valid alternate spelling. I believe the other readings are corrections (in the case of UVSL48032, an incorrect attempted correction) or standardisations.</note></l>
+          <l>yamaiyē ṉiṉṉaiyā ṉakaṉṟa nāṉṟē<note place="foot">The Tamil Lexicon cites the <term xml:lang="ta"><hi rend="italic">Tivviya Pirapantam</hi></term> for this seemingly alternate spelling of the more well attested <term xml:lang="ta"><hi rend="italic">ñāṉṟu</hi></term>. Since this is the reading of UVSL950 and it is attested elsewhere, I have chosen to take it. I consider it a valid alternate spelling. I believe the other readings are corrections (in the case of UVSL48032, an incorrect attempted correction) or standardisations.</note></l>
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
@@ -457,330 +457,303 @@
     </entry>
   </standOff>
   <standOff corresp="#TNV15comm1" type="wordsplit">
-    <interp type="alignment" select="0">2M2G40MG20M,6MG57MG</interp>
-    <entry>
-      <form>eṉpatu</form>
-      <def>say</def>
-      <form type="sandhi">e-tu</form>
-      <gramGrp>
-        <gram type="role">participial noun</gram>
-        <gram type="role">neuter singular</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>colla<c type="geminated">p</c></form>
-      <def>speak</def>
-      <gramGrp>
-        <gram type="role">infinitive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>paṭṭa</form>
-      <def>experienced</def>
-      <gramGrp>
-        <gram type="role">peyareccam</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pākiṉuḷ</form>
-      <def>division</def>
-      <gramGrp>
-        <gram type="role">locative</gram>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>teyvam</form>
-      <def>divine</def>
-      <form type="sandhi">teyvap</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>puṇarcci</form>
-      <def>union</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><c type="glide">y</c>ām</form>
-      <def>becomes</def>
-      <gramGrp>
-        <gram type="role">habitual future</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āṟ<c type="elided">u</c></form>
-      <def>way</def>
-      <form type="sandhi">āṟ</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>uṇarttutal</form>
-      <def>making known</def>
-      <gramGrp>
-        <gram type="role">verbal noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nutaliṟṟu</form>
-      <def>intends</def>
-      <gramGrp>
-        <gram type="role">neuter singular</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-    </entry>
-  </standOff>
+<interp type="alignment" select="0">2M2G40MG10ML9M,6MG57MG</interp>
+<entry>
+<form>eṉpatu</form>
+<def>say</def>
+<form type="sandhi">e-tu</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colla<c type="geminated">p</c></form>
+<def>speak</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭa</form>
+<def>happened</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pākiṉuḷ</form>
+<def>division</def>
+<form type="sandhi">pākiṉuṭ</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>god</def>
+<form type="sandhi">ṭeyvap</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇarcci</form>
+<def>union</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟ<c type="elided">u</c></form>
+<def>way</def>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarttutal</form>
+<def>making known</def>
+<form type="sandhi">uṇarttutaṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutaliṟṟu</form>
+<def>intends</def>
+<form type="sandhi">ṉutaliṟṟu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff>
   <standOff corresp="#TNV15comm2" type="wordsplit">
-    <interp type="alignment" select="0">
-      3M6G63MG8MG11MG8MG5MG11MG17MG13MG15MG39M,84MG11MG14MG12MG17MG64MG</interp>
-    <entry>
-      <form>(itaṉ</form>
-      <def>this</def>
-      <form type="sandhi">(i–</form>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>poruḷ.)</form>
-      <def>meaning</def>
-      <form type="sandhi">ḷ.)</form>
-    </entry>
-    <entry>
-      <form>muṉ</form>
-      <def>before</def>
-      <form type="sandhi">muṟ</form>
-      <gramGrp>
+<interp type="alignment" select="0">60MG8MG11MG8MG5MG11MG17MG13MG15MG39M,72MG11MG14MG12MG17MG64MG</interp>
+<entry>
+<form>muṉ</form>
+<def>before</def>
+<form type="sandhi">muṟ</form>
+</entry>
+<entry>
+<form>cey</form>
+<def>make</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam</gram>
 </gramGrp>
-    </entry>
-    <entry>
-      <form>cey</form>
-      <def>make</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>viṉai</form>
-      <def>work</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kāraṇam</form>
-      <def>reason</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āka<c type="geminated">k</c></form>
-      <def>become</def>
-      <gramGrp>
-        <gram type="role">infinitive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaṇṇuṟṟu<c type="geminated">p</c></form>
-      <def>met</def>
-      <gramGrp>
-        <gram type="role">absolutive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>puṇarnta</form>
-      <def>united</def>
-      <gramGrp>
-        <gram type="role">peyareccam</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>piṉpu</form>
-      <def>after</def>
-      <gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+<gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
-    </entry>
-    <entry>
-      <form>talaimakaṉ</form>
-      <def>hero</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">masculine</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nayapp<c type="elided">u</c></form>
-      <def>desire</def>
-      <form type="sandhi">nayapp</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>uṇarttal-um</form>
-      <def>informing</def>
-      <form type="simple">uṇarttal</form>
-      <gramGrp>
-        <gram type="role">verbal noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m type="enclitic">um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>teruṭṭal-um</form>
-      <def>understand clearly</def>
-      <form type="simple">teruṭṭal</form>
-      <gramGrp>
-        <gram type="role">verbal noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m type="enclitic">um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>piriv<c type="elided">u</c></form>
-      <def>separation</def>
-      <form type="sandhi">piriv</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>accam-um</form>
-      <def>fear</def>
-      <form type="simple">accam</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m type="enclitic">um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vaṉpoṟai-<c type="glide">y</c>um</form>
-      <def>encouragement</def>
-      <form type="simple">vaṉpoṟai</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m type="enclitic">um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>eytutal</form>
-      <def>reaching</def>
-      <gramGrp>
-        <gram type="role">verbal noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>arumai-<c type="glide">y</c>um</form>
-      <def>difficulty</def>
-      <form type="simple">arumai</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m type="enclitic">um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>uyir</form>
-      <def>life</def>
-      <gramGrp>
-        <gram type="role">root noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>eṉṟal-um</form>
-      <def>saying</def>
-      <form type="simple">eṉṟal</form>
-      <gramGrp>
-        <gram type="role">verbal noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m type="enclitic">um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āṟṟi<c type="geminated">p</c></form>
-      <def>comforting</def>
-      <gramGrp>
-        <gram type="role">absolutive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>peyartal<c type="geminated"/>um</form>
-      <def>departing</def>
-      <gramGrp>
-        <gram type="role">verbal noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>eṉa<c type="geminated">p</c></form>
-      <def>say</def>
-      <gramGrp>
-        <gram type="role">infinitive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>paṭṭaṉa</form>
-      <def>underwent</def>
-      <gramGrp>
-        <gram type="role">participial noun</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>teyvam</form>
-      <def>god</def>
-      <form type="sandhi">teyvap</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>puṇarcci</form>
-      <def>union</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><c type="glide">y</c>ām</form>
-      <def>becomes</def>
-      <gramGrp>
-        <gram type="role">habitual future</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>eṉṟa</form>
-      <def>said</def>
-      <gramGrp>
-        <gram type="role">peyareccam</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><c type="glide">v</c>āṟu</form>
-      <def>way</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-  </standOff>
+</entry>
+<entry>
+<form>kāraṇam</form>
+<def>reason</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">k</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇuṟṟu<c type="geminated">p</c></form>
+<def>met</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇarnta</form>
+<def>united</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉpu</form>
+<def>after</def>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nayapp<c type="elided">u</c></form>
+<def>desire</def>
+<form type="sandhi">nayapp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarttal-um</form>
+<def>informing</def>
+<form type="simple">uṇarttal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>teruṭṭal-um</form>
+<def>understand clearly</def>
+<form type="simple">teruṭṭal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>piriv<c type="elided">u</c></form>
+<def>separation</def>
+<form type="sandhi">piriv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>accam-um</form>
+<def>fear</def>
+<form type="simple">accam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vaṉpoṟai-<c type="glide">y</c>um</form>
+<def>encouragement</def>
+<form type="simple">vaṉpoṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eytutal</form>
+<def>reaching</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arumai-<c type="glide">y</c>um</form>
+<def>difficulty</def>
+<form type="simple">arumai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uyir</form>
+<def>life</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟal-um</form>
+<def>saying</def>
+<form type="simple">eṉṟal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>āṟṟi<c type="geminated">p</c></form>
+<def>comforting</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyartal<c type="geminated"/>um</form>
+<def>departing</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭaṉa</form>
+<def>underwent</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>god</def>
+<form type="sandhi">teyvap</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇarcci</form>
+<def>union</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟa</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṟu</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff>
   <standOff corresp="#TNV15poem1" type="wordsplit">
     <interp type="alignment" select="0">96MG20MG6MG13MG2M,141M</interp>
     <entry>
