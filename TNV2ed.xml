@@ -164,10 +164,10 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-<p xml:id="TNV2comm1">e – tu. collappaṭṭaṉavuḷ akapporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
-<p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta uripporuḷ akapporuḷ ām eṉṟavāṟu.</p>  
-<p xml:id="TNV2comm3">mutal eṉappaṭṭatiṭamum kālamum eṉṟuṇarvatu. karu veṉappaṭṭa poruṭ ceykai yoḻittuk koḷka. 
-vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉappaṭum eṉpatu. <note>(2)</note></p>
+<p xml:id="TNV2comm1">e – tu. collap paṭṭaṉa vuḷ akap poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta urip poruḷ akap poruḷ ām eṉṟa vāṟu.</p>  
+<p xml:id="TNV2comm3">mutal eṉap paṭṭatiṭamum kālamum eṉṟuṇarvatu. karu veṉap paṭṭa poruṭ ceykai yoḻittuk koḷka. 
+vatuvum uriyum paṇpeṉap paṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉap paṭum eṉpatu. <note>2.</note></p>
 </body></text><standOff corresp="#TNV2" type="wordsplit">
 <interp type="alignment" select="0">31MGM,33M</interp>
 <entry>
@@ -209,7 +209,7 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV2comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G16MG30ML9M,6MG53MG</interp>
+<interp type="alignment" select="0">2M2G32MG10ML9M,6MG49MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
@@ -236,10 +236,10 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
 </gramGrp>
 </entry>
 <entry>
-<form>avaṟṟuḷ</form>
-<def>them</def>
-<form type="sandhi">vaṟṟuḷ</form>
+<form><c type="glide">v</c>uḷ</form>
+<def>in</def>
 <gramGrp>
+  <gram type="role">postposition</gram>
   <gram type="role">locative</gram>
 </gramGrp>
 </entry>
@@ -266,8 +266,9 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
 </gramGrp>
 </entry>
 <entry>
-<form>āṟu</form>
+<form>āṟ<c type="elided">u</c></form>
 <def>way</def>
+<form type="sandhi">āṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -305,16 +306,16 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="2,5">
-    <lem wit="#TNVc #TNV1937 #TNV1947">tu.</lem>
-    <rdg wit="#TNVms"/>
+  <app corresp="0,5">
+    <lem wit="#TNVc #TNV1937 #TNV1947">e – tu.</lem>
+    <rdg wit="#TNVms">e</rdg>
   </app>
   <app corresp="5,21">
-    <lem wit="#TNVc">collappaṭṭaṉavuḷ</lem>
-    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="8"/><gap reason="lost" unit="character" quantity="3"/>ṭṭaṉavuḷ</rdg>
+    <lem wit="#TNVc #TNV1937 #TNV1947">collap paṭṭaṉa vuḷ</lem>
     <rdg wit="#TNV1937 #TNV1947">collappaṭṭaṉavaṟṟuḷ</rdg>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="8"/><gap reason="lost" unit="character" quantity="3"/>ṭṭaṉavuḷ</rdg>
   </app>
- 
+  
 </listApp></standOff><standOff type="apparatus" corresp="#TNV2comm2" source="alignments/TNV2comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -331,13 +332,12 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  
   <app corresp="14,20">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cārnta</lem>
     <rdg wit="#TNVmsac">cānta</rdg>
   </app>
   <app corresp="29,49">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">akapporuḷ ām eṉṟavāṟu.</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">akap poruḷ ām eṉṟa vāṟu.</lem>
     <rdg wit="#TNVcac">akappo<lb n="19"/>ruḷāra<gap reason="illegible" unit="character" quantity="1"/>ṟaṉṟavāṟu.</rdg>
     <rdg wit="#TNVms">akapporuḷā</rdg>
   </app>
@@ -357,13 +357,10 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,21">
-    <lem wit="#TNVc #TNV1937 #TNV1947">mutal eṉappaṭṭatiṭamum</lem>
-    
-    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/>ṉappaṭṭatiṭamuṅ</rdg>
+  <app corresp="0,9">
+    <lem wit="#TNVc #TNV1937 #TNV1947">mutal eṉap</lem>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/>ṉap</rdg>
   </app>
-  
- 
   <app corresp="73,92">
     <lem wit="#TNVc #TNV1937 #TNV1947">koḷka. vatuvum uriyum</lem>
     <rdg wit="#TNVms">koḷ<gap reason="lost" unit="character" quantity="4"/><lb n="2"/><gap reason="lost" unit="character" quantity="4"/>m</rdg>
@@ -472,7 +469,7 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV2comm3" type="wordsplit">
-<interp type="alignment" select="0">15MG4MG7MG5MG52MG6MG7MG24MG27M,43MG38M2G28MG38MGMGM</interp>
+<interp type="alignment" select="0">15MG4MG7MG5MG52MG6MG7MG24MG24M,43MG38M2G28MG38MG</interp>
 <entry>
 <form>mutal</form>
 <def>base</def>
@@ -663,10 +660,5 @@ vatuvum uriyum paṇpeṉappaṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉapp
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>()</form>
-<def>2</def>
-<form type="sandhi"><note>(2)</note></form>
 </entry>
 </standOff></TEI>
