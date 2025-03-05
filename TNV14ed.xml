@@ -169,12 +169,12 @@
       <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way in which, 
       of the two [which form] <hi rend="italic">kaikōḷ</hi>, the <hi rend="italic">kaḷavu</hi> conduct occurs.</p>
       <p xml:id="TNV14comm2">toṉ ṉūl āciriyarkaḷāṟ collappaṭṭa vaṟanilai yoppu poruḷ kōṭeyvam arum poruḷ 
-      vali nilai pēy nilai kantiruvam eṉappaṭṭa maṇam eṭṭiṉ uḷḷuṅ kantiruva vaḻakkam pōlvatu kaḷavoḻukkam ām eṉṟavāṟu.</p>
+      vali nilai pēy nilai kantiruvam eṉappaṭṭa maṇam eṭṭiṉ uḷḷuṅ kantiruva vaḻakkam pōlvatu kaḷavoḻukkam ām eṉṟa vāṟu.</p>
       <p xml:lang="en"><hi rend="italic">aṟanilai</hi>, <hi rend="italic">oppu</hi>, <hi rend="italic">poruḷ kōḷ</hi>, <hi rend="italic">teyvam</hi>, <hi rend="italic">arum poruḷ</hi>, <hi rend="italic">vali nilai</hi>, <hi rend="italic">pēy nilai</hi>, <hi rend="italic">kantiruvam</hi> which are 
       [all] mentioned by the teachers of the old treatises - amongst those eight [types of] marriage, the <hi rend="italic">kantiruvam</hi> 
       custom is the same as the <hi rend="italic">kaḷavu</hi> conduct.</p>
       <p xml:id="TNV14comm3">aṟanilai yāvatu nāṟpatteṭṭiyāṇṭu piramacariyaṅ kāttāṟkup paṉṉīrāṭṭaip pirāyattāḷai 
-      vaṇikalam aṇintu koṭuppatu. iḵtoppil kūṭṭam ātaliṟ poruntāk kāmattiṉ pāṟ paṭum</p>
+      yaṇikalam aṇintu koṭuppatu. iḵtoppil kūṭṭam ātaliṟ poruntāk kāmattiṉ pāṟ paṭum</p>
       <p xml:lang="en">As for <hi rend="italic">aṟanilai</hi>, to a protector who is a 48 year old <hi rend="italic">brahmacharya</hi>, a 12 year old girl is 
       given after being decorated with ornaments. This falls to the side of unsuitable love because this union is 
       unequal.</p>
@@ -1878,4 +1878,110 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff type="apparatus" corresp="#TNV14" source="alignments/TNV14.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="22,32">
+    <lem wit="#TNVms">maṇattiluṅ</lem>
+    <rdgGrp select="#TNVcpc #TNV1937 #TNV1947">
+      <rdg type="main">maṇattiṉum</rdg>
+      <rdg type="minor" wit="#TNVcpc">maṇatti<unclear>ṉu</unclear>ṅ</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVcac">maṇattivaṅ</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm1" source="alignments/TNV14comm1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="23,35">
+    <lem wit="#TNVmspc">kaḷavoḻukkām</lem>
+    <rdg wit="#TNVc #TNV1937 #TNV1947">kaḷavoḻukkam ām</rdg>
+    <rdg wit="#TNVmsac">kaḷavoḻukkam</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm2" source="alignments/TNV14comm2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="39,49">
+    <lem wit="#TNV1937 #TNV1947">yoppu poruḷ</lem>
+    <rdg wit="#TNVms #TNVc">yoppup poruḷ</rdg>
+  </app>
+  <app corresp="75,78">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">pēy</lem>
+    <rdg wit="#TNVmsac">mēy</rdg>
+  </app>
+  <app corresp="93,107">
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">eṉappaṭṭa maṇam</lem>
+    <rdg wit="#TNVcac">eṉappaṭṭa m</rdg>
+  </app>
+  <app corresp="117,126">
+    <lem wit="#TNVms #TNV1937 #TNV1947">kantiruva</lem>
+    <rdg wit="#TNVc">kantiru</rdg>
+  </app>
+  <app corresp="141,155">
+    <lem wit="#TNV1937 #TNV1947">kaḷavoḻukkam ām</lem>
+    <rdg wit="#TNVms">kaḷavo<gap reason="lost" unit="character" quantity="2"/>kam</rdg>
+    <rdg wit="#TNVc">kaḷavoḻukkam<lb n="5"/></rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm3" source="alignments/TNV14comm3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="64,76">
+    <lem wit="#TNVc #TNV1937 #TNV1947">pirāyattāḷai</lem>
+    <rdg wit="#TNVms">pirāyattā<gap reason="lost" unit="character" quantity="2"/></rdg>
+  </app>
+  <app corresp="76,85">
+    <lem wit="#TNVc #TNV1937 #TNV1947">yaṇikalam</lem>
+    <rdg wit="#TNVms">vaṇikala<lb n="2"/>m</rdg>
+  </app>
+</listApp></standOff></TEI>
