@@ -166,10 +166,10 @@ Beginning with <hi rend="italic">kuṟuñci</hi>, the division [of the <hi rend=
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-<p xml:id="TNV3comm1">e-tu. aintiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
-<p xml:id="TNV3comm2">(i-ḷ.) malaic cāralum vemparal attamum ciṟutūṟuṭaip puṟavumalarkañaliya 
-paḻaṉamuñcūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta perumaṇalekkaruṅ kuṟuñci pālai 
- mullai marutaneytal eṉa vaimperuntiṇaiyiṉilamutaleṉṟavāṟu. <note>(3)</note></p>
+<p xml:id="TNV3comm1">e-tu. ain tiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:id="TNV3comm2">malaic cāralum vem paral attamum ciṟu tūṟuṭaip puṟavumalar kañaliya 
+paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekkaruṅ kuṟuñci pālai 
+ mullai marutaneytal eṉa vaim perun tiṇaiyunilamutal eṉṟa vāṟu. <note>3.</note></p>
  </body></text><standOff corresp="#TNV3" type="wordsplit">
 <interp type="alignment" select="0">6M2G30MG23M2GM,65M</interp>
 <entry>
@@ -294,30 +294,25 @@ paḻaṉamuñcūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta perumaṇalekkaru�
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
- 
-  <app corresp="34,65">
-    <lem wit="#TNVc #TNV1937 #TNV1947">ciṟutūṟuṭaip puṟavumalarkañaliya</lem>
-    <rdg wit="#TNVms">ciṟutūṟ u<gap reason="lost" unit="character" quantity="4"/><lb n="4"/><gap reason="lost" unit="character" quantity="1"/>vumalarkañaliya</rdg>
-    
+  <app corresp="28,51">
+    <lem wit="#TNVc #TNV1937 #TNV1947">ciṟu tūṟuṭaip puṟavumalar</lem>
+    <rdg wit="#TNVms">ciṟutūṟ u<gap reason="lost" unit="character" quantity="4"/><lb n="4"/><gap reason="lost" unit="character" quantity="1"/>vumalar</rdg>
   </app>
-  <app corresp="65,74">
+  <app corresp="59,68">
     <lem wit="#TNVms #TNVcac">paḻaṉamuñ</lem>
     <rdg wit="#TNVcpc #TNV1937 #TNV1947">paḻaṉañ</rdg>
   </app>
-  <app corresp="87,95">
+  <app corresp="81,89">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kaṭaloṭu</lem>
     <rdg wit="#TNVmsac">kaṭalo<gap reason="illegible" unit="character" quantity="1"/>ṭu</rdg>
   </app>
-  <app corresp="133,151">
+  <app corresp="127,145">
     <lem wit="#TNVc #TNV1937 #TNV1947">mullai marutaneytal</lem>
     <rdg wit="#TNVms">mu<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>rutaneytal</rdg>
-    
-     
-
   </app>
-  <app corresp="163,174">
-    <lem wit="#TNVms #TNVc">tiṇaiyunila</lem>
-    <rdg wit="#TNV1937 #TNV1947">tiṇaiyiṉ nila</rdg>
+  <app corresp="152,173">
+    <lem wit="#TNVms #TNVc">perun tiṇaiyunilamutal</lem>
+    <rdg wit="#TNV1937 #TNV1947">peruntiṇaiyiṉ nilamutal</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV3" source="alignments/TNV3.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -339,4 +334,325 @@ paḻaṉamuñcūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta perumaṇalekkaru�
     <lem wit="#TNVc #TNV1937 #TNV1947">paḻaṉam parappamai</lem>
     <rdg wit="#TNVms">paḻa<gap reason="lost" unit="character" quantity="4"/><lb n="3"/> pamai</rdg>
   </app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff corresp="#TNV3comm1" type="wordsplit">
+<interp type="alignment" select="0">2M2G19ML8MG10ML9M,6MG45MG</interp>
+<entry>
+<form>eṉpatu</form>
+<def>say</def>
+<form type="sandhi">e-tu</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aim</form>
+<def>five</def>
+<form type="sandhi">ain</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṇaikkum</form>
+<def>landcape</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭam</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>base</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟ<c type="elided">u</c></form>
+<def>way</def>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarttutal</form>
+<def>make known</def>
+<form type="sandhi">uṇarttutaṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutaliṟṟu</form>
+<def>intend</def>
+<form type="sandhi">ṉutaliṟṟu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV3comm2" type="wordsplit">
+<interp type="alignment" select="0">11MG15MG9MG10M2G2ML19MG13MG34MG26MR23MG2MR5ML13M,194MG</interp>
+<entry>
+<form>malai<c type="geminated">c</c></form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cāral-um</form>
+<def>slope</def>
+<form type="simple">cāral</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vem</form>
+<def>hot</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paral</form>
+<def>pebble</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>attam-um</form>
+<def>road</def>
+<form type="simple">attam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tūṟ<c type="elided">u</c></form>
+<def>bushes</def>
+<form type="sandhi">tūṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭai<c type="geminated">p</c></form>
+<def>possess</def>
+</entry>
+<entry>
+<form>puṟav<c type="elided">u</c>-um</form>
+<def>forest</def>
+<form type="simple">puṟavu</form>
+<form type="sandhi">puṟav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kañaliya</form>
+<def>been dense</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paḻaṉam-um</form>
+<def>tank</def>
+<form type="simple">paḻaṉam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cūḻnta</form>
+<def>surrounded</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayal-um</form>
+<def>paddy field</def>
+<form type="simple">vayal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṭaloṭu</form>
+<def>sea</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻi</form>
+<def>backwaters</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cārnta</form>
+<def>joined</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ekkar-um</form>
+<def>dune</def>
+<form type="simple">ekkar</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kuṟuñci</form>
+<def>kuṟuñci</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pālai</form>
+<def>Pālai tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mullai</form>
+<def>jasmine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>marutam</form>
+<def>Marutam tree</def>
+<form type="sandhi">marutan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neytal</form>
+<def>blue waterlily</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aim</form>
+<def>five</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">perun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṇai-<c type="glide">y</c>um</form>
+<def>landscape</def>
+<form type="simple">tiṇai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>nilam</form>
+<def>ground</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>base</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟa</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṟu</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
