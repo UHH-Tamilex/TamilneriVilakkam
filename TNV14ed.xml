@@ -168,8 +168,8 @@
       <p xml:id="TNV14comm1">e-tu. kaikōḷ iraṇṭiṉ uḷḷuṅ kaḷavoḻukkām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way in which, 
       of the two [which form] <hi rend="italic">kaikōḷ</hi>, the <hi rend="italic">kaḷavu</hi> conduct occurs.</p>
-      <p xml:id="TNV14comm2">toṉ ṉūl āciriyarkaḷāṟ collappaṭṭa vaṟanilai yoppu poruḷ kōṭeyvam arum poruḷ 
-      vali nilai pēy nilai kantiruvam eṉappaṭṭa maṇam eṭṭiṉ uḷḷuṅ kantiruva vaḻakkam pōlvatu kaḷavoḻukkam ām eṉṟa vāṟu.</p>
+      <p xml:id="TNV14comm2">toṉ ṉūl āciriyarkaḷāṟ collap paṭṭa vaṟanilai yoppu poruḷ kōṭeyvam arum poruḷ 
+      vali nilai pēy nilai kantiruvam eṉap paṭṭa maṇam eṭṭiṉ uḷḷuṅ kantiruva vaḻakkam pōlvatu kaḷavoḻukkam ām eṉṟa vāṟu.</p>
       <p xml:lang="en"><hi rend="italic">aṟanilai</hi>, <hi rend="italic">oppu</hi>, <hi rend="italic">poruḷ kōḷ</hi>, <hi rend="italic">teyvam</hi>, <hi rend="italic">arum poruḷ</hi>, <hi rend="italic">vali nilai</hi>, <hi rend="italic">pēy nilai</hi>, <hi rend="italic">kantiruvam</hi> which are 
       [all] mentioned by the teachers of the old treatises - amongst those eight [types of] marriage, the <hi rend="italic">kantiruvam</hi> 
       custom is the same as the <hi rend="italic">kaḷavu</hi> conduct.</p>
@@ -198,7 +198,7 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
 <p xml:id="TNV14comm9">pēy nilai yāvatu kaḷittāṇ māṭṭun tuyiṉṟāṇ māṭṭuñ celvatu. ituvum poruntāk kāmattiṉ pāṟ paṭum.</p>
 <p xml:lang="en">As for <hi rend="italic">pēy nilai</hi>, [it is] the going [off with the bride] when she is intoxicated or sleeping. This too falls to the side of unsuitable love.</p>
 <p xml:id="TNV14comm10">kantiruvam āvatu ottār iruvar tāmē kaḷaviṉāṟ kūṭuṅ kūṭṭam. itaṉāl oruvāṟaṟamuṉ ākiya voppumai
- yuṭaittēṉum āṇ mutalākac collappaṭṭa kaḷavoḻukkan teyvap puṇarcciyum pāṅkaṟ kūṭṭamun tōḻiyiṟ kūṭṭattup 
+ yuṭaittēṉum āṇ mutalākac collap paṭṭa kaḷavoḻukkan teyvap puṇarcciyum pāṅkaṟ kūṭṭamun tōḻiyiṟ kūṭṭattup 
  pakaṟ kuṟiyum iravuk kuṟiyum varaivu kaṭātalum uṭaṉ pōkku valittalum eṉa vāṟām eṉra vāṟu. <note>14.</note></p>
  <!--p xml:lang="en">
  <̤/p-->
@@ -1949,17 +1949,17 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <rdg wit="#TNVmsac">mēy</rdg>
   </app>
   <app corresp="93,107">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">eṉappaṭṭa maṇam</lem>
-    <rdg wit="#TNVcac">eṉappaṭṭa m</rdg>
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">eṉap paṭṭa maṇam</lem>
+    <rdg wit="#TNVcac">eṉappaṭṭam</rdg>
   </app>
-  <app corresp="117,126">
-    <lem wit="#TNVms #TNV1937 #TNV1947">kantiruva</lem>
-    <rdg wit="#TNVc">kantiru</rdg>
+  <app corresp="117,134">
+    <lem wit="#TNVms #TNV1937 #TNV1947">kantiruva vaḻakkam</lem>
+    <rdg wit="#TNVc">kantiru vaḻakkam</rdg>
   </app>
   <app corresp="141,155">
     <lem wit="#TNV1937 #TNV1947">kaḷavoḻukkam ām</lem>
-    <rdg wit="#TNVms">kaḷavo<gap reason="lost" unit="character" quantity="2"/>kam</rdg>
     <rdg wit="#TNVc">kaḷavoḻukkam<lb n="5"/></rdg>
+    <rdg wit="#TNVms">kaḷavo<gap reason="lost" unit="character" quantity="2"/>kam</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV14comm3" source="alignments/TNV14comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
