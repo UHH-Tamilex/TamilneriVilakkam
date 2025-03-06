@@ -165,7 +165,15 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV5comm1">e-tu. ciṟu kālamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
-<p xml:id="TNV5comm2">naṭuvupaṭṭa viruḷ yāmamuṅ katir kāyum uccippoḻutumālaippoḻutum pular kālaiyum antiyum eṟpāṭum muṟaiyāṉē ain tiṇaikkum ciṟukāla mutalā meṉṟavāṟu.<note>(5)</note></p>
+<p xml:id="TNV5comm2">naṭuvu paṭṭa viruḷ yāmamuṅ katir kāyum uccip poḻutu mālaip poḻutum pular kālaiyum 
+antiyum ēṟpāṭum<!--note place="foot">Print readings make for an awkward list of six times of day which are to be mapped onto 
+five landscapes. For this reason and becasue I am, where possible and plausible, taking the 'oldest' reading, I 
+have opted for this. In TNVms, the preceding particle '<hi rend="italic">-ē</hi>' doesn't work. Affixing it onto 
+an ummai is not standard and it doesn't complete any other enumeration in this commentary. There is however a 
+problem with this reading - the aspect of the verb is uncomfortable. It would reading much better as a perfective;
+ and were we to take it as a noun, then the ummai is not so easily explained. The print would be written identically
+  in a palm-leaf MS. Perhaps there is some list of times this is refering to in which we find the print reading 
+  enumerated. That would clinch it.</note--> muṟaiyāṉē ain tiṇaikkum ciṟu kāla mutal ām eṉṟa vāṟu.<note>5.</note></p>
       </body>
       </text>
       <standOff type="apparatus" corresp="#TNV5" source="alignments/TNV5.xml"><interp type="normalization">
@@ -335,7 +343,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV5comm2" type="wordsplit">
-<interp type="alignment" select="0">21MG34M2G12MG7MG8M2G10MG11M2G11ML15M,139MG</interp>
+<interp type="alignment" select="0">21MG22M2G2ML10M2G12MG7MG18MG11M2G11ML15M,140MG</interp>
 <entry>
 <form>naṭuvu</form>
 <def>middle</def>
@@ -390,11 +398,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>poḻutu</form>
+<form>poḻut<c type="elided">u</c>-um</form>
 <def>time of day</def>
+<form type="simple">poḻutu</form>
+<form type="sandhi">poḻut</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>mālai<c type="geminated">p</c></form>
@@ -439,11 +450,12 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>eṟpāṭ<c type="elided">u</c>-um</form>
-<def>dusk</def>
-<form type="simple">eṟpāṭu</form>
-<form type="sandhi">eṟpāṭ</form>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+<form>ēṟpāṭum</form>
+<def>arrange</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>muṟaiyāṉ-ē</form>
@@ -455,10 +467,15 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>aintiṇaikk<c type="elided">u</c>-um</form>
-<def>five-landscapes</def>
-<form type="simple">aintiṇaikku</form>
-<form type="sandhi">aintiṇaikk</form>
+<form>aim</form>
+<def>five</def>
+<form type="sandhi">ain</form>
+</entry>
+<entry>
+<form>tiṇaikk<c type="elided">u</c>-um</form>
+<def>landscapes</def>
+<form type="simple">tiṇaikku</form>
+<form type="sandhi">tiṇaikk</form>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
