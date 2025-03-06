@@ -168,12 +168,12 @@
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV10comm1">e-tu. uṇavām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way [in which] food occurs.</p>
-      <p xml:id="TNV10comm2">tiṉaiyun taruppaṇamum varaku mutaliyaṉavum vayal viḷaiyuñ cennellum 
-      uppu vilaiyum uḷḷiṭṭaṉa vellām uṇavām eṉṟa vāṟu.</p>
+      <p xml:id="TNV10comm2">tiṉaiyun taruppaṇamum varaku mutaliyaṉavum vayal viḷaiyuñ cen nellum 
+      uppu vilaiyum uḷ ḷiṭṭaṉa vellām uṇavām eṉṟa vāṟu.</p>
       <p xml:lang="en">Millet, refreshments, root vegetables, red rice produced in paddy fields, salt that is exchanged - all [of these] are included as the foods.</p>
       <p xml:id="TNV10comm3">iṉaiyaṉa veṉṟataṉāl vetir nelluṅ kiḻaṅkun tēṉeyyum aruvi nīruñ cuṉai nīrum 
       āṟalaittaṉavum vaṟuñ cuṉai nīrum uvari nīruṅ kāṉ yāṟṟu nīrum veṇ ṇelluṅ kiṇaṟṟu nīrum poykai nīrumaṇaṟ 
-      kūvaṉīrum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
+      kūvaṉīrum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
       <p xml:lang="en">Because he says "<hi rend="italic">iṉaiyaṉa</hi>", understand that all [of these] are included: blossomed rice,  
       root vegetables, honey, river water, mountain-spring water; things robbed from the way, 
       water from dried mountain springs, brackish water; water from a pastoral river; white rice, 
@@ -787,7 +787,7 @@
     <rdg wit="#TNVmsac">tiṇaiyun</rdg>
   </app>
   <app corresp="52,61">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cennellum</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cen nellum</lem>
     <rdg wit="#TNVmsac">ñ cennellum</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV10comm3" source="alignments/TNV10comm3.xml"><interp type="normalization">
@@ -810,7 +810,6 @@
     <lem wit="#TNV1937 #TNV1947">iṉaiyaṉa</lem>
     <rdg wit="#TNVms #TNVc">iṉaiya</rdg>
   </app>
-
   <app corresp="94,99">
     <lem wit="#TNVms #TNVc">uvari</lem>
     <rdg wit="#TNV1937 #TNV1947">uvar</rdg>
