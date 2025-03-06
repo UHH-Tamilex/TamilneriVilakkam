@@ -165,10 +165,10 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-      <p xml:id="TNV6comm1">e-tu. karupporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:id="TNV6comm2">collappaṭṭa mutaṟporuṭkuriya teyvamum avvaḻi vāḻumakkaḷum 
-      avarkaḷ toḻilkaḷum uṇpārkkut tuppākiya uṇavum icaiyum āṅkaṇ vāḻum vilaṅkukaḷum 
-      piṟavum aintiṇaikkup peṟṟa karupporuḷā meṉṟavāṟu. <note>(6)</note></p>
+      <p xml:id="TNV6comm1">e-tu. karup poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:id="TNV6comm2">collap paṭṭa mutaṟ poruṭ kuriya teyvamum avvaḻi vāḻumakkaḷum 
+      avarkaḷ toḻilkaḷum uṇpārkkut tuppākiya vuṇavum icaiyum āṅkaṇ vāḻum vilaṅkukaḷum 
+      piṟavum ain tiṇaikkup peṟṟa karup poruḷ ām eṉṟa vāṟu. <note>6.</note></p>
       </body>
       </text>
       <standOff type="apparatus" corresp="#TNV6comm2" source="alignments/TNV6comm2.xml"><interp type="normalization">
@@ -187,7 +187,6 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  
   <app corresp="35,41">
     <lem wit="#TNVc #TNV1937 #TNV1947">avvaḻi</lem>
     <rdg wit="#TNVms"/>
@@ -196,12 +195,18 @@
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uṇpārkkut</lem>
     <rdg wit="#TNVmsac">uṇarvārkkut</rdg>
   </app>
-  <app corresp="88,94">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uṇavum</lem>
+  <app corresp="88,95">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vuṇavum</lem>
     <rdg wit="#TNVmsac"/>
   </app>
-
-  <app corresp="111,123">
+  <app corresp="95,102">
+    <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947">icaiyum</lem>
+    <rdgGrp select="#TNVmsac #TNVcac">
+      <rdg type="main"><lb n="18"/> vicaiyum</rdg>
+      <rdg type="minor" wit="#TNVmsac">vicaiyum</rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="112,124">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">vilaṅkukaḷum</lem>
     <rdg wit="#TNVcac">vilaṅkaḷum</rdg>
   </app>
@@ -420,7 +425,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV6comm2" type="wordsplit">
-<interp type="alignment" select="0">22MG11MG13ML5MG17MG15MG9M2G6MG23MG6MG41M,178MG</interp>
+<interp type="alignment" select="0">22MG11MG13ML5MG17MG15MG10M2G6MG23MG6MG41M,179MG</interp>
 <entry>
 <form>colla<c type="geminated">p</c></form>
 <def>speak</def>
@@ -473,8 +478,6 @@
 <entry>
 <form>a<c type="geminated">v</c></form>
 <def>that</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vaḻi</form>
@@ -541,12 +544,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uṇav<c type="elided">u</c>-um</form>
+<form><c type="glide">v</c>uṇav<c type="elided">u</c>-um</form>
 <def>food</def>
 <form type="simple">uṇavu</form>
-<form type="sandhi">uṇav</form>
-<gramGrp>
-</gramGrp>
+<form type="sandhi"><c type="glide">v</c>uṇav</form>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -561,8 +562,6 @@
 <entry>
 <form>āṅkaṇ</form>
 <def>there</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vāḻum</form>
@@ -592,8 +591,13 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>aintiṇaikku<c type="geminated">p</c></form>
-<def>5 lanscapes</def>
+<form>aim</form>
+<def>five</def>
+<form type="sandhi">ain</form>
+</entry>
+<entry>
+<form>tiṇaikku<c type="geminated">p</c></form>
+<def>lanscapes</def>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
