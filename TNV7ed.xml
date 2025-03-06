@@ -165,8 +165,8 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
-      <p xml:id="TNV7comm1">e-tu. collappaṭṭa karuviṉuḷ atiteyvam ām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:id="TNV7comm2">murukavēḷum pakalōṉumāyaṉum intiraṉum varuṇaṉumuṟaiyāṉē aintiṇaikkum atiteyvam ām eṉṟavāṟu. <note>(7)</note></p>
+      <p xml:id="TNV7comm1">e-tu. collap paṭṭa karuviṉ uḷ atiteyvam ām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:id="TNV7comm2">murukavēḷum pakalōṉumāyaṉum intiraṉum varuṇaṉumuṟaiyāṉē ain tiṇaikkum atiteyvam ām eṉṟavāṟu. <note>(7)</note></p>
       </body>
       </text>
       <standOff type="apparatus" corresp="#TNV7comm2" source="alignments/TNV7comm2.xml"><interp type="normalization">
@@ -185,7 +185,6 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  
   <app corresp="64,73">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">atiteyvam</lem>
     <rdg wit="#TNVmsac">atiteyvām</rdg>
@@ -209,7 +208,8 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV7" source="alignments/TNV7.xml"><interp type="normalization">
+</interp>
+</standOff><standOff type="apparatus" corresp="#TNV7" source="alignments/TNV7.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -318,9 +318,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form>karuviṉuḷ</form>
+<form>karuviṉ</form>
 <def>constituent elements</def>
 <gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>among</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
   <gram type="role">locative</gram>
 </gramGrp>
 </entry>
@@ -361,7 +369,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV7comm2" type="wordsplit">
-<interp type="alignment" select="0">9MG9MG2ML4MG9MG9MG2ML18M2G22M,92MG</interp>
+<interp type="alignment" select="0">9MG9MG2ML4MG9MG9MG2ML7MG11M2G22M,93MG</interp>
 <entry>
 <form>murukavēḷ-um</form>
 <def>Murukaṉ</def>
@@ -397,17 +405,24 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>muṟaiyāṉē</form>
+<form>muṟaiyāṉ-ē</form>
 <def>order</def>
+<form type="simple">muṟaiyāṉ</form>
 <gramGrp>
   <gram type="role">instrumental</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>aintiṇaikk<c type="elided">u</c>-um</form>
-<def>5-landscapes</def>
-<form type="simple">aintiṇaikku</form>
-<form type="sandhi">aintiṇaikk</form>
+<form>aim</form>
+<def>five</def>
+<form type="sandhi">ain</form>
+</entry>
+<entry>
+<form>tiṇaikk<c type="elided">u</c>-um</form>
+<def>landscape</def>
+<form type="simple">tiṇaikku</form>
+<form type="sandhi">tiṇaikk</form>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
