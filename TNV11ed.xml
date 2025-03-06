@@ -851,17 +851,10 @@ and others mentioned [elsewhere are] mentioned as music.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="7,16">
-    <lem wit="#TNVms #TNVc">eṉṟataṉāṟ</lem>
-    <rdg wit="#TNV1937 #TNV1947">eṉṟataṉāl t</rdg>
-  </app>
-  <app corresp="16,24">
-    <lem wit="#TNVms #TNVc">ṟoṇṭakap</lem>
-    <rdg wit="#TNV1937 #TNV1947">oṇṭakap</rdg>
-  </app>
+ 
   <app corresp="89,95">
     <lem wit="#TNV1937 #TNV1947">koḷka.</lem>
     <rdg wit="#TNVc">koḷka. e-ṟu.</rdg>
-    <rdg wit="#TNVms">koḷka veṉṟavāṟu. 11.</rdg>
+    <rdg wit="#TNVms">koḷka veṉṟavāṟu.</rdg>
   </app>
 </listApp></standOff></TEI>
