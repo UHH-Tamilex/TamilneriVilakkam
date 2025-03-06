@@ -177,14 +177,14 @@ and appropriate others [are] the living things mentioned.
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV12comm1">e-tu. vilaṅkām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way in which living things occur.</p>
-<p xml:id="TNV12comm2">vēṅkai maramum pūṅkulaik kāntaḷuñ cīyamāvumayiṟ puḷḷum ōmai maramumarām pūvuñ cennāy māvum 
+<p xml:id="TNV12comm2">vēṅkai maramum pūṅ kulaik kāntaḷuñ cīyamāvumayiṟ puḷḷum ōmai maramumarām pūvuñ cennāy māvum 
 paruntup puḷḷuṅ kurunta maramuṅ koṭip pū mullaiyum iralai māvum puṟavup puḷḷuṅ 
 kāñci maramum pūṅ kaḻunīrum erumai māvum aṉṉap puḷḷun tāḻai maramum pūṅ kaḻi muḷḷiyumutalai māvuṅ 
-kampuṭ puḷḷum piṟavum aintiṇaikkuriya vilaṅkām eṉṟa vāṟu.</p>
+kampuṭ puḷḷum piṟavum ain tiṇaikkuriya vilaṅkām eṉṟa vāṟu.</p>
 <p xml:id="TNV12comm3">piṟavum eṉṟataṉāl akiluñ cantaṉamum vēṅkaip pūvuñ cuṉaik kuvaḷaip pūvum 
 puliyum yāṉaiyuṅ kiḷiyum vēṅkaiyuṅ kurām pūvum pātiram pūvumurukkuṅ koṉṟaiyun tōṉṟip pūvumuyaluṅ 
 kāṉaṅ kōḻiyumarutum vañciyun tāmaraip pūvunīrnāyun tārāvum puṉṉaiyuñāḻaluneytaṟ pūvum 
-aṉṉamumakaṉṟilum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
+aṉṉamumakaṉṟilum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
 </body>
 </text>
 <standOff corresp="#TNV12" type="wordsplit">
@@ -793,9 +793,14 @@ aṉṉamumakaṉṟilum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>aintiṇaikk<c type="elided">u</c></form>
-<def>five landscapes</def>
-<form type="sandhi">aintiṇaikk</form>
+<form>aim</form>
+<def>five</def>
+<form type="sandhi">ain</form>
+</entry>
+<entry>
+<form>tiṇaikk<c type="elided">u</c></form>
+<def>landscape</def>
+<form type="sandhi">tiṇaikk</form>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
@@ -1208,13 +1213,16 @@ aṉṉamumakaṉṟilum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">cennāy</lem>
     <rdg wit="#TNVcac">cen<gap reason="illegible" quantity="1" unit="character"/> āy</rdg>
   </app>
-  
+  <app corresp="232,238">
+    <lem wit="#TNVms #TNV1937 #TNV1947">kampuṭ</lem>
+    <rdg wit="#TNVc">kampu<sic>ḷ</sic></rdg>
+  </app>
   <app corresp="238,244">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puḷḷum</lem>
     <rdg wit="#TNVmsac">puḷḷuṅm.</rdg>
   </app>
   <app corresp="244,283">
-    <lem wit="#TNVc #TNV1937 #TNV1947">piṟavum aintiṇaikkuriya vilaṅkām eṉṟa vāṟu.</lem>
+    <lem wit="#TNVc #TNV1937 #TNV1947">piṟavum ain tiṇaikkuriya vilaṅkām eṉṟa vāṟu.</lem>
     <rdg wit="#TNVms"/>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV12comm1" source="alignments/TNV12comm1.xml"><interp type="normalization">
