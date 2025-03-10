@@ -145,6 +145,10 @@
               <abbr type="siglum">KT40</abbr>
               <expan>KT40</expan>
           </witness>
+           <witness xml:id="KT119" source="https://uhh-tamilex.github.io/Kuruntokai/KT119.xml">
+              <abbr type="siglum">KT119</abbr>
+              <expan>KT119</expan>
+          </witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -189,12 +193,12 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <p xml:id="TNV16koḷu1">eṉpatu viṉātal.</p>
 </div> 
 <div type="citation" rend="parallel">
-        <lg xml:id="TNV16poem2">
+        <lg xml:id="TNV16poem2" corresp="#KT119">
  <l>ciṟuveḷ ḷaravi ṉavvarik kuruḷai</l>
 <l>kāṉa yāṉai yaṇaṅki yāaṅ</l>
 <l>kiḷaiyaṇ muḷaivā ḷeyiṟṟaḷ</l>
 <l>vaḷaiyuṭaik kaiyaḷem maṇaṅki yōḷē</l>
-<trailer>[kuṟun - 119]</trailer>
+<trailer><note>[kuṟun - 119]</note></trailer>
 </lg>
 </div>    
 <div type="koḷu" rend="parallel">
