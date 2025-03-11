@@ -378,13 +378,41 @@ inconsistent disambiguation of long and short e and o</summary>
   <milestone unit="page" n="108" facs="58"/><pb n="108"/>    
 <l>kaḻaikeḻu cilampi ṉaruvi yōṭu</l>
 <l>maḻaimata kaḷiṟoṭu piṭikaṇ</l>
-<l>ṭuḻaikeḻu nōkki yuṉṉiṉam peritē</l></lg>  
+<l>ṭuḻaikeḻu nōkki yuṉṉiṉam peritē</l></lg> 
+ <lg corresp="#TNV20poem1">
+  <milestone unit="page" n="109" facs="58"/><pb n="109"/> 
+<l>nilavō <add rend="caret" place="above">ra</add>ṉṉa veṇmaṇaṟ pākkattu</l>
+<l>malarēr kūntaṉ maṭantaik</l>
+<l>kalarā kiṉṟa taiyaniṉ ṉaruḷē</l></lg>
+<lg corresp="#TNV20poem2">
+  <milestone unit="page" n="110" facs="59"/><pb n="110"/>   
+<l>aṇi<subst><del rend="strikethrough">ku</del><add place="above">ko</add></subst>ṇarn taṉarē yayalō raṇṇal</l>
+<l>tuṇivuṟu ceyti yātukol</l>
+<l>maṇipurai kūntaṉ maṭantaitaṉ vayiṉē</l></lg>  
+<lg corresp="#TNV20poem4">
+  <milestone unit="page" n="112" facs="60"/><pb n="112"/>  
+<l>yāṉeva ṉaṟikō vaṇṇal vā<subst><del rend="strikethrough">ṉila</del><add place="in-place">ṉeṭu</add></subst></l>
+<l>nāṉila muḻuvatum peṟiṉum</l>
+<l>pēṇā ramma vivaḷpūṇ mulaikkē</l></lg>  
   
 <lg corresp="#TNV20poem5">
   <milestone unit="page" n="114" facs="61"/><pb n="114"/>
 <l>tīyiṉum veṉkuvai yāyiṉ</l>
 <l>yāvatu miṉiya kā<add rend="caret" place="above">ṉa</add>m</l>
 <l>cēyuyar ci<subst><del rend="strikethrough"><unclear>lam</unclear></del><add place="above">lampa</add></subst> niṉṉoṭu celiṉē</l></lg>  
+<lg corresp="#TNV20poem7">
+  <milestone unit="page" n="116" facs="62"/><pb n="116"/>
+<l>ūruñ cēriyu malareḻa yāyun</l>
+<l>tāṉē yirukka naṉmaṉai yāṉē</l>
+<l>tiruntuvēl viṭalaiyoṭu kaḻīi</l>
+<l>yaruñcurañ cēṟal purintaṉa ṉiyē</l></lg>  
+ <lg corresp="#TNV22poem1">
+  <milestone unit="page" n="123" facs="65"/><pb n="123"/>
+<l>tōḻi vāḻi mēṉā ḷoruva</l>
+<l>rāḻkaya maruṅki ṉaḻuntat</l>
+<l>tāḻperun taṭakkaiyiṉ vāṅkiṉaṉ ṟakaittē</l></lg>
+  
+  
   <lg corresp="#TNV22poem11">
   <milestone unit="page" n="124" facs="66"/><pb n="124"/>
 <l>taṇṇeṉ cāya livaṇōy taṇiya</l>
@@ -405,6 +433,29 @@ inconsistent disambiguation of long and short e and o</summary>
 <l>muḷaiyeyiṟu nirampā viḷamaip paruvatta</l>
 <l>ḷaḷiya<space unit="character" quantity="7"/> ṉoruvaṉ ṟaḷaiyaviḻ kaṇṇi</l>
 <l>mulaiyum vārāḷ mutukkuṟain taṉaḷē.</l></lg>
+ <lg corresp="#TNV22poem18">
+   <milestone unit="page" n="128" facs="68"/><pb n="128"/> 
+<l>kalantā<add rend="caret" place="above">ṅ</add> <subst><del rend="strikethrough">ke</del><add place="in-place">ki</add></subst>ḷamulaik kaṟpuṭai maṭantaiyaik</l>
+<l>kulañcā loḻukka nōkki</l>
+<l>nalañcā<del rend="strikethrough">ṉṟa</del> laṇṇaṟku nērvatu naṭaiyē</l></lg>  
+<lg corresp="#TNV22poem19">
+   <milestone unit="page" n="129" facs="68"/><pb n="129"/>   
+<l>vāṉṟō<add place="above" rend="caret">y</add> tolkuṭi marapu mivvaḻic</l>
+<l>cāṉṟōr tamatu varavu nōkki</l>
+<l>nērntaṉa mallativ vulaka</l>
+<l>mūṉṟuṭaṉ peṟiṉu muṭivatō vaṉṟē</l></lg>  
+ <lg corresp="#TNV22poem4">
+   <milestone unit="page" n="127" facs="67"/><pb n="127"/>
+<l>eyyā vuḷḷamo ṭiyal vāḻiyem</l>
+<l>maitapu kaḻaṟaṅkiṟ paṭṭatu muḷatē</l>
+<l>maiyil kāṭciyiṉ mayaṅki</l>
+<l>yateṉuru vākuta ṟeḷivē</l></lg>
+  <lg corresp="#TNV23poem2">
+   <milestone unit="page" n="143" facs="75"/><pb n="143"/>  
+<l>mella mella<pb n="144" facs="76"/>niṉ ṉallaṭi yāṟṟi</l>
+<l>varuntā tēku<sic>ti</sic>mati vāleyiṟ ṟōyē</l>
+<l>yiruntaṇ poḻilayāñ cellu māṟē</l></lg>
+   
   <lg corresp="#TNV23poem6">
    <milestone unit="page" n="145" facs="76"/><pb n="145"/>
 <l>ceṅkatirc celvaṉu mattañ cērntaṉaṉ</l>
