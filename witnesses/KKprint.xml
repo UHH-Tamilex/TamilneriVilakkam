@@ -96,31 +96,58 @@
       <body xml:lang="ta">
  <milestone unit="page" n="14" facs="12"/> 
 <lg corresp="#TNV15poem3">
+  <pb n="14"/>
 <l>iṉaiyal vāḻi pirivoṉ ṟilaṉē</l>
 <l>naṉaimalar naṟumpūṅ kōtai</l>
 <l>yamai<subst><del rend="commas">veṉu......nā</del><add place="right">yē ṉiṉṉaiyā</add></subst> ṉakaṉṟa ñāṉṟē</l></lg>
         <milestone unit="page" n="16" facs="13"/>
         <lg corresp="#TNV15poem5">
+          <pb n="16"/>
 <l>iṉaiyal vāḻi yemmūr malarnta</l>
 <l>paḻaṉat tāmaraik keḻīiya va[ṇṭu]niṉ</l>
 <l>kaṇṇeṉa malarnta kāmar cuṉaimalar</l>
 <l>na<del rend="strikethrough">ṟuṅka</del>ṇṇi nāḷu nalaṉuka rummē</l></lg>
          <milestone unit="page" n="17" facs="13"/>
         <lg corresp="#TNV15poem6">
+          <pb n="17"/>
 <l>[maṉavē ralkuṉ] maṭantai kūṭṭaṅ</l>
 <l>kaṉavē <subst><del rend="brackets">tēriṉ</del><add place="left">teriyiṉ</add></subst> yāvatu</l>
 <l>naṉavē <subst><del rend="brackets">yāyi</del><add place="left">yeṉi</add></subst>ṉu naṇṇalō varitē.</l></lg>
           <milestone unit="page" n="18" facs="14"/>
         <lg corresp="#TNV15poem7">
+          <pb n="18"/>
 <l>pula<subst><del rend="implied">...</del><add place="in-place">ṉa</add></subst>ṉ ṟeṉpa viṉṉuyi <subst><del rend="strikethrough">ri</del><add place="left">ra</add></subst>tuvē</l>
 <l>yalarmulai yā<subst><del rend="underline">yat</del><add place="right">kan</add></subst> tāṅ<subst><del rend="underline">ka</del><add place="right">ki</add></subst></l>
 <l>ṇilavoḷi mati<subst><del rend="underline">yeṉa ni</del><add place="left">yi ṉi</add></subst>lavumeṉ ṉuyirē</l></lg>
+        <lg corresp="#TNV17poem1">
+          <milestone unit="page" n="20" facs="15"/><pb n="20"/>
+<l>[nō]kkiṉum piṟarmuka nōkkāḷ cāriṉum</l>
+<l>pūkkuḻaṉ maṭantai tōḷcā rummē</l>
+<l>yaṉṉa talaiyaḷi yuṭaimai[yi]</l>
+<l>ṉiṉṉuyirt tōḻi<subst><del rend="brackets"> yē</del><add place="left">yiv vē</add></subst>ntiḻai yivaṭkē.</l></lg>
+        
         <milestone unit="page" n="21" facs="15"/>
         <lg corresp="#TNV15poem9">
 <l>uṭaiyai vāḻi neñcē yiṭai<del rend="strikethrough">k</del>koṇ</l>
 <l>ṭaḻuṅka lōmpumati taḻaṅkoli mikunīr</l>
 <l>vaḻuttūr kākku<subst><del rend="implied"> ma[ā]</del><add place="in-place">m</add></subst> puṇai<add place="right">yiṉ</add></l>
 <l>viḻuttuṇai<subst><del rend="underline">k [kā]</del><add place="right">cā</add></subst>ṉṟa mikuperuṅ kiḷaiyē.</l></lg>
+        <lg corresp="#TNV16poem3">
+ <milestone unit="page" n="24" facs="17"/><pb n="24"/>
+<l>poruntā tamma puṉaiyiḻai <subst><del rend="implied">maṭantai</del><add place="above">yarivai</add></subst></l>
+<l>muruntēr muṟuva ṉōkkiṉ</l>
+<l>varuntiṉa ṉeṉpatu peruntakai peritē</l></lg>
+<lg corresp="#TNV16poem6">
+ <milestone unit="page" n="27" facs="18"/><pb n="27"/>
+<l><subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="23"/></del><add place="in-place">vāḻvati yāvatu kollō vāṉpukaḻc</add></subst></l>
+<l><subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="3"/></del><add place="in-place">cūḻka</add></subst>ḻa laṇṇal ṉeñca</l>
+<l>māḻtuya reyta vaṇaṅkiya vaṇaṅkē</l></lg> 
+<lg corresp="#TNV16poem8">
+ <milestone unit="page" n="31" facs="20"/><pb n="31"/>        
+<l>vēṅkai yoḷvī kāntaḷ kamaḻu[m]</l>
+<l>pūntaṇ cāralu mituvē yēntilai</l>
+<l>yayilvē la<subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="6"/></del><add rend="caret" place="below">ṇṇal kūṟiya</add></subst></l>
+<l><subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="9"/></del><add rend="caret" place="below">mayilēr cāyal</add></subst> vaṇṇamu mituvē</l></lg>     
         <milestone unit="page" n="32" facs="21"/>
          <pb n="32"/>
          <lg corresp="#TNV16poem9">
@@ -139,6 +166,61 @@
                </subst> kaṇkaṇ ṭāṟṟiya</l>
             <l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l>
          </lg>
+<lg corresp="#TNV16poem10">
+ <milestone unit="page" n="34" facs="22"/><pb n="34"/>  
+<l>āytaḷir potuḷiya vītatai <add place="right" rend="caret">taṇciṉaik</add></l>
+<l>kāykatir nuḻaiyāk kaṭipoḻil</l>
+<l>yāvayi ṉōrum viḻaivuṟun takaittē</l></lg>  
+<lg corresp="#TNV16poem11">
+ <milestone unit="page" n="36" facs="23"/><pb n="36"/>          
+<l>taṉimai neñcattu muṉivukaṇ <subst><del rend="underline">ṭa</del><add place="right">ṇa</add></subst>kaṟṟaliṉ</l>
+<l>viṉaimāṇ pāvai yaṉṉa</l>
+<l>puṉaiyiḻai mātarum pōṉṟatip poḻilē.</l></lg>  
+<lg corresp="#TNV16poem12">
+ <pb n="37"/>   
+<l>teyva māka vaiyuṟu neñcam</l>
+<l>poyyā tāyiṉiṉ <del>[</del>cevvāy<del>]</del> tiṟantu</l>
+<l>kiḷipurai kiḷaviyām peṟuka</l>
+<l>voḷiyiḻai maṭantai yuyirpeyarp paritē</l></lg>
+<lg corresp="#TNV16poem13">
+ <milestone unit="page" n="39" facs="24"/><pb n="39"/> 
+<l>kāviyaṅ karuṅkaṭ cevvāyp paintoṭi</l>
+<l>pūviri<subst><del rend="commas">[n taṉ]ṉa</del><add place="right"> curimeṉ</add></subst> kūntalum</l>
+<l>vēypurai tōḷu maṇaṅkumā lemmē</l></lg>
+<lg corresp="#TNV17poem3">
+           <milestone unit="page" n="42" facs="26"/>
+         <pb n="42"/>
+<l>kaṇṇi <del rend="strikethrough">yaica</del> (?takai)ciṟan taṉavē taṇṇeṉ</l>
+<l>pūntaḻai cevviya pōlum vāṅkiruṅ</l>
+<l>kūntalu malkulum poliya</l>
+<l><subst><del rend="commas">vēntiṉi[raṇi] miṉ</del><add place="below">vēntiḻai koḷka</add></subst>yām viḻaikuvam peritē</l></lg>
+ <lg corresp="#TNV17poem5">
+           <milestone unit="page" n="45" facs="27"/>
+         <pb n="45"/>  
+<l>ampumukaṅ kiḻitta <subst><del rend="commas">puṇvāyk kalaimāṉ</del><add rend="caret">vēmpuṇ vāya</add></subst></l>
+<l><add>kalaimāṉ</add> pōntaṉa vuḷavō<subst><del rend="strikethrough"> [vuraiyīr]</del><add place="right">rum</add></subst></l>
+<l><del rend="scribble">[mā]</del>maṭa<add rend="caret" place="above">mā</add> ṉōkka marīiyiṉa<del rend="strikethrough">m</del> paṭarntē</l></lg>  
+<lg corresp="#TNV17poem6">
+           <milestone unit="page" n="46" facs="28"/>
+         <pb n="46"/>    
+<l>uraimi ṉīrmaṉ ṉemakkē varaiyiṭai</l>
+<l>arumpaṭark kavalai nīnti<subst><del rend="strikethrough">ya</del><add place="right">p</add></subst></l>
+<l>peruntuya <subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="8"/></del><add place="below">raruppam peya</add></subst>rtaru neṟiyē</l></lg>  
+  
+ <lg corresp="#TNV17poem2">
+           <milestone unit="page" n="50" facs="30"/>
+         <pb n="50"/>  
+<l>puṉaiyiḻai yāyamoṭu pūmpan teṟiya[vum]</l>
+<l>naṉaimalar ñāḻa loḷvī koyyavum</l>
+<l>varuntiṉaḷ kollō maṭantai</l>
+<l><subst><del rend="underline">piri</del><add place="left">para</add></subst>ntaṉṟu mātō paṇpukeḻu niṟaṉē</l></lg>
+   <lg corresp="#TNV17poem8">
+           <milestone unit="page" n="53" facs="31"/>
+         <pb n="53"/>
+<l>pūtta vēṅkai viyaṉciṉai yēṟi</l>
+<l>mayiliṉa makavu nāṭaṉ</l>
+<l>naṉṉutaṟ koṭicci maṉattakat tōṉē.</l></lg>     
+  
          <lg corresp="#TNV17poem7">
            <milestone unit="page" n="54" facs="32"/>
          <pb n="54"/>
@@ -147,6 +229,48 @@
 <l>ṭakalā ṉammaviv vakaṉpuṉan</l>
 <l>takaiyō ṉuḷḷiya taṟi<subst><del rend="underline">yō</del><add place="above">yala</add></subst>m peritē</l>
          </lg>
+ <lg corresp="#TNV17poem9">
+           <milestone unit="page" n="56" facs="33"/>
+         <pb n="56"/>
+<l>naṇṇuta laritē taṇṇeḷaḷā (?ṉpuṉattu)</l>
+<l>ḷeṇṇiya kuṟaiyoṉ ṟuḷateṉiṉ</l>
+<l>naṇṇātu muṭitti yaṇṇa ṉīyē</l></lg>
+ <lg corresp="#TNV17poem12"> 
+<l>kaṭikamaḻ kaṇṇi neṭuvarai yāyattu</l>
+<l>vaṭivē laṇṇa<del rend="brackets">leṉ</del>ṉai maṟaippiṉ</l>
+<l>muṭiyā tāku muṉṉiya viṉaiyē</l></lg>
+<lg corresp="#TNV17poem15">
+           <milestone unit="page" n="58" facs="34"/>
+         <pb n="58"/> 
+<l><subst><del rend="implied">alava <subst><del rend="implied">ṉā</del><add place="in-place">ṉō</add></subst><subst><del rend="implied">ṭa</del><add>[ṭā]</add></subst>ṭalu māṭā[ṇ mā]ṭu</del><add place="above">alava ṉāṭṭalu māṭṭā ḷāyamoṭu</add></subst></l>
+<l>malar<del rend="strikethrough">p</del>pūṅ kāṉal vaṇṭalu mayarā</l>
+<l>ḷōviyap pāvai yottaṉaḷ</l>
+<l>yātuko laṇṇalyāṉ collu māṟē</l></lg>
+<lg corresp="#TNV17poem18">
+           <milestone unit="page" n="57" facs="33"/>
+         <pb n="57"/>    
+<l>poṉṉiyal cuṇaṅkiṉ meṉmulai yari[vai]kku</l>
+<l>miṉṉiva roḷivē laṇṇal</l>
+<l>niṉṉuṟu viḻumaṅ kūṟumati nīyē</l></lg>  
+  
+<lg corresp="#TNV17poem17">
+           <milestone unit="page" n="59" facs="34"/>
+         <pb n="59"/>   
+<l>nerunalu muṉṉā ḷellaiyu moruciṟaip</l>
+<l>putu<subst><del rend="strikethrough">mai</del><add place="left">vai</add></subst> yātaliṟ kiḷatta ṉāṇi</l>
+<l>nēriṟai vaḷaittōḷuṉ ṟōḻi ceyta</l>
+<l>vāruyir varuttaṅ kaḷaiyā yōveṉa</l>
+<l>veṟkuṟai yuṟutirāyiṟ coṟkuṟai</l>
+<add rend="caret" place="left"><l>vampa varaviṉir ākali ṉuṇarīr</l></add>
+<l>yempatat teḷiyaḷō maṭantai</l>
+<l>yi<subst><del rend="strikethrough">ṉpa</del><add place="below">mpar</add></subst> vāḻkkai<subst><del rend="commas">ya ḷiva</del><add place="below"> yiyavu</add></subst>ṇmaṉ ṉemakkē</l></lg>
+<lg corresp="#TNV17poem23">
+           <milestone unit="page" n="61" facs="35"/>
+         <pb n="61"/>   
+<l>māṇeḻi laṇṇal vāṅ<subst><del rend="underline">kala</del><add place="right">kutu</add></subst>m yā<subst><del rend="underline">meñ</del><add place="right">mē</add></subst></l>
+<l>cēṇuyar cilampi<subst><del rend="strikethrough">ṉ</del><add place="right">l</add></subst> yāṅkaṇuṅ</l>
+<l>kāṇala maṉṉōvik kamaḻpūn taḻaiyē</l></lg>
+  
         <lg corresp="#TNV17poem35">
           <milestone unit="page" n="70" facs="40"/>
          <pb n="70"/>
