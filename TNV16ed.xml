@@ -3857,7 +3857,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 </interp><listApp>
   <app corresp="0,34">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">vāḻvati yāvatu kollō vāṉpukaḻc cūḻkaḻa</lem>
-    <rdg wit="#KKms #KKedac"><gap reason="lost" unit="character" quantity="23"/> <gap reason="lost" unit="character" quantity="3"/>ḻa l</rdg>
+    <rdg wit="#KKms #KKedac"><space unit="character" quantity="23"/> <space unit="character" quantity="3"/>ḻa</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV16poem7" source="alignments/TNV16poem7.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -3937,9 +3937,9 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">neñca</lem>
     <rdg wit="#TNVmsac">neṉñca</rdg>
   </app>
-  <app corresp="28,41">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">mātark kuvaḷai</lem>
-    <rdg wit="#KKms #KKedac">mātar kuvaḷai</rdg>
+  <app corresp="28,34">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">mātark</lem>
+    <rdg wit="#KKms #KKedac">mātar</rdg>
   </app>
   <app corresp="41,67">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">malarmalarn taṉṉa karuntaṭaṅ</lem>
@@ -3948,18 +3948,21 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <rdg wit="#KKms">malarn ta<space quantity="2" unit="characters"/></rdg>
     <rdg wit="#KKedpc">malarmalarn<sic>ta</sic> taṉṉa karuntaṭaṅ</rdg>
   </app>
-  <app corresp="73,91">
-    <lem wit="#TNVms #TNVcac">ṭāṟṟiyap peruntakai</lem>
+  <app corresp="73,81">
+    <lem wit="#TNVms #TNVcac">ṭāṟṟiyap</lem>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #KKms #KKed">
-      <rdg type="main">ṭāṟṟiya peruntakai</rdg>
-      <rdg type="minor" wit="#TNVcpc">ṭāṟṟiya, perunta<lb n="30"/>kai</rdg>
+      <rdg type="main">ṭāṟṟiya</rdg>
+      <rdg type="minor" wit="#TNVcpc">ṭāṟṟiya,</rdg>
     </rdgGrp>
   </app>
-  <app corresp="91,109">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKmspc #KKed">yaṇṇalaik kaḻaṟiṉaṉ</lem>
-    <rdg wit="#TNVcac">yaṇṇalaik kaḻaṟṟiṉaṉ</rdg>
-    <rdg wit="#TNVms">yaṇṇalai kaḻaṟṟiṉaṉ</rdg>
-    <rdg wit="#KKmsac">yaṇṇalaik kaḻaṉṟiṉaṉ</rdg>
+  <app corresp="91,100">
+    <lem wit="#TNVc #TNV1937 #TNV1947 #KKms #KKed">yaṇṇalaik</lem>
+    <rdg wit="#TNVms">yaṇṇalai</rdg>
+  </app>
+  <app corresp="100,109">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKmspc #KKed">kaḻaṟiṉaṉ</lem>
+    <rdg wit="#TNVms #TNVcac">kaḻaṟṟiṉaṉ</rdg>
+    <rdg wit="#KKmsac">kaḻaṉṟiṉaṉ</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV16poem10" source="alignments/TNV16poem10.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -4054,5 +4057,62 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
       <rdg type="main">peyar paritē.</rdg>
       <rdg type="minor" wit="#TNVmsac">peyar<unclear/> pari<lb n="8"/>tē.</rdg>
     </rdgGrp>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem13" source="alignments/TNV16poem13.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="7,15">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">karuṅkaṭ</lem>
+    <rdg wit="#KKms">karukaṭ</rdg>
+  </app>
+  <app corresp="15,22">
+    <lem wit="#TNVc #TNV1937 #TNV1947 #KKms #KKed">cevvāyp</lem>
+    <rdg wit="#TNVms">cevvāy</rdg>
+  </app>
+  <app corresp="30,43">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">pūviri curimeṉ</lem>
+    <rdg wit="#KKedac">pūviri[n taṉ]ṉa</rdg>
+    <rdg wit="#KKms">pūviri<space unit="character" quantity="8"/>ṉ</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem14" source="alignments/TNV16poem14.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="10,17">
+    <lem wit="#TNVms #TNVc #TNV1947">pirinta</lem>
+    <rdg wit="#TNV1937">piranta</rdg>
+  </app>
+  <app corresp="59,69">
+    <lem wit="#TNVms">karuṅkalat</lem>
+    <rdg wit="#TNVc #TNV1937 #TNV1947">kiruṅkalat</rdg>
+  </app>
+  <app corresp="69,77">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">toṉmaṉai</lem>
+    <rdg wit="#TNVms #TNVcac">toṇmaṉai</rdg>
   </app>
 </listApp></standOff></TEI>
