@@ -114,7 +114,7 @@ inconsistent disambiguation of long and short e and o</summary>
 <l>ṇilavoḷi <del rend="strikethrough">yā</del>matiyeṉa nilavumeṉ ṉuyirē</l></lg>
 <milestone unit="page" n="17" facs="11"/>
 <lg corresp="#TNV17poem1">
-<l><gap reason="lost" unit="character" quantity="3"/>kkiṉum piṟa<add place="above">r</add>muka nōkkāḷ cāriṉum</l>
+<l><space unit="character" quantity="3"/>kkiṉum piṟa<add place="above">r</add>muka nōkkāḷ cāriṉum</l>
 <l>pūkkuḻaṉ maṭantai tōḷcā rumē</l>
 <l>yaṉṉa talaiyaḷi yuṭaimaiyiṉ</l>
 <l>ṉuyirt tōḻi yēntiḻai yivaṭkē.</l></lg>
@@ -136,16 +136,16 @@ inconsistent disambiguation of long and short e and o</summary>
     <milestone unit="page" n="24" facs="15"/><pb n="24"/>
 <lg corresp="#TNV16poem6">
   
-<l><gap reason="lost" unit="character" quantity="23"/></l>
-<l><gap reason="lost" unit="character" quantity="3"/>ḻa laṇṇal neñca</l>
+<l><space unit="character" quantity="23"/></l>
+<l><space unit="character" quantity="3"/>ḻa laṇṇal neñca</l>
 <l>māḻtuya reyta vaṇaṅkiya vaṇaṅkē</l></lg>
   <milestone unit="page" n="28" facs="17"/> <pb n="28"/> 
  <lg corresp="#TNV16poem8"> 
    
-<l>vēṅkai yoḷvī kāntaḷ kamaḻu<gap reason="lost" unit="character" quantity="1"/></l> 
+<l>vēṅkai yoḷvī kāntaḷ kamaḻu<space unit="character" quantity="1"/></l> 
 <l>pūntaṇ cāralu mituvē yēntilai</l>
-<l>yayilvē la<gap reason="lost" unit="character" quantity="6"/></l>
-<l><gap reason="lost" unit="character" quantity="7"/>yal vaṇṇamu mituvē.</l></lg>
+<l>yayilvē la<space unit="character" quantity="6"/></l>
+<l><space unit="character" quantity="7"/>yal vaṇṇamu mituvē.</l></lg>
 <milestone unit="page" n="29" facs="17"/> <pb n="29"/>                
   <lg corresp="#TNV16poem9">
     
@@ -164,19 +164,19 @@ inconsistent disambiguation of long and short e and o</summary>
 <l>puṉaiyiḻai mātarum pōṉṟatip poḻilē.</l></lg>
 <milestone unit="page" n="33" facs="19"/><pb n="32"/>      <lg corresp="#TNV16poem12">  
 <l>teyva māka vaiyuṟu neñcam</l>
-<l>poyyā tāyiṉiṉ <gap reason="lost" unit="character" quantity="6"/> tiṟantu</l>
+<l>poyyā tāyiṉiṉ <space unit="character" quantity="6"/> tiṟantu</l>
 <l>kiḷipurai kiḷa<add place="above" rend="caret">vi</add>yām peṟuka</l>
 <l>voḷiyiḻai maṭantai yuyirpeyarp paritē</l></lg>
 <milestone unit="page" n="35" facs="19"/><pb n="35"/>      <lg corresp="#TNV16poem13">  
 <l>kāviyaṅ karukaṭ cevvāyp paintoṭi</l>
-<l>pūviri<gap unit="character" reason="lost" quantity="8"/>ṉ kūntalum</l>
+<l>pūviri<space unit="character" quantity="8"/>ṉ kūntalum</l>
 <l>vēypurai tōḷu maṇaṅkumā lemmē</l></lg>
 <milestone unit="page" n="38" facs="22"/><pb n="35"/>      
   <lg corresp="#TNV17poem3">
 <l>kaṇṇiyaic ciṟan taṉavē taṇṇeṉ</l>
 <l>pūntaḻai cevviya pōlum vāṅkiruṅ</l>
 <l>kūntalu malkulum poliya</l>
-<l>vēntiṉi <gap reason="lost" unit="character" quantity="2"/>miṉyām viḻaikuvam peritē</l></lg>
+<l>vēntiṉi <space unit="character" quantity="2"/>miṉyām viḻaikuvam peritē</l></lg>
   
  <milestone unit="page" n="42" facs="24"/><pb n="42"/> <lg corresp="#TNV17poem5">  
       
@@ -210,15 +210,15 @@ inconsistent disambiguation of long and short e and o</summary>
 <l>takaiyō ṉuḷḷiya taṟiyōm peritē</l></lg>
  <milestone unit="page" n="54" facs="31"/><pb n="54"/>   <lg corresp="#TNV17poem15">
           
-<l>alava ṉāṭṭālu māṭiṭā<subst><del rend="implied"><gap reason="lost" unit="character" quantity="7"/></del><add place="below">ṭu</add></subst></l>
-<l><subst><del rend="implied"><gap reason="lost" unit="character" quantity="17"/></del><add place="below">malarpūṅ kāṉal vaṇṭalu mayara</add></subst></l>
-<l><subst><del rend="implied"><gap reason="lost" unit="character" quantity="17"/></del><add place="below">ḷō<sic>r</sic>viyap pāvai yottaṉaḷ</add></subst></l>
-<l><subst><del rend="implied"><gap reason="lost" unit="character" quantity="22"/></del><add place="below">yātuko laṇṇalyāṉ collu māṟē</add></subst></l></lg>    
+<l>alava ṉāṭṭālu māṭiṭā<subst><del rend="implied"><space unit="character" quantity="7"/></del><add place="below">ṭu</add></subst></l>
+<l><subst><del rend="implied"><space unit="character" quantity="17"/></del><add place="below">malarpūṅ kāṉal vaṇṭalu mayara</add></subst></l>
+<l><subst><del rend="implied"><space unit="character" quantity="17"/></del><add place="below">ḷō<sic>r</sic>viyap pāvai yottaṉaḷ</add></subst></l>
+<l><subst><del rend="implied"><space unit="character" quantity="22"/></del><add place="below">yātuko laṇṇalyāṉ collu māṟē</add></subst></l></lg>    
  <milestone unit="page" n="54" facs="31"/><pb n="54"/><lg corresp="#TNV17poem17">
     
 <l>nerunalu muṉṉā ḷellaiyu moruciṟaip</l>
 <l>putumai yātali<add place="in-place">ṟ</add> kiḷatta ṉāṇi</l>
-<l>nēriṟai vaḷaittō<del rend="scribble"><gap reason="illegible" unit="character" quantity="1"/></del>ḷuṉ ṟōḻil ceyta</l>
+<l>nēriṟai vaḷaittō<del rend="scribble"><space reason="illegible" unit="character" quantity="1"/></del>ḷuṉ ṟōḻil ceyta</l>
 <l><pb n="55"/>vāruyir varuttaṅ kaḷaiyā yōveṉa</l>
 <l>veṟkuṟai yuṟutirāyiṟ coṟkuṟai</l>
 <l>yempatat teḷiyaḷō maṭ<sic>ā</sic>tai</l>
