@@ -3857,10 +3857,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 </interp><listApp>
   <app corresp="0,34">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">vāḻvati yāvatu kollō vāṉpukaḻc cūḻkaḻa</lem>
-    <rdgGrp select="#KKms #KKedac">
-      <rdg type="main"><gap reason="ellipsis" unit="character" quantity="23"/> <gap reason="ellipsis" unit="character" quantity="3"/>ḻa</rdg>
-      <rdg type="minor" wit="#KKms"><pb n="24" type="folio"/> <gap reason="ellipsis" unit="character" quantity="23"/> <gap reason="ellipsis" unit="character" quantity="3"/>ḻa</rdg>
-    </rdgGrp>
+    <rdg wit="#KKms #KKedac"><gap reason="lost" unit="character" quantity="23"/> <gap reason="lost" unit="character" quantity="3"/>ḻa l</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV16poem7" source="alignments/TNV16poem7.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -3903,22 +3900,159 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="6,20">
-    <lem wit="#TNVms #TNV1937 #TNV1947">yoḷvī kāntaḷoṭu</lem>
-    <rdg wit="#TNVcpc #KKms #KKed">yoḷvī kāntaḷ</rdg>
-    <rdg wit="#TNVcac">yoḷkik kāntaḷoṭu</rdg>
+  <app corresp="6,11">
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #KKms #KKed">yoḷvī</lem>
+    <rdg wit="#TNVcac">yoḷkik</rdg>
+  </app>
+  <app corresp="11,20">
+    <lem wit="#TNVms #TNVcac #TNV1937 #TNV1947">kāntaḷoṭu</lem>
+    <rdg wit="#TNVcpc #KKms #KKed">kāntaḷ</rdg>
   </app>
   <app corresp="20,27">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">kamaḻum</lem>
-    <rdg wit="#KKms">kamaḻu<gap reason="ellipsis" unit="character" quantity="1"/></rdg>
+    <rdg wit="#KKms">kamaḻu<space unit="character" quantity="1"/></rdg>
   </app>
-  <app corresp="60,79">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">laṇṇal kūṟiya mayilēr</lem>
-    <rdg wit="#KKms #KKedac">la<gap reason="ellipsis" unit="character" quantity="6"/></rdg>
+  <app corresp="60,84">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">laṇṇal kūṟiya mayilēr cāyal</lem>
+    <rdg wit="#KKms">la<space unit="character" quantity="6"/> <space unit="character" quantity="7"/>yal</rdg>
+    <rdg wit="#KKedac">la<space unit="character" quantity="6"/></rdg>
   </app>
-  <app corresp="79,84">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">cāyal</lem>
-    <rdg wit="#KKms"><gap reason="ellipsis" unit="character" quantity="7"/>yal</rdg>
-    <rdg wit="#KKedac"/>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem9" source="alignments/TNV16poem9.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="14,19">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">neñca</lem>
+    <rdg wit="#TNVmsac">neṉñca</rdg>
+  </app>
+  <app corresp="28,41">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">mātark kuvaḷai</lem>
+    <rdg wit="#KKms #KKedac">mātar kuvaḷai</rdg>
+  </app>
+  <app corresp="41,67">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">malarmalarn taṉṉa karuntaṭaṅ</lem>
+    <rdg wit="#TNVmsac">malarmalarn taṉa karuntaṭaṅ</rdg>
+    <rdg wit="#KKedac">malarn<sic>ta</sic> <space quantity="3" unit="characters"/> [aruntakaik]</rdg>
+    <rdg wit="#KKms">malarn ta<space quantity="2" unit="characters"/></rdg>
+    <rdg wit="#KKedpc">malarmalarn<sic>ta</sic> taṉṉa karuntaṭaṅ</rdg>
+  </app>
+  <app corresp="73,91">
+    <lem wit="#TNVms #TNVcac">ṭāṟṟiyap peruntakai</lem>
+    <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #KKms #KKed">
+      <rdg type="main">ṭāṟṟiya peruntakai</rdg>
+      <rdg type="minor" wit="#TNVcpc">ṭāṟṟiya, perunta<lb n="30"/>kai</rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="91,109">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKmspc #KKed">yaṇṇalaik kaḻaṟiṉaṉ</lem>
+    <rdg wit="#TNVcac">yaṇṇalaik kaḻaṟṟiṉaṉ</rdg>
+    <rdg wit="#TNVms">yaṇṇalai kaḻaṟṟiṉaṉ</rdg>
+    <rdg wit="#KKmsac">yaṇṇalaik kaḻaṉṟiṉaṉ</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem10" source="alignments/TNV16poem10.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="15,31">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKedpc">vītatai taṇciṉaik</lem>
+    <rdg wit="#KKedac">vītatai</rdg>
+    <rdg wit="#KKms">vītataik</rdg>
+    <rdg wit="#TNVmsac">vitatai taṇciṉaik</rdg>
+  </app>
+  <app corresp="47,56">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">kaṭipoḻil</lem>
+    <rdg wit="#TNVmsac">kaṭipoḻiv</rdg>
+  </app>
+  <app corresp="56,62">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">yāvayi</lem>
+    <rdg wit="#KKms">yā<sic>vai</sic>yi</rdg>
+  </app>
+  <app corresp="67,85">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed">viḻaivuṟun takaittē</lem>
+    <rdg wit="#KKmsac">viḻaivuṟu muttamē</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem11" source="alignments/TNV16poem11.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="24,34">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKedpc">ṇakaṟṟaliṉ</lem>
+    <rdg wit="#KKms #KKedac">ṭakaṟṟaliṉ</rdg>
+    <rdg wit="#TNVmsac">ṇekaṟṟaliṉ</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem12" source="alignments/TNV16poem12.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="34,47">
+    <lem wit="#TNVms #TNVcac">cevvāy payanta</lem>
+    <rdg wit="#KKms"><space unit="character" quantity="6"/> tiṟantu</rdg>
+    <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #KKedac #KKedpc">
+      <rdg type="main">[cevvāy] tiṟantu</rdg>
+      <rdg type="minor" wit="#TNVcpc #TNV1937 #TNV1947 #KKedpc">cevvāy tiṟantu</rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="56,65">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed">kiḷaviyām</lem>
+    <rdg wit="#KKmsac">kiḷayām</rdg>
+  </app>
+  <app corresp="88,93">
+    <lem wit="#TNVc #TNV1937 #TNV1947 #KKms #KKed">yuyir</lem>
+    <rdg wit="#TNVms">yupir</rdg>
+  </app>
+  <app corresp="93,105">
+    <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947 #KKms #KKed">peyarp paritē</lem>
+    <rdgGrp select="#TNVmsac #TNVcac">
+      <rdg type="main">peyar paritē.</rdg>
+      <rdg type="minor" wit="#TNVmsac">peyar<unclear/> pari<lb n="8"/>tē.</rdg>
+    </rdgGrp>
   </app>
 </listApp></standOff></TEI>
