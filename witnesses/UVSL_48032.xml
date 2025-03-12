@@ -346,8 +346,8 @@
             <p xml:id="TNV16koḷu7">talaimakaṉ kuṟiyuraittatu.</p>
             <lb n="25"/>
             <lg xml:id="TNV16poem8">
-                <l>vēṅkai yoḷ<subst><del rend="underline">kik</del><add place="above">vī</add></subst> kānta<sic><subst><del rend="commas">ḷoṭu</del><add place="above">ḷ</add></subst>
-                    </sic>
+                <l>vēṅkai yoḷ<subst><del rend="underline">kik</del><add place="above">vī</add></subst> kānta<subst><del rend="commas">ḷoṭu</del><add place="above">ḷ</add></subst>
+                    
                     kamaḻum</l>
                 <l>pūntaṇ cāralu<lb n="26"/> mituvē yēntilai<add rend="below">,</add></l>
                 <l>yayilvē laṇṇal kūṟiya<add rend="below">,</add></l>
@@ -1403,7 +1403,7 @@
             <lg xml:id="TNV23poem26" corresp="#aiṅ393">
                 <note place="above">aiṅ. 393</note>
                 <l>tuṟantataṟ koṇṭu<sic><del rend="strikethrough">n</del></sic> tuyaraṭac cāa<add place="in-place">,</add></l>
-                <l><del rend="strikethrough">vu</del><lb n="26"/>yaṟampulantu paḻikku maruna<sic><gap reason="ellipsis" unit="character" quantity="3"/></sic>vai yāṭṭi</l>
+                <l><del rend="strikethrough">vu</del><lb n="26"/>yaṟampulantu paḻikku maruna<sic><gap reason="lost" unit="character" quantity="3"/></sic>vai yāṭṭi</l>
                 <l>evva <lb n="27"/>neñciṟ kēma māka<add place="in-place">,</add></l>
                 <l>vantaṉa ḷōniṉ makaḷē<add place="in-place">,</add></l>
                 <l>venti<lb n="28"/>ṟal ve<sic>ḷ</sic>vēl viṭalaimun tu<subst><del rend="implied">ma</del><add place="above">ṟa</add></subst><subst><del rend="implied">mē</del><add place="above">vē</add></subst>

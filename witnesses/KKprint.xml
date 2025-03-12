@@ -140,27 +140,22 @@
  <milestone unit="page" n="27" facs="18"/><pb n="27"/>        
 <lg corresp="#TNV16poem6">
 
-<l><subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="23"/></del><add place="in-place">vāḻvati yāvatu kollō vāṉpukaḻc</add></subst></l>
-<l><subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="3"/></del><add place="in-place">cūḻka</add></subst>ḻa laṇṇal neñca</l>
+<l><subst><del rend="implied"><gap reason="lost" unit="character" quantity="23"/></del><add place="in-place">vāḻvati yāvatu kollō vāṉpukaḻc</add></subst></l>
+<l><subst><del rend="implied"><gap reason="lost" unit="character" quantity="3"/></del><add place="in-place">cūḻka</add></subst>ḻa laṇṇal neñca</l>
 <l>māḻtuya reyta vaṇaṅkiya vaṇaṅkē</l></lg> 
  <milestone unit="page" n="31" facs="20"/><pb n="31"/>   <lg corresp="#TNV16poem8">
      
 <l>vēṅkai yoḷvī kāntaḷ kamaḻu[m]</l>
 <l>pūntaṇ cāralu mituvē yēntilai</l>
-<l>yayilvē la<subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="6"/></del><add rend="caret" place="below">ṇṇal kūṟiya</add></subst></l>
-<l><subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="9"/></del><add rend="caret" place="below">mayilēr cāyal</add></subst> vaṇṇamu mituvē</l></lg>     
+<l>yayilvē la<subst><del rend="implied"><gap reason="lost" unit="character" quantity="6"/></del><add rend="caret" place="below">ṇṇal kūṟiya</add></subst></l>
+<l><subst><del rend="implied"><gap reason="lost" unit="character" quantity="9"/></del><add rend="caret" place="below">mayilēr cāyal</add></subst> vaṇṇamu mituvē</l></lg>     
         <milestone unit="page" n="32" facs="21"/>
          <pb n="32"/>
          <lg corresp="#TNV16poem9">
             <note place="margin" xml:lang="ta">pa. 13</note>
             <l>nōtaka vuṭaittē neñca matimicai</l>
-            <l>mātar<add place="margin">k</add> kuvaḷai <add place="margin">malar</add>malarn <sic>
-               ta</sic><subst>
-                  <del rend="implied">
-                     <space quantity="3" unit="characters"/>
-                  </del>
-                  <add place="in-place">taṉṉa</add>
-               </subst></l>
+            <l>mātar<add place="margin">k</add> kuvaḷai <add place="margin">malar</add>malarn<sic>ta</sic><subst>
+            <del rend="implied"><space quantity="3" unit="characters"/></del><add place="in-place"> taṉṉa</add></subst></l>
             <l><subst>
                   <del rend="implied">[aruntakaik]</del>
                   <add place="margin">karuntaṭaṅ</add>
@@ -206,7 +201,7 @@
             
 <l>uraimi ṉīrmaṉ ṉemakkē varaiyiṭai</l>
 <l>arumpaṭark kavalai nīnti<subst><del rend="strikethrough">ya</del><add place="right">p</add></subst></l>
-<l>peruntuya <subst><del rend="implied"><gap reason="ellipsis" unit="character" quantity="8"/></del><add place="below">raruppam peya</add></subst>rtaru neṟiyē</l></lg>  
+<l>peruntuya <subst><del rend="implied"><gap reason="lost" unit="character" quantity="8"/></del><add place="below">raruppam peya</add></subst>rtaru neṟiyē</l></lg>  
   
  <milestone unit="page" n="50" facs="30"/>
          <pb n="50"/>  <lg corresp="#TNV17poem2">
