@@ -649,7 +649,7 @@
             <lg xml:id="TNV17poem33">
                 <lb n="17"/>
                 <note place="margin">il?</note>
-                <l>tāṉum yāṉum<add place="above">e</add>ṉ ṟiruvē ṟilamē,</l>
+                <l>tāṉum yāṉum<subst><del rend="implied">ma</del><add place="above">me</add></subst>ṉ ṟiruvē ṟilamē,</l>
                 <l>yāṉu maṟiyāk karap<lb n="18"/>piṉaṇ,</l>
                 <l>māṉuṇ kaṇṇi varaiyara makaḷē.</l>
             </lg>
@@ -700,8 +700,8 @@
                 <l>maṇinīrp poykai yaṇipeṟa nivanta</l>
                 <l>tāmarai yaṉai<lb n="3"/>yaḷit tūmalark kaṇṇi,</l>
                 <l>ñāyi<del rend="underline">ṟ</del> ṟaṉaiyaṉ yāṉē yāvatu<lb n="4"/>m</l>
-                <l>veñcol yāṉvi<note place="margin">kaṟai</note><unclear><subst><del rend="implied">rai</del><add place="above">lai</add></subst></unclear>ain turaippavum</l>
-                <l>eñcāk kaviṉi<lb n="5"/>va ḷeyta lāṉē.</l>
+                <l>veñcol yāṉvirain turaippavu</l>
+                <l>meñcāk kaviṉi<lb n="5"/>va ḷeyta lāṉē.</l>
             </lg>
             <p xml:id="TNV17koḷu39">talaimakaṇilaimai kūṟiyatu.</p>
             <lg xml:id="TNV17poem40">
