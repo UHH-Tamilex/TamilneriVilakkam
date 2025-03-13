@@ -405,7 +405,7 @@
                 <l><lb n="17"/>nakaikoṇ ṭāṟṟalu nakāturai yeṉṟalum</l>
                 <l>
                     <lb n="18"/>
-                    <sic>periyir yāmataṟ kiyaiye meṉṟaluṅ</sic>
+                    <sic>periyīr yāmataṟ kiyaiyē meṉṟaluṅ</sic>
                 </l>
                 <l><lb n="19"/> kaiyuṟai y<subst><del rend="implied">oru</del><add place="above">eḷi</add></subst>mai kāṭṭalu
                     meyyuṟa</l>
@@ -420,7 +420,7 @@
                 <l><lb n="28"/>puṉaintu nilaiyalu nilaimai kūṟalum</l>
                 <l><lb n="29"/>pāṅkikoṇ ṭikattalum pakaṟkuṟi yākum.</l>
             </lg>
-            <p xml:id="TNV17comm"><lb n="30"/> e-tu. tōḻiyiṟ kūṭṭattup pakaṟkuṟi yām āṟuṇar<lb n="31"/>ttutaṉutaliṟṟu. pāṅkiyai uṇarntatu mutalākak<lb n="32"/> koṇṭu
+            <p xml:id="TNV17comm"><lb n="30"/> e-tu. tōḻiyiṟ kūṭṭattup pakaṟkuṟi yām āṟuṇar<lb n="31"/>ttutaṉutaliṟṟu. pāṅkiyai yuṇarntatu mutalākak<lb n="32"/> koṇṭu
                 peyarnta tīṟākac collappaṭṭaṉa vell<lb n="33"/>ān tōḻiyiṉ ākiya pakaṟkuṟik kūṭṭam
                 ām eṉṟavāṟu.<lb n="34"/></p>
             <lg xml:id="TNV17poem1">
@@ -649,7 +649,7 @@
             <lg xml:id="TNV17poem33">
                 <lb n="17"/>
                 <note place="margin">il?</note>
-                <l>tāṉum yāṉum<add place="above">e</add>ṉ ṟiruvē ṟilamē,</l>
+                <l>tāṉum yāṉum<subst><del rend="implied">ma</del><add place="above">me</add></subst>ṉ ṟiruvē ṟilamē,</l>
                 <l>yāṉu maṟiyāk karap<lb n="18"/>piṉaṇ,</l>
                 <l>māṉuṇ kaṇṇi varaiyara makaḷē.</l>
             </lg>
@@ -700,8 +700,8 @@
                 <l>maṇinīrp poykai yaṇipeṟa nivanta</l>
                 <l>tāmarai yaṉai<lb n="3"/>yaḷit tūmalark kaṇṇi,</l>
                 <l>ñāyi<del rend="underline">ṟ</del> ṟaṉaiyaṉ yāṉē yāvatu<lb n="4"/>m</l>
-                <l>veñcol yāṉvi<note place="margin">kaṟai</note><unclear><subst><del rend="implied">rai</del><add place="above">lai</add></subst></unclear>ain turaippavum</l>
-                <l>eñcāk kaviṉi<lb n="5"/>va ḷeyta lāṉē.</l>
+                <l>veñcol yāṉvirain turaippavu</l>
+                <l>meñcāk kaviṉi<lb n="5"/>va ḷeyta lāṉē.</l>
             </lg>
             <p xml:id="TNV17koḷu39">talaimakaṇilaimai kūṟiyatu.</p>
             <lg xml:id="TNV17poem40">
