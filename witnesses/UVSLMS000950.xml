@@ -327,10 +327,11 @@ ttatu.</p>
   </lg>
 <p xml:id="TNV16koḷu14">eṉpatu talaimakaḷai viṭuttal. 16.</p>
   <lg xml:id="TNV17"> 
-<l>pāṅkuṇar vai<lb n="3"/>yuṟa vir<del rend="scribble">i</del>antukuṟai yuṟutalu</l>
-<l>māṅkavaṉ viṉātalu matiyuṭ<del rend="strikethrough">ai</del>a ṉākkalun</l>
+<l>pāṅkuṇar vai<lb n="3"/>yuṟa vi<subst><del rend="scribble">ri</del><add place="in-place">ra</add></subst>ntukuṟai yuṟutalu</l>
+<l>māṅkavaṉ viṉātalu matiyu<subst><del rend="strikethrough">ṭai</del><add palce="in-place">ṭa</add>
+</subst> ṉākkalun</l>
 <l>tuṇitaluñ cēṭpaṭa niṟuttaluñ cuṭṭiya</l>
- <l>taṉṟiyē ṉaṟivaṇ ma<lb n="4"/>ṟaiyē ṉeṉṟalu<del rend="dot">m</del>ṅ</l>
+ <l>taṉṟiyē ṉaṟivaṇ ma<lb n="4"/>ṟaiyē ṉeṉṟalu<subst><del rend="dot">m</del><add place="in-place">ṅ</add></subst></l>
     <l>kuṟiyā kūṟalum paṭaittaṉa moḻitalu</l>
 <l>mariyā ḷeṉṟalum nīkū ṟeṉṟalu</l>
 <l>nakaikoṇ ṭā<lb n="5"/>ṟṟalu nakāturai yeṉṟalum</l>
@@ -417,7 +418,7 @@ ttatu.</p>
 <l>vāymai nāviṉ matitaraṉ pōla</l>
 <l>vuyartava muṉivar cārap</l>
 <l>peyarā nilaiyatip piṟa<add place="below">ṅ</add>kuperu malaiyē.</l></lg>
-    <p xml:id="TNV17koḷu13">tōḻi talaimakaṉ <del rend="scribble">ka</del>kuṟiyātatu<lb n="4"/>kūṟiyatu.</p>
+    <p xml:id="TNV17koḷu13">tōḻi talaimakaṉ <subst><del rend="scribble">ka</del><add place="in-place">ku</add></subst>ṟiyātatu<lb n="4"/>kūṟiyatu.</p>
   <lg xml:id="TNV17poem14">
 <l>koṭuñcilai valatta raṭuntoḻiṟ cīṟṟat</l>
 <l>teṉṉaiya rivvaḻi varukuvar</l>
@@ -466,7 +467,7 @@ ttatu.</p>
 <l>puyaṟkuḻaṉ maṭantaiyar pūṅkaru<del rend="dot">ṅk</del>m pulakkaiyi</l>
 <l>ṉakaikkavi ṉavāya vāmeṉa</l>
 <l>vavaikkuṉar mā<lb n="7"/>tō vilaṅkukatir muttē.</l></lg>
-  <p xml:id="TNV17koḷu22">k<del rend="dot">e</del>aiyuṟai veḷumai kūṟiyatu.</p>
+  <p xml:id="TNV17koḷu22"><subst><del rend="dot">ke</del><add place="in-place">kai</add></subst>yuṟai veḷumai kūṟiyatu.</p>
   <lg xml:id="TNV17poem23"> 
 <l>māṇeḻi laṇṇal vāṅkutum yāmē</l>
 <l>cēṇuyar<lb n="26"/> cilampiṉ <del rend="dot">ṉ</del><lb n="8"/>
