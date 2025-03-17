@@ -1,0 +1,313 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 17. <persName xml:lang="ta">Pālaipāṭiya Peruṅkaṭuṅkō</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+                     <idno type="siglum">KT17</idno>
+
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+              <persName>
+                  <abbr>T.V.G.</abbr>
+                  <expan>T. V. Gopal Iyer</expan>
+              </persName>
+          </person>
+      </listPerson>
+        <listWit n="1"/>
+        <listWit n="2"/>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT17-kilavi">
+          <p type="edition">tōḻiyiṟ kūṭṭam vēṇṭip piṉṉiṉṟa talaimakaṉ tōḻi kuṟai maṟāmal kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Uttered so that the confidante might not refuse [his] request by HIM who begged wishing the help of the confidante.</p>
+          </div>
+
+        <div xml:id="KT17" corresp="#TNV17poem25">
+            <lg type="edition">
+<l>                māveṉa maṭalu mūrpa pūveṉak</l>
+<l>                kuvimuki ḻerukkaṅ kaṇṇiyuñ cūṭupa</l>
+<l>                maṟuki ṉārkkavum paṭupa</l>
+<l>                piṟitu mākupa kāmaṅkāḻk koḷiṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>For horses they'll ride Palmyra-stems and for flowers</l>
+                <l>they'll wear Yarcum chaplets of piled-up buds</l>
+                <l>and in the streets they'll happen to shout</l>
+                <l>and other things will come forth<note place="foot"><term xml:lang="ta">piṟitum ākupa</term> is a combination of a pronoun in n.sg. as a subject with a 3rd pl. for predicate: this is unusual, but it might be explained as a literary freedom for the sake of the parallelism of the 4 lines.</note> if desire comes to a climax.</l>
+                <lg type="alternate" resp="#TVG" sameAs="3b+4b">
+                  <l>and in the streets they'll be shouted at<note place="foot">So this means that, they will make themselves a public nuisance – KT 32 in this connection talks about <term xml:lang="ta">paḻi</term> "disgrace". If so, it means taking paṭupa already as a marker of the passive. There are a few passages in the KT where this seems possible (cf. KT 194.1, 288.5).</note></l>
+                  <l>and they'll become some other thing ...<note place="foot">So Cām.'s alternative interpretation; for the traditional last escape is jumping off a mountain. (Where this is clearly attested for the first time I do not know, unless in KT 69, where it is the solution chosen by a female monkey who had lost her husband.) A similar suggestive formulation with piṟitu is to be found in KT 69.1, 302.9.</note></l>
+                </lg>
+                
+
+             </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#KT17">
+<interp type="alignment" select="0">11MG34MG21MG14M2G21MG2M,108MG</interp>
+<entry>
+<form>mā</form>
+<def>horse</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭal-um</form>
+<def>Palmyra-stem</def>
+<form type="simple">maṭal</form>
+<gramGrp>
+  <gram type="role">feminine</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ūrpa</form>
+<def>they-mount</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa<c type="geminated">k</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuvi</form>
+<def>heap</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mukiḻ</form>
+<def>bud</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>erukkam</form>
+<def>yarcum</def>
+<form type="sandhi">erukkaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇi-<c type="glide">y</c>um</form>
+<def>chaplet</def>
+<form type="simple">kaṇṇi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cūṭupa</form>
+<def>they-wear</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟukiṉ</form>
+<def>street</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ārkka-<c type="glide">v</c>um</form>
+<def>shout</def>
+<form type="simple">ārkka</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>paṭupa</form>
+<def>they-happen</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟit<c type="elided">u</c>-um</form>
+<def>other-it</def>
+<form type="simple">piṟitu</form>
+<form type="sandhi">piṟit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ākupa</form>
+<def>they-become</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāmam</form>
+<def>desire</def>
+<form type="sandhi">kāmaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāḻkkoḷiṉ-ē</form>
+<def>coming-to-a-climax-if</def>
+<form type="simple">kāḻkkoḷiṉ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+  <standOff corresp="#KT17" type="apparatus"><listApp>
+<app corresp="6,24">
+        <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">maṭalu mūrpa pūveṉak</lem>
+        <rdg wit="#L1">maṭa_ mūrppu vēṉak</rdg>
+        </app>
+<app corresp="48,54">
+        <lem wit="#C2 #C3v #G1v #G2 #EA #Cam">cūṭupa</lem>
+        <rdg wit="#L1 #C1 #C3 #G1">cūṭu</rdg>
+        </app>
+<app corresp="81,87">
+        <lem wit="#L1 #C1 #C2 #C3 #G1 #EA #Cam">mākupa</lem>
+        <rdg wit="#G2">māpē</rdg>
+        </app>
+<app corresp="87,102">
+        <lem wit="#L1 #C2 #C3 #G1 #KK #EA #Cam">kāmaṅkāḻk koḷiṉē</lem>
+        <rdg wit="#G2 #May #KKv #Kul #Camv #IrV">kāmaṅkāḻ koḷiṉē</rdg>
+<rdg wit="#C1">kāmaṅkāḻk koḻiṉē</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xml:id="C1" source="mss/C1_UVSL_1076.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan>
+    <witness xml:id="C1v">
+        <abbr type="siglum">C1<hi rend="subscript">v</hi></abbr>
+        <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="C2" source="mss/C2_UVSL_183.xml">
+    <abbr type="siglum">C2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan>
+    <witness xml:id="C2v">
+      <abbr type="siglum">C2<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="C3" source="mss/C3_UVSL_184.xml">
+    <abbr type="siglum">C3</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan>
+    <witness xml:id="C3v">
+      <abbr type="siglum">C3<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="G1" source="mss/G1_GOML_TD65.xml">
+    <abbr type="siglum">G1</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="G2" source="mss/G2_GOML_TR1072.xml">
+    <abbr type="siglum">G2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2ac</abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="EA" source="mss/EA.xml">
+    <abbr type="siglum">EA</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName> 1915</expan>
+  </witness>
+<witness xml:id="Cam" source="mss/Cam.xml">
+    <abbr type="siglum">Cām</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937</expan>
+    <witness xml:id="Camv">
+      <abbr type="siglum">Cām<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv2">
+      <abbr type="siglum">Cām<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="L1">
+    <abbr type="siglum">L1</abbr>
+    <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
+    <witness xml:id="L1v">
+      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+      <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="KK">
+    <abbr type="siglum">KK</abbr>
+    <expan><title xml:lang="ta">Kaḷaviyal Kārikai</title>, <term xml:lang="ta">urai</term></expan>
+  </witness>
+<witness xml:id="May">
+    <abbr type="siglum">May</abbr>
+    <expan><persName xml:lang="ta">Mayilainātar</persName> on <title xml:lang="ta">Naṉṉūl</title></expan>
+  </witness>
+<witness xml:id="Kul">
+    <abbr type="siglum">Kūḻ</abbr>
+    <expan><persName xml:lang="ta">Kūḻaṅkaittampiraṉ</persName> on <title xml:lang="ta">Naṉṉūl</title></expan>
+  </witness>
+<witness xml:id="IrV">
+    <abbr type="siglum">IrV</abbr>
+    <expan>edition of <persName xml:lang="ta">Irāka Vaiyaṅkār</persName> from 1946</expan>
+  </witness>
+</listWit></standOff></TEI>

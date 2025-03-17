@@ -1,0 +1,365 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 1. <persName xml:lang="ta">Tīpputtōḷār
+          
+        </persName>
+      </title>
+        
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+                    <idno type="siglum">KT1</idno>
+
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"/>
+        <listWit n="2"/>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT1-kilavi">
+          <p type="edition">tōḻi kaiyuṟai maṟuttatu.</p>
+          <p type="translation" xml:lang="en">The confidante refusing [the acceptance of his] present.<note place="foot">
+          This poem is traditionally supposed to be spoken by the confidante. It stands to reason, however, that it is the original Maṅgalam verse of the collection. Firstly it deals obviously with a description of god Murukaṉ and his hill, as is typical for the invocatory stanza, secondly the anthology has the odd number of 401 verses. Probably it has been replaced by one of those Maṅgalams composed by <persName xml:lang="ta">Pāratam Pāṭiya Peruntēvaṉār</persName> on all the old anthologies, the KT, the NA, the AN, the PN and the AiN. Probably the poem had achieved its position as the first in the collection by the time of the <persName xml:lang="ta">Yāpparuṅkalak Kārikai</persName>, for in kār. 22 it is quoted as an example for Akaval metre: <term xml:lang="ta">akavaṟku utāraṇañ ceṅ kaḷam paṭak koṉṟu</term>. (This rare example of a poem quoted directly in the aphorism of a work of ilakkaṇam has been pointed out to me by JLC.)</note>
+          </p>
+        </div>
+        <div xml:id="KT1" corresp="#TNV17poem37">
+            <lg type="edition">
+<l>                ceṅkaḷam paṭakkoṉ ṟavuṇart tēytta</l>
+<l>                ceṅkō lampiṟ ceṅkōṭ ṭiyāṉaik</l>
+<l>                kaḻaṟoṭic cēey kuṉṟaṅ</l>
+<l>                kurutip pūviṉ kulaikkān taṭṭē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>           Red the ground from killing, the demons reduced</l>
+<l rend="indent">by red-stemmed<note place="foot">Tradition understands <term xml:lang="ta">cem kōl</term> as <q>straight</q> and <q>thick</q>, that is, a deviation from the play on the colour red, though the words remain the same.</note> arrows, red-tusked elephants,<note place="foot">Or perhaps it is only one elephant, because the elephant seems to have preceded the peacock as the animal carrying Murukaṉ.</note></l>
+<l>
+    <choice>
+      <seg>anklets and bracelets</seg>
+<seg>bracelets becoming loose–<note place="foot">The formulaic <term xml:lang="ta">kaḻal-toṭi</term> is one of those cases where Cām.'s gloss (<term xml:lang="ta">uḻala iṭṭa</term> "swinging") deviates from the obvious. Otherwise (cf. KT 7.1) <term xml:lang="ta">kaḻal</term> is used for the anklets of (warlike) men. Presumably he bases himself on the gloss of the formula to be found two times in the old commentary on PN: <term xml:lang="ta">kaḻala iṭuppaṭṭa vīravaḷai</term> (PN 31.2, 128.5).</note></seg>
+    </choice>
+</l>
+<l rend="indent">–the red one's hill</l>
+<l rend="indent4">full of Malabar lilies, a bunch of blood-flowers.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT1">
+<interp type="alignment" select="0">17MG43ML39M2G2M,104MG</interp>
+<entry>
+<form>cem</form>
+<def>red</def>
+<form type="sandhi">ceṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷam</form>
+<def>ground</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭa<c type="geminated">k</c></form>
+<def>happen</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṉṟ<c type="elided">u</c></form>
+<def>felled</def>
+<form type="sandhi">koṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avuṇar<c type="geminated">t</c></form>
+<def>demon</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+<note>The traditional identification of <term xml:lang="ta">avuṇar</term> with Skt. asura- is a morphological enigma, and the context does not give any hint except that the <term xml:lang="ta">avuṇar</term> seem to be enemies of Murukaṉ. The only other occurrence in the early anthologies is PN 174.1 where they are enemies of <term xml:lang="ta">Māyōṉ</term>.</note>
+</entry>
+<entry>
+<form>tēytta</form>
+<def>reduced-</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+<form type="sandhi">ceṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōl</form>
+<def>stem</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ampiṉ</form>
+<def>arrow</def>
+<form type="sandhi">ampiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+<note>Here (like on many occasions) one might ask, why <term xml:lang="ta">ampu</term> comes as an oblique in -iṉ, but yāṉai stays unchanged, while both of them must be interpreted as attributes to <term xml:lang="ta">cēey</term> (Murukaṉ). The traditional answer is: for metrical reasons; just <term xml:lang="ta">ampu</term>, with over-short -u is not a complete metrical foot.</note>
+</entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+<form type="sandhi">ceṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭṭu</form>
+<def>tusk-</def>
+<form type="sandhi">kōṭṭi</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉai<c type="geminated">k</c></form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>kaḻal</form>
+<def>anklet</def>
+<form type="sandhi">kaḻaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>kaḻal</form>
+<def>loosen-</def>
+<form type="sandhi">kaḻaṟ</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
+<entry>
+<form>toṭi<c type="geminated">c</c></form>
+<def>bracelet</def>
+<form type="sandhi">ṟoṭi<c type="geminated">c</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cēey</form>
+<def>redness/Murukaṉ</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṉṟam</form>
+<def>hill</def>
+<form type="sandhi">kuṉṟaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuruti<c type="geminated">p</c></form>
+<def>blood</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūviṉ</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kulai<c type="geminated">k</c></form>
+<def>bunch</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāntaṭṭ<c type="elided">u</c>-ē</form>
+<def>Malabar-glory-lily-it</def>
+<form type="simple">kāntaṭṭu</form>
+<form type="sandhi">kāntaṭṭ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+<standOff corresp="#KT1" type="apparatus"><listApp>
+<app corresp="35,41">
+        <lem wit="#C2 #C3v #Cam">lampiṟ</lem>
+        <rdg wit="#L1 #C1 #C3 #G1 #G2 #Nam #EA">lampiṉ</rdg>
+        </app>
+<app corresp="41,47">
+        <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">ceṅkōṭ</lem>
+        <rdg wit="#PP">ceṅkō</rdg>
+<rdg wit="#AA">veṇkōṭ</rdg>
+        </app>
+<app corresp="55,64">
+        <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">kaḻaṟoṭic</lem>
+        <rdg wit="#Camv">kaḻaṟoṭīi</rdg>
+        </app>
+<app corresp="64,68">
+        <lem wit="#C1 #C2 #C3 #G1v #G2 #Ilv #EA #Cam">cēey</lem>
+        <rdg wit="#G1">cēeyk</rdg>
+<rdg wit="#L1">cēe</rdg>
+<rdg wit="#IV">cēeya</rdg>
+<rdg wit="#Il #PP #CP">cēya</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xml:id="C2" source="mss/C2_UVSL_183.xml">
+    <abbr type="siglum">C2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan>
+    <witness xml:id="C2v">
+      <abbr type="siglum">C2<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="C3" source="mss/C3_UVSL_184.xml">
+    <abbr type="siglum">C3</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan>
+    <witness xml:id="C3v">
+      <abbr type="siglum">C3<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="Cam" source="mss/Cam.xml">
+    <abbr type="siglum">Cām</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937</expan>
+    <witness xml:id="Camv">
+      <abbr type="siglum">Cām<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv2">
+      <abbr type="siglum">Cām<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="L1">
+    <abbr type="siglum">L1</abbr>
+    <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
+    <witness xml:id="L1v">
+      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+      <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="C1" source="mss/C1_UVSL_1076.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan>
+    <witness xml:id="C1v">
+        <abbr type="siglum">C1<hi rend="subscript">v</hi></abbr>
+        <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="G1" source="mss/G1_GOML_TD65.xml">
+    <abbr type="siglum">G1</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="G2" source="mss/G2_GOML_TR1072.xml">
+    <abbr type="siglum">G2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2ac</abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="Nam">
+    <abbr type="siglum">Nam</abbr>
+    <expan><persName xml:lang="ta">Nampi</persName> on <title xml:lang="ta">Akapporuḷ Viḷakkam</title></expan>
+  </witness>
+<witness xml:id="EA" source="mss/EA.xml">
+    <abbr type="siglum">EA</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName> 1915</expan>
+  </witness>
+<witness xml:id="PP">
+    <abbr type="siglum">PP</abbr>
+    <expan>palm leaf ms. (<term xml:lang="ta">ēṭṭu kuṟippu?</term>) of <persName xml:lang="ta">Pūṇṭiyappap Pulavar</persName></expan>
+  </witness>
+<witness xml:id="AA">
+    <abbr type="siglum">AA</abbr>
+    <expan>fragments of a palm leaf manuscript from <term xml:lang="ta">Aṇṇāmalai</term></expan>
+  </witness>
+<witness xml:id="Il">
+    <abbr type="siglum">Iḷ</abbr>
+    <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
+    <witness xml:id="Ilv">
+      <abbr type="siglum">Iḷ<hi rend="subscript">v</hi></abbr>
+      <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="IV">
+    <abbr type="siglum">IV</abbr>
+    <expan><persName xml:lang="ta">Vaittiyanāta Tecikar</persName> on <title xml:lang="ta">Ilakkaṇa Viḷakkam</title></expan>
+  </witness>
+</listWit></standOff><standOff corresp="#KT1-kilavi" type="wordsplit">
+<interp type="alignment" select="0">7MG12MG3M,23MG</interp>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kai­yuṟai</form>
+<def>present</def>
+<form type="sandhi">kaiyuṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟutta­tu</form>
+<def>refused-it</def>
+<form type="sandhi">maṟuttatu</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
