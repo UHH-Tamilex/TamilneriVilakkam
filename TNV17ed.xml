@@ -593,7 +593,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu37">eṉpatu talaimakaṉaik kuṟiyiṉ<!--note place="foot">I think <hi rend="italic">kuṟi</hi> referred to both the tryst and the location of the tryst and the early theoreticians and commentators used them quite interchangeably. Perhaps later editors sought to standardise and narrow the meaning of the word into just the tryst, hense the addition of <hi rend="italic">va(yiṉ)</hi>.</note--> iṟuttip peyarntatu.</p>
+    <p xml:id="TNV17koḷu37">eṉpatu talaimakaṉaik kuṟiyiṉ<note place="foot">I think <hi rend="italic">kuṟi</hi> referred to both the tryst and the location of the tryst and the early theoreticians and commentators used them quite interchangeably. Perhaps later editors sought to standardise and narrow the meaning of the word into just the tryst, hense the addition of <hi rend="italic">va(yiṉ)</hi>.</note> iṟuttip peyarntatu.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem38"> 
@@ -10825,19 +10825,19 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
   </desc>
 </interp><listApp>
   <app corresp="24,30">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">tēytta</lem>
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #KT1">tēytta</lem>
     <rdg wit="#TNVcac">tē<lb n="31"/>ytta<gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
   <app corresp="35,41">
     <lem wit="#TNVms #TNVc">lampiṉ</lem>
-    <rdg wit="#TNV1937 #TNV1947">lampiṟ</rdg>
+    <rdg wit="#TNV1937 #TNV1947 #KT1">lampiṟ</rdg>
   </app>
   <app corresp="64,68">
-    <lem wit="#TNVms #TNV1937 #TNV1947">cēey</lem>
+    <lem wit="#TNVms #TNV1937 #TNV1947 #KT1">cēey</lem>
     <rdg wit="#TNVc">cē<gap reason="illegible" quantity="1" unit="character"/>y</rdg>
   </app>
   <app corresp="86,95">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kulaikkān</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KT1">kulaikkān</lem>
     <rdg wit="#TNVmsac">kulaikkukān</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV17poem38" source="alignments/TNV17poem38.xml"><interp type="normalization">
