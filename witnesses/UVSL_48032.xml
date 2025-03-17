@@ -738,7 +738,7 @@
             </lg>
             <p xml:id="TNV18koḷu2">ituvu<lb n="24"/>m atu.</p>
             <lg xml:id="TNV18poem3">
-                <l>āykati<add place="above">r</add>c cel<add place="above">va</add> ṉattañ cērnteṉa</l>
+                <l>āykati<add place="above">r</add>c ce<subst><del rend="implied">la</del><add place="in-place">l</add><add place="above">va</add></subst> ṉattañ cērnteṉa</l>
                 <l>nōykūr ne<lb n="25"/>ñciṉa ḷuḻappap,</l>
                 <l>pōyiṉa mātō puḷḷiṉam pirintē.<lb n="26"/></l>
             </lg>
@@ -761,8 +761,8 @@
             <p xml:id="TNV18koḷu5">kuṟippiṉāṟ ceṟippaṟi vuṟuttatu.</p>
             <lg xml:id="TNV18poem6">
                 <l>pāṅki<lb n="33"/>ṉa rākit tīṅkutalait tarunari<add place="in-place">,</add></l>
-                <l>ṉīṅkup pirivu cūḻnta<sic><subst><del rend="implied">ṉā</del><add place="above">ṉṟu</add></subst><lb n="34"/>
-                    <add place="in-place">,</add></sic></l>
+                <l>ṉīṅkup pirivu cūḻnta<subst><del rend="implied">ṉā</del><add place="above">ṉṟu</add></subst><lb n="34"/>
+                    <add place="in-place">,</add></l>
                 <l>yāṅkeṉa moḻikō v<subst><del rend="implied">e</del><add place="above">ē</add></subst>ṅkaiyatu viṉaiyē.</l>
             </lg>
             <p xml:id="TNV18koḷu6">ciṟaip<lb n="35"/>puṟattuc ceṟippaṟi vuṟuttatu.</p>

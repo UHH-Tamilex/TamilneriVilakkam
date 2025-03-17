@@ -585,8 +585,8 @@ ttatu.</p>
   <p xml:id="TNV18comm2">vāyviṭu kiḷavimutalākat talaimakaṉeñcoṭu nōtal īṟākac collappaṭṭaṉa vil varai ikavā viravuk<lb n="4"/>kuṟi yām eṉṟavāṟu. </p>
   <lg xml:id="TNV18poem1">
 <l>aṭumpiṉ meṉkoṭi tumiyak kaṭumpakaṟ</l>
-<l>ko<del rend="dot">m</del>ṭuṅkaḻi maruṅkiṉvan takaṉṟa</l>
-<l>neṭuntē ra<lb n="5"/>ṇṇalp<del rend="dot"><unclear>e</unclear></del>iṉ ceṉṟate ṉeñcē.</l></lg>
+<l>ko<del rend="dot">ma</del>ṭuṅkaḻi maruṅkiṉvan takaṉṟa</l>
+<l>neṭuntē ra<lb n="5"/>ṇṇal<subst><del rend="dot"><unclear>pe</unclear></del><add place="in-place">pi</add></subst>ṉ ceṉṟate ṉeñcē.</l></lg>
 <p xml:id="TNV18koḷu1">talaimakaḷ āṟṟāmaikkaṇ vāyviṭu kiḷavi.</p>
   <lg xml:id="TNV18poem2">
 <l>cevvā yaṉṉaniṉ cēvalu nī<lb n="6"/>yuṅ</l>
@@ -594,14 +594,14 @@ ttatu.</p>
 <l>ṉeytuva tuḷatō viyampumi ṉemakkē.</l></lg>
   <p xml:id="TNV18koḷu2">ituvum atu.</p>
 <lg xml:id="TNV18poem3"> 
-<l>āykatic <sic>cel</sic> ṉattañ cē<lb n="7"/>rnte<subst><del rend="dot">ṉe</del><add place="in=place">ṉa</add></subst></l>
+<l>āykatic <sic>cela</sic> ṉattañ cē<lb n="7"/>rnte<subst><del rend="dot">ṉe</del><add place="in=place">ṉa</add></subst></l>
   <l>nōykūr neñciṉa<del rend="dot"><unclear>ṭu</unclear> </del> ḷuḻappap</l>
 <l>pōyiṉa mātō puḷḷiṉam pirintē.</l></lg>
    <p xml:id="TNV18koḷu3">talaimakaṉ ciṟaippuṟamākap piṟitiṉmēl vai<lb n="8"/>ttut tōḻi kūṟiyatu.</p>
   <lg xml:id="TNV18poem4"> 
 <l>mālai maṇantu kālaip piriyuṅ,</l>
 <l>kātala ruṭaiyaipō kaṟainīṅku matiya</l>
-<l>miravē yāyi ṉallai <subst><del rend="dot"><unclear>k</unclear></del></subst>pakalē</l>
+<l>miravē yāyi ṉallai <subst><del rend="dot"><gap reason="illegible" unit="character" quantity="1"/></del><add place="below">pa</add></subst>kalē</l>
 <l>me<pb n="12r" facs="24"/><lb n="1"/>lliyaṟ koṭicci nutaliṉum</l>
 <l>pulleṉ ṟaṉaiyā ṉōkō yāṉē.</l></lg>
 <p xml:id="TNV18koḷu4">ituvum atu.</p>
@@ -617,7 +617,7 @@ ttatu.</p>
 <p xml:id="TNV18koḷu6">ciṟaippuṟattuc ceṟippaṟi vuṟut<del rend="dot"><unclear>t</unclear></del>tatu.</p>
   <lg xml:id="TNV18poem7"> 
 <l>uraiyā yaṇṇal ceytaṟa muri<lb n="4"/>taṉiṉ</l>
-<l>viraivāy vēṅkai <del rend="scribble"><unclear>va</unclear></del>viriyak</l>
+<l>viraivāy vēṅkai <del rend="scribble"><gap reason="illegible" unit="character" quantity="1"/></del>viriyak</l>
 <l>kuralcāyn toḻintateṅ koypuṉat tiṉaiyē.</l></lg>
 <p xml:id="TNV18koḷu7">veḷippaṭac ceṟippaṟi vuṟuttatu.</p><lb n="5"/>
   <lg xml:id="TNV18poem8"> 
