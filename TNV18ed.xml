@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 18. </title>
+        <title type="sub">Experimenting with formatting for the final edition.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listWit>
+          <witness xml:id="Ed" source="TNV18ed.xml">
+            <abbr type="siglum">Ed</abbr>
+            <expan>
+              <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>
+            </expan>
+          </witness> 
+          <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
+            <abbr type="siglum">TNVms</abbr>
+            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <listWit>
+              <witness xml:id="TNVmsac" n="ac">
+                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
+                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNVmspc" n="pc">
+                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
+                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
+            <abbr type="siglum">TNVc</abbr>
+            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <listWit>
+              <witness xml:id="TNVcac" n="ac">
+                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNVcpc" n="pc">
+                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
+                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
+            <abbr type="siglum">TNV1937</abbr>
+            <expan>TNV 1937</expan>
+            <listWit>
+              <witness xml:id="TNV1937ac" n="ac">
+                <abbr type="siglum">TNV1937ac</abbr>
+                <expan>TNV print [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNV1937pc" n="pc">
+                <abbr type="siglum">TNV1937pc</abbr>
+                <expan>TNV print [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
+            <abbr type="siglum">TNV1947</abbr>
+            <expan>TNV 1947</expan>
+            <listWit>
+              <witness xml:id="TNV1947ac" n="ac">
+                <abbr type="siglum">TNV1947ac</abbr>
+                <expan>TNV print [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="TNV1947pc" n="pc">
+                <abbr type="siglum">TNV1947pc</abbr>
+                <expan>TNV print [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="KKms" source="witnesses/KKms.xml">
+            <abbr type="siglum">KKms</abbr>
+            <expan>KKms</expan>
+            <listWit>
+              <witness xml:id="KKmsac" n="ac">
+                <abbr type="siglum">KKms<hi rend="subscript">ac</hi></abbr>
+                <expan>KKms [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="KKmspc" n="pc">
+                <abbr type="siglum">KKms<hi rend="subscript">pc</hi></abbr>
+                <expan>KKms [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="KKed" source="witnesses/KKprint.xml">
+            <abbr type="siglum">KKed</abbr>
+            <expan>KKprint</expan>
+            <listWit>
+              <witness xml:id="KKedac" n="ac">
+                <abbr type="siglum">KKed<hi rend="subscript">ac</hi></abbr>
+                <expan>KKprint [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="KKedpc" n="pc">
+                <abbr type="siglum">KKed<hi rend="subscript">pc</hi></abbr>
+                <expan>KKprint [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="NAed" source="witnesses/NAprint.xml">
+            <abbr type="siglum">NAed</abbr>
+            <expan>NAprint</expan>
+          </witness>          
+          <witness xml:id="TKn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+            <expan>Tolkāppiyam Nacci</expan>
+          </witness>
+          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+            <expan>Tolkāppiyam Pēr</expan>
+          </witness>
+          <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
+            <abbr type="siglum">YV1960a</abbr>
+            <expan>YV1960</expan>
+          </witness>
+          <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
+            <abbr type="siglum">YV1960b</abbr>
+            <expan>YV1960</expan>
+          </witness>
+          <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
+              <abbr type="siglum">KT2</abbr>
+              <expan>KT2</expan>
+              <listWit>
+                <witness xml:id="KT2-C2" select="#C2">
+                  <abbr type="siglum">KT2-C2</abbr>
+                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
+                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
+                </witness>
+              </listWit>
+          </witness>
+           <witness xml:id="KT1" source="https://uhh-tamilex.github.io/Kuruntokai/KT1.xml">
+              <abbr type="siglum">KT1</abbr>
+              <expan>KT1</expan>
+              </witness>
+        
+           <witness xml:id="KT17" source="https://uhh-tamilex.github.io/Kuruntokai/KT17.xml">
+              <abbr type="siglum">KT17</abbr>
+              <expan>KT17</expan>
+          </witness>
+          <witness xml:id="KT18" source="https://uhh-tamilex.github.io/Kuruntokai/KT18.xml">
+              <abbr type="siglum">KT18</abbr>
+              <expan>KT18</expan>
+          </witness>
+          <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
+              <abbr type="siglum">KT40</abbr>
+              <expan>KT40</expan>
+          </witness>
+          <witness xml:id="KT78" source="https://uhh-tamilex.github.io/Kuruntokai/KT78.xml">
+              <abbr type="siglum">KT78</abbr>
+              <expan>KT78</expan>
+          </witness>
+           <witness xml:id="KT88" source="https://uhh-tamilex.github.io/Kuruntokai/KT78.xml">
+              <abbr type="siglum">KT88</abbr>
+              <expan>KT88</expan>
+          </witness>
+           <witness xml:id="KT119" source="https://uhh-tamilex.github.io/Kuruntokai/KT119.xml">
+              <abbr type="siglum">KT119</abbr>
+              <expan>KT119</expan>
+          </witness>
+        <witness xml:id="TNVed" source="TNV1947.xml">
+                <abbr type="siglum">TNVed</abbr>
+                <expan>TNV print</expan>
+            </witness></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition" corresp="#Ed">
+    <body>
+      <div type="mūlam" rend="parallel">
+        <lg xml:id="TNV18">
+      <l>kātaṉ mikaviṉ vāyviṭu kiḷaviyun</l>
+<l>tōḻi ciṟaippuṟat tēkiṭu kiḷaviyuñ</l>
+<l>ceṟippaṟi vuṟuttaluñ cūḷeṉa niṉaittalu</l>
+<l>miṟappa nuvaṟalu miruḷvara vēṇṭalu</l>
+<l>maṟuttalu nērtaluṅ kuṟiyiṭam vakuttalum</l>
+<l>nayappa moḻitalu mavaṉvara vuṇarttaluṅ</l>
+<l>kuṟittuḻi yuyttalum peyarcciyo ṭalkuṟic</l>
+<l>ciṟaippuṟa mākac ceppalu nōtalu</l>
+<l>miṟaippuṟa mākiya viravuk kuṟiyē.</l></lg>
+</div>
+</body>
+</text>
+<text xml:lang="ta" type="edition" corresp="#Ed">
+    <body>
+      <head xml:lang="en">Commentary</head>
+      <p xml:id="TNV18comm1">eṉpatu iravuk kuṟi yām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intend to make known the way in which 
+      the nighttime tryst occurs.</p>
+      <p xml:id="TNV18comm2">vāy viṭu kiḷavi mutal ākat talaimakaṉeñcoṭu nōtal īṟākac collap paṭṭaṉa vil 
+      varai ikavā viravuk kuṟi yām eṉṟa vāṟu.</p>
+      <p xml:lang="en">The things mentioned, beginning with 'speech [where she] divulges' and ending with 'the hero aching with his heart', are the nighttime tryst that occurs outside the boundary of the house.</p>
+ <div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem1"> 
+        <l>aṭumpiṉ meṉkoṭi tumiyak kaṭumpakaṟ</l>
+        <l>koṭuṅkaḻi maruṅkiṉvan takaṉṟa</l>
+        <l>neṭuntē raṇṇalpiṉ ceṉṟate ṉeñcē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu1">eṉpatu talaimakaḷ āṟṟāmaik kaṇ vāy viṭu kiḷavi.</p>
+    </div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem2"> 
+        <l>cevvā yaṉṉaniṉ cēvalu nīyum</l>
+        <l>kaivē laṇṇalaik kaḻaṟi</l>
+        <l>ṉeytuva tuḷatō viyampumi ṉemakkē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu2">eṉpatu ituvum atu.</p>
+    </div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem3"> 
+        <l>āykatirc celva ṉattañ cērnteṉa</l>
+        <l>nōykūr neñciṉa ḷuḻappap</l>
+        <l>pōyiṉa mātō puḷḷiṉam pirintē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu3">eṉpatu talaimakaṉ ciṟaip puṟam ākap piṟitiṉ mēl vaittut tōḻi kūṟiyatu.</p>
+    </div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem4"> 
+        <l>mālai maṇantu kālaip piriyuṅ</l>
+        <l>kātala ruṭaiyaiyō kaṟainīṅku matiya</l>
+        <l>miravē yāyi ṉallai pakalē</l>
+        <l>melliyaṟ koṭicci nutaliṉum</l>
+        <l>pulleṉ ṟaṉaiyā ṉōkō yāṉē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu4">eṉpatu ituvum atu.</p>
+    </div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem5"> 
+        <l>aṉṉai vāḻi nerunaṉ mātar</l>
+        <l>meṉmulai yarumpiya vākamu</l>
+        <l>meṉṉum paṉmuṟai nōkkiṉa ḷiṉitē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu5">eṉpatu kuṟippiṉāṟ ceṟippaṟivuṟuttatu.</p> 
+    </div>
+ <div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem6"> 
+        <l>pāṅkiṉa rākit tīṅkutalait tarunari</l>
+        <l>ṉīṅkup pirivu cūḻntaṉṟa</l>
+        <l>yāṅkaṉa moḻikō vēṅkaiyatu viṉaiyē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu6">eṉpatu ciṟaip puṟattuc ceṟippaṟi vuṟuttatu.</p>
+    </div>
+ <div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem7"> 
+        <l>uraiyā yaṇṇal ceytiṟa muritaṉiṉ</l>
+        <l>viraivāy vēṅkai viriyak</l>
+        <l>kuralcāyn toḻintateṅ koypuṉat tiṉaiyē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu7">eṉpatu veḷip paṭac ceṟippaṟivuṟuttatu.</p> 
+    </div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem8"> 
+        <l>ammeṉ cāya lāyiḻai tiṟattup</l>
+        <l>poymmai niṉvā yuḷateṉiṉ</l>
+        <l>meymmai yārō viḷampiṉar piṟarē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu8">eṉpatu cūḷ eṉa niṉaintatu.</p>
+    </div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem9" corresp="#KT18">
+        <l>vēral vēli vērkkōṭ palaviṉ</l>
+        <l>cāra ṉāṭa cevviyai yākumati</l>
+        <l>yāraḵ taṟintici ṉōrē cāraṟ</l>
+        <l>ciṟukōṭṭup perumpaḻan tūṅki yāṅkiva</l>
+        <l>ḷuyirtavac ciṟitu kāmamō peritē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu9">eṉpatu āṟṟāḷ eṉpatu paṭak kūṟiyatu.</p>
+</div> 
+ <div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem10">
+        <l>oḷḷiṇar vēṅkai yoḷḷiṇar vēṅkainiṉ</l>
+        <l>kiḷaiyoṭu makiḻāk kiḷaitapu vēṅkai</l>
+        <l>nīyē malartan tōyē</l>
+        <l>yāyō veṉuṅkura lāvayiṟ kaṭintē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu10">eṉpatu eṉa varuvaṉavuṅ koḷka.</p>
+</div>                      
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem11">
+        <l>varivaḷait tōḷi yorutaṉi yoḻiyap</l>
+        <l>piritu meṉṟi yāyiṟ peritaḻintu</l>
+        <l>pariyal vāḻiyō neñcē</l>
+        <l>iruḷiṭai yeytalu meytumā<!--note place="foot">A <hi rend="italic">figura etymologica</hi> as found in TNV17poem15: <p xml:lang="ta">alavaṉ āṭṭalum āṭṭāḷ...</p></note--> ṉamakkē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu11">eṉpatu iruḷ varal vēṇṭal.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem12">
+        <l>niraitā raṇṇa ṉeṭuṅkaḻai yukutta</l>
+        <l>virikatir nittilam parattali</l>
+        <l>ṉiravum pakalpōṉ ṟilaṅkumā livaṇē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu12">eṉpatu iraviṉ varutal ariteṉṟatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem13">
+        <l>tērā ṉallaṉ pēruṇar viṉṉē</l>
+        <l>yikantō ṉalla ṉaṉpuperi tuṭaiya</l>
+        <l>ṉiṉaiyō ṉiṉaiya ṉākutaṉ</l>
+        <l>maṉaṉiṟai kuṉṟa vāṟṟā māṟē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu13">eṉpatu nērtal.</p>
+    </div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem14">
+        <l>naṟaikamaḻ cāntameñ cāntē pūvum</l>
+        <l>poṟaimali kāntaḷam pūvē yāṭiṭañ</l>
+        <l>ciṟaivaṇ ṭārkkuñ ceyalaiyam poḻilē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu14">eṉpatu iravuk kuṟi yiṭaṅ kūṟiṟṟu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem15">
+        <l>vēypayi liṟumpiṉ viyalaṟaic cilampiṉ</l>
+        <l>vālveḷ ḷaruvi muḻaviṟ ṟatumpuñ</l>
+        <l>cēyuyar māmalaic cilampaṉu</l>
+        <l>māynuta larivai yarukiṉaṉ peritē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu15">eṉpatu iravuk kuṟi nayappittatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem16" corresp="#KT88">
+        <l>oliveḷ ḷaruvi yōṅkumalai nāṭaṉ</l>
+        <l>ciṟukaṭ peruṅkaḷiṟu vayappuli tākkit</l>
+        <l>toṉmuraṇ cōrun tuṉṉaruñ cōlai</l>
+        <l>naṭunāḷ varutalum varūum</l>
+        <l>vaṭunā ṇalamē tōḻi nāmē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu16">eṉpatu maṟuttatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem17">
+        <l>koṭuvari vayappuli tākkak kolaiyuyntu</l>
+        <l>naṭunāḷ yāmat taruñcura nīntip</l>
+        <l>pativayiṟ pukuntōṟ kiyāvatuṅ</l>
+        <l>katavan tiṟattal kaṉaṅkuḻai kaṭaṉē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu17">eṉpatu valitākac colli nayappittatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem18">
+        <l>puḷḷun tuyilpuṭai peyarntaṉa puṉaluḷ</l>
+        <l>vaḷḷitaḻp puṉṉai maṇikkāy vīḻum</l>
+        <l>vantaṉaṉ kollō tāṉē</l>
+        <l>ventiṟa laṇṇa ṉiṉaintaṉaṉ viraintē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu18">eṉpatu tōḻi varavuṇarntatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem19">
+        <l>aṉṉā yaṉṉāy kāṇeṉ ṟirumuṟai</l>
+        <l>taṉyā ṉeṭuppavun tuyiṉmaṭin taṉaḷē</l>
+        <l>yilaṅkilai neṭuvē leṭuttalum</l>
+        <l>pulamputuya rakalak kuṟivan tōṉē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu19">eṉpatu varavuṇarttiyatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem20">
+        <l>kaḷḷaviḻ kōtaitaṉ kaṇpōṟ kuvaḷaiyum</l>
+        <l>muḷḷeyi ṟarumpu mullaiyum</l>
+        <l>koḷkuvam pōtunaṅ kuḷirpoḻi liṭattē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu20">eṉpatu talaimakaṉ varavuṇarntu tōḻi talaimakaḷaik kuṟi vayiṉ uyttatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem21">
+        <l>kāvi kaṇṭaṉai yāyiṟ ṟūvi</l>
+        <l>mayilēr cāyaṟ kuyilēr kiḷavi</l>
+        <l>peyarntaṉai yaruḷal vēṇṭu</l>
+        <l>miṅkivai kāṇiya veṉṉoṭum puṇarntē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu21">eṉpatu koṇṭu nīṅkal.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem22">
+        <l>vaṇarcuri yaimpāl vāṇuta larivai</l>
+        <l>yaṇaitiṟa maṟiyalaṉ yāvatum</l>
+        <l>puṇartuyiṉ maṟantaṉa puḷḷiṉam peritē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu22">eṉpatu alla kuṟip paṭutal ciṟaip puṟam ākac colliṟṟu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV18poem23">
+        <l>varivaḷaip paṇaittōṇ maṭantai yuḷḷi</l>
+        <l>yariyatu nacaiiya neñcam</l>
+        <l>peritu mevvam peṟaṟpā lōyē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV18koḷu23">talaimakaṉeñcoṭu nontatu.<note> 18.</note></p>
+</div>
+
+
+
+</body>
+</text>
+</TEI>
