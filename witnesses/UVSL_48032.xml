@@ -891,7 +891,7 @@
                 <l>yariyatu nacaiiya<lb n="15"/> neñcam<add place="in-place">,</add></l>
                 <l>peritu <subst><del rend="implied">vēva</del><add place="above, in-place">mevva</add></subst>m peṟaṟpā lōyē.</l>
             </lg>
-            <p xml:id="TNV18koḷu23">talaimakaṉe<lb n="16"/>ñcoṭu nontatu. (18)</p>
+            <p xml:id="TNV18koḷu23">talaimakaṉe<lb n="16"/>ñcoṭu nontatu.<note> (18)</note></p>
             <lg xml:id="TNV19">
                 <lb n="17"/>
                 <l>varuneṟi niṉaintu vāra leṉṟaluṅ</l>
@@ -967,7 +967,7 @@
                 <l>kaṭavu ḷāka vallatu<add place="in-place">,</add></l>
                 <l>maṭavaraṉ mātarai matittaṉ<lb n="19"/>ṟō vilamē</l>
             </lg>
-            <p xml:id="TNV19koḷu9">iṉṟaṟintēṉeṉṟal. (19)</p>
+            <p xml:id="TNV19koḷu9">iṉṟaṟintēṉeṉṟal.<note> (19)</note></p>
             <lg xml:id="TNV20">
                 <lb n="20"/>
                 <l><lb n="21"/>alarperi teṉṟalu mayalvar<sic>a</sic> vuraittalu</l>
