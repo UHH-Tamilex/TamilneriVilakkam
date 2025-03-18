@@ -722,7 +722,7 @@ vayiṉ uyttatu.</p>
 <l>ṭuriyaṉa kiḷanta piṟavun tokaii</l>
 <l>varaivu kaṭāta lāku meṉmaṉār.</l></lg>
 <p xml:id="TNV19comm1">etu. varai<lb n="4"/>vu kaṭātal ām āṟuṇarttuta<sic>n</sic>utaliṟṟu.</p>
-<p xml:id="TNV19comm2">āṟupārttuṟṟa vaccak kiḷaviyum varavu vilakkaluṅ kāppiṉ iraṅkiya kaiyaṟu kiḷaviyum iravi<lb n="5"/>ṉum pakaliṉum nīvā veṉṟalum vāral<del rend="dot">o</del> eṉṟalum paṭaittu moḻitaluṅ kuṭittiṟaṅ kūṟalumāṉiṭamakaḷātal iṉ<add place="below">ṟa</add>ṟintēṉe<lb n="6"/>ṉṟalum eṉa viṉṉa vellām varaivu kaṭātal eṉṟu colluvar pulavar eṉṟavāṟu.</p> 
+<p xml:id="TNV19comm2">āṟupārttuṟṟa vaccak kiḷaviyum varavu vilakkaluṅ kāppiṉ iraṅkiya kaiyaṟu kiḷaviyum iravi<lb n="5"/>ṉum pakaliṉum nīvā veṉṟalum vāra<subst><del rend="dot">lo</del><add place="in=place">l e</add></subst>ṉṟalum paṭaittu moḻitaluṅ kuṭittiṟaṅ kūṟalumāṉiṭamakaḷātal iṉ<add place="below">ṟa</add>ṟintēṉe<lb n="6"/>ṉṟalum eṉa viṉṉa vellām varaivu kaṭātal eṉṟu colluvar pulavar eṉṟavāṟu.</p> 
 <lg xml:id="TNV19poem1"> 
 <l>āṟē yariya veṉṉā yāṟē</l>
 <l>malkupuṉal para<lb n="7"/>tu kalluyarn taṉavē</l>
@@ -733,12 +733,12 @@ vayiṉ uyttatu.</p>
 <l>vārā tī<lb n="8"/>mō cāra ṉāṭa</l>
   <l><del rend="dot">pu</del>vuṟupuli koṉ<sic>ra</sic> ciṟukaṇ yāṉai</l>
 <l>yāṟukaṭi koḷḷu maruñcura<del rend="dot"><gap reason="illegible" unit="character" quantity="1"/></del></l>
-<l>mūṟu tuṭaiy<del rend="dot">ai</del>a tamiyai nīyē.</l></lg>
+<l>mūṟu tuṭai<subst><del rend="dot">yai</del><add place="in-place">ya</add></subst> tamiyai nīyē.</l></lg>
 <p xml:id="TNV19koḷu2">varavu vilakkiṟṟu.</p>
   <lg xml:id="TNV19poem3">
 <l>yāyē <pb n="14r" facs="28"/><lb n="1"/>tuyiṉmaṟan taṉaḷē yāyiṉu,</l>
 <l>nāyu mūru naṉituñ calavē</l>
-<l>kāva lāḷa r<del rend="dot">ā</del>ataṉiṉun tuyilā</l>
+<l>kāva lāḷa <subst><del rend="dot">rā</del><add place="in-place">ra</add></subst>taṉiṉun tuyilā</l>
 <l>rāykatir matiyaniṉ ṟalarum</l>
 <l>yāva tāṅko <lb n="2"/>lēntiḻai nilaiyē.</l></lg>
 <p xml:id="TNV19koḷu3">kāppiṉ iraṅkik kaiyaṟu kiḷavi.</p>
@@ -773,7 +773,7 @@ vayiṉ uyttatu.</p>
  <l>matikkō<space quantity="6" unit="character"/> riñcu mālvarai vāḻkkai<pb n="14v" facs="29"/><lb n="1"/>k</l>
   <l>kaṭavu ḷāka vallatu</l>
 <l>maṭavaraṉ mātarai matittaṉ<unclear><del rend="dot">te</del>ṟō vi</unclear>lamē.</l></lg>
-<p xml:id="TNV19koḷu9">iṉṟaṟintēṉeṉṟal. 19.</p>
+<p xml:id="TNV19koḷu9">iṉṟaṟintēṉeṉṟal.<note> 19.</note></p>
   <lg xml:id="TNV20">
 <l>alarperi te<lb n="2"/>ṉ<del rend="dot">al</del>ṟalu mayalvar vuraittalu<del rend="dot">m</del></l>
     <l>mulakiyal kūṟiya nīyurai yeṉṟaluñ</l>
