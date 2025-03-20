@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>NAprint</title>
+            
+         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                  </repository>
+                  <idno type="shelfmark">NAprint</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>test</summary>
+                  
+               <msItem xml:id="NAed" defective="false"><title>NAprint</title></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="baad">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="1"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>test</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/dli.jZY9lup2kZl6TuXGlZQdjZQdkZUy.TVA_BOK_0006786/manifest.json"/></facsimile>
+<text corresp="#NAed"><body xml:lang="ta">
+ <milestone unit="page" n="138" facs="147"/><pb n="138"/><lg corresp="#TNV15poem6"> 
+   
+<l>maṉavē ralkuṉ maṭantai kūṭṭaṅ</l>
+<l>kaṉavē teriyiṉum yāvatu</l>
+<l>naṉavē yeṉiṉu naṇṇalō varitē</l></lg>  
+ <milestone unit="page" n="138" facs="147"/><lg corresp="#TNV17poem1"> 
+   
+<l>nōkkiṉum piṟarmuka nōkkāḷ cāriṉum</l>
+<l>pūkkuḻaṉ maṭantai tōḷcā rummē</l>
+<l>aṉṉa talaiyaḷi yuṭaimaiyi</l>
+<l>ṉiṉṉuyirt tōḻi yēntiḻai yivaṭkē</l></lg>  
+  <milestone unit="page" n="161" facs="170"/>
+  <pb n="161"/>
+  <lg corresp="#TNV17poem7">
+ <l>kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
+<l>taiya puṇvāya māvē kaiviṭ</l>
+<l>ṭakalā ṉammaviv vakaṉpuṉan</l>
+<l>takaiyō ṉuḷḷiya taṟitalu maritē</l></lg>
+ <milestone unit="page" n="167" facs="180"/><pb n="167"/><lg corresp="#TNV17poem10"> 
+   
+<l>vāṅkiruñ kāṇaluḷ vaṇṭa layarun</l>
+<l>tēṅkamaḻ kūntaṉ makaḷiruḷ</l>
+<l>yāṅkā kiyatō pāṅkuniṉ ṉaruḷē</l></lg>
+<milestone unit="page" n="172" facs="180"/><pb n="172"/>  <lg corresp="#TNV17poem3"> 
+    
+<l>kaṇṇi takaiciṟan taṉavē taṇṇeṉ</l>
+<l>pūntaḻai cevviya pōlum vāṅkiruṅ</l>
+<l>kūntalu malkulum poliya</l>
+<l>vēntiḻai koḷkayām viḻaikuvam peritē</l></lg> 
+   <milestone unit="page" n="184" facs="192"/><pb n="184"/><lg corresp="#TNV17poem13"> 
+       
+     <l>tūymai cāṉṟa tolkuṭit tōṉṟi</l>
+<l>vāymai nāviṉ matiyāṉ pōla</l>
+<l>uyartava muṉivar cārvāp</l>
+<l>peyarā nilaiyatu piṟaṅkutiru malaiyē</l></lg>
+  <milestone unit="page" n="192" facs="200"/><pb n="192"/>    <lg corresp="#TNV17poem35">
+   
+<l>tantunī yaḷitta taṇṭaḻai kāṇṭalum</l>
+<l>vantaṉa ḷetirnta maṭantaitaṉ ṉeñca</l>
+<l>maṇmicai viḷaṅki vaḻuttīr matiyā</l>
+<l>ṉuṇṇiyaṟ paṉuva ṉuḻaiporu ṇuṉitta</l>
+<l>vāymoḻi yamuta maṭukkuvaṇ maṉṉē</l>
+<l>yāṉiṟai peṟṟatu milaḷē</l></lg>
+    <milestone unit="page" n="195" facs="204"/><pb n="195"/> <lg xml:id="TNV17poem40" corresp="TNV17poem40">
+    
+  <l>naṟumpūṅ kaṇṇiyum peruntaṇ kōtaiyu</l>
+<l>nakaivāyp piṇaiyalu mukaivāyc cūṭṭum</l>
+<l>puṉaintaṉai yaruḷal vēṇṭuñ</l>
+<l>ciṉaṅko ṭāṉaic ceḻumaṭa māṉē</l></lg>
+<milestone unit="page" n="309" facs="320"/><pb n="309"/> <lg corresp="#TNV24poem4">  
+   
+<l>āṟucel varuttatuc cīṟaṭi civappavuñ</l>
+<l>ciṉainīṅku taḷiriṉ vaṇṇam vāṭavun</l>
+<l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷuṭaṉ</l>
+<l>vēypayi laḻuva muvakkum</l>
+<l>pētai neñcam peruntaka vuṭaittē</l></lg>
+ <milestone unit="page" n="369" facs="380"/><pb n="369"/>   <lg corresp="#TNV25poem1"> 
+ 
+<l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
+<l>nillal pāṇa celliṉip pariyal</l>
+<l>pakaleñ cēri kāṇi</l>
+<l>ṉakalvaya lūra ṉāṇavum peṟumē</l></lg>    
+ <milestone unit="page" n="418" facs="429"/><pb n="418"/>     <lg corresp="#TNV24poem12"> 
+
+<l>nāḷu nāḷu māḷviṉai yaḻuṅka</l>
+<l>illiruntu makiḻvōṟ killaiyāṟ pukaḻeṉa</l>
+<l>oṇporuṭ kakalvarnaṅ kātalar</l>
+<l>kaṇpaṉi tuṭaiyiṉit tōḻi nīyē</l></lg>
+</body></text></TEI>

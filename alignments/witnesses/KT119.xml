@@ -1,0 +1,275 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 119. <persName xml:lang="ta">Cattinātaṉār (Cattiṉātaṉār, Cattinākaṉār)</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          <idno type="siglum">KT119</idno>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"/>
+        <listWit n="2"/>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT119-kilavi">
+          <p type="edition">iyaṟkaippuṇarcci puṇarntu nīṅkun talaimakaṉ pāṅkaṟku uraittatu.</p>
+          <p type="translation" xml:lang="en">Told to the companion by HIM who leaves [her] after having consummated the natural union.</p>
+          </div>
+
+
+        <div xml:id="KT119" corresp="#TNV16poem2">
+            <lg type="edition">
+<l>                ciṟuveḷ ḷaravi ṉavvarik kuruḷai</l>
+<l>                kāṉa yāṉai yaṇaṅki yāaṅ</l>
+<l>                kiḷaiyaṇ muḷaivā ḷeyiṟṟaḷ</l>
+<l>                vaḷaiyuṭaik kaiyaḷem maṇaṅki yōḷē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">Just as the young one with pretty stripes of the small white snake</l>
+           <l rend="indent">has troubled the forest elephant,<note place="foot">The fact implied here – that a snake could trouble an elephant – is not backed up by a topos either in Tamil or Sanskrit literature that I would know of. TVG here suggests the cobra as an enemy of the elephant. If we dissolve the <term xml:lang="ta">sandhi</term> in a different way, namely <term xml:lang="ta">avvari</term> as the demonstrative pronoun <term xml:lang="ta">a-</term> plus <term xml:lang="ta">vari</term>, the line would refer to one particular snake ("that striped young one of the snake"), but if there is a story it is not known to TVG</note></l>
+           <l>the youthful one, teeth bright as sprouts,</l>
+           <l>bangles on [her] hands, has troubled us.</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT119">
+<interp type="alignment" select="0">32MG17MG51MG2M,104MG</interp>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>araviṉ</form>
+<def>snake</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>a<c type="geminated">v</c></form>
+<def>pretty</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vari<c type="geminated">k</c></form>
+<def>stripe</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuruḷai</form>
+<def>young one</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṉa<c type="uncertain">m</c></form>
+<def>forest</def>
+<form type="sandhi">kāṉa</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṇaṅkiyāaṅk<c type="elided">u</c></form>
+<def>tormented-like</def>
+<form type="sandhi"><c type="glide">y</c>aṇaṅkiyāaṅk</form>
+<gramGrp>
+  <gram type="role">comparative</gram>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḷaiyaḷ</form>
+<def>young-she</def>
+<form type="sandhi">iḷaiyaṇ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muḷai</form>
+<def>sprout</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḷ</form>
+<def>light</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eyiṟṟaḷ</form>
+<def>tooth-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷai</form>
+<def>bangle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uṭai<c type="geminated">k</c></form>
+<def>possess</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaiyaḷ</form>
+<def>hand-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>em</form>
+<def>us</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">m</c>aṇaṅkiyōḷ-ē</form>
+<def>tormented-she</def>
+<form type="simple">aṇaṅkiyōḷ</form>
+<form type="sandhi"><c type="geminated">m</c>aṇaṅkiyōḷ</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+<standOff corresp="#KT119" type="apparatus"><listApp>
+<app corresp="44,48">
+        <lem wit="#C1 #C2 #C3v #G1v #G2 #EA #Cam">yāaṅ</lem>
+        <rdg wit="#L1 #C3 #G1">yāṅ</rdg>
+        </app>
+<app corresp="48,56">
+        <lem wit="#C2v #G2 #Cam">kiḷaiyaṇ</lem>
+        <rdg wit="#G1v #EA">kiḷaiyaḷ</rdg>
+<rdg wit="#L1 #C1 #C2 #C3 #G1 #Camv">kiḷaiya</rdg>
+        </app>
+<app corresp="56,71">
+        <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">muḷaivā ḷeyiṟṟaḷ</lem>
+        <rdg wit="#KK">muḷaivā yeyiṟṟaḷ</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xml:id="C1" source="mss/C1_UVSL_1076.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan>
+    <witness xml:id="C1v">
+        <abbr type="siglum">C1<hi rend="subscript">v</hi></abbr>
+        <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="C2" source="mss/C2_UVSL_183.xml">
+    <abbr type="siglum">C2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan>
+    <witness xml:id="C2v">
+      <abbr type="siglum">C2<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="C3" source="mss/C3_UVSL_184.xml">
+    <abbr type="siglum">C3</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan>
+    <witness xml:id="C3v">
+      <abbr type="siglum">C3<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="G1" source="mss/G1_GOML_TD65.xml">
+    <abbr type="siglum">G1</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="G2" source="mss/G2_GOML_TR1072.xml">
+    <abbr type="siglum">G2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2ac</abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="EA" source="mss/EA.xml">
+    <abbr type="siglum">EA</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName> 1915</expan>
+  </witness>
+<witness xml:id="Cam" source="mss/Cam.xml">
+    <abbr type="siglum">Cām</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937</expan>
+    <witness xml:id="Camv">
+      <abbr type="siglum">Cām<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv2">
+      <abbr type="siglum">Cām<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="L1">
+    <abbr type="siglum">L1</abbr>
+    <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
+    <witness xml:id="L1v">
+      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+      <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
+    </witness>
+  </witness>
+<witness xml:id="KK">
+    <abbr type="siglum">KK</abbr>
+    <expan><title xml:lang="ta">Kaḷaviyal Kārikai</title>, <term xml:lang="ta">urai</term></expan>
+  </witness>
+</listWit></standOff></TEI>

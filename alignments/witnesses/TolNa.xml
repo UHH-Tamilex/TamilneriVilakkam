@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tolkāppiyam Nacci</title>
+            
+         <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                  </repository>
+                  <idno type="shelfmark">TolNa</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>Tolkāppiyam Nacci. Porulatikaram up to poruliyal</summary>
+                  
+               <msItem xml:id="TKn" defective="false"><title>Tolkāppiyam Nacci</title></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="baad">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="342"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>eva style</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+<text corresp="#TKn"> <body xml:lang="ta">
+   <lg corresp="#TNV22poem14">
+<l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
+<l>malaiya ṉoḷvēṟ kaṇṇi</l>
+<l>mulaiyum vārā mutukkuṟain taṉaḷē</l></lg>
+ <lg corresp="#TNV23poem1">
+<l>ivaḷē niṉṉala tilaḷē yāyuṅ</l>
+<l>kuvaḷai yuṇka ṇivaḷala tilaḷē</l>
+<l>yāṉu māyiṭai yēṉē</l>
+<l>māmalai nāṭa maṟavā tīmē</l></lg>
+ <lg corresp="#TNV23poem24">
+<l>māṉatar mayaṅkiya malaimutaṟ ciṟuneṟi</l>
+<l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
+<l>yañciṉa ḷañciṉa ḷotuṅkip</l>
+<l>pañci mellaṭi paralvaṭuk koḷavē</l></lg>
+   <lg corresp="#TNV24poem4">
+<l>āṟucelal varuttatavuñ cīṟaṭi civappavuñ</l>
+<l>ciṉainīṅku taḷiriṉ vaṇṇam vāṭavun</l>
+<l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷuṭaṉ</l>
+<l>vēypayi laḻuva muvakkum</l>
+<l>pētai neñcam peruntaka vuṭaittē</l></lg>    
+<lg corresp="#TNV24poem23">
+<l>ciṟupuṉ mālai ciṟupuṉ mālai</l>
+<l>tīppaṉi paṉṉa taṇvaḷi yacaiic</l>
+<l>cekkar koṇṭa ciṟupuṉ mālai</l>
+<l>vaikalum varutiyā lemakkē</l>
+<l>eṉṟuñ collāyavar kuṉṟukeḻu nāṭṭē</l></lg>
+<lg corresp="#TNV24poem25">
+<l>keḷavaiyam perumpaḻi tūṟṟa nalaṉaḻintu</l>
+<l>paitalañ ciṟunutal pacalai pāya</l>
+<l>nammitaṟ paṭutta avariṉum avarnāṭṭuk</l>
+<l>kuṉṟaṅ koṭiyakol tōḻi</l>
+<l>oṉṟun tōṉṟā maḻaimaṟain taṉavē</l></lg>
+<lg corresp="#TNV24poem26">
+  <l>koṭinilai nekiḻac cāayt tōḷavar</l>
+  <l>koṭumai kūṟiṉa vāyiṉuṅ koṭumai</l>
+<l>nalvarai nāṭar killai tōḻiyeṉ</l>
+  <l>neñciṟ pirintatūu milarē taṅkuṟai</l>
+  <l>nōkkaṅ kaṭintatūu milarē</l>
+  <l>nilattiṉum peritē nontavar natpē</l></lg>
+<lg corresp="#TNV25poem1">   
+<l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
+<l>nillal pāṇa celliṉip pariyal</l>
+<l>pakaleñ cēri kāṇiṉ</l>
+<l>akalvaya lūran nāṇavum peṟumē</l></lg>
+   </body></text></TEI>

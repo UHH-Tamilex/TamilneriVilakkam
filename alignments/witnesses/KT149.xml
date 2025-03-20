@@ -1,0 +1,302 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 149. <persName xml:lang="ta">Veḷḷi Vītiyār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          <idno type="siglum">KT149</idno>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"/>
+        <listWit n="2"/>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT149-kilavi">
+          <p type="edition">uṭaṉpōkku uṇarttiya tōḻikkut talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER to the confidante who had suggested [their] going away together.</p>
+          </div>
+
+
+        <div xml:id="KT149" corresp="#TNV20poem9">
+            <lg type="edition">
+<l>                aḷitō tāṉē nāṇē nammoṭu</l>
+<l>                naṉinī ṭuḻantaṉṟu maṉṉē yiṉiyē</l>
+<l>                vāṉpūṅ karumpi ṉōṅkumaṇaṟ ciṟuciṟait</l>
+<l>                tīmpuṉa ṉeritara vīyntuk kāaṅkut</l>
+<l>                tāṅku maḷavait tāṅkik</l>
+<l>                kāma neritarak kainnil lātē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>
+            <choice>
+                <seg>Pitiable<note place="foot"><term xml:lang="ta">aḷitō</term>: this formula is one of the instances of <term xml:lang="ta">-ō</term> in a lamentative formula. Moreover <term xml:lang="ta">-ō</term> functions as a metrical filler here – since with other persons the formula contains a complete <term xml:lang="ta">cīr</term> (i.e. KT 7.3: <term xml:lang="ta">aḷiyar tāmē</term>)?  This fact seems to be an argument against the b-solution, that is, to take it as a question mark.</note> it [is], shame. With us</seg>
+                <seg>Is it not pitiable, [our] shame?</seg>
+            </choice>
+           </l>
+           <l>it has indeed borne [it] a fairly long time.</l>
+           <l rend="indent4">[But] now</l>
+           <l>it doesn't stand ground to the hand,<note place="foot"><term xml:lang="ta">kai nillātu</term>: this could be understood as a metaphor: <term xml:lang="ta">kāma</term> as a forceful hand. TVG takes it with Cām. as "side": "now ... it doesn't stand at [my] side [any longer].</note> as desire crushes [it],</l>
+           <l rend="indent">having endured as long as it could,</l>
+           <l rend="indent">like the little wings of high sand near the sky-flowered sugarcane,</l>
+           <l rend="indent">which give way, destroyed as the sweet flood crushes them.</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#KT149">
+<interp type="alignment" select="0">4M2G4MG4MG15MG9MG9MG43ML12MG32MR19M2G2M,164MG</interp>
+<entry>
+<form>aḷit<c type="elided">u</c>-ō</form>
+<def>pity-it</def>
+<form type="simple">aḷitu</form>
+<form type="sandhi">aḷit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>nāṇ-ē</form>
+<def>shame</def>
+<form type="simple">nāṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>nammoṭu</form>
+<def>us</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉi</form>
+<def>much</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>nīṭ<c type="elided">u</c></form>
+<def>prolong</def>
+<form type="sandhi">nīṭ</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>nīṭ<c type="elided">u</c></form>
+<def>long time</def>
+<form type="sandhi">nīṭ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
+<entry>
+<form>uḻantaṉṟu-maṉṉē</form>
+<def>it-bore</def>
+<form type="simple">uḻantaṉṟu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṉē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṉi-<c type="glide">y</c>ē</form>
+<def>now</def>
+<form type="simple">iṉi</form>
+<form type="sandhi"><c type="glide">y</c>iṉi</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vāl</form>
+<def>purity</def>
+<form type="sandhi">vāṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<form type="sandhi">pūṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karumpiṉ</form>
+<def>sugarcane</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōṅku</form>
+<def>become-high</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+<form type="sandhi">maṇaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟai<c type="geminated">t</c></form>
+<def>wing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<form type="sandhi">puṉaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neri</form>
+<def>crush</def>
+<form type="sandhi">ṉeri</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tara</form>
+<def>give</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vīynt<c type="elided">u</c></form>
+<def>destroyed</def>
+<form type="sandhi">vīynt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ukkāaṅku<c type="geminated">t</c></form>
+<def>shed-like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṅkum</form>
+<def>enduring-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḷavai<c type="geminated">t</c></form>
+<def>measure</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṅki<c type="geminated">k</c></form>
+<def>endured</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+<form type="sandhi">kāman</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neri</form>
+<def>crush</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tara<c type="geminated">k</c></form>
+<def>give</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kai<c type="geminated">n</c></form>
+<def>hand</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nillāt<c type="elided">u</c>-ē</form>
+<def>does not stand</def>
+<form type="simple">nillātu</form>
+<form type="sandhi">nillāt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>
