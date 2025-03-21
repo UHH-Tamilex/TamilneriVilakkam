@@ -1218,7 +1218,7 @@
             <lg xml:id="TNV23poem1">
                 <l><lb n="16"/>ivaḷē niṉṉala tila<subst><del rend="strikethrough">ṉē</del><add place="above">ḷē</add></subst> yāyuṅ,</l>
                 <l>kuvaḷai yuṇka ṇivaḷal<lb n="17"/>la tilaḷē,</l>
-                <l>yā<del rend="commas">yi</del>ṉu māyiṭai <subst>y<del rend="commas">ō</del><add>ē</add></subst>ṉē</l>
+                <l>yā<del rend="commas">yi</del>ṉu māyiṭai <subst><del rend="commas">yō</del><add>yē</add></subst>ṉē</l>
                 <l><add rend="caret" place="above">mā</add>malai nāṭa maṟa<lb n="18"/>vā tīmē.</l>
             </lg>
             <p xml:id="TNV23koḷu1"> kaiyaṭai.</p>
@@ -1229,7 +1229,7 @@
             </lg>
             <p xml:id="TNV23koḷu2">eṉpatu talaimakaṉ makiḻccik ki<lb n="21"/>ḷavi.</p>
             <lg xml:id="TNV23poem3">
-                <l>uvantaṉai kāṇṭiyō neñcē <subst>m<del>a</del><add place="above">ē</add></subst>ṉā<add place="in-place">,</add></l>
+                <l>uvantaṉai kāṇṭiyō neñcē <subst><del>ma</del><add place="above">mē</add></subst>ṉā<add place="in-place">,</add></l>
                 <l>ḷivarntaṉai <lb n="22"/>ceṉṟu meytāk<add place="in-place">,</add></l>
                 <l>karuṅkuḻaṉ mātar mayiliya<add place="above">ṟ</add> kavi<lb n="23"/>ṉē.</l>
             </lg>
@@ -1260,7 +1260,7 @@
             </lg>
             <p xml:id="TNV23koḷu6"> ituvum atu.</p>
             <lg xml:id="TNV23poem7">
-                <l>neṭuntērk kāḷai<subst>y<del rend="overwritten">ō</del><add>o</add></subst> <sic><subst>ṭ<del rend="overwritten">ō</del><add>o</add></subst></sic>rā<lb n="34"/>ṅ kēkik,</l>
+                <l>neṭuntērk kāḷai<subst><del rend="overwritten">yō</del><add>yo</add></subst> <sic><subst><del rend="overwritten">ṭō</del><add>ṭo</add></subst></sic>rā<lb n="34"/>ṅ kēkik,</l>
                 <l>kaṭuñcuran tītiṉ ṟiṟantaṉa ḷavaḷeṉak<add place="in-place">,</add></l>
                 <l>kūṟu<pb n="21" facs="22"/><lb n="1"/>mi ṉantaṇirt toḻutaṉa ṉummē<add place="in-place">,</add></l>
                 <l>tēyvuṟu matiyoṭu <lb n="2"/>kalaṅkum<add place="in-place">,</add></l>

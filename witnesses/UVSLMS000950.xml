@@ -998,7 +998,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <lg xml:id="TNV23poem4">
 <l>putuppūṅ kōtai puṉainteḻi lākamuṅ</l>
 <l>katuppu nīviniṉ ciṟupuṟaṅ kāṇ<lb n="6"/>keṉa</l>
-<l>muṉ<subst>c<del rend="dot">e</del><add>e</add></subst>la viṭuppa nāṇip piṉpiṉ</l>
+<l>muṉ<subst><del rend="dot"><gap reason="illegible" unit="character" quantity="1"/></del><add>ce</add></subst>la viṭuppa nāṇip piṉpiṉ</l>
 <l>ṟāḻntaṉa ḷotuṅka yāṉun tā<del rend="dot"><unclear>r</unclear></del>ḻtaliṉ</l>
 <l>vaikiṉa mātō neñcē</l>
 <l>paiviri yalku<lb n="7"/>loṭu paruvat tāṉē.</l></lg>
@@ -1022,17 +1022,17 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>kūṟumi ṉantaṇirt to<lb n="3"/>ḻutaṉa ṉummē</l>
 <l>tēyvuṟu matiyoṭu<del rend="dot"><unclear>k</unclear></del> kalaṅkum</l>
 <l>yāyu māyamu miruntuyar keṭavē.</l></lg>
- <p xml:id="TNV23koḷu7"> etir<subst>k<del rend="dot">ā</del><add>a</add></subst>ṇṭārkkut talaimakaḷ colliyatu.</p>
+ <p xml:id="TNV23koḷu7"> etir<subst><del rend="dot">kā</del><add>ka</add></subst>ṇṭārkkut talaimakaḷ colliyatu.</p>
   <lg xml:id="TNV23poem8">
 <l>vaṇ<lb n="4"/>ṭār kōtai vārvaḷait tōḷiyaip</l>
 <l>paṇṭā ṭiṭaṅkaḷuṭ kāṇā tiṉṉu</l>
-<l>nillā vu<subst>ṭ<del rend="dot">ai</del><add>a</add></subst>mpoṭu keḻīi</l>
+<l>nillā vu<subst><del rend="dot">ṭai</del><add>ṭa</add></subst>mpoṭu keḻīi</l>
 <l>niṉṟaṉai kol<lb n="5"/>lō vāḻiya neñcē.</l></lg>
 <p xml:id="TNV23koḷu8"> talaimakaḷaik kāṇātu colli yi<del rend="scribble"><gap reason="illegible" unit="character" quantity="1"/></del>raṅkiyatu.</p> 
 <lg xml:id="TNV23poem9">
 <l>valiyai maṉṟa nīyē polivaḷaik</l>
 <l>kātaṟ ṟōḻi kaiyakaṉ<lb n="6"/> ṟoḻiyavum</l>
-<l>pētuṟṟi līyā luyiroṭum puṇarntē.</l></lg>
+<l>pētuṟ ṟilaiyā luyiroṭum puṇarntē.</l></lg>
 <p xml:id="TNV23koḷu9"> tōḻiyai nōkkic cevili colliyatu.</p>
  <lg xml:id="TNV23poem10">
 <l>cūṉmutir koṇmū miṉṉupu<lb n="7"/> poḻiyak</l>
@@ -1048,7 +1048,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>ṭañci lōtiyai varakkarain tīmē.</l></lg>
 <p xml:id="TNV23koḷu11"> ituvum atu.</p>
 <lg xml:id="TNV23poem12"> 
-<l>nilantoṭṭup puk<sic>arvura</sic> vā<sic>ḷa</sic> mēṟā</l>
+<l>nilantoṭṭup puk<sic>āvur</sic> vā<sic>ḷa</sic> mēṟā</l>
 <l>rilaṅkiru<lb n="2"/> munnīr kāliṟ cellār</l>
 <l>nāṭṭi ṉāṭṭi ṉūri ṉūriṟ</l>
 <l>kuṭimuṟai kuṭimuṟai teriyiṟ</l>
@@ -1058,7 +1058,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>veyyōṉ cāpat teykaṇai kuḷippa</l>
 <l>vīḻntatu maṉṟavik kaḷiṟē tāḻnta</l>
 <l>viṭumut taṇivaṭa<lb n="4"/>ñ cuṭarat</l>
-<l>tuṭiyo tuṅkiya cuḻaṉmaṉ ṉituvē.</l></lg>
+<l>tuṭi yotuṅkiya cuḻaṉmaṉ ṉituvē.</l></lg>
 <p xml:id="TNV23koḷu13"> curattiṭaic ceṉṟa cevili iraṅkiyatu.</p>
  <lg xml:id="TNV23poem14"> 
 <l>kāyn<sic>ta</sic> maṟavai maṉṉō vē<lb n="5"/>ntiḻai</l>
@@ -1067,7 +1067,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
  <p xml:id="TNV23koḷu14"> ituvum atu.</p>
  <lg xml:id="TNV23poem15">
 <l>oṇṭiṟa laṇṇalō <lb n="6"/>ṭoḷiyiḻai maṭantaiyai</l>
-<l><del rend="scribble"><unclear>tu</unclear></del>nuṇpuri mārpi <subst>ṉ<del rend="dot"><unclear>ā</unclear></del><add>a</add></subst>nta<sic>ṇī</sic>r</l>
+<l><del rend="scribble"><unclear>tu</unclear></del>nuṇpuri mārpi <subst><del rend="dot"><unclear>ṉā</unclear></del><add>ṉa</add></subst>nta<sic>ṇī</sic>r</l>
 <l>kaṇṭaṉir piṟavōr kaṭuñcurañ celavē.</l></lg>
  <p xml:id="TNV23koḷu15"> cevili iṭaic curattu <lb n="7"/>varuvārai viṉāyiṟṟu.</p> 
    <lg xml:id="TNV23poem16">
@@ -1079,7 +1079,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>eṉṉu muḷḷiṉaḷ kol<del rend="dot">lē</del>l<gap reason="lost" unit="character" quantity="3"/> ṉai</l>
 <l>neñcuṇat tēṟṟiya vañciṉak kāḷaiyo</l>
 <l>ṭa<pb n="19v" facs="39"/>ḻuṅkaṉ mūtū ralareḻac</l>
-<l>ceḻumpal kuṉṟa miṟantaveṉ makaḷē.</l></lg>
+<l>ceḻupal kuṉṟa miṟantaveṉ makaḷē.</l></lg>
 <p xml:id="TNV23koḷu17"> cevili maṉaivayiṟ peyarntatu.</p>
 <lg xml:id="TNV23poem18">
 <l>nāṇkāl vāṅkiya cilaiyar<lb n="2"/> cīṟṟamo</l>
@@ -1092,7 +1092,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>mayilēr cāyal maṟaikuvaṉ ciṟitē.</l></lg>
  <p xml:id="TNV23koḷu19"> talaima<unclear><del rend="dot">ta</del></unclear>kaṭamarātal aṟintu talaimaka<lb n="4"/>ṉ maṟaintatu.</p>
   <lg xml:id="TNV23poem20">
-<l>varicilai yiṭavayi ṉēntik ka<subst>ṇ<del rend="dot">ē</del><add>ai</add></subst>terin</l>
+<l>varicilai yiṭavayi ṉēntik ka<subst><del rend="dot">ṇē</del><add>ṇai</add></subst>terin</l>
 <l>teriyumiḻ kaṇṇiṉa<del rend="dot"><unclear>ṅ</unclear></del> rivarē ñāṅka</l>
 <l>rariyiḻai maṭantai tamareṉa<lb n="5"/> maṟainta</l>
 <l>cēyuyar celvaṉuñ ciṉavu māyiṭai</l>
@@ -1107,7 +1107,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <p xml:id="TNV23koḷu21"> ituvum atu.</p>
   <lg xml:id="TNV23poem22">  
 <l>perumpaṭa ruḻa<del rend="dot">na</del>kkuṅ kiḷaimakiḻ tūṅkat</l>
-<l>ti<del rend="dot"><unclear>ru</unclear></del>ru<lb n="8"/>nte<del rend="dot">ṉa</del>ḻi lalku <sic>ṉaṭapō</sic></l>
+<l>ti<del rend="dot"><unclear>ru</unclear></del>ru<lb n="8"/>nte<del rend="dot">ṉa</del>ḻi lalku ṉaṭpō</l>
 <l>viyaṉperun tolpatip pukukanām viraintē.</l></lg>
 <p xml:id="TNV23koḷu22"> peyarntaṉar varutal.</p>    
   <lg xml:id="TNV23poem23">  
