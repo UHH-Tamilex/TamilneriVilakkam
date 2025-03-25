@@ -1161,7 +1161,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>va<lb n="5"/>ntatu poḻuteṉa varuntalun tōḻi</l>
 <l>nontaṉa ḷuraippavum nōvāḷ kūṟṟu</l>
 <l>māṟṟu vit<del rend="dot">t</del>talu māyiṭai varu<lb n="6"/>vōṉ</l>
-<l>mēṉavuñ cēyiṭai<sic>k koḷalē.</sic></l></lg>
+<l>mēṉavuñ cēyiṭaik koḷalē.</l></lg>
  <p xml:id="TNV24comm1">etu. cēyiṭaip pirivām āṟuṇarttuta<del rend="dot">tu</del>nutaliṟṟu.</p> 
 <p xml:id="TNV24comm2">pirivuṇarttutaṉ muta<lb n="7"/>lākap peyarntōṉ kūṟṟīṟākac collappaṭṭaṉa cēyiṭaip pirivām eṉṟavāṟu.</p>
 <lg xml:id="TNV24poem1">
@@ -1172,7 +1172,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <p xml:id="TNV24koḷu1">talaima<pb n="21r" facs="42"/><lb n="1"/>kaḷ tōḻikkup pirivuṇarttiyatu.</p>    
 <lg xml:id="TNV24poem2">
 <l>evaṉpala moḻi<subst><del rend="scribble"><unclear>ṅ</unclear></del><add place="below">k</add></subst>ō yāṉē yaṉpa</l>
-<l>vakaṉṟivaṭ pirinta van<del rend="dot">ka</del>nilai</l>
+<l>vakaṉṟivaṭ pirinta va<subst><del rend="dot">naka</del><add place="in-place">n</add></subst>nilai</l>
 <l>nikaḻntaṉ ṟamma nīṅ<lb n="2"/>kuta luyirē.</l></lg>
  <p xml:id="TNV24koḷu2">tōḻi talaimakaṇilaimai kūṟic celavaḻuṅkuvittatu.</p>
   <lg xml:id="TNV24poem3">
@@ -1187,7 +1187,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷoṭu</l>
 <l>vēypayi laḻuva <lb n="5"/>muvakkumeṉ</l>
 <l>pētai neñcam peruntakai yuṭaittē.</l></lg>
- <p xml:id="TNV24koḷu4">talaimakaṉe<del rend="dot">c</del>ñciṟkuc collic celavaḻuṅkuvittatu.</p><lb n="6"/>
+ <p xml:id="TNV24koḷu4">talaimakaṉe<del rend="dot">ca</del>ñciṟkuc collic celavaḻuṅkuvittatu.</p><lb n="6"/>
 <lg xml:id="TNV24poem5">  
 <l>marunteṉiṉ maruntē <del rend="dot">vē</del>vaippeṉiṉ vaippē</l>
 <l>yarumpiya cuṇaṅki ṉampakaṭ <subst><del rend="dot"><unclear>ṭa</unclear></del><add place="below">ṭi</add></subst>ḷamulaip</l>
@@ -1243,7 +1243,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>cilampaṇi koṇṭa valañcuri marāattu<lb n="4"/></l>
 <l>vēṉi lañciṉai kamaḻun</l>
 <l>tēmū coṇṇuta ṉiṉṉoṭuñ celavē.</l></lg>
-<p xml:id="TNV24koḷu14">āṟṟāḷāya <subst>t<del rend="dot">e</del><add>a</add></subst>laimakaṭkut tōḻi pirivu nayap<del rend="scribble">ka</del>pac co<lb n="5"/>lliyatu.</p>  
+<p xml:id="TNV24koḷu14">āṟṟāḷāya <subst><del rend="dot">te</del><add>ta</add></subst>laimakaṭkut tōḻi pirivu naya<subst><del rend="scribble">paka</del><add place="in-place">p</add></subst>pac co<lb n="5"/>lliyatu.</p>  
 <lg xml:id="TNV24poem15">  
 <l>nallicai niṟuttal vēṇṭit tuṇaipirintu</l>
   <l>celvatu kāta<sic>la</sic> kaṭaṉē ceṉ<subst>ṟ<del>a</del><add place="below">e</add></subst>ṉa</l>
@@ -1292,7 +1292,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>tāṉum pirintaṉṟeṉ māmaik kaviṉē.</l></lg>
 <p xml:id="TNV24koḷu22">ituvum atu. </p>
 <lg xml:id="TNV24poem23">  
-<l>ciṟupuṉ mālai <unclear><del rend="scribble"><unclear>ci</unclear></del></unclear>ciṟupuṉ mālai</l>
+<l>ciṟupuṉ mālai <del rend="scribble"><unclear>ci</unclear></del>ciṟupuṉ mālai</l>
 <l>tīppaṉip paṉṉa tāṇva<subst>ḷ<del rend="dot">ai</del><add>i</add></subst> ya<del rend="scribble"><gap reason="illegible" unit="character" quantity="1"/></del><g rend="vowel-sign">ai</g><gap reason="illegible" unit="character" quantity="1"/><lb n="2"/>ic</l>
 <l>cekkark koṇṭa ciṟupuṉ mālai</l>
 <l>vaikalum varutiyā le<del rend="scribble">ṟe</del>makkē</l>
@@ -1318,7 +1318,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>nalvarai nāṭar<lb n="8"/>k killai tōḻiye</l>
 <l><subst>ṉ<del rend="dot"><gap reason="illegible" unit="character" quantity="1"/></del><add>e</add></subst>ñciṟ pirintatu milarētaṅ</l>
 <l>kuṉṟa nōkkaṅ kaṭintatu milarē.</l></lg>
-<p xml:id="TNV24koḷu26">ta<gap reason="illegible" unit="character" quantity="1"/>ma<unclear>ka</unclear>ḷ ataṉukkāṟṟāḷāy iyi<unclear>p</unclear>paṭa <pb n="23v" facs="47"/><lb n="1"/>moḻintatu.</p>
+<p xml:id="TNV24koḷu26">ta<gap reason="illegible" unit="character" quantity="1"/>ma<unclear>ka</unclear>ḷ ataṉukkāṟṟāḷāy iyi<gap reason="illegible" unit="character" quantity="1"/>paṭa <pb n="23v" facs="47"/><lb n="1"/>moḻintatu.</p>
  <lg xml:id="TNV24poem27"> 
 <l>niṟainīr māmaḻai poṟaimelin turutteṉa</l>
 <l>vampat taṇpeya luṇarāḷ kaṇṭē</l>
