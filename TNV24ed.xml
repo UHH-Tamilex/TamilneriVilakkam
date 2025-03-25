@@ -572,9 +572,48 @@
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV24koḷu30">eṉpatu mukilukkuc colliyatu.</p>
 </div>
-
-
-
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV24poem31"> 
+        <l>ūrka pāka tērē kārkaṇṭu</l>
+        <l>pācaṟai nīṭiṉar kāta lōreṉa</l>
+        <l>nappulan tuṟaivōḷ kāṇa</l>
+        <l>vippoḻu taḷavai pukuka nāmē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV24koḷu31">eṉpatu tērppākaṟkuc colliyatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV24poem32"> 
+        <l>kātalar varavu kāṭṭiṉai yākaliṟ</l>
+        <l>cūḻkatirc curimukap matiyam</l>
+        <l>vāḻiya malartalai yulakuḻai neṭitē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV24koḷu32">eṉpatu tōḻi caṅkiṉai vāḻttiyatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV24poem33"> 
+    <l>purikuḻaṉ maṭantai polivoṭu maṉpar</l>
+    <l>varaviṉuk ketirntanam maka<space quantity="5" unit="character"/> viṉviḻa</l>
+    <l>tu<space quantity="2" unit="character"/><space quantity="2" unit="character"/>ya payaṉē</l>
+    </lg>
+    <!--p xml:lang="en">I have decided here to present this poem in its fullest form as found in a manuscript - UVSL48032. It is not clear how UVC arrived at this text, as the palm-leaf MS has lost most of this poem. Perhaps it was more intact when he had access to it. Without any further information, I err on the side of inclusion.</p-->
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV24koḷu33">eṉpatu talaimakaṭkut tōḻi colliyatu.</p>
+</div>
+<div type="citation" rend="parallel">
+    <lg xml:id="TNV24poem34"> 
+        <l>pirita lāṟṟumō niṉṉē yariti</l>
+        <l>ṉuṭampāṇ ṭoḻintamai yallatu</l>
+        <l>maṭaṅkeḻu nōkka marīiya neñcē</l>
+    </lg>
+</div>
+<div type="koḷu" rend="parallel">
+    <p xml:id="TNV24koḷu34">eṉpatu talaimakaṭkut talaimakaṉ colliyatu.<note> 24.</note></p>
+</div>
 
 </body>
 </text>
