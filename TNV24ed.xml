@@ -553,7 +553,7 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem29"> 
-        <l>illamoṭu miṭainta kollai mullai</l>
+        <l>illoṭu miṭainta kollai mullai</l>
         <l>pallāṉ kōvalar paiyu ḷāmpaṉ</l>
         <l>mayaṅkiruṇ mālai kēṭṭoṟuṅ</l>
         <l>kalaṅkuṅko laḷiyaṇaṅ kāta lōḷē</l>
@@ -577,7 +577,7 @@
         <l>ūrka pāka tērē kārkaṇṭu</l>
         <l>pācaṟai nīṭiṉar kāta lōreṉa</l>
         <l>nappulan tuṟaivōḷ kāṇa</l>
-        <l>vippoḻu taḷavai pukuka nāmē</l>
+        <l>vippoḻu taḷavaiyiṟ pukuka nāmē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -6988,10 +6988,10 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV24poem29" type="wordsplit">
-<interp type="alignment" select="0">58MG15MG10MG9ML9MGM,107M</interp>
+<interp type="alignment" select="0">56MG15MG10MG9ML9MGM,105M</interp>
 <entry>
-<form>illamoṭu</form>
-<def>Illam-tree</def>
+<form>illoṭu</form>
+<def>house</def>
 <gramGrp>
   <gram type="role">sociative</gram>
 </gramGrp>
@@ -7316,7 +7316,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV24poem31" type="wordsplit">
-<interp type="alignment" select="0">11MG42MG19MG15MGM,92M</interp>
+<interp type="alignment" select="0">11MG42MG19MG18MGM,95M</interp>
 <entry>
 <form>ūrka</form>
 <def>mount</def>
@@ -7424,8 +7424,6 @@
 <entry>
 <form><c type="glide">v</c>i<c type="geminated">p</c></form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>poḻut<c type="elided">u</c></form>
@@ -7436,9 +7434,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>aḷavai</form>
+<form>aḷavaiyiṉ</form>
 <def>measure</def>
+<form type="sandhi">aḷavaiyiṟ</form>
 <gramGrp>
+  <gram type="role">oblique</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -9157,7 +9157,9 @@
       <rdg type="minor" wit="#TNVcpc">muvappa,<lb n="13"/></rdg>
     </rdgGrp>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV24poem29" source="alignments/TNV24poem29.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff corresp="#TNV24poem29" type="parallels"><note xml:lang="en">I assume UVC was influenced by the phrase <term xml:lang="ta"><hi rend="italic">illamoṭu miṭainta</hi></term> in <ref target="https://uhh-tamilex.github.io/Narrinai/NA376.xml">NA376</ref> though he does not provide a footnote so it is difficult to know for sure. <term xml:lang="ta"><hi rend="italic">illoṭu</hi></term> sill makes sense, so I have retained the MS reading.</note></standOff>
+<standOff type="apparatus" corresp="#TNV24poem29" source="alignments/TNV24poem29.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9173,31 +9175,28 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,8">
-    <lem wit="#TNV1937 #TNV1947">illamoṭu</lem>
-    <rdg wit="#TNVcac">iloṭu</rdg>
-    <rdg wit="#TNVcpc">illa<sic><unclear>y</unclear></sic>oṭu</rdg>
-    <rdg wit="#TNVms">
-      <sic>illoṭu</sic>
-    </rdg>
+  <app corresp="0,6">
+    <lem wit="#TNVms #TNVcac">illoṭu</lem>
+    <rdg wit="#TNV1937 #TNV1947">illamoṭu</rdg>
+    <rdg wit="#TNVcpc">illa<unclear>y</unclear>oṭu</rdg>
   </app>
-  <app corresp="22,28">
+  <app corresp="20,26">
     <lem wit="#TNVmspc #TNVcac">mullai</lem>
+    <rdg wit="#TNVmsac">mallai</rdg>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947">
       <rdg type="main">mullaip</rdg>
-      <rdg type="minor" wit="#TNVcpc">mu<lb n="15"/>llaip,</rdg>
+      <rdg type="minor" wit="#TNVcpc">mu<lb n="15"/>llaip</rdg>
     </rdgGrp>
-    <rdg wit="#TNVmsac">mallai</rdg>
   </app>
-  <app corresp="62,67">
+  <app corresp="60,65">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">mālai</lem>
     <rdg wit="#TNVcac">mālaik</rdg>
   </app>
-  <app corresp="85,94">
+  <app corresp="83,92">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">laḷiyaṇaṅ</lem>
     <rdg wit="#TNVcac">laḷiyaṉaṅ<lb n="17"/></rdg>
   </app>
-  <app corresp="98,102">
+  <app corresp="96,100">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">lōḷē</lem>
     <rdg wit="#TNVcac">lōṉē.</rdg>
   </app>
@@ -9236,4 +9235,82 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff></TEI>
+</interp></standOff><standOff type="apparatus" corresp="#TNV24poem31" source="alignments/TNV24poem31.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,4">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ūrka</lem>
+    <rdg wit="#TNVmsac"><gap reason="illegible" unit="character" quantity="1"/>ūr<gap reason="illegible" unit="character" quantity="1"/>ka</rdg>
+  </app>
+  <app corresp="44,52">
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">nappulan</lem>
+    <rdg wit="#TNVcac">ṟappulan</rdg>
+  </app>
+  <app corresp="52,60">
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">tuṟaivōḷ</lem>
+    <rdg wit="#TNVcac">tuṟvōḷ</rdg>
+  </app>
+  <app corresp="71,81">
+    <lem wit="#TNVmsac #TNVc">taḷavaiyiṟ</lem>
+    <rdgGrp select="#TNV1937 #TNV1947">
+      <rdg type="main">tavaḷvayiṟ</rdg>
+      <rdg type="minor" wit="#TNV1947">tavaḷ vayiṟ</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmspc">tavaiyiṟ</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV24poem32" source="alignments/TNV24poem32.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="21,28">
+    <lem wit="#TNVms">yākaliṟ</lem>
+    <rdgGrp select="#TNVcac #TNVcpc #TNV1937 #TNV1947">
+      <rdg type="main">yātaliṟ</rdg>
+      <rdg type="minor" wit="#TNVcpc">yātaliṟ,</rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="28,37">
+    <lem wit="#TNVc #TNV1937 #TNV1947">cūḻkatirc</lem>
+    <rdg wit="#TNVms">cūḻkatir</rdg>
+  </app>
+  <app corresp="37,45">
+    <lem wit="#TNVms #TNVcac">curimuka</lem>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947">curimukap</rdg>
+  </app>
+  <app corresp="45,52">
+    <lem wit="#TNVms #TNVcac">matiyam</lem>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947">paṇilam</rdg>
+  </app>
+</listApp></standOff>
+<standOff type="parallels" corresp="#TNV24poem33"><note xml:lang="ta">
+<l><gap reason="lost" unit="character" quantity="17"/>ṭu maṉpar</l>
+    <l><gap reason="lost" unit="character" quantity="6"/><unclear>ka</unclear>tirntn <gap reason="lost" unit="character" quantity="5"/><g ref="#ra_r_kal"/>viṉviḻa</l>
+    <l>tu<gap reason="lost" unit="character" quantity="7"/>ṉē.</l>
+</note></standOff>
+<standOff type="parallels" corresp="#TNV24poem33"><note xml:lang="en">In lieu of an apparatus, I simply provide the full transcription of the poem as found in the palm-leaf MS. The text in the paper copy of the MS and print editions are identical. It is not clear how UVC arrived at this text. Perhaps the palm-leaf has deteriorated in the years since he acquired it.</note></standOff>
+</TEI>
