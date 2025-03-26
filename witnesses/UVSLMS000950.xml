@@ -23,7 +23,7 @@
                <msContents class="#STM">
                   
                   
-               <summary>Palm-leaf manuscript in good condition. Clear scribal hand. Some small gaps but noting too substantial until the final folio where larger portions of the text are missing. Presumably incomplete. No differentiation between long and short 'e/ē' and 'o/ō'. No puḷḷis.  </summary><msItem xml:id="TNVms" defective="false" class="#illakkanam"><title xml:lang="ta"> Tamiḻneṟi Viḷakkam  </title><textLang mainLang="tam"/></msItem></msContents>
+               <summary>Palm-leaf manuscript in good condition. Clear scribal hand. Some small gaps but noting too substantial until the final folio where larger portions of the text are missing. Presumably incomplete. No differentiation between long and short 'e/ē' and 'o/ō'. No puḷḷis.  Final two photos switched, so the sequence goes 48,47.</summary><msItem xml:id="TNVms" defective="false" class="#illakkanam"><title xml:lang="ta"> Tamiḻneṟi Viḷakkam  </title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -1356,8 +1356,8 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
  <p xml:id="TNV24koḷu32">tōḻi caṅ<del rend="dot">ki</del>ki<gap reason="lost" unit="character" quantity="5"/></p>  
   <lg xml:id="TNV24poem33"><pb n="24r" facs="48"/><lb n="1"/>
     <l><gap reason="lost" unit="character" quantity="17"/>ṭu maṉpar</l>
-    <l><gap reason="lost" unit="character" quantity="6"/><unclear>ka</unclear>tirntn <gap reason="lost" unit="character" quantity="5"/><g ref="#ra_r_kal"/>viṉviḻa</l>
-    <l>tu<gap reason="lost" unit="character" quantity="7"/>ṉē.</l></lg>
+    <l><gap reason="lost" unit="character" quantity="6"/>k<unclear>a</unclear>tirntn <gap reason="lost" unit="character" quantity="5"/><g ref="#ra_r_kal"/>viṉviḻa</l>
+    <l>tu<gap reason="lost" unit="character" quantity="7"/> ṉē.</l></lg>
   <p xml:id="TNV24koḷu33">talaimakaṭku<gap reason="lost" unit="character" quantity="1"/> <lb n="2"/>tōḻi colliyatu. </p>
  <lg xml:id="TNV24poem34"> 
 <l>pirita lāṟṟumō niṉṉē yariti</l>
@@ -1371,11 +1371,11 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>viḻaikunaṉ viḻaiyā ṉivaṉeṉa viḷampalun</l>
 <l>tāykaṇ ṭuraittalun tāṅkiya kā<unclear>ta</unclear><lb n="5"/>li</l>
 <l>ṉāyiṉaḷ piṟavu māyiṭaip pirivē.</l></lg>
-<p xml:id="TNV25comm1">etu. āyiṭaip pirivām āṟuṇarttutanutaliṟṟu.</p> <p xml:id="TNV25comm2">vāyiṉ maṟuttal mutalākac <g rend="vowel-sign">e</g><gap reason="lost" unit="character" quantity="2"/><lb n="6"/>likūṟṟī<del rend="dot">ṟ</del>ṟākac collappaṭṭa vivai<del rend="scribble">vu</del>yum<del rend="scribble">m</del> piṟavum parattaiyiṟ pirivām eṉṟavāṟu.</p> 
+<p xml:id="TNV25comm1">etu. āyiṭaip pirivām āṟuṇarttutanutaliṟṟu.</p> <p xml:id="TNV25comm2">vāyiṉ maṟuttal mutalākac <gap reason="lost" unit="character" quantity="3"/><lb n="6"/>likūṟṟī<del rend="dot">ṟ</del>ṟākac collappaṭṭa vivai<del rend="scribble">vu</del>yum<del rend="scribble">m</del> piṟavum parattaiyiṟ pirivām eṉṟavāṟu.</p> 
   <p xml:id="TNV25comm3">piṟavum eṉṟataṉāṟ parat<gap reason="lost" unit="character" quantity="4"/> <lb n="7"/>kūṟṟum pūppuṇarttum uḷḷi<del rend="dot"><gap reason="illegible" unit="character" quantity="1"/></del>ṭṭaṉavellāṅ koḷka.</p>
 <lg xml:id="TNV25poem1"> 
 <l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
-<l>nilla<del rend="scribble"><gap reason="illegible" unit="character" quantity="1"/></del>ṟ pāṇa <g rend="vowel-sign">e</g><gap reason="lost" unit="character" quantity="3"/><lb n="8"/><gap reason="lost" unit="character" quantity="1"/>p paraya</l>
+<l>nilla<del rend="scribble"><gap reason="illegible" unit="character" quantity="1"/></del>ṟ pāṇa <gap reason="lost" unit="character" quantity="3"/><lb n="8"/><gap reason="lost" unit="character" quantity="1"/>p paraya</l>
 <l>pakaleñ cērik kāṇi</l>
 <l>ṉakalvaya lūra <del rend="scribble">ṉa</del>ṉāṇavum peṟumē.</l></lg>
 <p xml:id="TNV25koḷu1">pāṇaṉukku vāyiṉ maṟuttatu. </p>

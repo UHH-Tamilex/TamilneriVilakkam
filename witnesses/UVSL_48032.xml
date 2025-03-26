@@ -1713,7 +1713,8 @@
                 <l><lb n="2"/>ṉāyiṉaḷ piṟavu māyiṭaip pirivē.</l>
             </lg>
             <p xml:id="TNV25comm1"><lb n="3"/>e-tu. āyiṭaip pirivām āṟuṇarttutaṉutaliṟṟu.</p>
-          <p xml:id="TNV25comm2"><lb n="4"/>vāyiṉ maṟuttaṉ mutalākac cevili kūṟṟīṟ ākac co<lb n="5"/>llappaṭṭa vivaiyum piṟavum parattaiyiṟ pirivām e<lb n="6"/>ṉṟavāṟu. piṟavum eṉṟataṉāṟ parattaiyar kūṟṟum<lb n="7"/> pūp puṇarttutalum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
+          <p xml:id="TNV25comm2"><lb n="4"/>vāyiṉ maṟuttaṉ mutalākac cevili kūṟṟīṟ ākac co<lb n="5"/>llappaṭṭa vivaiyum piṟavum parattaiyiṟ pirivām e<lb n="6"/>ṉṟavāṟu.</p> 
+          <p xml:id="TNV25comm3">piṟavum eṉṟataṉāṟ parattaiyar kūṟṟum<lb n="7"/> pūp puṇarttutalum uḷḷiṭṭaṉa vellāṅ koḷka.</p>
             <lg xml:id="TNV25poem1">
                 <l>pulaima<lb n="8"/>ka ṉātaliṟ poynniṉ vāymoḻi<add place="in-place">,</add></l>
                 <l>nillaṟ pāṇa<subst><del rend="implied"><space quantity="1" unit="character"/><lb n="9"/><space quantity="2" unit="character"/>ṟap pāya</del><add place="above">celliṉip pariyal</add></subst><add place="in-place">,</add></l>
@@ -1728,8 +1729,7 @@
             </lg>
             <p xml:id="TNV25koḷu2">vāyiṉ maṟutta<lb n="13"/>tu.</p>
             <lg xml:id="TNV25poem3">
-                <l><space quantity="20" unit="character"/>tirunutaṟ<lb n="14"/> pētai<add place="in-place">
-                        ,</add></l>
+                <l><space quantity="20" unit="character"/>tirunutaṟ<lb n="14"/> pētai<add place="in-place">,</add></l>
                 <l>yūraṉ ceyta tuṇarāḷ kēṇmai<add place="in-place">,</add></l>
                 <l>yuḷḷavum<lb n="15"/> paṭāa ḷivaḷeṉa<add place="in-place">,</add></l>
                 <l>veḷḷiṉa ḷammataṉ ṉīrmai yā<lb n="16"/>ṉē.</l>
@@ -1743,7 +1743,7 @@
             <lg xml:id="TNV25poem5">
                 <l>varukuvar mātō kāvala<lb n="19"/> rīṅkeṉak,</l>
                 <l>kaviritaḻc cevvāy tuṭippa,</l>
-                <l>varimā<lb n="20"/> <sic>ṉ</sic>eṭuṅkaṇ c<del rend="encircled">ōr</del>ēntaṉa
+                <l>varimā<lb n="20"/> <sic>ṉ</sic>eṭuṅkaṇ <subst><del rend="encircled">cōr</del><add place="in-place">ē</add></subst>ntaṉa
                     ḷaṉṟē.</l>
             </lg>
             <p xml:id="TNV25koḷu5">vāyiṉ maṟutta<lb n="21"/>mai tōḻi talaimaka<subst><del rend="implied">ṭ</del><add place="above">ṟ</add></subst>kuc
