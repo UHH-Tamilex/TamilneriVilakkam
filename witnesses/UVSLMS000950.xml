@@ -1377,7 +1377,7 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
 <l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
 <l>nilla<del rend="scribble"><gap reason="illegible" unit="character" quantity="1"/></del>ṟ pāṇa <gap reason="lost" unit="character" quantity="3"/><lb n="8"/><gap reason="lost" unit="character" quantity="1"/>p paraya</l>
 <l>pakaleñ cērik kāṇi</l>
-<l>ṉakalvaya lūra <del rend="scribble">ṉa</del>ṉāṇavum peṟumē.</l></lg>
+<l>ṉakalvaya lūra<del rend="scribble">ṉ </del>ṉāṇavum peṟumē.</l></lg>
 <p xml:id="TNV25koḷu1">pāṇaṉukku vāyiṉ maṟuttatu. </p>
 <lg xml:id="TNV25poem2">  
 <l><gap reason="lost" unit="character" quantity="12"/><pb n="24r" facs="48"/><lb n="1"/><gap reason="lost" unit="character" quantity="2"/> miṉṉē</l>
@@ -1396,8 +1396,8 @@ talaimakaḷ vē<del rend="dot"><gap reason="illegible" unit="character" quantit
  <p xml:id="TNV25koḷu4">tōḻikku vāyiṉ maṟuttatu.</p> 
   <lg xml:id="TNV25poem5">
 <l>varukuvar mātō kā<gap reason="lost" unit="character" quantity="3"/> <lb n="4"/>ṅkeṉak</l>
-<l><del rend="dot">va</del>kaviritaḻc cevvāy tuṭippa</l>
-<l><del rend="dot">ma</del>varimā ṇeṭuṅkaṇ cē<sic>rā</sic>ntaṉa <del rend="dot">ṉa</del>ḷaṉṟē.</l></lg>
+<l><del rend="dot">va</del>kaviritaḻc cevvāy tuṭippa<del rend="dot">m</del></l>
+<l>varimā ṇeṭuṅkaṇ cē<sic>rā</sic>ntaṉa <del rend="dot">ṉa</del>ḷaṉṟē.</l></lg>
  <p xml:id="TNV25koḷu5">vā<del rend="dot">ḻi</del>yiṉ <subst>m<del rend="dot">ā</del><add>a</add></subst>ṟuttamai tōḻi talaima<gap reason="lost" unit="character" quantity="3"/><lb n="5"/>c colliyatu. </p>
    <lg xml:id="TNV25poem6">
 <l>varuntukam pe<del rend="dot">ta</del>ritu neñcē yāvatum</l>
