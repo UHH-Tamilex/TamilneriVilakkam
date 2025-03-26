@@ -2095,7 +2095,7 @@
   <app corresp="12,17">
     <lem wit="#TNVc #TNV1947">vāyiṉ</lem>
     <rdg wit="#TNV1937">vayil</rdg>
-    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="3"/> m</rdg>
+    <rdg wit="#TNVms"/>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV25koḷu4" source="alignments/TNV25koḷu4.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -2292,14 +2292,14 @@
   </desc>
 </interp><listApp>
   <app corresp="0,20">
-    <lem>‡‡‡‡‡‡‡‡‡‡‡ tirunutaṟ</lem>
+    <lem>‡‡‡‡‡‡‡‡‡‡‡tirunutaṟ</lem>
     <rdg wit="#TNVc"><space quantity="20" unit="character"/>tirunutaṟ<lb n="14"/></rdg>
     <rdg wit="#TNV1937 #TNV1947">............................tirunutaṟ</rdg>
-    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="10"/><lb n="2"/><gap reason="lost" unit="character" quantity="1"/> runutaṟ p</rdg>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="10"/><lb n="2"/><gap reason="lost" unit="character" quantity="1"/>runutaṟ</rdg>
   </app>
   <app corresp="56,61">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">paṭāa</lem>
-    <rdg wit="#TNVmsac">āṭāa ḷ</rdg>
+    <rdg wit="#TNVmsac">pāṭāa</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV25poem4" source="alignments/TNV25poem4.xml"><interp type="normalization">
   <desc type="tagfilters">

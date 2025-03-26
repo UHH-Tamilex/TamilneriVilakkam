@@ -5242,8 +5242,10 @@
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #TKn #YV1960a">mulaiyum</lem>
     <rdg wit="#KKms">mulaiyiṉa</rdg>
     <rdgGrp select="#KKedac #YV1960b">
-      <rdg type="main">mulaiyiṉa[m]</rdg>
-      <rdg type="minor" wit="#YV1960b">mulaiyum vā</rdg>
+      <rdg type="main">mulaiyiṉam</rdg>
+      <rdg type="minor" wit="#KKedac">mulaiyiṉa[m]</rdg>
+
+      
     </rdgGrp>
   </app>
   <app corresp="60,65">
