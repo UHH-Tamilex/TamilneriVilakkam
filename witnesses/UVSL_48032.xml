@@ -1655,16 +1655,16 @@
                 <l>tiruna<lb n="9"/>kai yeyiṟṟi <add place="above">ṉi</add>ṇarmukai yarumpiya<add place="in-place">,</add></l>
                 <l>peruntaṇ mullai<lb n="10"/>yu muṭaiyavā <subst><del rend="implied">ṇ</del><add place="above">ṉ</add></subst>akaiyē.</l>
             </lg>
-            <p xml:id="TNV24koḷu27">paruvam aṉṟeṉa āṟṟuvi<lb n="11"/>ttatu.</p>
+            <p xml:id="TNV24koḷu27">paruvam aṉṟeṉa vāṟṟuvi<lb n="11"/>ttatu.</p>
             <lg xml:id="TNV24poem28">
                 <l>kārē ceyta kāṉaṅ kaṉaipeyaṟ<add place="in-place">,</add></l>
                 <l>kōpa mūrn<lb n="12"/>ta koṅkucēr neṭuneṟi<add place="in-place">,</add></l>
                 <l>uḷḷiṉu muḷḷa muvappa<add place="in-place">,</add><lb n="13"/></l>
                 <l>puḷḷeḻa vantaṉṟu neṭuntakai tērē.</l>
             </lg>
-            <p xml:id="TNV24koḷu28">tērvaravu kū<lb n="14"/>ṟi āṟṟuvittatu.</p>
+            <p xml:id="TNV24koḷu28">tērvaravu kū<lb n="14"/>ṟi yāṟṟuvittatu.</p>
             <lg xml:id="TNV24poem29">
-                <l>il<add place="above">la<sic><unclear>y</unclear></sic></add>oṭu miṭainta
+                <l>il<subst><del rend="implied">l</del><add place="above">la<unclear>y</unclear></add></subst>oṭu miṭainta
                     kollai mu<lb n="15"/>llai<add place="above">p</add>,</l>
                 <l>pallāṉ kōvalar paiyu ḷāmpaṉ<add place="in-place">,</add></l>
                 <l>mayaṅkiru<lb n="16"/>ṇ mālai<del rend="strikethrough">k</del> k<subst><del rend="implied">e</del><add place="above">ē</add></subst>ṭṭoṟuṅ<add place="in-place">,</add></l>
@@ -1688,7 +1688,7 @@
             <p xml:id="TNV24koḷu31">tērppākaṟkuc colliyatu.</p>
             <lg xml:id="TNV24poem32">
                 <l>kātala<lb n="24"/>r varavu kāṭṭiṉai yātaliṟ<add place="in-place">,</add></l>
-                <l>cūḻkatirc curimukap <subst><del rend="implied">matiyam</del><add place="above">paṇilam</add></subst><lb n="25"/></l>
+                <l>cūḻkatirc curimuka<subst><del rend="implied"> matiyam</del><add place="above">p paṇilam</add></subst><lb n="25"/></l>
                 <l>vāḻiya malartalai yulakuḻai neṭitē.</l>
             </lg>
             <p xml:id="TNV24koḷu32">tōḻi caṅki<lb n="26"/>ṉai vāḻttiyatu.</p>
