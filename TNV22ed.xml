@@ -110,17 +110,17 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="NAed" source="witnesses/NAprint.xml">
-            <abbr type="siglum">NAed</abbr>
-            <expan>NAprint</expan>
-          </witness>          
+          <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AVed</abbr>
+            <expan>AVprint</expan>
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
-            <expan>Tolkāppiyam Nacci</expan>
-          </witness>
-          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+            <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
+          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
+          <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
-            <expan>Tolkāppiyam Pēr</expan>
+            <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
             <abbr type="siglum">YV1960a</abbr>
@@ -177,7 +177,9 @@
              <witness xml:id="KT149" source="https://uhh-tamilex.github.io/Kuruntokai/KT149.xml">
               <abbr type="siglum">KT149</abbr>
               <expan>KT149</expan>
-          </witness></listWit>
+          </witness><witness xml:id="Aink372" source="Aink372.xml"><abbr type="siglum">Aink372</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink391" source="Aink391.xml"><abbr type="siglum">Aink391</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 391. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink393" source="Aink393.xml"><abbr type="siglum">Aink393</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 393. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink399" source="Aink399.xml"><abbr type="siglum">Aink399</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 399. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="KT7" source="KT7.xml"><abbr type="siglum">KT7</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 7. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Perumpatumaṉār</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">Onlookers</i></expan></witness><witness xml:id="KT22" source="KT22.xml"><abbr type="siglum">KT22</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName>
+          : <i xmlns="http://www.tei-c.org/ns/1.0">the confidante</i></expan></witness><witness xml:id="KT71" source="KT71.xml"><abbr type="siglum">KT71</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 71. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">HE</i></expan></witness><witness xml:id="KT130" source="KT130.xml"><abbr type="siglum">KT130</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 130. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Veḷḷi Vīti(yār)</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">the confidante / SHE</i></expan></witness><witness xml:id="KT315" source="KT315.xml"><abbr type="siglum">KT315</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
+          Vēḷātattaṉ </persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -361,9 +363,9 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem14"> 
-        <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
-        <l>malaiya ṉoḷvēṟ kaṇṇi</l>
-        <l>mulaiyum vārāṇ mutukkuṟain taṉaḷē</l>
+       <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
+<l>malaiya ṉoḷvēṟ kaṇṇi</l>
+<l>mulaiyum vārāṇ mutukkuṟain taṉaḷē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -5242,10 +5244,8 @@
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #TKn #YV1960a">mulaiyum</lem>
     <rdg wit="#KKms">mulaiyiṉa</rdg>
     <rdgGrp select="#KKedac #YV1960b">
-      <rdg type="main">mulaiyiṉam</rdg>
-      <rdg type="minor" wit="#KKedac">mulaiyiṉa[m]</rdg>
-
-      
+      <rdg type="main">mulaiyiṉa[m]</rdg>
+      <rdg type="minor" wit="#YV1960b">mulaiyiṉam</rdg>
     </rdgGrp>
   </app>
   <app corresp="60,65">

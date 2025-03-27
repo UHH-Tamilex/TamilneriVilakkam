@@ -55,9 +55,9 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="NAed" source="witnesses/NAprint.xml">
-            <abbr type="siglum">NAed</abbr>
-            <expan>NAprint</expan>
+          <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AVed</abbr>
+            <expan>AVprint</expan>
           </witness>
           <witness xml:id="TNVed" source="witnesses/TNV1947.xml">
             <abbr type="siglum">TNVed</abbr>
@@ -93,11 +93,11 @@
           </witness>
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
-            <expan>Tolkāppiyam Nacci</expan>
+            <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
           <witness xml:id="TKp" source="witnesses/TolPe.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
-            <expan>Tolkāppiyam Pēr</expan>
+            <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="Ed" source="Ed.xml">
             <abbr type="siglum">Ed</abbr>
@@ -1219,15 +1219,15 @@
   </desc>
 </interp><listApp>
   <app corresp="0,7">
-    <lem wit="#KKmspc #KKed #NAed #TNVed #TNVc #TNVms">kaiyatu</lem>
+    <lem wit="#KKmspc #KKed #AVed #TNVed #TNVc #TNVms">kaiyatu</lem>
     <rdg wit="#KKmsac"><milestone unit="page" n="53" facs="30"/><pb n="53"/> kaivvatu</rdg>
   </app>
   <app corresp="7,17">
-    <lem wit="#KKedpc #NAed #TNVed #TNVc #TNVms">ceyalaiyan</lem>
+    <lem wit="#KKedpc #AVed #TNVed #TNVc #TNVms">ceyalaiyan</lem>
     <rdg wit="#KKms #KKedac">cemmalan</rdg>
   </app>
   <app corresp="24,30">
-    <lem wit="#NAed #TNVed #TNVc #TNVms">viṉāya</lem>
+    <lem wit="#AVed #TNVed #TNVc #TNVms">viṉāya</lem>
     <rdg wit="#KKms #KKedac">viṉāvatu</rdg>
     <rdg wit="#KKedpc">viṉāyatu</rdg>
   </app>
@@ -1235,10 +1235,10 @@
     <lem wit="#KKedpc #TNVed #TNVc #TNVms">teypuṇ</lem>
     <rdg wit="#KKedac">[teyya]puṇ</rdg>
     <rdg wit="#KKms">puṇ</rdg>
-    <rdg wit="#NAed">taiya puṇ</rdg>
+    <rdg wit="#AVed">taiya puṇ</rdg>
   </app>
   <app corresp="36,56">
-    <lem wit="#KKed #NAed #TNVed #TNVcpc">vāya māvē kaiviṭ ṭakalā</lem>
+    <lem wit="#KKed #AVed #TNVed #TNVcpc">vāya māvē kaiviṭ ṭakalā</lem>
     <rdg wit="#KKms">vāya māvēl kaiviṭ ṭakalā</rdg>
     <rdgGrp select="#TNVcac #TNVmspc">
       <rdg type="main">vāya mā lā</rdg>
@@ -1247,14 +1247,14 @@
     <rdg wit="#TNVmsac">vāya mā<gap reason="ellipsis" unit="character" quantity="4"/> ṉalā</rdg>
   </app>
   <app corresp="56,64">
-    <lem wit="#KKms #KKed #NAed #TNVed #TNVcpc">ṉammaviv</lem>
+    <lem wit="#KKms #KKed #AVed #TNVed #TNVcpc">ṉammaviv</lem>
     <rdgGrp select="#TNVcac #TNVms">
       <rdg type="main">ṉamma<lb n="20"/>vim</rdg>
       <rdg type="minor" wit="#TNVms">ṉammavim</rdg>
     </rdgGrp>
   </app>
   <app corresp="64,74">
-    <lem wit="#KKed #NAed #TNVed">vakaṉpuṉam</lem>
+    <lem wit="#KKed #AVed #TNVed">vakaṉpuṉam</lem>
     <rdg wit="#KKms">vakaṉpuṉai</rdg>
     <rdgGrp select="#TNVcac #TNVms">
       <rdg type="main">ma kaṉ<sic>pulan</sic></rdg>
@@ -1265,7 +1265,7 @@
   <app corresp="88,103">
     <lem wit="#KKedpc #TNVed #TNVc #TNVms">taṟiyalam peritē</lem>
     <rdg wit="#KKms #KKedac">taṟiyōm peritē</rdg>
-    <rdg wit="#NAed">taṟitalu maritē</rdg>
+    <rdg wit="#AVed">taṟitalu maritē</rdg>
   </app>
 </listApp></standOff>
   <standOff corresp="#TNV17poem5" type="parallels">
@@ -1408,30 +1408,30 @@
       <app corresp="19,26">
         <lem wit="#TNVms #TNVed">tōṉṟiya</lem>
         <rdg wit="#TNVc">tōṉṟiya,</rdg>
-        <rdg wit="#NAed">tōṉṟi</rdg>
+        <rdg wit="#AVed">tōṉṟi</rdg>
       </app>
       <app corresp="37,46">
         <lem wit="#TNVms #TNVc #TNVed">matitaraṉ</lem>
-        <rdg wit="#NAed">matiyāṉ</rdg>
+        <rdg wit="#AVed">matiyāṉ</rdg>
       </app>
       <app corresp="46,50">
-        <lem wit="#TNVms #TNVed #NAed">pōla</lem>
+        <lem wit="#TNVms #TNVed #AVed">pōla</lem>
         <rdg wit="#TNVc">pōla,</rdg>
       </app>
       <app corresp="65,70">
         <lem wit="#TNVms #TNVed">cārap</lem>
         <rdg wit="#TNVc">cārap,</rdg>
-        <rdg wit="#NAed">cārvāp</rdg>
+        <rdg wit="#AVed">cārvāp</rdg>
       </app>
       <app corresp="76,86">
         <lem wit="#TNVms #TNVc #TNVed">nilaiyatip</lem>
-        <rdg wit="#NAed">nilaiyatu</rdg>
+        <rdg wit="#AVed">nilaiyatu</rdg>
       </app>
       <app corresp="86,97">
         <lem wit="#TNVmspc #TNVcpc #TNVed">piṟaṅkuperu</lem>
         <rdg wit="#TNVmsac">piṟakuperu</rdg>
         <rdg wit="#TNVcac">peru</rdg>
-        <rdg wit="#NAed">piṟaṅkutiru</rdg>
+        <rdg wit="#AVed">piṟaṅkutiru</rdg>
       </app>
     </listApp>
   </standOff>
@@ -1743,12 +1743,12 @@
   <standOff type="apparatus" corresp="#TNV17poem35" source="alignments/TNV17poem35.xml">
     <listApp>
       <app corresp="22,30">
-        <lem wit="#TNVms #TNVc #TNVed #KKed #NAed">kāṇṭalum</lem>
+        <lem wit="#TNVms #TNVc #TNVed #KKed #AVed">kāṇṭalum</lem>
         <rdg wit="#KKms">kāṇalum</rdg>
       </app>
       <app corresp="45,53">
         <lem wit="#TNVms #TNVc #TNVed #KKms #KKed">maṭantai</lem>
-        <rdg wit="#NAed">maṭantaitaṉ</rdg>
+        <rdg wit="#AVed">maṭantaitaṉ</rdg>
       </app>
       <app corresp="53,59">
         <lem wit="#TNVed #KKed">neñcam</lem>
@@ -1756,16 +1756,16 @@
           <rdg type="main">neñca</rdg>
           <rdg type="minor" wit="#TNVcpc">neñca,</rdg>
         </rdgGrp>
-        <rdg wit="#NAed">ṉeñca</rdg>
+        <rdg wit="#AVed">ṉeñca</rdg>
       </app>
       <app corresp="67,76">
         <lem wit="#TNVcpc #TNVed #KKms #KKed">viḷaṅkiya</lem>
         <rdg wit="#TNVmsac">viviḷaṅki</rdg>
-        <rdg wit="#TNVmspc #TNVcac #NAed">viḷaṅki</rdg>
+        <rdg wit="#TNVmspc #TNVcac #AVed">viḷaṅki</rdg>
       </app>
       <app corresp="76,84">
         <lem wit="#TNVms #TNVc #TNVed #KKms #KKed">vaḻuttūr</lem>
-        <rdg wit="#NAed">vaḻuttīr</rdg>
+        <rdg wit="#AVed">vaḻuttīr</rdg>
       </app>
       <app corresp="84,93">
         <lem wit="#TNVed">matitaraṉ</lem>
@@ -1775,40 +1775,40 @@
           <rdg type="minor" wit="#KKedpc">matitra</rdg>
         </rdgGrp>
         <rdg wit="#KKedac">matitā</rdg>
-        <rdg wit="#NAed">matiyā</rdg>
+        <rdg wit="#AVed">matiyā</rdg>
       </app>
       <app corresp="93,107">
         <lem wit="#TNVed">nuṇṇiyaṟ paṉuva</lem>
-        <rdg wit="#TNVms #TNVc #KKedpc #NAed">ṉuṇṇiyaṟ paṉuva</rdg>
+        <rdg wit="#TNVms #TNVc #KKedpc #AVed">ṉuṇṇiyaṟ paṉuva</rdg>
         <rdg wit="#KKmsac">ṟuṇṇiyaṟ ṟamiḻi</rdg>
         <rdg wit="#KKmspc">ṉuṇṇiyaṟ ṟamiḻi</rdg>
         <rdg wit="#KKedac">ṉuṇṇiya ṟamiḻi</rdg>
       </app>
       <app corresp="107,116">
-        <lem wit="#TNVms #TNVc #TNVed #KKms #NAed">ṉuḻaiporu</lem>
+        <lem wit="#TNVms #TNVc #TNVed #KKms #AVed">ṉuḻaiporu</lem>
         <rdg wit="#KKed">ṉuḻaiporu[ḷ]</rdg>
       </app>
       <app corresp="116,123">
-        <lem wit="#TNVms #TNVc #TNVed #KKedpc #NAed">ṇuṉitta</lem>
+        <lem wit="#TNVms #TNVc #TNVed #KKedpc #AVed">ṇuṉitta</lem>
         <rdg wit="#KKms #KKedac">tuḷitta</rdg>
       </app>
       <app corresp="123,130">
-        <lem wit="#TNVms #TNVc #TNVed #KKmspc #KKed #NAed">vāymoḻi</lem>
+        <lem wit="#TNVms #TNVc #TNVed #KKmspc #KKed #AVed">vāymoḻi</lem>
         <rdg wit="#KKmsac">vāya</rdg>
       </app>
       <app corresp="130,137">
         <lem wit="#TNVms #TNVc #TNVed">yamirta</lem>
         <rdg wit="#KKms">miḻta</rdg>
         <rdg wit="#KKed">yamiḻta</rdg>
-        <rdg wit="#NAed">yamuta</rdg>
+        <rdg wit="#AVed">yamuta</rdg>
       </app>
       <app corresp="137,147">
         <lem wit="#TNVms #TNVc #TNVed #KKms #KKed">maṭuttavar</lem>
-        <rdg wit="#NAed">maṭukkuvaṇ</rdg>
+        <rdg wit="#AVed">maṭukkuvaṇ</rdg>
       </app>
       <app corresp="147,155">
         <lem wit="#TNVms #TNVc #TNVed #KKms #KKed">maṉameṉa</lem>
-        <rdg wit="#NAed">maṉṉē</rdg>
+        <rdg wit="#AVed">maṉṉē</rdg>
       </app>
       <app corresp="155,161">
         <lem wit="#TNVed">āṉilai</lem>
@@ -1817,19 +1817,19 @@
           <rdg type="minor" wit="#TNVcac">yā ṉi lai</rdg>
         </rdgGrp>
         <rdg wit="#TNVcpc">yā ni lai</rdg>
-        <rdg wit="#NAed">yāṉiṟai</rdg>
+        <rdg wit="#AVed">yāṉiṟai</rdg>
       </app>
       <app corresp="161,169">
         <lem wit="#TNVms #TNVc #TNVed #KKms #KKed">peṟṟaṉṟi</lem>
-        <rdg wit="#NAed">peṟṟatu</rdg>
+        <rdg wit="#AVed">peṟṟatu</rdg>
       </app>
       <app corresp="169,176">
         <lem wit="#TNVms #TNVc #TNVed #KKms #KKed">yāṉaṟin</lem>
-        <rdg wit="#NAed"/>
+        <rdg wit="#AVed"/>
       </app>
       <app corresp="176,182">
         <lem wit="#TNVms #TNVc #TNVed #KKms #KKed">tilaṉē</lem>
-        <rdg wit="#NAed">milaḷē</rdg>
+        <rdg wit="#AVed">milaḷē</rdg>
       </app>
     </listApp>
   </standOff>
@@ -2166,47 +2166,47 @@
   <app corresp="24,32">
     <lem wit="#KKms #KKed #TNVed">kōtaiyum</lem>
     <rdg wit="#TNVmsac">kōttaiyu</rdg>
-    <rdgGrp select="#NAed #TNVcac #TNVcpc #TNVmspc">
+    <rdgGrp select="#AVed #TNVcac #TNVcpc #TNVmspc">
       <rdg type="main">kōtaiyu</rdg>
       <rdg type="minor" wit="#TNVcpc">kōtaiyu,</rdg>
     </rdgGrp>
   </app>
   <app corresp="32,41">
-    <lem wit="#KKmspc #KKed #NAed #TNVed #TNVc #TNVms">nakaivāyp</lem>
+    <lem wit="#KKmspc #KKed #AVed #TNVed #TNVc #TNVms">nakaivāyp</lem>
     <rdg wit="#KKmsac">nataivāyp</rdg>
   </app>
   <app corresp="41,50">
-    <lem wit="#KKms #KKed #NAed #TNVed #TNVc #TNVmspc">piṇaiyalu</lem>
+    <lem wit="#KKms #KKed #AVed #TNVed #TNVc #TNVmspc">piṇaiyalu</lem>
     <rdg wit="#TNVmsac">piṇaiṇaiyalu</rdg>
   </app>
   <app corresp="59,65">
-    <lem wit="#KKms #KKed #NAed #TNVed #TNVc #TNVmspc">cūṭṭum</lem>
+    <lem wit="#KKms #KKed #AVed #TNVed #TNVc #TNVmspc">cūṭṭum</lem>
     <rdg wit="#TNVmsac"><unclear>cu</unclear>cūṭṭum<lb n="7"/></rdg>
   </app>
   <app corresp="76,83">
-    <lem wit="#KKms #KKed #NAed #TNVed #TNVc">yaruḷal</lem>
+    <lem wit="#KKms #KKed #AVed #TNVed #TNVc">yaruḷal</lem>
     <rdg wit="#TNVms">
       <sic>yaruḷa</sic>
     </rdg>
   </app>
   <app corresp="83,89">
     <lem wit="#KKed #TNVed">vēṇṭum</lem>
-    <rdgGrp select="#KKms #NAed #TNVcac #TNVcpc #TNVms">
+    <rdgGrp select="#KKms #AVed #TNVcac #TNVcpc #TNVms">
       <rdg type="main">vēṇṭuñ</rdg>
       <rdg type="minor" wit="#TNVcpc">vēṇṭuñ,</rdg>
     </rdgGrp>
   </app>
   <app corresp="89,98">
     <lem wit="#KKms #KKedac #TNVed #TNVc #TNVms">ciṉaṅkeḻu</lem>
-    <rdg wit="#KKedpc #NAed">ciṉaṅko</rdg>
+    <rdg wit="#KKedpc #AVed">ciṉaṅko</rdg>
   </app>
   <app corresp="98,105">
     <lem wit="#KKms #KKedac #TNVed #TNVc #TNVms">kāṉavaṉ</lem>
-    <rdg wit="#KKedpc #NAed">ṭāṉaic</rdg>
+    <rdg wit="#KKedpc #AVed">ṭāṉaic</rdg>
   </app>
   <app corresp="113,119">
     <lem wit="#KKms #KKed #TNVed #TNVc #TNVms">makaḷē</lem>
-    <rdg wit="#NAed">māṉē</rdg>
+    <rdg wit="#AVed">māṉē</rdg>
   </app>
 </listApp></standOff>
   <standOff type="wordsplit" corresp="#TNV18poem11">
@@ -4567,40 +4567,40 @@
   </desc>
 </interp><listApp>
   <app corresp="0,6">
-    <lem wit="#NAed #TNVed #TNVc #TNVms">āṟucel</lem>
+    <lem wit="#AVed #TNVed #TNVc #TNVms">āṟucel</lem>
     <rdg wit="#TKn">āṟucelal</rdg>
   </app>
   <app corresp="6,20">
     <lem wit="#TNVed #TNVc #TNVms">varuttañ cīṟaṭi</lem>
-    <rdg wit="#NAed">varuttatuc cīṟaṭi</rdg>
+    <rdg wit="#AVed">varuttatuc cīṟaṭi</rdg>
     <rdg wit="#TKn">varuttatavuñ cīṟaṭi</rdg>
   </app>
   <app corresp="20,30">
     <lem wit="#TNVed">civappavum</lem>
-    <rdgGrp select="#NAed #TNVc #TNVms #TKn">
+    <rdgGrp select="#AVed #TNVc #TNVms #TKn">
       <rdg type="main">civappavuñ</rdg>
       <rdg type="minor" wit="#TNVc"><lb n="28"/>civappavuñ</rdg>
     </rdgGrp>
   </app>
   <app corresp="53,60">
-    <lem wit="#NAed #TNVed #TNVc #TNVmspc #TKn">vāṭavum</lem>
+    <lem wit="#AVed #TNVed #TNVc #TNVmspc #TKn">vāṭavum</lem>
     <rdg wit="#TNVmsac">vāṭavu<unclear>ṅ</unclear>n</rdg>
   </app>
   <app corresp="82,90">
     <lem wit="#TNVed #TNVc #TNVms">mivaḷoṭu</lem>
-    <rdg wit="#NAed #TKn">mivaḷuṭaṉ</rdg>
+    <rdg wit="#AVed #TKn">mivaḷuṭaṉ</rdg>
   </app>
   <app corresp="103,113">
     <lem wit="#TNVed #TNVc #TNVms">muvakkumeṉ</lem>
-    <rdg wit="#NAed #TKn">muvakkum</rdg>
+    <rdg wit="#AVed #TKn">muvakkum</rdg>
   </app>
   <app corresp="124,134">
     <lem wit="#TNVed #TNVc #TNVms">peruntakai</lem>
-    <rdg wit="#NAed #TKn">peruntaka</rdg>
+    <rdg wit="#AVed #TKn">peruntaka</rdg>
   </app>
   <app corresp="134,142">
     <lem wit="#TNVed #TNVc #TNVms">yuṭaittē</lem>
-    <rdg wit="#NAed #TKn">vuṭaittē</rdg>
+    <rdg wit="#AVed #TKn">vuṭaittē</rdg>
   </app>
 </listApp></standOff>
 <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV24poem12">
@@ -4800,16 +4800,16 @@
   </desc>
 </interp><listApp>
   <app corresp="23,32">
-    <lem wit="#NAed #TNVcpc #TNVms">illiruntu</lem>
+    <lem wit="#AVed #TNVcpc #TNVms">illiruntu</lem>
     <rdg wit="#TNVcac">lilliruntu</rdg>
   </app>
   <app corresp="32,41">
     <lem wit="#TNVc #TNVms">makiḻvōrk</lem>
-    <rdg wit="#NAed">makiḻvōṟ</rdg>
+    <rdg wit="#AVed">makiḻvōṟ</rdg>
   </app>
   <app corresp="90,98">
     <lem wit="#TNVc #TNVms">tuyaroḻi</lem>
-    <rdg wit="#NAed">tuṭaiyiṉit</rdg>
+    <rdg wit="#AVed">tuṭaiyiṉit</rdg>
   </app>
 </listApp></standOff>
 <standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#TNV24poem26">

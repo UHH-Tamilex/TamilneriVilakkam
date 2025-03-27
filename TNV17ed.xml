@@ -110,17 +110,17 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="NAed" source="witnesses/NAprint.xml">
-            <abbr type="siglum">NAed</abbr>
-            <expan>NAprint</expan>
-          </witness>          
+          <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AVed</abbr>
+            <expan>AVprint</expan>
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
-            <expan>Tolkāppiyam Nacci</expan>
-          </witness>
-          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+            <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
+          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
+          <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
-            <expan>Tolkāppiyam Pēr</expan>
+            <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
             <abbr type="siglum">YV1960a</abbr>
@@ -165,7 +165,9 @@
         <witness xml:id="TNVed" source="TNV1947.xml">
                 <abbr type="siglum">TNVed</abbr>
                 <expan>TNV print</expan>
-            </witness></listWit>
+            </witness><witness xml:id="Aink372" source="Aink372.xml"><abbr type="siglum">Aink372</abbr><expan><title xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink391" source="Aink391.xml"><abbr type="siglum">Aink391</abbr><expan><title xml:lang="ta">Aiṅkuṟunūṟu</title> 391. <persName xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink393" source="Aink393.xml"><abbr type="siglum">Aink393</abbr><expan><title xml:lang="ta">Aiṅkuṟunūṟu</title> 393. <persName xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink399" source="Aink399.xml"><abbr type="siglum">Aink399</abbr><expan><title xml:lang="ta">Aiṅkuṟunūṟu</title> 399. <persName xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="KT7" source="KT7.xml"><abbr type="siglum">KT7</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 7. <persName xml:lang="ta">Perumpatumaṉār</persName>: <i>Onlookers</i></expan></witness><witness xml:id="KT18" source="KT18.xml"><abbr type="siglum">KT18</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 18. <persName xml:lang="ta">Kapilar</persName>: <i>the confidante</i></expan></witness><witness xml:id="KT22" source="KT22.xml"><abbr type="siglum">KT22</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 22. <persName xml:lang="ta">Cēramāṉentai</persName>
+          : <i>the confidante</i></expan></witness><witness xml:id="KT71" source="KT71.xml"><abbr type="siglum">KT71</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 71. <persName xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <i>HE</i></expan></witness><witness xml:id="KT88" source="KT88.xml"><abbr type="siglum">KT88</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 88. <persName xml:lang="ta">Maturaik Katakkaṇṇaṉ</persName>: <i>the confidante / SHE</i></expan></witness><witness xml:id="KT130" source="KT130.xml"><abbr type="siglum">KT130</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 130. <persName xml:lang="ta">Veḷḷi Vīti(yār)</persName>: <i>the confidante / SHE</i></expan></witness><witness xml:id="KT149" source="KT149.xml"><abbr type="siglum">KT149</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 149. <persName xml:lang="ta">Veḷḷi Vītiyār</persName>: <i>SHE</i></expan></witness><witness xml:id="KT315" source="KT315.xml"><abbr type="siglum">KT315</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 315. <persName xml:lang="ta">Maturai
+          Vēḷātattaṉ </persName>: <hi rend="italic">SHE</hi></expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -211,10 +213,11 @@ and ending with '[the <hi rend="italic">tōḻi</hi>] taking [the heroine] and d
 on account of the <hi rend="italic">tōḻi</hi>.</p>
 <div type="citation" rend="parallel">
         <lg xml:id="TNV17poem1">
-      <l>nōkkiṉum piṟamuka nōkkāḷ cāriṉum</l>
+     <l>nōkkiṉum piṟamuka nōkkāḷ cāriṉum</l>
 <l>pūkkuḻaṉ maṭantai tōḷcā rummē</l>
 <l>yaṉṉa talaiyaḷi yuṭaimaiyi</l>
-<l>ṉiṉṉuyirt tōḻiyiv vēntiḻai yivaṭkē</l></lg>
+<l>ṉiṉṉuyirt tōḻiyiv vēntiḻai yivaṭkē</l>
+</lg>
 </div>
 <div type="koḷu" rend="parallel">
 <p xml:id="TNV17koḷu1">eṉpatu pāṅkiyai yuṇarntatu.</p></div>
@@ -233,7 +236,8 @@ on account of the <hi rend="italic">tōḻi</hi>.</p>
 <l>kaṇṇi takaiciṟan taṉavē taṇṇeṉ</l>
 <l>pūntaḻai cevviya pōlum vāṅkiruṅ</l>
 <l>kūntalu malkulum poliya</l>
-<l>vēntiṉir koṇmiṉyām viḻaikuvam peritē</l></lg>
+<l>vēntiṉir koṇmiṉyām viḻaikuvam peritē</l>
+</lg>
 </div>
 <div type="koḷu" rend="parallel">
 <p xml:id="TNV17koḷu3">eṉpatu talaimakaṉ irantu kuṟai yuṟṟatu.</p>
@@ -243,7 +247,8 @@ on account of the <hi rend="italic">tōḻi</hi>.</p>
 <l>vaikal vaika laiya vivvaḻik</l>
 <l>kaiyuṟai yēntiṉir varutir maṟṟaḵ</l>
 <l>taṟikalam yāmemak kuraippiṟ</l>
-<l>peṟukuvi rentai peruvaṇ maiyaṉē</l></lg>
+<l>peṟukuvi rentai peruvaṇ maiyaṉē</l>
+</lg>
 </div>
 <div type="koḷu" rend="parallel">
 <p xml:id="TNV17koḷu4">eṉpatu talaimakaṉait tōḻi viṉāyiṟṟu.</p>
@@ -269,10 +274,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem7"> 
-        <l>kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
-        <l>teypuṇ vāya māvē kaiviṭ</l>
-        <l>ṭakalā ṉammaviv vakaṉpuṉan</l>
-        <l>takaiyō ṉuḷḷiya taṟiyalam peritē</l>
+     <l>kaiyatu ceyalaiyan taḻaiyē viṉāya</l>
+<l>teypuṇ vāya māvē kaiviṭ</l>
+<l>ṭakalā ṉammaviv vakaṉpuṉan</l>
+<l>takaiyō ṉuḷḷiya taṟiyalam peritē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -330,10 +335,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem13"> 
-        <l>tūymai cāṉṟa tolkuṭit tōṉṟiya</l>
-        <l>vāymai nāviṉ matitaraṉ pōla</l>
-        <l>vuyartava muṉivar cārap</l>
-        <l>peyarā nilaiyatip piṟaṅkuperu malaiyē</l>
+       <l>tūymai cāṉṟa tolkuṭit tōṉṟiya</l>
+<l>vāymai nāviṉ matitaraṉ pōla</l>
+<l>vuyartava muṉivar cārap</l>
+<l>peyarā nilaiyatip piṟaṅkuperu malaiyē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -562,12 +567,12 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem35"> 
-        <l>tantunī yaḷitta taṇṭaḻai kāṇṭalum</l>
-        <l>vantaṉa ḷetirnta maṭantai neñca</l>
-        <l>maṇmicai viḷaṅki vaḻuttūr matitara</l>
-        <l>ṉuṇṇiyaṟ paṉuva ṉuḻaiporu ṇuṉitta</l>
-        <l>vāymoḻi yamirta maṭuttavar maṉameṉa</l>
-        <l>yāṉilai peṟṟaṉṟi yāṉaṟin tilaṉē</l>
+       <l>tantunī yaḷitta taṇṭaḻai kāṇṭalum</l>
+<l>vantaṉa ḷetirnta maṭantai neñca</l>
+<l>maṇmicai viḷaṅki vaḻuttūr matitara</l>
+<l>ṉuṇṇiyaṟ paṉuva ṉuḻaiporu ṇuṉitta</l>
+<l>vāymoḻi yamirta maṭuttavar maṉameṉa</l>
+<l>yāṉilai peṟṟaṉṟi yāṉaṟin tilaṉē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -9617,24 +9622,24 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
   </desc>
 </interp><listApp>
   <app corresp="0,8">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #NAed">nōkkiṉum</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #AVed">nōkkiṉum</lem>
     <rdg wit="#KKms"><space unit="character" quantity="3"/>kkiṉum</rdg>
   </app>
   <app corresp="8,16">
     <lem wit="#TNVms #TNVcac #KKmsac">piṟamuka</lem>
-    <rdg wit="#TNVcpc #TNV1937 #TNV1947 #KKmspc #KKed #NAed">piṟarmuka</rdg>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947 #KKmspc #KKed #AVed">piṟarmuka</rdg>
   </app>
   <app corresp="50,55">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #NAed">rummē</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #AVed">rummē</lem>
     <rdg wit="#KKms">rumē</rdg>
   </app>
   <app corresp="69,88">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #NAed">yuṭaimaiyi ṉiṉṉuyirt</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #AVed">yuṭaimaiyi ṉiṉṉuyirt</lem>
     <rdg wit="#KKms">yuṭaimaiyiṉ ṉuyirt</rdg>
   </app>
   <app corresp="88,103">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">tōḻiyiv vēntiḻai</lem>
-    <rdg wit="#KKms #KKedac #NAed">tōḻi yēntiḻai</rdg>
+    <rdg wit="#KKms #KKedac #AVed">tōḻi yēntiḻai</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV17poem2" source="alignments/TNV17poem2.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -9685,7 +9690,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
   </desc>
 </interp><listApp>
   <app corresp="0,15">
-    <lem wit="#TNVmspc #TNV1937 #TNV1947 #KKedpc #NAed">kaṇṇi takaiciṟan</lem>
+    <lem wit="#TNVmspc #TNV1937 #TNV1947 #KKedpc #AVed">kaṇṇi takaiciṟan</lem>
     <rdg wit="#KKedac">kaṇṇi yaica (?takai)ciṟan</rdg>
     <rdgGrp select="#TNVcpc #KKms">
       <rdg type="main">kaṇṇiyaic ciṟan</rdg>
@@ -9697,18 +9702,18 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </rdgGrp>
   </app>
   <app corresp="27,35">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #NAed">pūntaḻai</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #AVed">pūntaḻai</lem>
     <rdg wit="#TNVmsac">pūṅntaḻai</rdg>
   </app>
   <app corresp="55,62">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #NAed">kūntalu</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #AVed">kūntalu</lem>
     <rdg wit="#TNVmsac">kūṅntalu</rdg>
   </app>
   <app corresp="76,93">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">vēntiṉir koṇmiṉyām</lem>
     <rdg wit="#KKedac">vēntiṉi[raṇi] miṉyām</rdg>
     <rdg wit="#KKms">vēntiṉi <space unit="character" quantity="2"/>miṉyām</rdg>
-    <rdg wit="#KKedpc #NAed">vēntiḻai koḷkayām</rdg>
+    <rdg wit="#KKedpc #AVed">vēntiḻai koḷkayām</rdg>
     <rdg wit="#TNVcac">vēntiṉī<lb n="8"/>r koṇmiṉyām</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV17poem4" source="alignments/TNV17poem4.xml"><interp type="normalization">
@@ -9832,15 +9837,15 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
   </desc>
 </interp><listApp>
   <app corresp="0,7">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed #NAed">kaiyatu</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed #AVed">kaiyatu</lem>
     <rdg wit="#KKmsac">kaivvatu</rdg>
   </app>
   <app corresp="7,17">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #NAed">ceyalaiyan</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #AVed">ceyalaiyan</lem>
     <rdg wit="#KKms #KKedac">cemmalan</rdg>
   </app>
   <app corresp="24,30">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #NAed">viṉāya</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #AVed">viṉāya</lem>
     <rdg wit="#KKms #KKedac">viṉāvatu</rdg>
     <rdg wit="#KKedpc">viṉāyatu</rdg>
   </app>
@@ -9848,10 +9853,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">teypuṇ</lem>
     <rdg wit="#KKedac">[teyya]puṇ</rdg>
     <rdg wit="#KKms">puṇ</rdg>
-    <rdg wit="#NAed">taiya puṇ</rdg>
+    <rdg wit="#AVed">taiya puṇ</rdg>
   </app>
   <app corresp="40,56">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKed #NAed">māvē kaiviṭ ṭakalā</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKed #AVed">māvē kaiviṭ ṭakalā</lem>
     <rdg wit="#KKms">māvēl kaiviṭ ṭakalā</rdg>
     <rdg wit="#TNVmsac">mā<space unit="character" quantity="4"/> ṉalā</rdg>
     <rdgGrp select="#TNVmspc #TNVcac">
@@ -9860,22 +9865,27 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </rdgGrp>
   </app>
   <app corresp="56,64">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKms #KKed #NAed">ṉammaviv</lem>
+    <lem wit="#TNV1937 #TNV1947 #KKms #KKed #AVed">ṉammaviv</lem>
+    <rdg wit="#TNVcpc">ṉamma<lb n="20"/>viv</rdg>
     <rdgGrp select="#TNVms #TNVcac">
       <rdg type="main">ṉammavim</rdg>
       <rdg type="minor" wit="#TNVcac">ṉamma<lb n="20"/>vim</rdg>
     </rdgGrp>
   </app>
   <app corresp="64,74">
-    <lem wit="#TNV1937 #TNV1947 #KKed #NAed">vakaṉpuṉan</lem>
+    <lem wit="#TNV1937 #TNV1947 #KKed #AVed">vakaṉpuṉan</lem>
     <rdg wit="#KKms">vakaṉpuṉai</rdg>
     <rdg wit="#TNVcpc">vakaṉpulan,</rdg>
     <rdg wit="#TNVms #TNVcac">makaṉpulan</rdg>
   </app>
-  <app corresp="88,103">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">taṟiyalam peritē</lem>
-    <rdg wit="#KKms #KKedac">taṟiyōm peritē</rdg>
-    <rdg wit="#NAed">taṟitalu maritē</rdg>
+  <app corresp="88,97">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">taṟiyalam</lem>
+    <rdg wit="#KKms #KKedac">taṟiyōm</rdg>
+    <rdg wit="#AVed">taṟitalu</rdg>
+  </app>
+  <app corresp="97,103">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">peritē</lem>
+    <rdg wit="#AVed">maritē</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV17poem8" source="alignments/TNV17poem8.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -9944,23 +9954,27 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
+  <app corresp="0,8">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">vāṅkiruñ</lem>
+    <rdg wit="#AVed"><pb n="250" type="folio"/> vāṅkiruṅ</rdg>
+  </app>
   <app corresp="8,16">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">cilampiṉ</lem>
-    <rdg wit="#NAed">kāṇaluḷ</rdg>
+    <rdg wit="#AVed">kāṇaluḷ</rdg>
   </app>
   <app corresp="28,36">
-    <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947 #NAed">tēṅkamaḻ</lem>
+    <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947 #AVed">tēṅkamaḻ</lem>
     <rdg wit="#TNVcac">tēṅ<unclear>ka</unclear>ḻ</rdg>
     <rdg wit="#TNVmsac">tēṅkamak</rdg>
   </app>
   <app corresp="56,62">
     <lem wit="#TNVms">kiyarō</lem>
-    <rdg wit="#TNVcpc #TNV1937 #TNV1947 #NAed">kiyatō</rdg>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947 #AVed">kiyatō</rdg>
     <rdg wit="#TNVcac">kiyaḷō</rdg>
   </app>
   <app corresp="62,70">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">vēntaṉiṉ</lem>
-    <rdg wit="#NAed">pāṅkuniṉ</rdg>
+    <rdg wit="#AVed">pāṅkuniṉ</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV17poem11" source="alignments/TNV17poem11.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -10029,24 +10043,24 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 </interp><listApp>
   <app corresp="19,26">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">tōṉṟiya</lem>
-    <rdg wit="#NAed">tōṉṟi</rdg>
+    <rdg wit="#AVed">tōṉṟi</rdg>
   </app>
   <app corresp="37,46">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">matitaraṉ</lem>
-    <rdg wit="#NAed">matiyāṉ</rdg>
+    <rdg wit="#AVed">matiyāṉ</rdg>
   </app>
   <app corresp="66,71">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">cārap</lem>
-    <rdg wit="#NAed">cārvāp</rdg>
+    <rdg wit="#AVed">cārvāp</rdg>
   </app>
   <app corresp="77,87">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">nilaiyatip</lem>
-    <rdg wit="#NAed">nilaiyatu</rdg>
+    <rdg wit="#AVed">nilaiyatu</rdg>
   </app>
   <app corresp="87,98">
     <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947">piṟaṅkuperu</lem>
     <rdg wit="#TNVcac">peru</rdg>
-    <rdg wit="#NAed">piṟaṅkutiru</rdg>
+    <rdg wit="#AVed">piṟaṅkutiru</rdg>
     <rdg wit="#TNVmsac">piṟakuperu</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV17poem14" source="alignments/TNV17poem14.xml"><interp type="normalization">
@@ -10707,82 +10721,80 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
   </desc>
 </interp><listApp>
   <app corresp="22,30">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #NAed">kāṇṭalum</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #AVed">kāṇṭalum</lem>
     <rdg wit="#KKms">kāṇalum</rdg>
   </app>
   <app corresp="45,53">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">maṭantai</lem>
-    <rdg wit="#NAed">maṭantaitaṉ</rdg>
+    <rdg wit="#AVed">maṭantaitaṉ</rdg>
   </app>
   <app corresp="53,58">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">neñca</lem>
-    <rdg wit="#NAed">ṉeñca</rdg>
+    <rdg wit="#AVed">ṉeñca</rdg>
   </app>
   <app corresp="66,73">
-    <lem wit="#TNVmspc #TNVcac #NAed">viḷaṅki</lem>
-    <rdg wit="#TNVcpc #TNV1937 #TNV1947 #KKms #KKed">viḷaṅkiya</rdg>
+    <lem wit="#TNVmspc #TNVcac">viḷaṅki</lem>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947 #KKms #KKed #AVed">viḷaṅkiya</rdg>
     <rdg wit="#TNVmsac">viviḷaṅki</rdg>
   </app>
   <app corresp="73,81">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">vaḻuttūr</lem>
-    <rdg wit="#NAed">vaḻuttīr</rdg>
+    <rdg wit="#AVed">vaḻuttīr</rdg>
   </app>
   <app corresp="81,89">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKedpc">matitara</lem>
     <rdg wit="#KKedac">matitā</rdg>
-    <rdg wit="#NAed">matiyā</rdg>
+    <rdg wit="#AVed">matiyā</rdg>
   </app>
   <app corresp="89,97">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKedpc #NAed">ṉuṇṇiyaṟ</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKedpc #AVed">ṉuṇṇiyaṟ</lem>
     <rdg wit="#KKedac">ṉuṇṇiya</rdg>
     <rdg wit="#KKmsac">ṟuṇṇiyaṟ</rdg>
   </app>
   <app corresp="97,103">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #NAed">paṉuva</lem>
-    <rdgGrp select="#KKms #KKedac">
-      <rdg type="main">
-        ṟamiḻi
-      </rdg>
-      <rdg type="minor" wit="#KKms">ṟamiḻi</rdg>
-    </rdgGrp>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #AVed">paṉuva</lem>
+    <rdg wit="#KKms #KKedac">ṟamiḻi</rdg>
+  </app>
+  <app corresp="103,112">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #AVed">ṉuḻaiporu</lem>
+    <rdg wit="#KKed">ṉuḻaiporu[ḷ]</rdg>
   </app>
   <app corresp="112,119">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #NAed">ṇuṉitta</lem>
-    <rdg wit="#KKedac">[ḷ] tuḷitta</rdg>
-    <rdg wit="#KKms">tuḷitta</rdg>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #AVed">ṇuṉitta</lem>
+    <rdg wit="#KKms #KKedac">tuḷitta</rdg>
   </app>
   <app corresp="119,133">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">vāymoḻi yamirta</lem>
     <rdg wit="#KKed">vāymoḻi yamiḻta</rdg>
     <rdg wit="#KKmsac">vāya miḻta</rdg>
     <rdg wit="#KKmspc">vāymoḻi miḻta</rdg>
-    <rdg wit="#NAed">vāymoḻi yamuta</rdg>
+    <rdg wit="#AVed">vāymoḻi yamuta</rdg>
   </app>
   <app corresp="133,143">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">maṭuttavar</lem>
-    <rdg wit="#NAed">maṭukkuvaṇ</rdg>
+    <rdg wit="#AVed">maṭukkuvaṇ</rdg>
   </app>
   <app corresp="143,151">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">maṉameṉa</lem>
-    <rdg wit="#NAed">maṉṉē</rdg>
+    <rdg wit="#AVed">maṉṉē</rdg>
   </app>
   <app corresp="151,158">
     <lem wit="#TNVms #TNVcac #KKms #KKed">yāṉilai</lem>
-    <rdg wit="#NAed">yāṉiṟai</rdg>
+    <rdg wit="#AVed">yāṉiṟai</rdg>
     <rdg wit="#TNVcpc"><sic>y</sic>ānilai</rdg>
     <rdg wit="#TNV1937 #TNV1947">āṉilai</rdg>
   </app>
   <app corresp="158,166">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">peṟṟaṉṟi</lem>
-    <rdg wit="#NAed">peṟṟatu</rdg>
+    <rdg wit="#AVed">peṟṟatu</rdg>
   </app>
   <app corresp="166,173">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">yāṉaṟin</lem>
-    <rdg wit="#NAed"/>
+    <rdg wit="#AVed"/>
   </app>
   <app corresp="173,179">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">tilaṉē</lem>
-    <rdg wit="#NAed">milaḷē</rdg>
+    <rdg wit="#AVed">milaṇē</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV17poem36" source="alignments/TNV17poem36.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -10942,35 +10954,35 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
   </desc>
 </interp><listApp>
   <app corresp="24,31">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #NAed">kōtaiyu</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #AVed">kōtaiyu</lem>
     <rdg wit="#TNVmsac">kōttaiyu</rdg>
   </app>
   <app corresp="31,40">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed #NAed">nakaivāyp</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed #AVed">nakaivāyp</lem>
     <rdg wit="#KKmsac">m nataivāyp</rdg>
   </app>
   <app corresp="40,49">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #NAed">piṇaiyalu</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #AVed">piṇaiyalu</lem>
     <rdg wit="#TNVmsac">piṇaiṇaiyalu</rdg>
   </app>
   <app corresp="58,64">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #NAed">cūṭṭum</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed #AVed">cūṭṭum</lem>
     <rdg wit="#TNVmsac"><unclear>cu</unclear>cūṭṭum</rdg>
   </app>
   <app corresp="75,87">
     <lem wit="#TNVms">yaruḷa vēṇṭuñ</lem>
-    <rdgGrp select="#TNVcac #TNVcpc #TNV1937 #TNV1947 #KKms #KKed #NAed">
+    <rdgGrp select="#TNVcac #TNVcpc #TNV1937 #TNV1947 #KKms #KKed #AVed">
       <rdg type="main">yaruḷal vēṇṭum</rdg>
-      <rdg type="minor" wit="#TNVcac #KKms #NAed">yaruḷal vēṇṭuñ</rdg>
+      <rdg type="minor" wit="#TNVcac #KKms #AVed">yaruḷal vēṇṭuñ</rdg>
       <rdg type="minor" wit="#TNVcpc">yaruḷal vēṇṭuñ,</rdg>
     </rdgGrp>
   </app>
   <app corresp="87,103">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKedac">ciṉaṅkeḻu kāṉavaṉ</lem>
-    <rdg wit="#KKedpc #NAed">ciṉaṅko ṭāṉaic</rdg>
+    <rdg wit="#KKedpc #AVed">ciṉaṅko ṭāṉaic</rdg>
   </app>
   <app corresp="111,117">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">makaḷē</lem>
-    <rdg wit="#NAed">māṉē</rdg>
+    <rdg wit="#AVed">māṉē</rdg>
   </app>
 </listApp></standOff></TEI>
