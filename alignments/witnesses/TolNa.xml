@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tolkāppiyam Nacci</title>
+            <title>Tolkāppiyam Nacciṉārkkiṉiyar</title>
             
          <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
@@ -19,9 +19,9 @@
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>Tolkāppiyam Nacci. Porulatikaram up to poruliyal</summary>
+                  <summary>Tolkāppiyam Nacciṉārkkiṉiyar. Porulatikaram up to poruliyal</summary>
                   
-               <msItem xml:id="TKn" defective="false"><title>Tolkāppiyam Nacci</title></msItem></msContents>
+               <msItem xml:id="TKn" defective="false"><title>Tolkāppiyam Nacciṉārkkiṉiyar</title></msItem></msContents>
                <physDesc>
                   
                   

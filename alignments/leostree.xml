@@ -6,7 +6,7 @@
 		<otu id="otu2" label="KKmsac"/>
 		<otu id="otu3" label="KKmspc"/>
 		<otu id="otu4" label="KKedpc"/>
-		<otu id="otu5" label="NAed"/>
+		<otu id="otu5" label="AVed"/>
 		<otu id="otu6" label="TNVcac"/>
 		<otu id="otu7" label="TNVmspc"/>
 		<otu id="otu8" label="TNVmsac"/>
@@ -19,7 +19,7 @@
 			<node id="n2" label="KKmsac" otu="otu2"/>
 			<node id="n3" label="KKmspc" otu="otu3"/>
 			<node id="n4" label="KKedpc" otu="otu4"/>
-			<node id="n5" label="NAed" otu="otu5"/>
+			<node id="n5" label="AVed" otu="otu5"/>
 			<node id="n6" label="TNVcac" otu="otu6"/>
 			<node id="n7" label="TNVmspc" otu="otu7"/>
 			<node id="n8" label="TNVmsac" otu="otu8"/>

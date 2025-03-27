@@ -110,17 +110,17 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="NAed" source="witnesses/NAprint.xml">
-            <abbr type="siglum">NAed</abbr>
-            <expan>NAprint</expan>
+          <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AVed</abbr>
+            <expan>AVprint</expan>
           </witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
-            <expan>Tolkāppiyam Nacci</expan>
+            <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+          <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
-            <expan>Tolkāppiyam Pēr</expan>
+            <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
             <abbr type="siglum">YV1960a</abbr>
