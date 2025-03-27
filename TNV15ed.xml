@@ -110,17 +110,17 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="NAed" source="witnesses/NAprint.xml">
-            <abbr type="siglum">NAed</abbr>
-            <expan>NAprint</expan>
+          <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AVed</abbr>
+            <expan>AVprint</expan>
           </witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
-            <expan>Tolkāppiyam Nacci</expan>
+            <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+          <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
-            <expan>Tolkāppiyam Pēr</expan>
+            <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
             <abbr type="siglum">YV1960a</abbr>
@@ -2636,25 +2636,25 @@
   </desc>
 </interp><listApp>
   <app corresp="0,12">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #NAed">maṉavē ralkuṉ</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #AVed">maṉavē ralkuṉ</lem>
     <rdg wit="#KKms"/>
   </app>
   <app corresp="12,26">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKmspc #KKed #NAed">maṭantai kūṭṭam</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKmspc #KKed #AVed">maṭantai kūṭṭam</lem>
     <rdg wit="#KKmsac">... maṭantaik kūṭṭaṅ</rdg>
     <rdg wit="#TNVmsac">maṭantai kūkūṭṭaṅ</rdg>
   </app>
   <app corresp="26,32">
     <lem wit="#TNVc #TNV1937 #TNV1947">kaṉavō</lem>
-    <rdg wit="#TNVms #KKms #KKed #NAed">kaṉavē</rdg>
+    <rdg wit="#TNVms #KKms #KKed #AVed">kaṉavē</rdg>
   </app>
   <app corresp="32,39">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">teriyiṉ</lem>
     <rdg wit="#KKms #KKedac">tēriṉ</rdg>
-    <rdg wit="#NAed">teriyiṉum</rdg>
+    <rdg wit="#AVed">teriyiṉum</rdg>
   </app>
   <app corresp="51,57">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #NAed">yeṉiṉu</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #AVed">yeṉiṉu</lem>
     <rdg wit="#KKms #KKedac">yāyiṉu</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV15koḷu6" source="alignments/TNV15koḷu6.xml"><interp type="normalization">

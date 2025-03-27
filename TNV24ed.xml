@@ -110,17 +110,17 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="NAed" source="witnesses/NAprint.xml">
-            <abbr type="siglum">NAed</abbr>
-            <expan>NAprint</expan>
+          <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AVed</abbr>
+            <expan>AVprint</expan>
           </witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
-            <expan>Tolkāppiyam Nacci</expan>
+            <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+          <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
-            <expan>Tolkāppiyam Pēr</expan>
+            <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
             <abbr type="siglum">YV1960a</abbr>
@@ -8396,33 +8396,33 @@
   </desc>
 </interp><listApp>
   <app corresp="0,6">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #NAed">āṟucel</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #AVed">āṟucel</lem>
     <rdg wit="#TKn">āṟucelal</rdg>
   </app>
   <app corresp="6,14">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">varuttañ</lem>
-    <rdg wit="#NAed">varuttatuc</rdg>
+    <rdg wit="#AVed">varuttatuc</rdg>
     <rdg wit="#TKn">varuttatavuñ</rdg>
   </app>
   <app corresp="53,60">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #NAed #TKn">vāṭavun</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #AVed #TKn">vāṭavun</lem>
     <rdg wit="#TNVmsac">vāṭavu<unclear>ṅ</unclear>n</rdg>
   </app>
   <app corresp="82,90">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">mivaḷoṭu</lem>
-    <rdg wit="#NAed #TKn">mivaḷuṭaṉ</rdg>
+    <rdg wit="#AVed #TKn">mivaḷuṭaṉ</rdg>
   </app>
   <app corresp="103,113">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">muvakkumeṉ</lem>
-    <rdg wit="#NAed #TKn">muvakkum</rdg>
+    <rdg wit="#AVed #TKn">muvakkum</rdg>
   </app>
   <app corresp="124,134">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">peruntakai</lem>
-    <rdg wit="#NAed #TKn">peruntaka</rdg>
+    <rdg wit="#AVed #TKn">peruntaka</rdg>
   </app>
   <app corresp="134,142">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">yuṭaittē</lem>
-    <rdg wit="#NAed #TKn">vuṭaittē</rdg>
+    <rdg wit="#AVed #TKn">vuṭaittē</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV24poem5" source="alignments/TNV24poem5.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -8621,16 +8621,16 @@
   </desc>
 </interp><listApp>
   <app corresp="23,33">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #NAed">villiruntu</lem>
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #AVed">villiruntu</lem>
     <rdg wit="#TNVcac">lilliruntu</rdg>
   </app>
   <app corresp="33,42">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">makiḻvōrk</lem>
-    <rdg wit="#NAed">makiḻvōṟ</rdg>
+    <rdg wit="#AVed">makiḻvōṟ</rdg>
   </app>
   <app corresp="92,100">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">tuyaroḻi</lem>
-    <rdg wit="#NAed">tuṭaiyiṉit</rdg>
+    <rdg wit="#AVed">tuṭaiyiṉit</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV24poem13" source="alignments/TNV24poem13.xml"><interp type="normalization">
   <desc type="tagfilters">

@@ -110,17 +110,17 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="NAed" source="witnesses/NAprint.xml">
-            <abbr type="siglum">NAed</abbr>
-            <expan>NAprint</expan>
+          <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AVed</abbr>
+            <expan>AVprint</expan>
           </witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
-            <expan>Tolkāppiyam Nacci</expan>
+            <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolPe.xml">
+          <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
-            <expan>Tolkāppiyam Pēr</expan>
+            <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
             <abbr type="siglum">YV1960a</abbr>
@@ -2216,37 +2216,37 @@
   </desc>
 </interp><listApp>
   <app corresp="30,36">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #NAed #TKn">nillal</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #AVed #TKn">nillal</lem>
     <rdg wit="#TNVmsac">nilla<gap reason="illegible" unit="character" quantity="1"/>ṟ</rdg>
   </app>
   <app corresp="40,48">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #NAed #TKn">celliṉip</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #AVed #TKn">celliṉip</lem>
     <rdg wit="#TNVcac"><space quantity="1" unit="character"/><lb n="9"/><space quantity="2" unit="character"/>ṟap</rdg>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="3"/><lb n="8"/><gap reason="lost" unit="character" quantity="1"/>p</rdg>
   </app>
   <app corresp="48,55">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #NAed #TKn">pariyal</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #AVed #TKn">pariyal</lem>
     <rdg wit="#TNVms #TNVcac">paraya</rdg>
   </app>
   <app corresp="62,67">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">cērik</lem>
-    <rdg wit="#NAed #TKn">cēri</rdg>
+    <rdg wit="#AVed #TKn">cēri</rdg>
   </app>
   <app corresp="67,80">
-    <lem wit="#TNVms #TNV1937 #TNV1947 #NAed #TKn">kāṇiṉ akalvaya</lem>
+    <lem wit="#TNVms #TNV1937 #TNV1947 #AVed #TKn">kāṇiṉ akalvaya</lem>
     <rdgGrp select="#TNVcac #TNVcpc">
       <rdg type="main">kāṇi, ṉalvarai</rdg>
       <rdg type="minor" wit="#TNVcac">kāṇi ṉalvarai</rdg>
     </rdgGrp>
   </app>
   <app corresp="80,84">
-    <lem wit="#TNVmspc #TNV1937 #TNV1947 #NAed">lūra</lem>
+    <lem wit="#TNVmspc #TNV1937 #TNV1947 #AVed">lūra</lem>
     <rdg wit="#TKn">lūran</rdg>
     <rdg wit="#TNVc">nāṭa</rdg>
     <rdg wit="#TNVmsac">lūraṉ</rdg>
   </app>
   <app corresp="84,91">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #NAed">ṉāṇavum</lem>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #AVed">ṉāṇavum</lem>
     <rdg wit="#TKn">nāṇavum</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV25poem2" source="alignments/TNV25poem2.xml"><interp type="normalization">

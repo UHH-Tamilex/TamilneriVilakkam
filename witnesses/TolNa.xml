@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tolkāppiyam Nacci</title>
+            <title>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār</title>
             
          <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
@@ -19,16 +19,16 @@
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>Tolkāppiyam Nacci. Porulatikaram up to poruliyal</summary>
+                  <summary>1885 first edition of Tolkāppiyam Poruḷatikāram with Nacciṉārkkiṉiyār's commentary edited by Tāmōtarampiḷḷai. Some blank pages with annotations are included.</summary>
                   
-               <msItem xml:id="TKn" defective="false"><title>Tolkāppiyam Nacci</title></msItem></msContents>
+               <msItem xml:id="TKn" defective="false"><title xml:lang="ta">Tolkāppiyam Nacciṉārkkiṉiyarṉārkkiṉiyār</title><textLang mainLang="tam"/></msItem><msItem xml:id="TKp" defective="true"><title xml:lang="ta">Tolkāppiyam Pērāciriyarāciriyar</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
                   
                   
                   
-               <objectDesc form="baad">
+               <objectDesc form="codex">
                      <supportDesc material="paper">
                         
                         
@@ -38,7 +38,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="342"/>
+                           <measure unit="page" quantity="922"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -80,54 +80,71 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>eva style</p></encodingDesc>
+      <encodingDesc><p>Tamil Madras Lexicon conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   </facsimile>
-<text corresp="#TKn"> <body xml:lang="ta">
+   <graphic url="https://iiif.archive.org/iiif/Tamil-Tholkaappiyam-Porul-Nachi-1885/manifest.json" facs="1"/></facsimile>
+<text corresp="#TKn" xml:lang="ta"> <body xml:lang="ta">
    <lg corresp="#TNV22poem14">
+           <pb n="8" facs="42"/>
 <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiya ṉoḷvēṟ kaṇṇi</l>
 <l>mulaiyum vārā mutukkuṟain taṉaḷē</l></lg>
  <lg corresp="#TNV23poem1">
+        <pb n="65" facs="115"/>
 <l>ivaḷē niṉṉala tilaḷē yāyuṅ</l>
 <l>kuvaḷai yuṇka ṇivaḷala tilaḷē</l>
 <l>yāṉu māyiṭai yēṉē</l>
 <l>māmalai nāṭa maṟavā tīmē</l></lg>
  <lg corresp="#TNV23poem24">
+   <pb n="81" facs="131"/>
 <l>māṉatar mayaṅkiya malaimutaṟ ciṟuneṟi</l>
 <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
 <l>yañciṉa ḷañciṉa ḷotuṅkip</l>
 <l>pañci mellaṭi paralvaṭuk koḷavē</l></lg>
    <lg corresp="#TNV24poem4">
-<l>āṟucelal varuttatavuñ cīṟaṭi civappavuñ</l>
+        <pb n="74" facs="124"/>
+<l>āṟucel varuttatuñ cīṟaṭi civappavuñ</l>
 <l>ciṉainīṅku taḷiriṉ vaṇṇam vāṭavun</l>
 <l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷuṭaṉ</l>
 <l>vēypayi laḻuva muvakkum</l>
 <l>pētai neñcam peruntaka vuṭaittē</l></lg>    
 <lg corresp="#TNV24poem23">
-<l>ciṟupuṉ mālai ciṟupuṉ mālai</l>
+  <pb n="289" facs="344"/>
+<l>ciṟupuṉ mālai ciṟu<pb n="290" facs="344"/>puṉ mālai</l>
 <l>tīppaṉi paṉṉa taṇvaḷi yacaiic</l>
 <l>cekkar koṇṭa ciṟupuṉ mālai</l>
 <l>vaikalum varutiyā lemakkē</l>
-<l>eṉṟuñ collāyavar kuṉṟukeḻu nāṭṭē</l></lg>
+<l>yoṉṟuñ collāyavar kuṉṟukeḻu nāṭṭē</l></lg>
 <lg corresp="#TNV24poem25">
+  <pb n="310" facs="365"/>
 <l>keḷavaiyam perumpaḻi tūṟṟa nalaṉaḻintu</l>
 <l>paitalañ ciṟunutal pacalai pāya</l>
-<l>nammitaṟ paṭutta avariṉum avarnāṭṭuk</l>
-<l>kuṉṟaṅ koṭiyakol tōḻi</l>
+<l>nammitaṟ paṭutta vavariṉum avarnāṭṭuk</l>
+<l>kuṉṟaṅ koṭiyako ṟōḻi</l>
 <l>oṉṟun tōṉṟā maḻaimaṟain taṉavē</l></lg>
 <lg corresp="#TNV24poem26">
-  <l>koṭinilai nekiḻac cāayt tōḷavar</l>
+  <pb n="284" facs="339"/>
+  <l>toṭinaṭan tiḻiyac cāayt tōḷavar</l>
   <l>koṭumai kūṟiṉa vāyiṉuṅ koṭumai</l>
 <l>nalvarai nāṭar killai tōḻiyeṉ</l>
   <l>neñciṟ pirintatūu milarē taṅkuṟai</l>
   <l>nōkkaṅ kaṭintatūu milarē</l>
-  <l>nilattiṉum peritē nontavar natpē</l></lg>
+  <del rend="quotation marks"><l>nilattiṉum peritē nontavar natpē</l></del></lg>
 <lg corresp="#TNV25poem1">   
-<l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
+<pb n="394" facs="454"/>
+<l>pulaimaka ṉātaliṟ poynniṉ vāḻi</l>
 <l>nillal pāṇa celliṉip pariyal</l>
 <l>pakaleñ cēri kāṇiṉ</l>
 <l>akalvaya lūran nāṇavum peṟumē</l></lg>
-   </body></text></TEI>
+   </body></text><text corresp="#TKp" xml:lang="ta"><body xml:lang="ta">  
+  <lg corresp="#TNV24poem26">
+      <pb n="504" facs="565"/>
+  <l>toṭinilai nekiḻac cāayt tōḷavar</l>
+  <l>koṭumai kūṟiya vāyiṉuṅ koṭumai</l>
+<l>nalvarai nāṭar killai tōḻi</l>
+  <l>neñciṟ pirintatu milarē </l>
+  <l>kuṉṟa nōkkaṅ kaṭintatu milarē</l>
+    </lg>
+  </body></text></TEI>
