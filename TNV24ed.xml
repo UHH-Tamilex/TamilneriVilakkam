@@ -113,11 +113,11 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          </witness>          
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          </witness>
+          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
           <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
@@ -277,11 +277,11 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem4"> 
-        <l>āṟucel varuttañ cīṟaṭi civappavuñ</l>
-        <l>ciṉai nīṅku taḷiriṉ vaṇṇam vāṭavun</l>
-        <l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷoṭu</l>
-        <l>vēypayi laḻuva muvakkumeṉ</l>
-        <l>pētai neñcam peruntakai yuṭaittē</l>
+       <l>āṟucel varuttañ cīṟaṭi civappavuñ</l>
+<l>ciṉai nīṅku taḷiriṉ vaṇṇam vāṭavun</l>
+<l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷoṭu</l>
+<l>vēypayi laḻuva muvakkumeṉ</l>
+<l>pētai neñcam peruntakai yuṭaittē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -363,9 +363,9 @@
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem12"> 
         <l>nāḷu nāḷu māḷviṉai yaḻuṅka</l>
-        <l>villiruntu makiḻvōrk killaiyāṟ pukaḻeṉa</l>
-        <l>voṇporuṭ kakalvarnaṅ kātalar</l>
-        <l>kaṇpaṉi tuyaroḻi tōḻi nīyē</l>
+<l>villiruntu makiḻvōrk killaiyāṟ pukaḻeṉa</l>
+<l>voṇporuṭ kakalvarnaṅ kātalar</l>
+<l>kaṇpaṉi tuyaroḻi tōḻi nīyē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -482,11 +482,11 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem23"> 
-        <l>ciṟupuṉ mālai ciṟupuṉ mālai</l>
-        <l>tīppaṉip paṉṉa taṇvaḷi yacaiic</l>
-        <l>cekkark koṇṭa ciṟupuṉ mālai</l>
-        <l>vaikalum varutiyā lemakkē</l>
-        <l>yeṉṟuñcel lāyavar kuṉṟukeḻu nāṭṭē</l>
+      <l>ciṟupuṉ mālai ciṟupuṉ mālai</l>
+<l>tīppaṉip paṉṉa taṇvaḷi yacaiic</l>
+<l>cekkark koṇṭa ciṟupuṉ mālai</l>
+<l>vaikalum varutiyā lemakkē</l>
+<l>yeṉṟuñcel lāyavar kuṉṟukeḻu nāṭṭē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -494,11 +494,11 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem24"> 
-        <l>niraiyir cellu mōveṉa nērntu</l>
-        <l>pulaiya ṉeṟinta pūcaṟ ṟaṇṇumai</l>
-        <l>ēva liḷaiyar tāyvayiṟu karikku</l>
-        <l>miṉṉā varuñcura meṉpa</l>
-        <l>teṉṉō tōḻiyavar ceṉṟa vāṟē</l>
+       <l>niraiyir cellu mōveṉa nērntu</l>
+<l>pulaiya ṉeṟinta pūcaṟ ṟaṇṇumai</l>
+<l>ēva liḷaiyar tāyvayiṟu karikku</l>
+<l>miṉṉā varuñcura meṉpa</l>
+<l>teṉṉō tōḻiyavar ceṉṟa vāṟē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -506,11 +506,11 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem25"> 
-        <l>kavvaiyam perumpaḻi tūṟṟa nalaṉaḻintu</l>
-        <l>paitalañ ciṟunutal pacalai pāya</l>
-        <l>nammitaṟ paṭutta vavariṉu mavarnāṭṭuk</l>
-        <l>kuṉṟuṅ koṭiyako ṟōḻi</l>
-        <l>yoṉṟun tōṉṟā maḻaimaṟan taṉavē</l>
+       <l>kavvaiyam perumpaḻi tūṟṟa nalaṉaḻintu</l>
+<l>paitalañ ciṟunutal pacalai pāya</l>
+<l>nammitaṟ paṭutta vavariṉu mavarnāṭṭuk</l>
+<l>kuṉṟuṅ koṭiyako ṟōḻi</l>
+<l>yoṉṟun tōṉṟā maḻaimaṟan taṉavē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -518,11 +518,11 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem26"> 
-        <l>toṭinaṭan tiḻiyac cāay tōḷavar</l>
-        <l>koṭumai kūṟiṉa vāyiṉuṅ koṭumai</l>
-        <l>nalvarai nāṭark killai tōḻiye</l>
-        <l>ṉeñciṟ pirintatu milarētaṅ</l>
-        <l>kuṟai nōkkaṅ kaṭintatu milarē</l>
+      <l>toṭinaṭan tiḻiyac cāay tōḷavar</l>
+<l>koṭumai kūṟiṉa vāyiṉuṅ koṭumai</l>
+<l>nalvarai nāṭark killai tōḻiye</l>
+<l>ṉeñciṟ pirintatu milarētaṅ</l>
+<l>kuṉṟa nōkkaṅ kaṭintatu milarē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -8395,14 +8395,10 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #AVed">āṟucel</lem>
-    <rdg wit="#TKn">āṟucelal</rdg>
-  </app>
   <app corresp="6,14">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">varuttañ</lem>
     <rdg wit="#AVed">varuttatuc</rdg>
-    <rdg wit="#TKn">varuttatavuñ</rdg>
+    <rdg wit="#TKn">varuttatuñ</rdg>
   </app>
   <app corresp="53,60">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #AVed #TKn">vāṭavun</lem>
@@ -8418,7 +8414,8 @@
   </app>
   <app corresp="124,134">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">peruntakai</lem>
-    <rdg wit="#AVed #TKn">peruntaka</rdg>
+    <rdg wit="#AVedac">poruttataka</rdg>
+    <rdg wit="#AVedpc #TKn">peruntaka</rdg>
   </app>
   <app corresp="134,142">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">yuṭaittē</lem>
@@ -8626,7 +8623,11 @@
   </app>
   <app corresp="33,42">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">makiḻvōrk</lem>
-    <rdg wit="#AVed">makiḻvōṟ</rdg>
+    <rdg wit="#AVed">makiḻvōṟk</rdg>
+  </app>
+  <app corresp="67,78">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #AVedpc">kakalvarnaṅ</lem>
+    <rdg wit="#AVedac">kaplvarnaṅ</rdg>
   </app>
   <app corresp="92,100">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">tuyaroḻi</lem>
@@ -8956,11 +8957,14 @@
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #TKn">ciṟupuṉ</lem>
     <rdg wit="#TNVmsac"><unclear>ci</unclear>ciṟupuṉ</rdg>
   </app>
-  <app corresp="24,37">
-    <lem wit="#TNVms">tīppaṉip paṉṉa</lem>
-    <rdg wit="#TNVcac #TNV1937 #TNV1947">tīppaṉi yaṉṉa</rdg>
-    <rdg wit="#TKn">tīppaṉi paṉṉa</rdg>
-    <rdg wit="#TNVcpc">tīppiṇi yaṉṉa</rdg>
+  <app corresp="24,32">
+    <lem wit="#TNVms">tīppaṉip</lem>
+    <rdg wit="#TNVcac #TNV1937 #TNV1947 #TKn">tīppaṉi</rdg>
+    <rdg wit="#TNVcpc">tīppiṇi</rdg>
+  </app>
+  <app corresp="32,37">
+    <lem wit="#TNVms #TKn">paṉṉa</lem>
+    <rdg wit="#TNVc #TNV1937 #TNV1947">yaṉṉa</rdg>
   </app>
   <app corresp="37,44">
     <lem wit="#TNV1937 #TNV1947 #TKn">taṇvaḷi</lem>
@@ -8986,7 +8990,7 @@
   </app>
   <app corresp="98,107">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">yeṉṟuñcel</lem>
-    <rdg wit="#TKn">eṉṟuñ col</rdg>
+    <rdg wit="#TKn">yoṉṟuñ col</rdg>
   </app>
   <app corresp="123,128">
     <lem wit="#TNVms #TNV1937 #TNV1947 #TKn">nāṭṭē</lem>
@@ -9042,7 +9046,7 @@
 </interp><listApp>
   <app corresp="0,9">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">kavvaiyam</lem>
-    <rdg wit="#TKn">keḷavaiyam</rdg>
+    <rdg wit="#TKn"><pb n="310" facs="365" type="page"/> keḷavaiyam</rdg>
   </app>
   <app corresp="18,23">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #TKn">tūṟṟa</lem>
@@ -9069,7 +9073,7 @@
   <app corresp="125,135">
     <lem wit="#TNVms">maḻaimaṟan</lem>
     <rdgGrp select="#TNVc #TNV1937 #TNV1947 #TKn">
-      <rdg type="main"><pb n="26" facs="19" type="folio"/><lb n="1"/>maḻaimaṟain</rdg>
+      <rdg type="main"><pb n="26" facs="29" type="folio"/><lb n="1"/>maḻaimaṟain</rdg>
       <rdg type="minor" wit="#TNV1937 #TNV1947 #TKn">maḻaimaṟain</rdg>
     </rdgGrp>
   </app>
@@ -9090,48 +9094,74 @@
   </desc>
 </interp><listApp>
   <app corresp="0,9">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">toṭinaṭan</lem>
-    <rdg wit="#TKn">koṭinilai</rdg>
-    <rdg wit="#TKp">toṭinilai</rdg>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKn">toṭinaṭan</lem>
+    <rdg wit="#TKp"><pb n="504" facs="565" type="page"/> toṭinilai</rdg>
   </app>
   <app corresp="9,16">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tiḻiyac</lem>
-    <rdg wit="#TKn #TKp">nekiḻac</rdg>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #TKn">tiḻiyac</lem>
+    <rdg wit="#TKp">nekiḻac</rdg>
     <rdg wit="#TNVmsac">tiḻirayac</rdg>
   </app>
   <app corresp="16,20">
     <lem wit="#TNVms">cāay</lem>
-    <rdg wit="#TNVc #TNV1937 #TNV1947 #TKn #TKp">cāayt</rdg>
+    <rdg wit="#TKp">cāayt</rdg>
+    <rdg wit="#TNVc #TNV1937 #TNV1947 #TKn">cāayt</rdg>
+  </app>
+  <app corresp="20,27">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKn">tōḷavar</lem>
+    <rdg wit="#TKp">tōḷavar</rdg>
   </app>
   <app corresp="34,40">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKn">kūṟiṉa</lem>
     <rdg wit="#TKp">kūṟiya</rdg>
   </app>
+  <app corresp="40,47">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKn">vāyiṉuṅ</lem>
+    <rdg wit="#TKp">vāyiṉuṅ</rdg>
+  </app>
+  <app corresp="54,62">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKn">nalvarai</lem>
+    <rdg wit="#TKp">nalvarai</rdg>
+  </app>
   <app corresp="62,68">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">nāṭark</lem>
-    <rdg wit="#TKn #TKp">nāṭar</rdg>
+    <rdg wit="#TKp">nāṭar</rdg>
+    <rdg wit="#TKn">nāṭar</rdg>
+  </app>
+  <app corresp="68,74">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKn">killai</lem>
+    <rdg wit="#TKp">killai</rdg>
+  </app>
+  <app corresp="74,80">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKn">tōḻiye</lem>
+    <rdg wit="#TKp">tōḻi</rdg>
   </app>
   <app corresp="80,86">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #TKn #TKp">ṉeñciṟ</lem>
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #TKn">ṉeñciṟ</lem>
+    <rdg wit="#TKp">neñciṟ</rdg>
     <rdg wit="#TNVmsac">ṉ<gap reason="illegible" unit="character" quantity="1"/>ñciṟ</rdg>
   </app>
   <app corresp="86,95">
-    <lem wit="#TNVms #TNV1937 #TNV1947">pirintatu</lem>
+    <lem wit="#TNVms #TNV1937 #TNV1947 #TKp">pirintatu</lem>
+    <rdg wit="#TKn">pirintatūu</rdg>
     <rdg wit="#TNVc">virintatu</rdg>
-    <rdg wit="#TKn #TKp">pirintatūu</rdg>
+  </app>
+  <app corresp="95,104">
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKn">milarētaṅ</lem>
+    <rdg wit="#TKp">milarē</rdg>
   </app>
   <app corresp="104,109">
-    <lem wit="#TKn #TKp">kuṟai</lem>
+    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #TKp">kuṉṟa</lem>
+    <rdg wit="#TKn">kuṟai</rdg>
     <rdg wit="#TNVcac">kuṉra</rdg>
-    <rdg wit="#TNVms #TNVcpc #TNV1937 #TNV1947">kuṉṟa</rdg>
   </app>
   <app corresp="115,124">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">kaṭintatu</lem>
-    <rdg wit="#TKn #TKp">kaṭintatūu</rdg>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKp">kaṭintatu</lem>
+    <rdg wit="#TKn">kaṭintatūu</rdg>
   </app>
   <app corresp="130,130">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKp"/>
-    <rdg wit="#TKn">nilattiṉum peritē nontavar natpē</rdg>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #TKnpc #TKp"/>
+    <rdg wit="#TKnac">nilattiṉum peritē nontavar natpē</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV24poem28" source="alignments/TNV24poem28.xml"><interp type="normalization">
   <desc type="tagfilters">
