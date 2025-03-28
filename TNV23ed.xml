@@ -202,7 +202,7 @@
               <abbr type="siglum">Aink399</abbr>
               <expan>Aink399</expan>
           </witness>
-          <witness xml:id="Aink382" source="Aink372.xml"><abbr type="siglum">Aink382</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="KT22" source="KT22.xml"><abbr type="siglum">KT22</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName>
+          <witness xml:id="Aink382" source="Aink382.xml"><abbr type="siglum">Aink382</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="KT22" source="KT22.xml"><abbr type="siglum">KT22</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName>
           : <i xmlns="http://www.tei-c.org/ns/1.0">the confidante</i></expan></witness><witness xml:id="KT71" source="KT71.xml"><abbr type="siglum">KT71</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 71. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">HE</i></expan></witness><witness xml:id="KT315" source="KT315.xml"><abbr type="siglum">KT315</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
           Vēḷātattaṉ </persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan></witness></listWit>
       </sourceDesc>
@@ -284,6 +284,7 @@
     <l>kayiṟāṭu paṟaiyiṟ kālporak kalaṅki</l>
     <l>vākai veṇṇeṟ ṟolikkum</l>
     <l>vēypayi laḻuva muṉṉi yōrē</l>
+      <trailer><note>kuṟun. 7</note></trailer>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -350,6 +351,7 @@
     <l>polampuṉai kalattiṟ ṟarukuvaṉ mātō</l>
     <l>veñciṉa viṟalvēṟ kāḷaiyo</l>
     <l>ṭañci lōtiyai varakkarain tīmē</l>
+    <trailer><note>Aiṅk. 391</note></trailer>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -362,6 +364,7 @@
     <l>nāṭṭi ṉāṭṭi ṉūri ṉūriṟ</l>
     <l>kuṭimuṟai kuṭimuṟai teriyiṟ</l>
     <l>keṭunaru muḷarōnaṅ kāta lōrē</l>
+    <trailer><note>kuṟun. 130</note></trailer>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -414,6 +417,7 @@
     <l>neñcuṇat tēṟṟiya vañciṉak kāḷaiyo</l>
     <l>ṭaḻuṅkaṉ mūtū ralareḻac</l>
     <l>ceḻumpal kuṉṟa miṟantaveṉ makaḷē</l>
+    <trailer><note>Aiṅk. 371</note></trailer>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -511,6 +515,7 @@
     <l>yevva neñciṟ kēma māka</l>
     <l>vantaṉa ḷōniṉ makaḷē</l>
     <l>ventiṟal veḷvēl viṭalaimun tuṟavē</l>
+    <trailer><note>Aiṅk. 393</note></trailer>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -533,6 +538,7 @@
     <l>veṉṟunāñ colli ṉevaṉō tōḻi</l>
     <l>maiyaṟa viḷaṅkuṅ kaḻalaṭip</l>
     <l>poyval kāḷaiyai yīṉṟa tāykkē</l>
+    <trailer><note>Aiṅk 399</note></trailer>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">

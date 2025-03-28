@@ -162,7 +162,7 @@
               <abbr type="siglum">KT78</abbr>
               <expan>KT78</expan>
           </witness>
-           <witness xml:id="KT88" source="https://uhh-tamilex.github.io/Kuruntokai/KT78.xml">
+           <witness xml:id="KT88" source="https://uhh-tamilex.github.io/Kuruntokai/KT88.xml">
               <abbr type="siglum">KT88</abbr>
               <expan>KT88</expan>
           </witness>
@@ -294,6 +294,7 @@
         <l>yāraḵ taṟintici ṉōrē cāraṟ</l>
         <l>ciṟukōṭṭup perumpaḻan tūṅki yāṅkiva</l>
         <l>ḷuyirtavac ciṟitu kāmamō peritē</l>
+         <trailer><note>kuṟun. 18</note></trailer>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -370,6 +371,7 @@
         <l>toṉmuraṇ cōrun tuṉṉaruñ cōlai</l>
         <l>naṭunāḷ varutalum varūum</l>
         <l>vaṭunā ṇalamē tōḻi nāmē</l>
+        <trailer><note>kuṟun. 88</note></trailer>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
