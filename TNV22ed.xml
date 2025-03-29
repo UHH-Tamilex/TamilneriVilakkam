@@ -177,9 +177,54 @@
              <witness xml:id="KT149" source="https://uhh-tamilex.github.io/Kuruntokai/KT149.xml">
               <abbr type="siglum">KT149</abbr>
               <expan>KT149</expan>
-          </witness><witness xml:id="Aink372" source="Aink372.xml"><abbr type="siglum">Aink372</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink391" source="Aink391.xml"><abbr type="siglum">Aink391</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 391. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink393" source="Aink393.xml"><abbr type="siglum">Aink393</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 393. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="Aink399" source="Aink399.xml"><abbr type="siglum">Aink399</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 399. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="KT7" source="KT7.xml"><abbr type="siglum">KT7</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 7. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Perumpatumaṉār</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">Onlookers</i></expan></witness><witness xml:id="KT22" source="KT22.xml"><abbr type="siglum">KT22</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName>
-          : <i xmlns="http://www.tei-c.org/ns/1.0">the confidante</i></expan></witness><witness xml:id="KT71" source="KT71.xml"><abbr type="siglum">KT71</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 71. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">HE</i></expan></witness><witness xml:id="KT130" source="KT130.xml"><abbr type="siglum">KT130</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 130. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Veḷḷi Vīti(yār)</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">the confidante / SHE</i></expan></witness><witness xml:id="KT315" source="KT315.xml"><abbr type="siglum">KT315</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
-          Vēḷātattaṉ </persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan></witness></listWit>
+          </witness>
+          <witness xml:id="Aink372" source="Aink372.xml">
+            <abbr type="siglum">Aink372</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan>
+          </witness>
+          <witness xml:id="Aink391" source="Aink391.xml">
+            <abbr type="siglum">Aink391</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 391. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan>
+          </witness>
+          <witness xml:id="Aink393" source="Aink393.xml">
+            <abbr type="siglum">Aink393</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 393. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan>
+          </witness>
+          <witness xml:id="Aink399" source="Aink399.xml">
+            <abbr type="siglum">Aink399</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 399. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan>
+          </witness>
+          <witness xml:id="KT7" source="KT7.xml">
+            <abbr type="siglum">KT7</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 7. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Perumpatumaṉār</persName>: <hi rend="italic">Onlookers</hi></expan>
+          </witness>
+          <witness xml:id="KT22" source="KT22.xml">
+            <abbr type="siglum">KT22</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName> : <hi rend="italic">the confidante</hi></expan>
+          </witness>
+          <witness xml:id="KT71" source="KT71.xml">
+            <abbr type="siglum">KT71</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 71. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <hi rend="italic">HE</hi></expan>
+          </witness>
+          <witness xml:id="KT130" source="KT130.xml">
+            <abbr type="siglum">KT130</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 130. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Veḷḷi Vīti(yār)</persName>: <hi rend="italic">the confidante / SHE</hi></expan>
+          </witness>
+          <witness xml:id="KT315" source="KT315.xml">
+            <abbr type="siglum">KT315</abbr>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName
+                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
+                Vēḷātattaṉ </persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
