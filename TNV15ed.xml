@@ -193,7 +193,7 @@
 </p>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem1" corresp="#KT2">
-          <l>koṅkutēr vāḻkkai<app><note><q xml:lang="ta"><hi rend="italic">vāṭkkai</hi></q> is noted as a western dialect variant by the Tamil Lexicon. No citations are provided. Thus, due to the lack of textual evidence and for ease of comprehension, I choose the standard spelling.</note></app> yañciṟait<app><note>I find the spelling of <q xml:lang="ta"><hi rend="italic">jañciṟait</hi></q> quite curious. I am unaware or any dialect or orthographic norm that would represent <q xml:lang="ta"><hi rend="italic">ya</hi></q>as <q xml:lang="ta"><hi rend="italic">ja</hi></q>. Is this simply a mistake? This is also the only grantha character in the two TNV manuscripts.</note></app> tumpi</l>
+          <l>koṅkutēr vāḻkkai yañcirai tumpi</l>
           <l>kāmañ ceppātu kaṇṭatu moḻimō</l>
           <l>payiliyatu keḻīiya naṭpiṉ mayiliyaṟ</l>
           <l>ceṟiyeyiṟ ṟarivai kūntali</l>
@@ -2412,6 +2412,7 @@
       </app>
     </listApp>
   </standOff>
+  <standOff corresp="#TNV15poem1" type="parallels"><note><q xml:lang="ta"><hi rend="italic">vāṭkkai</hi></q> is noted as a western dialect variant by the Tamil Lexicon. No citations are provided. Thus, due to the lack of textual evidence and for ease of comprehension, I choose the standard spelling.</note><note>I find the spelling of <q xml:lang="ta"><hi rend="italic">jañciṟait</hi></q> quite curious. I am unaware or any dialect or orthographic norm that would represent <term xml:lang="ta"><hi rend="italic">ya</hi></term> as <term xml:lang="ta"><hi rend="italic">ja</hi></term>. Is this simply a mistake? This is also the only grantha character in the two TNV manuscripts.</note></standOff>
   <standOff type="apparatus" corresp="#TNV15poem1" source="alignments/TNV15poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
