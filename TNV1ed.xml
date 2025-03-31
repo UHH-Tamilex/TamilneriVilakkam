@@ -158,8 +158,8 @@
       <lg xml:id="TNV1">
       <l>akattatum puṟattatu māyiru pakutiyiṉ</l>
 <l>mikuttatu māki virintatu poruḷē</l></lg>
-<p xml:lang="en"><hi rend="italic">Poruḷ</hi> is expanded into that which is <hi rend="italic">akam</hi>,
-that which is <hi rend="italic">puṟam</hi> and that which exceeds those two categories.</p>
+<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">Poruḷ</hi></term> is expanded into that which is <term xml:lang="ta"><hi rend="italic">akam</hi></term>,
+that which is <term xml:lang="ta"><hi rend="italic">puṟam</hi></term> and that which exceeds those two categories.</p>
 </div>
 </body>
 </text>
@@ -167,9 +167,20 @@ that which is <hi rend="italic">puṟam</hi> and that which exceeds those two ca
     <body>
       <head xml:lang="en">Commentary</head>
 <p xml:id="TNV1comm1">eṉpatu niṟutta muṟaiyāṉē poruḷ ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu. eṉavē yivvōttup poruḷ iyal eṉpatāyiṟṟu.</p>
+<p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the 
+way in which the grammar of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term><!--note xml:lang="en" place="foot">
+I prefer to leave such technical terms untranslated when their meaning is explained in the text. 
+If pushed, the oft given translation of ‘poetic matter’ or ‘poetics’ coems pretty close. The content and 
+structure of a theoretical text such as this is such that terms are constantly being defined. Thus, leaving specific technical terminology untranslated 
+does not mean that one leaves them undefined.</note--> occurs. This chapter is therefore called the 'the nature of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term>.</p>
 <p xml:id="TNV1comm2">akattiṉ ākiya vakap poruḷum puṟattiṉ ākiya
 puṟap poruḷum āy iru vakaiyiṉum ākiya vakap puṟap poruḷum eṉa mū vīṟṟatāyp pal vēṟu
-vakaip paṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷ ām eṉṟa vāṟu. </p>
+vakaip paṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷ ām eṉṟa vāṟu.</p>
+<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">poruḷ</hi></term> possess a variety of forms because of 
+the many different types of poetic situations which are divided into three [categories] 
+- <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> which is about <term xml:lang="ta"><hi rend="italic">akam</hi></term>;
+<term xml:lang="ta"><hi rend="italic">puṟapporuḷ</hi></term> which is about <term xml:lang="ta"><hi rend="italic">puṟam</hi></term> and
+<term xml:lang="ta"><hi rend="italic">akappuṟapporuḷ</hi></term> which is about both of those categories.</p>
 <p xml:id="TNV1comm3">puṟac ceykai yuḷateṉiṉumikuti vakaiyāl akam paṟṟi nikaḻtaliṉ
 iru talaiyum tīrā vaṉpiṟṟākiya kāmam akap poruḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakaiyāṟ puṟac ceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟam puṟap poruḷ eṉpatu<note place="foot">I think the 'corrected' reading here makes sense. There is no reason why this construction whould not mirror that found in the previous sentence.</note>.
 akam allā viṉpamum puṟam allāp poruḷ ceyal vakaiyum aṟamum ataṉ payaṉ ākiya vīṭum
@@ -332,15 +343,10 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
 <entry>
 <form>āy</form>
 <def>that</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
 </entry>
 <entry>
 <form>iru</form>
 <def>two</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pakutiyiṉ</form>
@@ -420,13 +426,6 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
-    <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
-    <rdgGrp select="#TNVms #TNVc">
-      <rdg type="main">etu.</rdg>
-      <rdg type="minor" wit="#TNVc">e-tu.</rdg>
-    </rdgGrp>
-  </app>
   <app corresp="27,59">
     <lem wit="#TNVc #TNV1937 #TNV1947">ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu.</lem>
     <rdg wit="#TNVms">ilakkaṇa<gap reason="lost" unit="character" quantity="4"/><lb n="2"/>rttutanutaliṟṟu.</rdg>
@@ -731,7 +730,7 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV1comm3" type="wordsplit">
-<interp type="alignment" select="0">15MG4MG43MG14MG29MR12MG4MG49MG39MG27MG7MG19M2G18MG52M,105MG97MG138MGMGM</interp>
+<interp type="alignment" select="0">16MG4MG2ML40MG14MG29MR13MG4MG2ML27ML18MG40MG27MG7MG19M2G18MG2MR46M,106MG12MG85MG8MG130MG</interp>
 <entry>
 <form>puṟam</form>
 <def>outside</def>
@@ -741,10 +740,8 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
 </gramGrp>
 </entry>
 <entry>
-<form>ceykai</form>
+<form>ceykai<c type="glide">y</c></form>
 <def>action</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>uḷat<c type="elided">u</c></form>
@@ -803,8 +800,6 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
 <entry>
 <form>iru</form>
 <def>two</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>talai-<c type="glide">y</c>um</form>
@@ -926,6 +921,7 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
 <entry>
 <form>ceykaiyāl</form>
 <def>action</def>
+<form type="sandhi">ceykaiyāṉ</form>
 <gramGrp>
   <gram type="role">instrumental</gram>
 </gramGrp>
@@ -933,7 +929,7 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
 <entry>
 <form>nikaḻtaliṉ</form>
 <def>appearing</def>
-<form type="sandhi">nikaḻtaliṟ</form>
+<form type="sandhi">ṉikaḻtaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
   <gram type="role">verbal noun</gram>
@@ -1096,8 +1092,6 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
 <entry>
 <form>iru</form>
 <def>two</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vakai</form>
@@ -1173,10 +1167,5 @@ iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭa
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>()</form>
-<def>1</def>
-<form type="sandhi"><note>(1)</note></form>
 </entry>
 </standOff></TEI>
