@@ -66,6 +66,7 @@
 \usepackage[normalem]{ulem}
 \usepackage[noend,noeledsec,noledgroup]{reledmac}
 \usepackage[margin=1in]{geometry}
+\usepackage{setspace}
 
 \arrangementX[A]{paragraph}
 \arrangementX[B]{paragraph}
@@ -80,14 +81,16 @@
 \setdefaultlanguage{english}
 \setmainfont{Brill}
 \setotherlanguage{tamil}
-\newfontfamily\tamilfont{Noto Serif Tamil Slanted Light}[Script=Tamil]
+\newfontfamily\tamilfont{Lohit Tamil}[Script=Tamil]
 \tamilfont\fontdimen2\font=0.8em
 \tamilfont\large\fontdimen2\font=0.5em
 \setlength{\parskip}{12pt}
 \setstanzaindents{1,0,0}
+\setcounter{stanzaindentsrepetition}{2}
 
 \begin{document}
 
+\onehalfspacing
 \lineation{page}
 \begingroup
 \beginnumbering
@@ -125,7 +128,7 @@
     <xsl:text>
 \stanza[\smallskip]
 
-</xsl:text><xsl:apply-templates/>
+</xsl:text><xsl:apply-templates select="x:l | x:trailer"/>
 <xsl:if test="./@xml:lang='ta'"><xsl:text>\end{tamil}</xsl:text></xsl:if>
 <xsl:text>
 
