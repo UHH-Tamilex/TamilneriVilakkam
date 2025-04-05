@@ -18,6 +18,12 @@
     </xsl:if>
 </xsl:template>
 
+<xsl:template name="langstart">
+    <xsl:if test="./@xml:lang='ta'"><xsl:text>\texttamil{</xsl:text></xsl:if>
+</xsl:template>
+<xsl:template name="langend">
+    <xsl:if test="./@xml:lang='ta'"><xsl:text>}</xsl:text></xsl:if>
+</xsl:template>
 <xsl:template name="splitwit">
     <xsl:param name="mss" select="@wit | @select"/>
     <xsl:variable name="msstring" select="substring-before(
@@ -65,8 +71,11 @@
 \usepackage{polyglossia,fontspec,xunicode}
 \usepackage[normalem]{ulem}
 \usepackage[noend,noeledsec,noledgroup]{reledmac}
-\usepackage[margin=1in]{geometry}
+\usepackage{reledpar}
+\usepackage[top=1in, bottom=1.5in,right=1in,left=1in]{geometry}
 \usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[colorlinks,linkcolor=olive]{hyperref}
 
 \arrangementX[A]{paragraph}
 \arrangementX[B]{paragraph}
@@ -80,11 +89,16 @@
 
 \setdefaultlanguage{english}
 \setmainfont{Brill}
+
 \setotherlanguage{tamil}
-\newfontfamily\tamilfont{Lohit Tamil}[Script=Tamil]
+\newfontfamily\tamilfont{TSTTamil.otf}[Script=Tamil,Ligatures=Historic,BoldFont={NotoSerifTamil-Bold.ttf}]
+\newICUfeature{AllAlternates}{1}{+aalt}
+\newcommand{\vowelsign}{\tamilfont\addfontfeature{AllAlternates=1}}
 \tamilfont\fontdimen2\font=0.8em
 \tamilfont\large\fontdimen2\font=0.5em
+
 \setlength{\parskip}{12pt}
+
 \setstanzaindents{1,0,0}
 \setcounter{stanzaindentsrepetition}{2}
 
@@ -92,13 +106,9 @@
 
 \onehalfspacing
 \lineation{page}
-\begingroup
-\beginnumbering
     </xsl:text>
     <xsl:apply-templates select="x:text"/>
     <xsl:text>
-\endnumbering
-\endgroup
 \end{document}</xsl:text>
 </xsl:template>
 
@@ -106,30 +116,47 @@
     <xsl:apply-templates/>
 </xsl:template>
 
+<xsl:template match="x:div[@rend='parallel']">
+    <xsl:text>
+\begin{pages}
+\begin{Leftside}
+\beginnumbering
+</xsl:text>
+    <xsl:apply-templates select="./*[@type='edition']"/>
+    <xsl:text>
+\endnumbering
+\end{Leftside}
+\begin{Rightside}
+\beginnumbering
+\numberlinefalse
+</xsl:text>
+    <xsl:apply-templates select="./*[@type='translation']"/>
+    <xsl:text>
+\endnumbering
+\end{Rightside}
+\end{pages}
+\Pages
+</xsl:text>
+</xsl:template>
 <xsl:template match="x:p">
 <xsl:text>
 \pstart</xsl:text>
-<xsl:if test="./@xml:lang='ta'"><xsl:text>\begin{tamil}</xsl:text></xsl:if>
+<xsl:call-template name="langstart"/>
 <xsl:text>
 </xsl:text>
 <xsl:apply-templates/><xsl:text>
 </xsl:text>
-<xsl:if test="./@xml:lang='ta'"><xsl:text>\end{tamil}</xsl:text></xsl:if>
+<xsl:call-template name="langend"/>
 <xsl:text>\pend
 
 </xsl:text>
 </xsl:template>
 
 <xsl:template match="x:lg">
-<xsl:if test="./@xml:lang='ta'">
-    <xsl:text>
-\begin{tamil}</xsl:text>
-</xsl:if>
     <xsl:text>
 \stanza[\smallskip]
 
 </xsl:text><xsl:apply-templates select="x:l | x:trailer"/>
-<xsl:if test="./@xml:lang='ta'"><xsl:text>\end{tamil}</xsl:text></xsl:if>
 <xsl:text>
 
 </xsl:text>
@@ -137,13 +164,19 @@
 
 <xsl:template match="x:lg/x:l">
 <!--xsl:text>\large </xsl:text-->
-<xsl:apply-templates/><xsl:text>&amp;
+<xsl:call-template name="langstart"/>
+<xsl:apply-templates/>
+<xsl:call-template name="langend"/>
+<xsl:text>&amp;
 </xsl:text>
 </xsl:template>
 
 <xsl:template match="x:lg/x:l[position()=last()]">
 <!--xsl:text>\large </xsl:text-->
-<xsl:apply-templates/><xsl:text>\&amp;
+<xsl:call-template name="langstart"/>
+<xsl:apply-templates/>
+<xsl:call-template name="langend"/>
+<xsl:text>\&amp;
 </xsl:text>
 </xsl:template>
 
@@ -160,12 +193,21 @@
 <xsl:text>\textsuperscript{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>
 </xsl:template>
 
+<xsl:template match="x:hi[@rend='italic']">
+<xsl:text>\emph{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>
+</xsl:template>
+<xsl:template match="x:term">
+    <xsl:call-template name="langstart"/>
+    <xsl:apply-templates/>
+    <xsl:call-template name="langend"/>
+</xsl:template>
+
 <xsl:template match="x:label">
 <xsl:text>\textsc{[</xsl:text><xsl:apply-templates /><xsl:text>]}</xsl:text>
 </xsl:template>
 
 <xsl:template match="x:unclear">
-<xsl:text>\uwave{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>
+<xsl:text>{\color{lightgray}(}</xsl:text><xsl:apply-templates/><xsl:text>{\color{lightgray})}</xsl:text>
 </xsl:template>
 
 <xsl:template match="x:subst">
@@ -192,7 +234,7 @@
 </xsl:template>
 
 <xsl:template match="x:sic">
-        <xsl:text>\uwave{</xsl:text><xsl:apply-templates /><xsl:text>}</xsl:text>
+    <xsl:text>\textenglish{\color{lightgray}¿}</xsl:text><xsl:apply-templates/><xsl:text>\textenglish{\color{lightgray}?}</xsl:text>
 </xsl:template>
 
 <xsl:template match="x:surplus">
@@ -247,6 +289,9 @@
 <xsl:template match="x:g">
     <xsl:text>\uwave{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>           
 </xsl:template>
+<xsl:template match="x:g[@rend='vowel-sign']">
+    <xsl:text>\vowelsign{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>           
+</xsl:template>
 
 <xsl:template match="x:supplied">
     <xsl:text>(\textbf{</xsl:text><xsl:apply-templates/><xsl:text>})</xsl:text>
@@ -266,7 +311,7 @@
 </xsl:template>
 
 <xsl:template match="x:gap">
-    <xsl:text>\textenglish{</xsl:text>
+    <xsl:text>\textenglish{[</xsl:text>
     <xsl:variable name="quantity">
         <xsl:choose>
             <xsl:when test="@quantity"><xsl:value-of select="@quantity"/></xsl:when>
@@ -283,7 +328,7 @@
         <xsl:with-param name="output" select="$gapchar"/>
         <xsl:with-param name="count" select="$quantity"/>
     </xsl:call-template>
-    <xsl:text>}</xsl:text>
+    <xsl:text>]}</xsl:text>
 </xsl:template>
 
 <xsl:template match="x:space">
@@ -302,7 +347,7 @@
 <xsl:template match="x:caesura">
 <xsl:variable name="pretext" select="preceding::text()[1]"/>
 <xsl:if test="normalize-space(substring($pretext,string-length($pretext))) != ''">
-    <xsl:text>\-</xsl:text>
+    <xsl:text>-</xsl:text>
 </xsl:if>
     <xsl:text>&amp;
 </xsl:text>
