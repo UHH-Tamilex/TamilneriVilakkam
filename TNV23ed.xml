@@ -7584,7 +7584,7 @@
     <rdg wit="#Aink391">ṟarukuveṉ</rdg>
   </app>
 </listApp>
-</standOff><standOff corresp="#TNV23poem12" type="parallels"><note xml:lang="en" target="#pukāar vāṉa">I cannot make sense of the variants and they are not reported in the apparatus in <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">Wilden 2010</ref>, which leads me to think this is corrupt. The <hi rend="italic">eḻuttu</hi> <term xml:lang="ta"><hi rend="italic">vu</hi></term> looks similar to <term xml:lang="ta"><hi rend="italic">ā</hi></term> and <term xml:lang="ta"><hi rend="italic">ḷa</hi></term> closely resembles <term xml:lang="ta"><hi rend="italic">ṉa</hi></term>. This seems like a simple copying error.</note></standOff>
+</standOff><standOff corresp="#TNV23poem12" type="notes2"><note xml:lang="en" target="#pukāar vāṉa">I cannot make sense of the variants and they are not reported in the apparatus in <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">Wilden 2010</ref>, which leads me to think this is corrupt. The <hi rend="italic">eḻuttu</hi> <term xml:lang="ta"><hi rend="italic">vu</hi></term> looks similar to <term xml:lang="ta"><hi rend="italic">ā</hi></term> and <term xml:lang="ta"><hi rend="italic">ḷa</hi></term> closely resembles <term xml:lang="ta"><hi rend="italic">ṉa</hi></term>. This seems like a simple copying error.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem12" source="alignments/TNV23poem12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>

@@ -9191,7 +9191,7 @@
     </rdgGrp>
   </app>
 </listApp></standOff>
-<standOff corresp="#TNV24poem29" type="parallels"><note xml:lang="en">I assume UVC was influenced by the phrase <term xml:lang="ta"><hi rend="italic">illamoṭu miṭainta</hi></term> in <ref target="https://uhh-tamilex.github.io/Narrinai/NA376.xml">NA376</ref> though he does not provide a footnote so it is difficult to know for sure. <term xml:lang="ta"><hi rend="italic">illoṭu</hi></term> sill makes sense, so I have retained the MS reading.</note></standOff>
+<standOff corresp="#TNV24poem29" type="notes2"><note xml:lang="en">I assume UVC was influenced by the phrase <term xml:lang="ta"><hi rend="italic">illamoṭu miṭainta</hi></term> in <ref target="https://uhh-tamilex.github.io/Narrinai/NA376.xml">NA376</ref> though he does not provide a footnote so it is difficult to know for sure. <term xml:lang="ta"><hi rend="italic">illoṭu</hi></term> sill makes sense, so I have retained the MS reading.</note></standOff>
 <standOff type="apparatus" corresp="#TNV24poem29" source="alignments/TNV24poem29.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -9340,12 +9340,12 @@
     <rdg wit="#TNVcpc #TNV1937 #TNV1947">paṇilam</rdg>
   </app>
 </listApp></standOff>
-<standOff type="parallels" corresp="#TNV24poem33"><note xml:lang="ta">
+<standOff type="notes2" corresp="#TNV24poem33"><note xml:lang="ta">
 <l><gap reason="lost" unit="character" quantity="17"/>ṭu maṉpar</l>
     <l><gap reason="lost" unit="character" quantity="6"/><unclear>ka</unclear>tirntn <gap reason="lost" unit="character" quantity="5"/><g ref="#ra_r_kal"/>viṉviḻa</l>
     <l>tu<gap reason="lost" unit="character" quantity="7"/>ṉē.</l>
 </note></standOff>
-<standOff type="parallels" corresp="#TNV24poem33"><note xml:lang="en">In lieu of an apparatus, I simply provide the full transcription of the poem as found in the palm-leaf MS. The text in the paper copy of the MS and print editions are identical. It is not clear how UVC arrived at this text. Perhaps the palm-leaf has deteriorated in the years since he acquired it.</note></standOff>
+<standOff type="notes2" corresp="#TNV24poem33"><note xml:lang="en">In lieu of an apparatus, I simply provide the full transcription of the poem as found in the palm-leaf MS. The text in the paper copy of the MS and print editions are identical. It is not clear how UVC arrived at this text. Perhaps the palm-leaf has deteriorated in the years since he acquired it.</note></standOff>
 <standOff type="apparatus" corresp="#TNV24poem27" source="alignments/TNV24poem27.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
