@@ -163,7 +163,7 @@
           <l>taṉṉayan teḷitalun talaippiri vaccamum</l>
           <l>iṉṉiyal vaṉpoṟai yeytuta larumaiyum</l>
           <l>uyireṉak kūṟalu māṟṟiṉaṉ peyartalum</l>
-          <l>ceyirtapu kātaṟ ṟeyvap puṇarcci</l>
+          <l>ceyirtapu kātaṟ ṟeyvap puṇarcci<anchor xml:id="punarcci"/></l>
         </lg>
         <lg xml:lang="en">
           <l>His desire becoming clear, the fear of separation,</l>
@@ -2412,13 +2412,15 @@
       </app>
     </listApp>
   </standOff>
-  <standOff corresp="#TNV15poem1" type="notes2">
-    <note><q xml:lang="ta">
+  
+  <standOff type="notes2" corresp="#TNV15"><note target="punarcci"><term xml:lang="en">Cf. TP487i.1:</term> kāmap puṇarcciyum; <term xml:lang="en">Cf. IA2.2:</term> kāmap puṇarcci.</note></standOff>
+  <standOff corresp="#TNV15poem1" type="notes4">
+    <note xml:lang="en" target="#vatkkai"><q xml:lang="ta">
         <hi rend="italic">vāṭkkai</hi>
       </q> is noted as a western dialect variant by the Tamil
       Lexicon. No citations are provided. Thus, due to the lack of textual evidence and for ease of
-      comprehension, I choose the standard spelling.</note>
-    <note>I find the spelling of <q xml:lang="ta">
+      comprehension, I choose the standard spelling.</note></standOff>
+     <standOff corresp="#TNV15poem1" type="notes4"><note xml:lang="en" target="#jancirai">I find the spelling of <q xml:lang="ta">
         <hi rend="italic">jañciṟait</hi>
       </q> quite curious. I am unaware or any dialect or
       orthographic norm that would represent <term xml:lang="ta">
@@ -2446,11 +2448,11 @@
 </interp><listApp>
   <app corresp="8,15">
     <lem wit="#TNV1937 #TNV1947 #KT2">vāḻkkai</lem>
-    <rdg wit="#TNVms #TNVc">vāṭkkai</rdg>
+    <rdg wit="#TNVms #TNVc">vāṭkkai<anchor xml:id="vatkkai"/></rdg>
   </app>
   <app corresp="15,24">
     <lem wit="#TNV1937 #TNV1947 #KT2">yañciṟait</lem>
-    <rdg wit="#TNVms #TNVc">jañciṟait</rdg>
+    <rdg wit="#TNVms #TNVc">jañciṟait<anchor xml:id="jancirai"/></rdg>
   </app>
   <app corresp="102,117">
     <lem wit="#TNVms #TNVc #KT2">kūntali ṉaṟiyavu</lem>
