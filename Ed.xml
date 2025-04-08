@@ -1268,7 +1268,7 @@
     <rdg wit="#AVed">taṟitalu maritē</rdg>
   </app>
 </listApp></standOff>
-  <standOff corresp="#TNV17poem5" type="parallels">
+  <standOff corresp="#TNV17poem5" type="notes2">
     <note xml:lang="en" target="#kalaiman"> On <q xml:lang="ta">kalai māṉ... maṭam māṉ</q>, cf. <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT272.xml">KT272</ref>, <q xml:lang="ta">maṭam
       māṉ... kalai</q>, which UVS and TVG interpret as a female deer and a male stag. </note>
   </standOff>
@@ -2410,7 +2410,7 @@
     <rdg wit="#KKmspc">mematumā</rdg>
   </app>
 </listApp></standOff>
-  <standOff corresp="#TNV18poem11" type="parallels">
+  <standOff corresp="#TNV18poem11" type="notes2">
     <note xml:lang="en" target="#neñcē"> On <q xml:lang="ta">pariyal vāḻiyō neñcē</q>, cf. <ref target="https://uhh-tamilex.github.io/Narrinai/NA121.xml">NA121</ref>. This reading is an
       almost direct parallel to NA121.7 as found in Turaicāmi Piḷḷai's edition (ET in Wilden 2008).</note>
   </standOff>
@@ -3663,7 +3663,7 @@
       </gramGrp>
     </entry>
   </standOff>
-  <standOff corresp="#TNV22poem4" type="parallels">
+  <standOff corresp="#TNV22poem4" type="notes2">
     <note xml:lang="en" target="#eyyā"> The KKms witness does not include this poem. There is a gap
       in the manuscript, represented by a series of dots over three lines. The print edition
       includes five poems in this space. As a footnote in the print edition, Vaiyapuripiḷḷai writes: <q xml:lang="ta"><hi rend="italic">īṇṭu 79,80 eṉṟu iraṇṭu eṇṇukkuriya ēṭu vīṭuṟṟatu: ātaliṉ viṣayattoṭarpiṉṟu' eṉpatu toṉṉūl
