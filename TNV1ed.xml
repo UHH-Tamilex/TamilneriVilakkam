@@ -158,7 +158,11 @@
       <lg xml:id="TNV1">
       <l>akattatum puṟattatu māyiru pakutiyiṉ</l>
 <l>mikuttatu māki virintatu poruḷē</l></lg>
-<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">Poruḷ</hi></term> is expanded into that which is <term xml:lang="ta"><hi rend="italic">akam</hi></term>,
+<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">Poruḷ</hi></term><!--note xml:lang="en" place="foot">
+I prefer to leave such technical terms untranslated when their meaning is explained in the text. 
+If pushed, the oft given translation of ‘poetic matter’ or ‘poetics’ coems pretty close. The content and 
+structure of a theoretical text such as this is such that terms are constantly being defined. Thus, leaving specific technical terminology untranslated 
+does not mean that one leaves them undefined.</note--> is expanded into that which is <term xml:lang="ta"><hi rend="italic">akam</hi></term>,
 that which is <term xml:lang="ta"><hi rend="italic">puṟam</hi></term> and that which exceeds those two categories.</p>
 </div>
 </body>
@@ -168,18 +172,14 @@ that which is <term xml:lang="ta"><hi rend="italic">puṟam</hi></term> and that
       <head xml:lang="en">Commentary</head>
 <p xml:id="TNV1comm1">eṉpatu niṟutta muṟaiyāṉē poruḷ ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu. eṉavē yivvōttup poruḷ iyal eṉpatāyiṟṟu.</p>
 <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the 
-way in which the grammar of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term><!--note xml:lang="en" place="foot">
-I prefer to leave such technical terms untranslated when their meaning is explained in the text. 
-If pushed, the oft given translation of ‘poetic matter’ or ‘poetics’ coems pretty close. The content and 
-structure of a theoretical text such as this is such that terms are constantly being defined. Thus, leaving specific technical terminology untranslated 
-does not mean that one leaves them undefined.</note--> occurs. This chapter is therefore called the 'the nature of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term>.</p>
+way in which the grammar of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term> occurs. This chapter is therefore called the 'the nature of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term>'.</p>
 <p xml:id="TNV1comm2">akattiṉ ākiya vakap poruḷum puṟattiṉ ākiya
 puṟap poruḷum āy iru vakaiyiṉum ākiya vakap puṟap poruḷum eṉa mū vīṟṟatāyp pal vēṟu
 vakaip paṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷ ām eṉṟa vāṟu.</p>
 <p xml:lang="en"><term xml:lang="ta"><hi rend="italic">poruḷ</hi></term> possess a variety of forms because of 
 the many different types of poetic situations which are divided into three [categories] 
-- <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> which is about <term xml:lang="ta"><hi rend="italic">akam</hi></term>;
-<term xml:lang="ta"><hi rend="italic">puṟapporuḷ</hi></term> which is about <term xml:lang="ta"><hi rend="italic">puṟam</hi></term> and
+- <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> which is about the "inner world";
+<term xml:lang="ta"><hi rend="italic">puṟapporuḷ</hi></term> which is about the "outer world" and
 <term xml:lang="ta"><hi rend="italic">akappuṟapporuḷ</hi></term> which is about both of those categories.</p>
 <p xml:id="TNV1comm3">puṟac ceykai yuḷateṉiṉumikuti vakaiyāl akam paṟṟi nikaḻtaliṉ
 iru talaiyum tīrā vaṉpiṟṟākiya kāmam akap poruḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakaiyāṟ puṟac ceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟam puṟap poruḷ eṉpatu<note place="foot">I think the 'corrected' reading here makes sense. There is no reason why this construction whould not mirror that found in the previous sentence.</note>.
