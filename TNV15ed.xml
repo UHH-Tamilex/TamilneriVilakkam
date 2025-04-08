@@ -7,7 +7,7 @@
         <title type="sub">Experimenting with formatting for the final edition.</title>
       </titleStmt>
       <publicationStmt>
-        <p/>
+        <p />
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -15,7 +15,7 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p/>
+              <p />
             </summary>
           </msContents>
         </msDesc>
@@ -153,7 +153,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change/>
+      <change />
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
@@ -2412,7 +2412,22 @@
       </app>
     </listApp>
   </standOff>
-  <standOff corresp="#TNV15poem1" type="parallels"><note><q xml:lang="ta"><hi rend="italic">vāṭkkai</hi></q> is noted as a western dialect variant by the Tamil Lexicon. No citations are provided. Thus, due to the lack of textual evidence and for ease of comprehension, I choose the standard spelling.</note><note>I find the spelling of <q xml:lang="ta"><hi rend="italic">jañciṟait</hi></q> quite curious. I am unaware or any dialect or orthographic norm that would represent <term xml:lang="ta"><hi rend="italic">ya</hi></term> as <term xml:lang="ta"><hi rend="italic">ja</hi></term>. Is this simply a mistake? This is also the only grantha character in the two TNV manuscripts.</note></standOff>
+  <standOff corresp="#TNV15poem1" type="parallels">
+    <note><q xml:lang="ta">
+        <hi rend="italic">vāṭkkai</hi>
+      </q> is noted as a western dialect variant by the Tamil
+      Lexicon. No citations are provided. Thus, due to the lack of textual evidence and for ease of
+      comprehension, I choose the standard spelling.</note>
+    <note>I find the spelling of <q xml:lang="ta">
+        <hi rend="italic">jañciṟait</hi>
+      </q> quite curious. I am unaware or any dialect or
+      orthographic norm that would represent <term xml:lang="ta">
+        <hi rend="italic">ya</hi>
+      </term> as <term xml:lang="ta">
+        <hi rend="italic">ja</hi>
+      </term>. Is this simply a mistake? This is also the only
+      grantha character in the two TNV manuscripts.</note>
+  </standOff>
   <standOff type="apparatus" corresp="#TNV15poem1" source="alignments/TNV15poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
