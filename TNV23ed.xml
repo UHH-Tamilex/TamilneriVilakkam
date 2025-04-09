@@ -204,24 +204,24 @@
           </witness>
           <witness xml:id="Aink382" source="Aink382.xml">
             <abbr type="siglum">Aink382</abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName
-                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan>
           </witness>
           <witness xml:id="KT22" source="KT22.xml">
             <abbr type="siglum">KT22</abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName
-                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName> : <hi rend="italic">the confidante</hi></expan>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName> : <hi rend="italic">the confidante</hi></expan>
           </witness>
           <witness xml:id="KT71" source="KT71.xml">
             <abbr type="siglum">KT71</abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 71. <persName
-                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <hi rend="italic">HE</hi></expan>
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 71. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <hi rend="italic">HE</hi></expan>
           </witness>
           <witness xml:id="KT315" source="KT315.xml">
             <abbr type="siglum">KT315</abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName
-                xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
+            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
                 Vēḷātattaṉ </persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan>
+          </witness>
+           <witness xml:id="IA" source="witnesses/IAprint.xml">
+            <abbr type="siglum">IA</abbr>
+            <expan>	Iṟaiyaṉār Akapporuḷ 1916</expan>
           </witness>
         </listWit>
       </sourceDesc>
@@ -7225,26 +7225,24 @@
   </desc>
 </interp><listApp>
   <app corresp="12,18">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn">tilaḷē</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn #IA">tilaḷē</lem>
     <rdg wit="#TNVms #TNVcac">tilaṉē</rdg>
   </app>
   <app corresp="35,43">
-    <lem wit="#TNVms #TNV1937 #TNV1947 #TKn">ṇivaḷala</lem>
-    <rdg wit="#TNVc">ṇivaḷal<lb n="17"/>la</rdg>
+    <lem wit="#TNVms #TNV1937 #TNV1947 #TKn #IA">ṇivaḷala</lem>
+    <rdg wit="#TNVc">ṇivaḷalla</rdg>
   </app>
   <app corresp="49,53">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn">yāṉu</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn #IA">yāṉu</lem>
     <rdg wit="#TNVms #TNVcac">yāyiṉu</rdg>
   </app>
   <app corresp="60,64">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn">yēṉē</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn #IA">yēṉē</lem>
     <rdg wit="#TNVcac">yōṉē</rdg>
-    <rdg wit="#TNVms">
-      <sic>yōṉō</sic>
-    </rdg>
+    <rdg wit="#TNVms">yōṉō</rdg>
   </app>
   <app corresp="64,71">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn">māmalai</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn #IA">māmalai</lem>
     <rdgGrp select="#TNVms #TNVcac">
       <rdg type="main">malai</rdg>
       <rdg type="minor" wit="#TNVms">

@@ -157,7 +157,7 @@
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV2">
       <l>mutalkaru vaṇainta vuripporu ḷakamē</l></lg>
-<p xml:lang="en"><hi rend="italic">akam</hi> is <hi rend="italic">mutal</hi> and <hi rend="italic">karu</hi> together with <hi rend="italic">uripporul</hi>.</p>
+<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">akam</hi></term> is the suitable poetic content<note xml:lang="en" place="foot"><term xml:lang="ta"><hi rend="italic">uripporuḷ</hi></term> is a difficult term to translate. I have intentionally provided a literal and broad translation, in keeping with how I have translated <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term> in other places. In practice, it refers to the dominant emotional theme in each landscape. These are enumerated in <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term> 13.</note> related to the basic elements and the contituent elements.<note xml:lang="en" place="foot"><term xml:lang="ta"><hi rend="italic">aṇainta</hi></term> can be interpreted in a number of different ways here, both syntactically an semantically. I have chosen this translation as I believe it most closely mirrors the definition given in the TP, upon which I think this is based, where the phrase <q xml:lang="ta"><hi rend="italic">muṟai ciṟantaṉavē</hi></q> implies <term xml:lang="ta"><hi rend="italic">uripporuḷ</hi></term> has a greater level importance. Thus here I have centered it in my translation.</note></p>
       </div>
 </body>
 </text>
@@ -165,21 +165,24 @@
     <body>
       <head xml:lang="en">Commentary</head>
 <p xml:id="TNV2comm1">e – tu. collap paṭṭaṉa vuḷ akap poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> occurs amongst those which have been mentioned.<note xml:lang="en" place="foot">This is referring back to the three categories mentioned in <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term> 1 — <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term>, <term xml:lang="ta"><hi rend="italic">puṟapporuḷ</hi></term> and what the commentator identifies as <term xml:lang="ta"><hi rend="italic">akappuṟapporuḷ</hi></term>.</note></p>
 <p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta urip poruḷ akap poruḷ ām eṉṟa vāṟu.</p>  
+<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> is the suitable poetic content which is attached to the basic elements and the constituent elements.</p>
 <p xml:id="TNV2comm3">mutal eṉap paṭṭatiṭamum kālamum eṉṟuṇarvatu. karu veṉap paṭṭa poruṭ ceykai yoḻittuk koḷka. 
 vatuvum uriyum paṇpeṉap paṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉap paṭum eṉpatu. <note>2.</note></p>
+<p xml:lang="en">The thing called <term xml:lang="ta"><hi rend="italic">mutal</hi></term> is understood as place and time. Understand that the things called <term xml:lang="ta"><hi rend="italic">karu</hi></term> are the things excluding the action.<note place="foot">This is slightly ambiguous to me. My best guess is that <q xml:lang="ta"><hi rend="italic">ceykai</hi></q> here refers to the action taking place in the poem - the hero going off to work, for example - and that the 'things' being referred to are the other components of the poetic landscape.</note> That and <term xml:lang="ta"><hi rend="italic">uri</hi></term> are called <term xml:lang="ta"><hi rend="italic">panpu</hi></term><note xml:lang="en" place="foot">I understand this as 'natural property' and the the referent of <q xml:lang="ta"><hi rend="italic">atu</hi></q> is <term xml:lang="ta"><hi rend="italic">karu</hi></term>. This then would be saying that the constituant elements and emotional themes in a poem are natural to the basic elements - the time and place. In other words certain poetic landscapes have specific properties and themes in their nature.</note> and the group of those four<note xml:lang="en" place="foot">Presumably this is referring to <q xml:lang="ta"><hi rend="italic">itam, kālam, poruḷ ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi rend="italic">tiṇai</hi></term>.</p>
 </body></text><standOff corresp="#TNV2" type="wordsplit">
 <interp type="alignment" select="0">31MGM,33M</interp>
 <entry>
 <form>mutal</form>
-<def>mutal</def>
+<def>base</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>karu</form>
-<def>karu</def>
+<def>constituent element</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -193,15 +196,22 @@ vatuvum uriyum paṇpeṉap paṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉap
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>uripporuḷ</form>
-<def>uripporul</def>
+<form><c type="glide">v</c>uri<c type="geminated">p</c></form>
+<def>suitability</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>poetic content</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>akam-ē</form>
-<def>akam</def>
+<def>inside</def>
 <form type="simple">akam</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -290,7 +300,9 @@ vatuvum uriyum paṇpeṉap paṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉap
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV2comm1" source="alignments/TNV2comm1.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV2"><note xml:lang="ta"><term xml:lang="en">Cf. TP3i.1-2:</term> mutalkaru vuripporu ḷeṉṟa mūṉṟē / nuvaluṅ kālai muṟaiciṟan taṉavē</note></standOff>
+<standOff type="apparatus" corresp="#TNV2comm1" source="alignments/TNV2comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -419,7 +431,7 @@ vatuvum uriyum paṇpeṉap paṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉap
 </entry>
 <entry>
 <form>uri<c type="geminated">p</c></form>
-<def>uri</def>
+<def>suitability</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -583,7 +595,7 @@ vatuvum uriyum paṇpeṉap paṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉap
 </entry>
 <entry>
 <form>uri-<c type="glide">y</c>um</form>
-<def>uri</def>
+<def>suitability</def>
 <form type="simple">uri</form>
 <gramGrp>
   <gram type="role">noun</gram>
