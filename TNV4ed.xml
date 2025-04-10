@@ -158,8 +158,10 @@
       <lg xml:id="TNV4">
 <l>kūtir vēṉil koḻuṅkā roḻipaṉi</l>
 <l>vēṉil muṉpaṉi meyyuyar poḻutē</l></lg>
-<p xml:lang="en">The true seasons are the cold season, the hot season, the full rainy season,
- the season of ceasing dew, the hot season, and the early dew season.</p>
+<p xml:lang="en">The actual<note place="foot" xml:lang="en"><q xml:lang="ta">mey</q> literally meants 'truth', 
+and I have taken it here to mean something like 'in reality', or as I have translated here 'actual'.</note> 
+major times are the cold season, the hot season, the full rainy season, the season of ceasing dew, 
+the hot season, and the early dew season.</p>
  </div>
  </body>
  </text>
@@ -167,11 +169,22 @@
     <body>
       <head xml:lang="en">Commentary</head>
 <p xml:id="TNV4comm1">e-tu. ain tiṇaikkuṅ kālamutal uṭ perum poḻutām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the large time-periods (i.e. seasons) occur amongst the basic time-elements.</p>
 <p xml:id="TNV4comm2"> 
 aippaciyuṅ kārttikaiyum ākiya kūtirk kālamum āṉiyum āṭiyum ākiya vēṉiṟ kālamum 
 āvaṇiyum puraṭṭātiyum ākiya kār kālamumāciyum paṅkuṉiyum ākiya piṉ paṉik kālamuñ 
 cittiraiyum vaikāciyum ākiya viḷa vēṉiṟ kālamumārkaḻiyun taiyum ākiya muṉ paṉik kālamumuṟaiyāṉē ain tiṇaikkum 
 uyar kālamutal ām eṉṟa vāṟu. <note>4.</note></p>
+<p xml:lang="en">The cold season comprises of [the months] <term xml:lang="ta"><hi rend="italic">aippaci</hi></term> 
+and <term xml:lang="ta"><hi rend="italic">kārttikai</hi></term>; the hot season comprises of [the months] 
+<term xml:lang="ta"><hi rend="italic">āṉi</hi></term> and <term xml:lang="ta"><hi rend="italic">āṭi</hi></term>; 
+the rainy season comprises of [the months] <term xml:lang="ta"><hi rend="italic">āvaṇi</hi></term> and 
+<term xml:lang="ta"><hi rend="italic">puraṭṭāti</hi></term>; the season of ceasing dew comprises of [the months] 
+<term xml:lang="ta"><hi rend="italic">māci</hi></term> and <term xml:lang="ta"><hi rend="italic">paṅkuṉi</hi></term>; 
+the young hot season comprises of [the months] <term xml:lang="ta"><hi rend="italic">cittirai</hi></term> and 
+<term xml:lang="ta"><hi rend="italic">vaikāci</hi></term> and the early dew season comprises of [the months] 
+<term xml:lang="ta"><hi rend="italic">mārkaḻi</hi></term> and <term xml:lang="ta"><hi rend="italic">tai</hi></term> 
+- so the basic major time element occurs for the five poetic landscapes according to their order (i.e. respectively).</p>
       </body></text>
       <standOff type="apparatus" corresp="#TNV4comm1" source="alignments/TNV4comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
