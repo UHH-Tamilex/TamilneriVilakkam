@@ -158,8 +158,8 @@
       <lg xml:id="TNV3">
       <l>poruppē vemparal puṟavoṭu paḻaṉam</l>
 <l>parappamai vāri kuṟuñcimutaṟ pākē</l></lg>
-<p xml:lang="en">
-Beginning with <hi rend="italic">kuṟuñci</hi>, the division [of the <hi rend="italic">tiṇai</hi> biomes] is: mountain, hot gravel, forest, farmland, and water joined to the sea.</p>
+<p xml:lang="en">Beginning with <hi rend="italic">kuṟuñci</hi>, the division [of the <hi rend="italic">tiṇai</hi> landscapes] is: 
+mountain, hot gravel, forest, farmland, and water joined to the sea.<note place="foot" xml:lang="en"><q xml:lang="ta"><hi rend="italic">parappu</hi></q> literally means 'expanse' but I understand it here as an elliptical refernce to the sea or ocean and translate it as such. As with the commentator, I understand this basic place-element to refer to the area around the backwaters, river mouths and the sea</note></p>
 </div>
 </body>
 </text>
@@ -167,9 +167,27 @@ Beginning with <hi rend="italic">kuṟuñci</hi>, the division [of the <hi rend=
     <body>
       <head xml:lang="en">Commentary</head>
 <p xml:id="TNV3comm1">e-tu. ain tiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make 
+known the way in which the basic place-element<note place="foot" xml:lang="en">As one can see from the <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>, what this refers to is the domaniant feature of each landscape.</note> of all of the five 
+poetic landcapes occur.</p>
 <p xml:id="TNV3comm2">malaic cāralum vem paral attamum ciṟu tūṟuṭaip puṟavumalar kañaliya 
 paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekkaruṅ kuṟuñci pālai 
- mullai marutaneytal eṉa vaim perun tiṇaiyunilamutal eṉṟa vāṟu. <note>3.</note></p>
+ mullai marutaneytal eṉa vaim perun tiṇaiyunilamutal<anchor xml:id="nilamutal"/> eṉṟa vāṟu. <note>3.</note></p>
+<p xml:lang="en">The moutain-slope, the road with hot gravel, the forest with small bushes, the paddy-fields
+ amongst the water tanks full of blossoms<note place="foot" xml:lang="en">I understand the <q xml:lang="ta"><hi rend="italic">-um</hi></q> 
+ particle on <q xml:lang="ta"><hi rend="italic">paḻaṉam-um</hi></q> to have a distributive function, however 
+ one could also make sense of this as a co-ordinative paricle. In that case this phrase would read 'the water-tanks 
+ full of blossoms and the surrounding paddy-fields'.</note> and the large sand dunes joined to the the backwaters and the sea 
+ - these are the basic place-elements<note place="foot" xml:lang="en">Note that the commentator here uses different
+  terminology than in the verse - <q xml:lang="ta">nilamutal (nilam mutal)</q>. This is the same as what we find 
+  in TP4i.</note> of the five great lanscapes<note place="foot" xml:lang="en">The designation 
+  <q xml:lang="ta">aim perun tiṇai</q> 'five great landscapes' is not odd. I think the commentator supplied 
+  the qualifier <q xml:lang="ta">perum</q> to make clear the difference between the five meantioned here and 
+  the other two <term xml:lang="ta">tiṇais</term> - <term xml:lang="ta">kaikkiḷai</term> and 
+  <term xml:lang="ta">peruntiṇai</term> - the landscapes in which poetry about unsuitable love occur. 
+  Cf. TP1i for mention of seven <term xml:lang="ta"><hi rend="italic">akattiṇai</hi></term>.</note> called 
+  <term xml:lang="ta"><hi rend="italic">kuṟuñci, 
+ pālai, mullai, marutam</hi></term> and <term xml:lang="ta"><hi rend="italic">neytal</hi></term>.</p>
  </body></text><standOff corresp="#TNV3" type="wordsplit">
 <interp type="alignment" select="0">6M2G30MG23M2GM,65M</interp>
 <entry>
@@ -278,7 +296,9 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
     
     <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu.</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV3comm2" source="alignments/TNV3comm2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV3comm2"><note xml:lang="ta" target="#nilamutal"><term xml:lang="en">Cf. TP4i.1:</term> mutaleṉap paṭuvatu nilampoḻu tiraṇṭi / ṉiyalpeṉa moḻipa viyalpuṇarn tōrē</note></standOff>
+<standOff type="apparatus" corresp="#TNV3comm2" source="alignments/TNV3comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
