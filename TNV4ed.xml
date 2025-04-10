@@ -184,7 +184,16 @@ the rainy season comprises of [the months] <term xml:lang="ta"><hi rend="italic"
 the young hot season comprises of [the months] <term xml:lang="ta"><hi rend="italic">cittirai</hi></term> and 
 <term xml:lang="ta"><hi rend="italic">vaikāci</hi></term> and the early dew season comprises of [the months] 
 <term xml:lang="ta"><hi rend="italic">mārkaḻi</hi></term> and <term xml:lang="ta"><hi rend="italic">tai</hi></term> 
-- so the basic major time element occurs for the five poetic landscapes according to their order (i.e. respectively).</p>
+- so the basic major time element occurs for the five poetic landscapes in order (i.e. respectively).
+<note place="foot"><q xml:lang="ta"><hi rend="italic">muṟaiyāṉē</hi></q> is a common term in commentarial 
+literature and will appear other times in this text. It means either 'in accordance with tradition' or 'in order'. 
+These get at similar things - the author is stating that the order of the listed items is the same as that of the 
+aforementioned landscapes (See TNV3 and its commentary). Theoreteically, it could also refer to a widely accepted 
+enumeration given elsewhere, but since the order is the same as what we find in the preceding 
+<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term> and that is not always the case (see TP16i, where 
+the implied order is the same; see TP6-12i, where the implied list is different), I think the
+ commentator is referring back to his own list. This is why I have translated this as 'order' rather than 
+ 'tradition'.</note></p>
       </body></text>
       <standOff type="apparatus" corresp="#TNV4comm1" source="alignments/TNV4comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -245,7 +254,16 @@ the young hot season comprises of [the months] <term xml:lang="ta"><hi rend="ita
     <rdg wit="#TNVms">kālamumār<gap reason="lost" unit="character" quantity="4"/><lb n="9"/></rdg>
   </app>
   
-</listApp></standOff><standOff type="apparatus" corresp="#TNV4" source="alignments/TNV4.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV4"><note xml:lang="ta"><term xml:lang="en">Cf. TP6i:</term> kāru mālaiyu mullai//</note>
+<note xml:lang="ta"><term xml:lang="en">Cf. TP7i:</term> kuṟiñci / kūtir yāma meṉmaṉār pulavar//</note>
+<note xml:lang="ta"><term xml:lang="en">Cf. TP8i:</term> paṉiyetir paruvamu muritteṉa moḻipa//</note>
+<note xml:lang="ta"><term xml:lang="en">Cf. TP9i:</term> vaikuṟu viṭiyaṉ marutam//</note> 
+<note xml:lang="ta"><term xml:lang="en">Cf. TP10i:</term> eṟpāṭu / neyta lātaṉ meypeṟat tōṉṟum //</note>
+<note xml:lang="ta"><term xml:lang="en">Cf. TP11i:</term> naṭuvunilait tiṇaiyē naṇpakala vēṉiloṭu / muṭivunilai maruṅkiṉ muṉṉiya neṟittē//</note>
+<note xml:lang="ta"><term xml:lang="en">Cf. TP12i:</term> piṉpaṉi tāṉu muritteṉa moḻipa</note></standOff>
+<standOff type="notes4" corresp="#TNV4"><note xml:lang="en">The Tolkāppiyam treates these slightly differently. Each landscape and its respective appropriate season and time of day are listed in separate <term xml:lang="ta"><hi rend="italic">cūttirams</hi></term>. This is also why the exact same list of sources is provided for the next <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>.</note></standOff>
+<standOff type="apparatus" corresp="#TNV4" source="alignments/TNV4.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
