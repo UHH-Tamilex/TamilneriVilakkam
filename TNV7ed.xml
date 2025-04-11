@@ -158,7 +158,7 @@
       <lg xml:id="TNV7">
       <l>murukaṉu miraviyu māyaṉum vēntaṉum</l>
 <l>varuṇaṉu māka vakuttaṉar koḷalē.</l></lg>
-<p xml:lang="en">They have assigned Murukaṉ, Iravi, Māyan, Vēntan and Varuṇa [as the gods].</p>
+<p xml:lang="en">Murukaṉ, Iravi, Māyan, Vēntan and Varuṇa - [let there be an] understanding that they have assigned [them as the gods].</p>
 </div>
 </body>
 </text>
@@ -166,7 +166,10 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV7comm1">e-tu. collap paṭṭa karuviṉ uḷ atiteyvam ām āṟuṇarttutaṉutaliṟṟu.</p>
+       <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the
+       presiding deities amongst the aformentioned constituent elements occur.</p> 
       <p xml:id="TNV7comm2">murukavēḷum pakalōṉumāyaṉum intiraṉum varuṇaṉumuṟaiyāṉē ain tiṇaikkum atiteyvam ām eṉṟavāṟu. <note>(7)</note></p>
+      <p xml:lang="en">Murukavēḷ, Pakalōṉ, Māyaṉ, Intiraṉ and Varuṇaṉ are the gods for the five poetic landscapes according to the [established] order.</p>
       </body>
       </text>
       <standOff type="apparatus" corresp="#TNV7comm2" source="alignments/TNV7comm2.xml"><interp type="normalization">
@@ -209,7 +212,10 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp>
-</standOff><standOff type="apparatus" corresp="#TNV7" source="alignments/TNV7.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV7"><note xml:lang="ta"><term xml:lang="ta">Cf. TP5iː</term> māyōṉ mēya kāṭuṟai yulakamuñ / cēyōṉ mēya maivarai yulakamum / vēntaṉ mēya tīmpuṉa lulakamum / varuṇaṉ mēya perumaṇa lulakamum / mullai kuṟiñci maruta neytaleṉac / colliya muṟaiyāṟ collavum paṭumē//</note></standOff>
+<standOff type="notes4" corresp="#TNV7"><note xml:lang="en">The TNV supplies a presiding deity for the <term xml:lang="ta"><hi rend="italic">pālai</hi></term> landscape, which is left out of the enumeration in the TP. Note also the different order of the landscapes.</note></standOff>
+<standOff type="apparatus" corresp="#TNV7" source="alignments/TNV7.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>

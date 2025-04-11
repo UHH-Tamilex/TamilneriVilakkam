@@ -113,11 +113,11 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          </witness>          
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          </witness>
+          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
           <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
@@ -145,7 +145,7 @@
               <abbr type="siglum">KT40</abbr>
               <expan>KT40</expan>
           </witness>
-        </listWit>
+       </listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -158,8 +158,8 @@
       <lg xml:id="TNV8">
       <l>veṟpaṉ kuṟavar viṭalai yeyiṉa</l>
 <l>roṟkamil kuṟumpoṟai nāṭaṉ kuṭavar</l>
-<l>makuṇa<note place="foot">My working theory is that this is a dialectical variant of makiḻnaṉ/makiṇan (both are recorded in the Tamil Lexicon). 
-cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV3</ref> where we find kuruñci instead of the more standard kuriñci.</note> ṉuḻavar cērppaṉ paratava</l>
+<l>makuṇa<note place="foot">My working theory is that this is a dialectical variant of <term xml:lang="ta"><hi rend="italic">makiḻnaṉ/makiṇan</hi></term> (both are recorded in the Tamil Lexicon). 
+cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV3</ref> where we find <term xml:lang="ta"><hi rend="italic">kuruñci</hi></term> instead of the more standard <term xml:lang="ta"><hi rend="italic">kuriñci</hi></term>.</note> ṉuḻavar cērppaṉ paratava</l>
 <l>riṉaiyaṉa piṟavu makkaṭ peyarē</l></lg>
 <p xml:lang="en">The names of humans [are] ‘man of the mountain’, ‘hill people’, ‘the strong man [in the desert]’, 
 ‘desert hunters’, ‘man from a land of small hillocks devoid of destitution’, ‘herdsmen’, ‘pleasure man‘, 
@@ -172,9 +172,12 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV8comm1">e-tu. makkaṭ peyar ām āṟuṇarttutaṉutaliṟṟu.
       </p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the names of the people occur.</p>
       <p xml:id="TNV8comm2">veṟpaṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ cērppaṉ eṉpaṉa talaimakaṉ peyar. 
-      kuṟavar eyiṉar kuṭavar uḻavar paratavar eṉpaṉa vannilattu vāḻvār peyar eṉṟa vāṟu.
+      kuṟavar eyiṉar kuṭavar uḻavar paratavar eṉpaṉa van nilattu vāḻvār peyar eṉṟa vāṟu.
       </p>
+      <p xml:lang="en">The man from the mountain, the warrior, the man from the land of short hillocks, the pleasure-man and the man from the coast - these are said to be the names of the people. The hill people, <hi rend="italic">the eyiṉar</hi> tribe, the western people, the ploughmen and the fishermen - these are said to be the names of the inhabitants of those lands.</p>
+      
       <p xml:id="TNV8comm3">piṟavum eṉṟataṉāṟ poruppaṉ malaiyaṉ cilampaṉ koṭicci kuṟatti kuṟavar 
       iṟavuḷar eṉavuṅ kāḷai viṭalai yeyiṉar eyiṟṟi maṟavar eṉavum aṇṇal mīḷi yiṭaicciyar āycciyar 
       kōvalar iṭaiyar potuvar āyar eṉavum ūraṉ kiḻatti maṉaivi kaṭaiyar kaṭaiciyar eṉavuṅ koṇkaṉ 
@@ -343,21 +346,21 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
   </desc>
 </interp><listApp>
   <app corresp="20,34">
-    <lem wit="#TNVc #TNV1937 #TNV1947">yeyiṉa roṟkamil</lem>
-    <rdg wit="#TNVmsac">yeyiṉata <sic>ro</sic>ṟkamil</rdg>
-    <rdg wit="#TNVmspc">yeyiṉa <sic>rā</sic>ṟkamil</rdg>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>yeyiṉa roṟkamil</lem>
+      <rdg type="minor" wit="#TNVc">yeyiṉar <lb xmlns="http://www.tei-c.org/ns/1.0" n="27"/>oṟkamil</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">yeyiṉar oṟkamil</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">yeyiṉata <sic xmlns="http://www.tei-c.org/ns/1.0">ro</sic>ṟkamil</rdg>
+    <rdg wit="#TNVmspc">yeyiṉa <sic xmlns="http://www.tei-c.org/ns/1.0">rā</sic>ṟkamil</rdg>
   </app>
   <app corresp="34,44">
     <lem wit="#TNVc #TNV1937 #TNV1947">kuṟumpoṟai</lem>
-    <rdg wit="#TNVms">kuṟum<gap reason="lost" unit="character" quantity="1"/>oṟai</rdg>
-  </app>
-  <app corresp="44,49">
-    <lem wit="#TNVc #TNV1937 #TNV1947">nāṭaṉ</lem>
-    <rdg wit="#TNVms">nāṭaṉ</rdg>
+    <rdg wit="#TNVms">kuṟum<gap xmlns="http://www.tei-c.org/ns/1.0" reason="lost" unit="character" quantity="1"/>oṟai</rdg>
   </app>
   <app corresp="69,76">
     <lem wit="#TNVc #TNV1937 #TNV1947">cērppaṉ</lem>
-    <rdg wit="#TNVms">cēr<sic>p</sic>aṉ</rdg>
+    <rdg wit="#TNVms">cēr<sic xmlns="http://www.tei-c.org/ns/1.0">p</sic>aṉ</rdg>
   </app>
   <app corresp="76,84">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">paratava</lem>
@@ -952,7 +955,10 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
   </desc>
 </interp><listApp>
   <app corresp="126,135">
-    <lem wit="#TNV1937 #TNV1947">eṉṟa vāṟu.</lem>
+    <rdgGrp type="lemma" select="#TNV1937 #TNV1947">
+      <lem>eṉṟa vāṟu.</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">eṉṟavāṟu.</rdg>
+    </rdgGrp>
     <rdg wit="#TNVms #TNVc"/>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV8comm3" source="alignments/TNV8comm3.xml"><interp type="normalization">
