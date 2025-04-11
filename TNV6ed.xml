@@ -159,6 +159,11 @@
       <l>teyva māṉiṭañ ceyti yuṇavō</l>
 <l>ṭeytiya vicaivilaṅ kiṉaiyaṉa piṟavum</l>
 <l>poytīr karuveṉap pukaṉṟaṉar koḷalē</l></lg>
+<p xml:lang="en">The gods, the people, the occupations, the food, the suitable music, the animals
+        and other such things - [let there be an] understanding that they have said that [these] are
+        the true<note place="foot" xml:lang='en'><q xml:lang="ta"><hi rend="italic">poy tīr</hi></q> is a kind of formula.
+        Literally it means '(x) in which falsity has ended.' In practice, this means that something
+        is true.</note> constituent elements.</p>
 </div>
 </body>
 </text>
@@ -166,9 +171,16 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV6comm1">e-tu. karup poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the
+        poetic matter of the constituent elements occurs.</p>
       <p xml:id="TNV6comm2">collap paṭṭa mutaṟ poruṭ kuriya teyvamum avvaḻi vāḻumakkaḷum 
       avarkaḷ toḻilkaḷum uṇpārkkut tuppākiya vuṇavum icaiyum āṅkaṇ vāḻum vilaṅkukaḷum 
       piṟavum ain tiṇaikkup peṟṟa karup poruḷ ām eṉṟa vāṟu. <note>6.</note></p>
+      <p xml:lang="en">The things that are suitable for the poetic matter of the aforementioned basic
+        elements are the gods, the people who exist along that way, their occupations, the food which
+        is the sustenance for those who eat it, the music, the animals which live there and other
+        things - so the poetic matter of the constituent elements related to the five poetic
+        landscapes occurs.</p>
       </body>
       </text>
       <standOff type="apparatus" corresp="#TNV6comm2" source="alignments/TNV6comm2.xml"><interp type="normalization">
@@ -226,7 +238,9 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp>
-</standOff><standOff type="apparatus" corresp="#TNV6" source="alignments/TNV6.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV6"><note xml:lang="ta"><term xml:lang="en">Cf. TP20iː</term> teyva muṇāvē māmaram puṭpaṟai / ceyati yāḻiṉ pakutiyoṭu tokaii / yavvakai piṟavuṅ karuveṉa moḻipa//</note></standOff> 
+<standOff type="apparatus" corresp="#TNV6" source="alignments/TNV6.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
