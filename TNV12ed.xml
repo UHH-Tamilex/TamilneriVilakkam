@@ -1197,31 +1197,31 @@ aṉṉamumakaṉṟilum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="30,43">
+  <app loc="30,43">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cīyamāvumayiṟ</lem>
     <rdg wit="#TNVmsac">cīyamāvuñmayi<lb n="4"/>ṟ</rdg>
   </app>
-  <app corresp="53,64">
+  <app loc="53,64">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">maramumarām</lem>
     <rdg wit="#TNVcac">mara<lb n="10"/>mumaram</rdg>
   </app>
-  <app corresp="64,69">
+  <app loc="64,69">
     <lem wit="#TNVms #TNVc #TNV1947">pūvuñ</lem>
     <rdg wit="#TNV1937">pūvuṅ,</rdg>
   </app>
-  <app corresp="69,75">
+  <app loc="69,75">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">cennāy</lem>
     <rdg wit="#TNVcac">cen<gap reason="illegible" quantity="1" unit="character"/> āy</rdg>
   </app>
-  <app corresp="232,238">
+  <app loc="232,238">
     <lem wit="#TNVms #TNV1937 #TNV1947">kampuṭ</lem>
     <rdg wit="#TNVc">kampu<sic>ḷ</sic></rdg>
   </app>
-  <app corresp="238,244">
+  <app loc="238,244">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puḷḷum</lem>
     <rdg wit="#TNVmsac">puḷḷuṅm</rdg>
   </app>
-  <app corresp="251,266">
+  <app loc="251,266">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ain tiṇaikkuriya</lem>
     <rdg wit="#TNVmsac">aintiṇaikkuriya<gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
@@ -1256,11 +1256,11 @@ aṉṉamumakaṉṟilum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="6,12">
+  <app loc="6,12">
     <lem wit="#TNVms #TNVc">kāntaṭ</lem>
     <rdg wit="#TNV1937 #TNV1947">kāntaḷ</rdg>
   </app>
-  <app corresp="22,28">
+  <app loc="22,28">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">pāṅkar</lem>
     <rdg wit="#TNVmsac">pāṅkāra<unclear>m</unclear></rdg>
     <rdgGrp select="#TNVmspc #TNVcac">
@@ -1268,7 +1268,7 @@ aṉṉamumakaṉṟilum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
       <rdg type="minor" wit="#TNVcac"><lb n="3"/>pāṅkāra</rdg>
     </rdgGrp>
   </app>
-  <app corresp="118,126">
+  <app loc="118,126">
     <lem wit="#TNVc #TNV1937 #TNV1947">kampuḷeṉ</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="2"/>puḷeṉ</rdg>
   </app>
@@ -1288,23 +1288,23 @@ aṉṉamumakaṉṟilum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="7,22">
+  <app loc="7,22">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">eṉṟataṉāl akiluñ</lem>
     <rdg wit="#TNVmsac">eṉṟataṉā<unclear>lu</unclear>l akiluñ</rdg>
   </app>
-  <app corresp="50,58">
+  <app loc="50,58">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kuvaḷaip</lem>
     <rdg wit="#TNVmsac">kuva<unclear>ṉai</unclear>ḷaip</rdg>
   </app>
-  <app corresp="154,167">
+  <app loc="154,167">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kōḻiyumarutum</lem>
     <rdg wit="#TNVmsac">kōḻiyummarutum</rdg>
   </app>
-  <app corresp="195,202">
+  <app loc="195,202">
     <lem wit="#TNVc #TNV1937 #TNV1947">tārāvum</lem>
     <rdg wit="#TNVms">tārāv<sic>ū</sic>m</rdg>
   </app>
-  <app corresp="227,243">
+  <app loc="227,243">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">aṉṉamumakaṉṟilum</lem>
     <rdgGrp select="#TNVms #TNVcac">
       <rdg type="main">aṉṉamum pakaṉṟilum</rdg>

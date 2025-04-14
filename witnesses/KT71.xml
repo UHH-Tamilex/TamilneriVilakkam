@@ -609,11 +609,11 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#KT71" type="apparatus"><listApp>
-<app corresp="66,81">
+<app loc="66,81">
         <lem wit="#C1 #C2 #C3 #C4 #G2 #EA #Cam">peruntō ṇuṇukiya</lem>
         <rdg wit="#L1">peruntē raṇukiya</rdg><note xml:lang="en">Faulty.</note>
         </app>
-<app corresp="96,110">
+<app loc="96,110">
         <lem wit="#C2 #C4 #G2 #Nacc #AT #Cam">kāṉavar nalkuṟu</lem>
         <rdg wit="#C2v">kāṉavaṉ nalkuṟu</rdg>
 <rdg wit="#C3v">kāṉa<gap reason="lost" quantity="2" unit="character"/> nalkuṟu</rdg>

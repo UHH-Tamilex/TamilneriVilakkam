@@ -738,7 +738,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="25,35">
+  <app loc="25,35">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ṟalaittalu</lem>
     <rdg wit="#TNVmsac">ṟalaitta<sic><unclear>lu</unclear></sic>lu</rdg>
   </app>
@@ -773,15 +773,15 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,12">
+  <app loc="0,12">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tēṉ aḻittalum</lem>
     <rdg wit="#TNVmsac">tēṉeḻittalum<note place="foot">I assume this was just a scribal error -- the scribe repeated the <hi rend="italic">kompu</hi>. I could not thing of any reasonable interpretation of this with the <hi rend="italic">kompu</hi>, hence why I have represented it as such, whereas the reading in the edition is word-split.</note></rdg>
   </app>
-  <app corresp="37,45">
+  <app loc="37,45">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uḻutaluṅ</lem>
     <rdg wit="#TNVmsac">uḻuta<sic>lu</sic>luṅ</rdg>
   </app>
-  <app corresp="78,84">
+  <app loc="78,84">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">āṇṭaic</lem>
     <rdgGrp select="#TNVms #TNVcac">
       <rdg type="main">āṭai<lb n="8"/>c</rdg>
@@ -805,32 +805,32 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,8">
+  <app loc="0,8">
     <lem wit="#TNV1937 #TNV1947">iṉaiyaṉa</lem>
     <rdg wit="#TNVms #TNVc">iṉaiya<note place="foot">I have emended here in line with UVC. The commmentator is referring back to the <hi rend="italic">cūttiram</hi> and in both the palm-leaf and paper copy, the <hi rend="italic">cūttiram</hi> reads <hi rend="italic">iṉaiyaṉa</hi>.</note></rdg>
   </app>
-  <app corresp="8,23">
+  <app loc="8,23">
     <lem wit="#TNVmspc #TNVc">veṉṟataṉāṟ ṟiṉai</lem>
     
     <rdg wit="#TNVmsac">veṉtaṉāṟ ṟiṉai</rdg>
   </app>
   
-  <app corresp="47,49">
+  <app loc="47,49">
     <lem wit="#TNV1937 #TNV1947">ūr</lem>
     <rdg wit="#TNVms #TNVc">
       <sic>ur</sic>
     </rdg>
   </app>
   
-  <app corresp="68,81">
+  <app loc="68,81">
     <lem wit="#TNVc #TNV1937 #TNV1947">varakaritalum</lem>
     <rdg wit="#TNVms">varakari <gap reason="lost" unit="character" quantity="1"/>lu<lb n="9"/>m</rdg>
   </app>
-  <app corresp="133,143">
+  <app loc="133,143">
     <lem wit="#TNVc #TNV1937 #TNV1947">kuḷittalum</lem>
     <rdg wit="#TNVms">kuḷittutalum</rdg>
   </app>
-  <app corresp="158,164">
+  <app loc="158,164">
     <lem wit="#TNVc #TNV1937 #TNV1947">koḷka.</lem>
     <rdg wit="#TNVms">ko</rdg>
   </app>

@@ -562,7 +562,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="12,33">
+  <app loc="12,33">
     <lem wit="#TNVc #TNV1937 #TNV1947">āṟuṇarttutaṉutaliṟṟu.</lem>
     <rdg wit="#TNVms">āṟuṇarttuta<sic>nu</sic>taliṟṟu.</rdg>
   </app>
@@ -582,11 +582,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="42,56">
+  <app loc="42,56">
     <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947">āy iṭaip pirivum</lem>
     <rdg wit="#TNVmsac #TNVcac"/>
   </app>
-  <app corresp="76,89">
+  <app loc="76,89">
     <lem wit="#TNVms">voḻukka muk kaṭ</lem>
     <rdgGrp select="#TNVc #TNV1937 #TNV1947">
       <rdg type="main">oḻukkamum mukkaṭ</rdg>

@@ -212,7 +212,7 @@ the implied order is the same; see TP6-12i, where the implied list is different)
   </desc>
 </interp><listApp>
   
-  <app corresp="40,61">
+  <app loc="40,61">
     <lem wit="#TNVc #TNV1937 #TNV1947">āṟuṇarttutaṉutaliṟṟu.</lem>
   
     <rdg wit="#TNVms">āṟuṇarttutanu</rdg>
@@ -233,23 +233,23 @@ the implied order is the same; see TP6-12i, where the implied list is different)
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="89,110">
+  <app loc="89,110">
     <lem wit="#TNVc #TNV1937 #TNV1947">ākiya kār kālamumāciyum</lem>
     <rdg wit="#TNVms">āki<gap reason="lost" unit="character" quantity="4"/><lb n="8"/>lamumāciyum</rdg>
   </app>
-  <app corresp="125,133">
+  <app loc="125,133">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">piṉ paṉik</lem>
     <rdg wit="#TNVmsac">piṉipaṉik</rdg>
   </app>
-  <app corresp="140,151">
+  <app loc="140,151">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cittiraiyum</lem>
     <rdg wit="#TNVmsac">cittairaiyum</rdg>
   </app>
-  <app corresp="161,175">
+  <app loc="161,175">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ākiya viḷa vēṉiṟ</lem>
     <rdg wit="#TNVmsac">ākiyuyu<gap reason="illegible" unit="character" quantity="1"/>viḷavēṉiṟ</rdg>
   </app>
-  <app corresp="175,191">
+  <app loc="175,191">
     <lem wit="#TNVc #TNV1937 #TNV1947">kālamumārkaḻiyun</lem>
     <rdg wit="#TNVms">kālamumār<gap reason="lost" unit="character" quantity="4"/><lb n="9"/></rdg>
   </app>
@@ -279,11 +279,11 @@ the implied order is the same; see TP6-12i, where the implied list is different)
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="10,17">
+  <app loc="10,17">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">koḻuṅkā</lem>
     <rdg wit="#TNVmsac">k<gap reason="illegible" unit="character" quantity="1"/>oḻuṅkā</rdg>
   </app>
-  <app corresp="17,25">
+  <app loc="17,25">
     <lem wit="#TNVc #TNV1937 #TNV1947">roḻipaṉi</lem>
     <rdg wit="#TNVms">ro<gap reason="lost" unit="character" quantity="4"/><lb n="6"/></rdg>
   </app>

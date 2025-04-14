@@ -1889,7 +1889,7 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="22,32">
+  <app loc="22,32">
     <lem wit="#TNVms">maṇattiluṅ</lem>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947">
       <rdg type="main">maṇattiṉum</rdg>
@@ -1913,7 +1913,7 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="23,35">
+  <app loc="23,35">
     <lem wit="#TNVmspc">kaḷavoḻukkām</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">kaḷavoḻukkam ām</rdg>
     <rdg wit="#TNVmsac">kaḷavoḻukkam</rdg>
@@ -1934,23 +1934,23 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="39,49">
+  <app loc="39,49">
     <lem wit="#TNV1937 #TNV1947">yoppu poruḷ</lem>
     <rdg wit="#TNVms #TNVc">yoppup poruḷ</rdg>
   </app>
-  <app corresp="75,78">
+  <app loc="75,78">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">pēy</lem>
     <rdg wit="#TNVmsac">mēy</rdg>
   </app>
-  <app corresp="93,107">
+  <app loc="93,107">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">eṉap paṭṭa maṇam</lem>
     <rdg wit="#TNVcac">eṉappaṭṭam</rdg>
   </app>
-  <app corresp="117,134">
+  <app loc="117,134">
     <lem wit="#TNVms #TNV1937 #TNV1947">kantiruva vaḻakkam</lem>
     <rdg wit="#TNVc">kantiru vaḻakkam</rdg>
   </app>
-  <app corresp="141,155">
+  <app loc="141,155">
     <lem wit="#TNV1937 #TNV1947">kaḷavoḻukkam ām</lem>
     <rdg wit="#TNVc">kaḷavoḻukkam<lb n="5"/></rdg>
     <rdg wit="#TNVms">kaḷavo<gap reason="lost" unit="character" quantity="2"/>kam</rdg>
@@ -1971,11 +1971,11 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="64,76">
+  <app loc="64,76">
     <lem wit="#TNVc #TNV1937 #TNV1947">pirāyattāḷai</lem>
     <rdg wit="#TNVms">pirāyattā<gap reason="lost" unit="character" quantity="2"/></rdg>
   </app>
-  <app corresp="76,85">
+  <app loc="76,85">
     <lem wit="#TNVc #TNV1937 #TNV1947">yaṇikalam</lem>
     <rdg wit="#TNVms">vaṇikala<lb n="2"/>m</rdg>
   </app>
@@ -2010,17 +2010,17 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="13,17">
+  <app loc="13,17">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">āṉum</lem>
     <rdg wit="#TNVmsac">āṉu<unclear>p</unclear></rdg>
   </app>
-  <app corresp="49,61">
+  <app loc="49,61">
     <lem wit="#TNVmspc #TNVcac">ceyvataṟṟōṭu</lem>
     <rdg wit="#TNVcpc">ceytaṟṟōṭu</rdg>
     <rdg wit="#TNV1937 #TNV1947">ceytu avaṟṟōṭu</rdg>
     <rdg wit="#TNVmsac">c ce<lb n="4"/>y<sic>va</sic>taṟṟōṭu</rdg>
   </app>
-  <app corresp="76,88">
+  <app loc="76,88">
     <lem wit="#TNVms #TNVc">ivvāṟōtaṟkaṇ</lem>
     <rdg wit="#TNV1937 #TNV1947">ivvāṟu ītaṟkaṇ</rdg>
   </app>
@@ -2041,12 +2041,12 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="11,27">
+  <app loc="11,27">
     <lem wit="#TNVc #TNV1937 #TNV1947">vēḷvi yāciriyaṟku</lem>
     <rdg wit="#TNVmsac">vēḷviyāciciriya<sic>rkku</sic></rdg>
     <rdg wit="#TNVmspc">vēḷviyāciriya<sic>rkku</sic></rdg>
   </app>
-  <app corresp="35,51">
+  <app loc="35,51">
     <lem wit="#TNVms">muṉṉar koṭuppatu.</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">muṉṉark koṭuppatu.</rdg>
   </app>
@@ -2066,15 +2066,15 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,9">
+  <app loc="0,9">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">arum poruḷ</lem>
     <rdg wit="#TNVmsac">arumporu</rdg>
   </app>
-  <app corresp="9,14">
+  <app loc="9,14">
     <lem wit="#TNVms #TNVc">viṉai</lem>
     <rdg wit="#TNV1937 #TNV1947">nilai</rdg>
   </app>
-  <app corresp="44,52">
+  <app loc="44,52">
     <lem wit="#TNVms">mutalaṉa</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">mutaliyaṉa</rdg>
   </app>
@@ -2094,7 +2094,7 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,9">
+  <app loc="0,9">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vali nilai</lem>
     <rdg wit="#TNVmsac">vi<gap reason="illegible" unit="character" quantity="1"/>valinilai</rdg>
   </app>
@@ -2130,7 +2130,7 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="51,57">
+  <app loc="51,57">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">itaṉāl</lem>
     <rdg wit="#TNVmsac">iṉāl</rdg>
   </app>

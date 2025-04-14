@@ -299,31 +299,31 @@
 </entry>
 </standOff>
 <standOff corresp="#KT7" type="apparatus"><listApp>
-<app corresp="32,39">
+<app loc="32,39">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #Cen #KK #NV #EA #Cam">mēlavuñ</lem>
         <rdg wit="#C2v #Nam #KKv #Camv #IrV">mēlaṉa</rdg>
 <rdg wit="#Camv2">mēvuna</rdg>
 <rdg wit="#AT">mēvuṉa</rdg>
         </app>
-<app corresp="57,64">
+<app loc="57,64">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">laḷiyar</lem>
         <rdg wit="#IV">laṉiyar</rdg>
         </app>
-<app corresp="68,75">
+<app loc="68,75">
         <lem wit="#L1 #C2 #G1 #G2 #EA #Cam">yāriyar</lem>
         <rdg wit="#C1 #C3 #G1v">pāriyar</rdg>
         </app>
-<app corresp="75,83">
+<app loc="75,83">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">kayiṟāṭu</lem>
         <rdg wit="#IV">kayiṟṟāṭu</rdg>
 <rdg wit="#L1">kayiṟā</rdg>
 <rdg wit="#Camv">kayiṟāḷ</rdg>
         </app>
-<app corresp="111,117">
+<app loc="111,117">
         <lem wit="#L1 #C1 #C2 #C3 #G1v #G2 #EA #Cam">veṇṇeṟ</lem>
         <rdg wit="#G1">veṇṇōṟ</rdg>
         </app>
-<app corresp="125,138">
+<app loc="125,138">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #KK #EA #Cam">vēypayi laḻuva</lem>
         <rdg wit="#C3v #G1v #Cen #KKv #Camv">vēypayil paḻuvam</rdg>
         </app>

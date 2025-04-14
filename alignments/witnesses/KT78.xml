@@ -307,20 +307,20 @@
 </entry>
 </standOff>
 <standOff corresp="#KT78" type="apparatus"><listApp>
-<app corresp="103,108">
+<app loc="103,108">
         <lem wit="#L1 #C1 #C2 #C3 #C4 #G1 #G2 #EA #Cam">kāmam</lem>
         <rdg wit="#G1v">nāmam</rdg>
         </app>
-<app corresp="108,114">
+<app loc="108,114">
         <lem wit="#L1 #C1 #C2 #C3 #C4 #G1 #G2 #EA #Cam">yāvatu</lem>
         <rdg wit="#PP">mayarvatu</rdg>
         </app>
-<app corresp="128,134">
+<app loc="128,134">
         <lem wit="#L1v #C1 #C2 #C3 #C4 #G1 #G2 #EA #Cam">māṭṭuñ</lem>
         <rdg wit="#L1">maṭṭuñ</rdg>
 <rdg wit="#PP">māṭṭuc</rdg>
         </app>
-<app corresp="145,158">
+<app loc="145,158">
         <lem wit="#L1 #C1 #C3 #C4 #G1 #G2 #EA #Camv">perumpē taittē</lem>
         <rdg wit="#L1v #C2 #C3v #AT #Cam #IrV #ER">perumpē taimaittē</rdg>
         </app>

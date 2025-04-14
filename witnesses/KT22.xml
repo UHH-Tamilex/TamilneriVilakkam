@@ -605,19 +605,19 @@
 </entry>
 </standOff>
 <standOff corresp="#KT22" type="apparatus"><listApp>
-<app corresp="18,24">
+<app loc="18,24">
         <lem wit="#L1 #C1 #C2 #C3 #G1v #G2 #EA #Cam">ṇoḻiya</lem>
         <rdg wit="#G1">ṉoḻiya</rdg>
         </app>
-<app corresp="60,69">
+<app loc="60,69">
         <lem wit="#L1 #C1 #C2 #C3 #G1v #G2 #EA #Cam">valañcuri</lem>
         <rdg wit="#C3v #G1 #G2v #Camv">valañcuḻi</rdg>
         </app>
-<app corresp="96,100">
+<app loc="96,100">
         <lem wit="#L1 #C1 #C2v #C3 #G1 #G2 #EA #Cam">tēmū</lem>
         <rdg wit="#C2 #C3v #Camv">tēṉū</rdg>
         </app>
-<app corresp="100,107">
+<app loc="100,107">
         <lem wit="#C1 #C2v #C3v #EA #Cam">roṇṇuta</lem>
         <rdg wit="#L1 #C2 #C3 #G1 #G2">reṇṇuta</rdg>
 <rdg wit="#TV">coṇṇuta</rdg>
