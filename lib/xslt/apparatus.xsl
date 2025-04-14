@@ -420,7 +420,7 @@
     <!--xsl:variable name="corresp" select="ancestor::*[@corresp]/@corresp"/-->
     <xsl:element name="span">
         <xsl:attribute name="class">lem</xsl:attribute>
-        <xsl:attribute name="data-loc"><xsl:value-of select="@loc"/></xsl:attribute>
+        <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
         <!--xsl:attribute name="data-text"><xsl:value-of select="./x:lem/text() | ./x:rdgGrp[@type='lemma']/x:lem/text()"/></xsl:attribute-->
         <span class="rdg-text">
             <xsl:apply-templates select="./x:lem/node() | ./x:rdgGrp[@type='lemma']/x:lem/node()"/>
@@ -433,23 +433,23 @@
                 <xsl:apply-templates select="./node()"/>
             </span>
         </xsl:for-each>
-        <xsl:choose>
-            <xsl:when test="./x:lem/@wit | ./x:rdgGrp[@type='lemma']/@select">
-                <span>
-                    <xsl:attribute name="class">lem-wit</xsl:attribute>
-                    <xsl:call-template name="splitwit">
-                        <xsl:with-param name="mss" select="x:lem/@wit | ./x:rdgGrp[@type='lemma']/@select"/>
-                        <xsl:with-param name="corresp" select="$corresp"/>
-                    </xsl:call-template>
-                </span>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:if test="//x:text[@type='edition']">
-                    <span class="lem-wit"><span class="editor" lang="en" data-anno="emendation">em.</span></span>
-                </xsl:if>
-            </xsl:otherwise>
-        </xsl:choose>
     </xsl:element> 
+    <xsl:choose>
+        <xsl:when test="./x:lem/@wit | ./x:rdgGrp[@type='lemma']/@select">
+            <span>
+                <xsl:attribute name="class">lem-wit</xsl:attribute>
+                <xsl:call-template name="splitwit">
+                    <xsl:with-param name="mss" select="x:lem/@wit | ./x:rdgGrp[@type='lemma']/@select"/>
+                    <xsl:with-param name="corresp" select="$corresp"/>
+                </xsl:call-template>
+            </span>
+        </xsl:when>
+        <xsl:otherwise>
+            <xsl:if test="//x:text[@type='edition']">
+                <span class="lem-wit"><span class="editor" lang="en" data-anno="emendation">em.</span></span>
+            </xsl:if>
+        </xsl:otherwise>
+    </xsl:choose>
     <xsl:text> </xsl:text>
 </xsl:template>
 
