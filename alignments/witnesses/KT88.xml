@@ -249,21 +249,21 @@
 </entry>
 </standOff>
 <standOff corresp="#KT88" type="apparatus"><listApp>
-<app corresp="68,73">
+<app loc="68,73">
         <lem wit="#C2 #C3v #Il #Cam">cōrun</lem>
         <rdg wit="#L1 #C1 #C2v #C3 #G1 #G2 #Ilv #Camv2 #ER">collun</rdg>
 <rdg wit="#C4 #EA #I #AT #Camv">kollun</rdg>
 <rdg wit="#ATv">cōlun</rdg>
         </app>
-<app corresp="81,86">
+<app loc="81,86">
         <lem wit="#L1 #C1 #C2 #C3 #C4 #G1 #G2 #Il #TV #EA #Camv">cōlai</lem>
         <rdg wit="#C3v #Ilv #Cam #IrV #ER">cāral</rdg>
         </app>
-<app corresp="93,102">
+<app loc="93,102">
         <lem wit="#L1 #C1 #C2 #C3 #C4 #G1v #G2 #EA #Cam">varutalum</lem>
         <rdg wit="#G1">varutalūum</rdg>
         </app>
-<app corresp="114,120">
+<app loc="114,120">
         <lem wit="#L1 #C1 #C2 #C3 #C4 #G1 #G2 #EA">ṇalamō</lem>
         <rdg wit="#C2v #AT #Cam #IrV #ER">ṇalamē</rdg>
         </app>

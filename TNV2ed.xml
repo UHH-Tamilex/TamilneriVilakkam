@@ -330,11 +330,11 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,5">
+  <app loc="0,5">
     <lem wit="#TNVc #TNV1937 #TNV1947">e – tu.</lem>
     <rdg wit="#TNVms">e</rdg>
   </app>
-  <app corresp="5,21">
+  <app loc="5,21">
     <lem wit="#TNVc">collap paṭṭaṉa vuḷ</lem>
     <rdg wit="#TNV1937 #TNV1947">collappaṭṭaṉavaṟṟuḷ</rdg>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="8"/><gap reason="lost" unit="character" quantity="3"/>ṭṭaṉavuḷ</rdg>
@@ -356,11 +356,11 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="14,20">
+  <app loc="14,20">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cārnta</lem>
     <rdg wit="#TNVmsac">cānta</rdg>
   </app>
-  <app corresp="29,49">
+  <app loc="29,49">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">akap poruḷ ām eṉṟa vāṟu.</lem>
     <rdg wit="#TNVcac">akappo<lb n="19"/>ruḷāra<gap reason="illegible" unit="character" quantity="1"/>ṟaṉṟavāṟu.</rdg>
     <rdg wit="#TNVms">akapporuḷā</rdg>
@@ -381,11 +381,11 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,9">
+  <app loc="0,9">
     <lem wit="#TNVc #TNV1937 #TNV1947">mutal eṉap</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/>ṉap</rdg>
   </app>
-  <app corresp="73,92">
+  <app loc="73,92">
     <lem wit="#TNVc #TNV1937 #TNV1947">koḷka. vatuvum uriyum</lem>
     <rdg wit="#TNVms">koḷ<gap reason="lost" unit="character" quantity="4"/><lb n="2"/><gap reason="lost" unit="character" quantity="4"/>m</rdg>
   </app>
@@ -405,11 +405,11 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="9,17">
+  <app loc="9,17">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vaṇainta</lem>
     <rdg wit="#TNVmsac">paṇainta</rdg>
   </app>
-  <app corresp="26,32">
+  <app loc="26,32">
     <lem wit="#TNVc #TNV1937 #TNV1947">ḷakamē</lem>
     <rdg wit="#TNVms">ḷākum.</rdg>
   </app>

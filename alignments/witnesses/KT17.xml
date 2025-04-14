@@ -211,19 +211,19 @@
 </entry>
 </standOff>
   <standOff corresp="#KT17" type="apparatus"><listApp>
-<app corresp="6,24">
+<app loc="6,24">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">maṭalu mūrpa pūveṉak</lem>
         <rdg wit="#L1">maṭa_ mūrppu vēṉak</rdg>
         </app>
-<app corresp="48,54">
+<app loc="48,54">
         <lem wit="#C2 #C3v #G1v #G2 #EA #Cam">cūṭupa</lem>
         <rdg wit="#L1 #C1 #C3 #G1">cūṭu</rdg>
         </app>
-<app corresp="81,87">
+<app loc="81,87">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #EA #Cam">mākupa</lem>
         <rdg wit="#G2">māpē</rdg>
         </app>
-<app corresp="87,102">
+<app loc="87,102">
         <lem wit="#L1 #C2 #C3 #G1 #KK #EA #Cam">kāmaṅkāḻk koḷiṉē</lem>
         <rdg wit="#G2 #May #KKv #Kul #Camv #IrV">kāmaṅkāḻ koḷiṉē</rdg>
 <rdg wit="#C1">kāmaṅkāḻk koḻiṉē</rdg>

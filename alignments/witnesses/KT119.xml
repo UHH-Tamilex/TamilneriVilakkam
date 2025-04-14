@@ -189,16 +189,16 @@
 </entry>
 </standOff>
 <standOff corresp="#KT119" type="apparatus"><listApp>
-<app corresp="44,48">
+<app loc="44,48">
         <lem wit="#C1 #C2 #C3v #G1v #G2 #EA #Cam">yāaṅ</lem>
         <rdg wit="#L1 #C3 #G1">yāṅ</rdg>
         </app>
-<app corresp="48,56">
+<app loc="48,56">
         <lem wit="#C2v #G2 #Cam">kiḷaiyaṇ</lem>
         <rdg wit="#G1v #EA">kiḷaiyaḷ</rdg>
 <rdg wit="#L1 #C1 #C2 #C3 #G1 #Camv">kiḷaiya</rdg>
         </app>
-<app corresp="56,71">
+<app loc="56,71">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">muḷaivā ḷeyiṟṟaḷ</lem>
         <rdg wit="#KK">muḷaivā yeyiṟṟaḷ</rdg>
         </app>

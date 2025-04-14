@@ -3362,18 +3362,18 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="19,27">
+  <app loc="19,27">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kaḻaṟalu</lem>
     <rdg wit="#TNVmsac">kaḻaṟalu<unclear>ṅ</unclear></rdg>
   </app>
-  <app corresp="27,50">
+  <app loc="27,50">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">maṟuttalu nōtalum yāṇṭeṉa</lem>
     <rdgGrp select="#TNVms #TNVcac">
       <rdg type="main">maṟuttalu <lb n="29"/>nōtalum āṇṭeṉa</rdg>
       <rdg type="minor" wit="#TNVms">maṟuttalu nōtalu māṇṭeṉa</rdg>
     </rdgGrp>
   </app>
-  <app corresp="96,113">
+  <app loc="96,113">
     <lem wit="#TNV1937 #TNV1947">kiḻavōṟ kicaittalu</lem>
     <rdgGrp select="#TNVms #TNVcac">
       <rdg type="main"><lb n="31"/>kiḻavōr<sic>k</sic> kicaittalu</rdg>
@@ -3381,7 +3381,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     </rdgGrp>
     <rdg wit="#TNVcpc"><lb n="31"/>kiḻavōṟ<sic>k</sic> kicaittalu</rdg>
   </app>
-  <app corresp="113,119">
+  <app loc="113,119">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">māṟṟāṉ</lem>
     <rdg wit="#TNVmsac">māṟṟāṟāṉ</rdg>
   </app>
@@ -3401,7 +3401,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="17,40">
+  <app loc="17,40">
     <lem wit="#TNVc #TNV1937 #TNV1947">ām āṟuṇarttutaṉutaliṟṟu.</lem>
     <rdg wit="#TNVms">ā<lb n="5"/>ṟuṇarttutaṉutaliṟṟu.</rdg>
   </app>
@@ -3422,29 +3422,29 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
   </desc>
 </interp><listApp>
 
-  <app corresp="40,52">
+  <app loc="40,52">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">iṉṉateṉṟalum</lem>
     <rdg wit="#TNVmsac">iṉṉṉateṉṟalum</rdg>
   </app>
-  <app corresp="52,67">
+  <app loc="52,67">
     <lem wit="#TNVmspc #TNVc #TNV1937">pāṅkaṉ kaḻaṟalun</lem>
     <rdg wit="#TNV1947">pāṅka</rdg>
     <rdg wit="#TNVmsac">pāṅkaṉ kaḻaṟalumn</rdg>
   </app>
-  <app corresp="67,97">
+  <app loc="67,97">
     <lem wit="#TNVmspc #TNVc #TNV1937">talaimakaṉ kaḻaṟṟetir maṟuttalum</lem>
     <rdg wit="#TNV1947"/>
     <rdg wit="#TNVmsac">talaimakaṉmakaḻa<lb n="6"/>ṟṟetir maṟuttalum</rdg>
 
   </app>
-  <app corresp="97,109">
+  <app loc="97,109">
     <lem wit="#TNVmspc #TNVc #TNV1937">pāṅkaṉōtalum</lem>
     <rdg wit="#TNV1947">ṉ nōtalum,</rdg>
     <rdg wit="#TNVmsac">pāṅkaṉōtalalum</rdg>
   </app>
 
 
-  <app corresp="223,231">
+  <app loc="223,231">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">peyarntu</lem>
     <rdgGrp select="#TNVms #TNVcac">
       <rdg type="main">peyarntatu</rdg>
@@ -3468,11 +3468,11 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="49,59">
+  <app loc="49,59">
     <lem wit="#TNVms #TNV1937">ṉuḻaintuko</lem>
     <rdg wit="#TNVc #TNV1947">ṉuḻaintako</rdg>
   </app>
-  <app corresp="68,74">
+  <app loc="68,74">
     <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947">vāṭiya</lem>
     <rdg wit="#TNVmsac #TNVcac">vā<gap reason="illegible" quantity="1" unit="character"/>ṭiya</rdg>
   </app>
@@ -3552,7 +3552,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -3573,7 +3573,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -3593,11 +3593,11 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app corresp="6,16">
+  <app loc="6,16">
     <lem wit="#TNVms #TNVc">talaimakaṉ</lem>
     <rdg wit="#TNV1937 #TNV1947">talaimakaḷ</rdg>
   </app>
@@ -3617,7 +3617,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -3637,7 +3637,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -3657,7 +3657,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -3677,7 +3677,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -3697,15 +3697,15 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app corresp="6,16">
+  <app loc="6,16">
     <lem wit="#TNVms">talaimakaṉ</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">talaimakaḷ</rdg>
   </app>
-  <app corresp="23,29">
+  <app loc="23,29">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uṟaviṉ</lem>
     <rdg wit="#TNVmsac">uṟaviṟaṉ</rdg>
   </app>
@@ -3755,7 +3755,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="21,32">
+  <app loc="21,32">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KT119">kuruḷai kāṉa</lem>
     <rdg wit="#TNVmsac">kuruḷai <gap reason="illegible" quantity="1" unit="character"/>kāṉa</rdg>
   </app>
@@ -3775,16 +3775,16 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,12">
+  <app loc="0,12">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">poruntā tamma</lem>
     <rdg wit="#KKms"><pb n="21" type="folio"/> porun tāmma</rdg>
   </app>
-  <app corresp="22,29">
+  <app loc="22,29">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKedpc">yarivai</lem>
     <rdg wit="#TNVmsac"><unclear>mi</unclear><gap reason="illegible" quantity="1" unit="character"/>yarivai</rdg>
     <rdg wit="#KKms #KKedac">maṭantai</rdg>
   </app>
-  <app corresp="37,48">
+  <app loc="37,48">
     <lem wit="#TNVms #TNVcac">muṟuva ṉōkki</lem>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #KKms  #KKed">
       <rdg type="main">muṟuva ṉōkkiṉ.</rdg>
@@ -3807,15 +3807,15 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,7">
+  <app loc="0,7">
     <lem wit="#TNVms #TNV1937 #TNV1947">kāṇkuvi</lem>
     <rdg wit="#TNVc">kāṇkuvī</rdg>
   </app>
-  <app corresp="12,21">
+  <app loc="12,21">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">kaḻaṟalir</lem>
     <rdg wit="#TNVcac">kaḻaṟalīr</rdg>
   </app>
-  <app corresp="42,51">
+  <app loc="42,51">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vaṉamulai</lem>
     <rdg wit="#TNVmsac">vaṉakamulai</rdg>
   </app>
@@ -3835,7 +3835,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="47,51">
+  <app loc="47,51">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">mātō</lem>
     <rdg wit="#TNVmsac">māta</rdg>
   </app>
@@ -3855,7 +3855,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,34">
+  <app loc="0,34">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">vāḻvati yāvatu kollō vāṉpukaḻc cūḻkaḻa</lem>
     <rdg wit="#KKms #KKedac"><space unit="character" quantity="23"/> <space unit="character" quantity="3"/>ḻa</rdg>
   </app>
@@ -3875,7 +3875,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="75,82">
+  <app loc="75,82">
     <lem wit="#TNVms">rarumai</lem>
     <rdg wit="#TNVcac"><sic>raru</sic>rarumai</rdg>
     <rdgGrp select="#TNVcpc #TNV1937">
@@ -3900,19 +3900,19 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="6,11">
+  <app loc="6,11">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #KKms #KKed">yoḷvī</lem>
     <rdg wit="#TNVcac">yoḷkik</rdg>
   </app>
-  <app corresp="11,20">
+  <app loc="11,20">
     <lem wit="#TNVms #TNVcac #TNV1937 #TNV1947">kāntaḷoṭu</lem>
     <rdg wit="#TNVcpc #KKms #KKed">kāntaḷ</rdg>
   </app>
-  <app corresp="20,27">
+  <app loc="20,27">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">kamaḻum</lem>
     <rdg wit="#KKms">kamaḻu<space unit="character" quantity="1"/></rdg>
   </app>
-  <app corresp="60,84">
+  <app loc="60,84">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">laṇṇal kūṟiya mayilēr cāyal</lem>
     <rdg wit="#KKms">la<space unit="character" quantity="6"/> <space unit="character" quantity="7"/>yal</rdg>
     <rdg wit="#KKedac">la<space unit="character" quantity="6"/></rdg>
@@ -3933,33 +3933,33 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="14,19">
+  <app loc="14,19">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">neñca</lem>
     <rdg wit="#TNVmsac">neṉñca</rdg>
   </app>
-  <app corresp="28,34">
+  <app loc="28,34">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">mātark</lem>
     <rdg wit="#KKms #KKedac">mātar</rdg>
   </app>
-  <app corresp="41,67">
+  <app loc="41,67">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">malarmalarn taṉṉa karuntaṭaṅ</lem>
     <rdg wit="#TNVmsac">malarmalarn taṉa karuntaṭaṅ</rdg>
     <rdg wit="#KKedac">malarn<sic>ta</sic> <space quantity="3" unit="characters"/> [aruntakaik]</rdg>
     <rdg wit="#KKms">malarn ta<space quantity="2" unit="characters"/></rdg>
     <rdg wit="#KKedpc">malarmalarn<sic>ta</sic> taṉṉa karuntaṭaṅ</rdg>
   </app>
-  <app corresp="73,81">
+  <app loc="73,81">
     <lem wit="#TNVms #TNVcac">ṭāṟṟiyap</lem>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #KKms #KKed">
       <rdg type="main">ṭāṟṟiya</rdg>
       <rdg type="minor" wit="#TNVcpc">ṭāṟṟiya,</rdg>
     </rdgGrp>
   </app>
-  <app corresp="91,100">
+  <app loc="91,100">
     <lem wit="#TNVc #TNV1937 #TNV1947 #KKms #KKed">yaṇṇalaik</lem>
     <rdg wit="#TNVms">yaṇṇalai</rdg>
   </app>
-  <app corresp="100,109">
+  <app loc="100,109">
     <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKmspc #KKed">kaḻaṟiṉaṉ</lem>
     <rdg wit="#TNVms #TNVcac">kaḻaṟṟiṉaṉ</rdg>
     <rdg wit="#KKmsac">kaḻaṉṟiṉaṉ</rdg>
@@ -3980,21 +3980,21 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="15,31">
+  <app loc="15,31">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKedpc">vītatai taṇciṉaik</lem>
     <rdg wit="#KKedac">vītatai</rdg>
     <rdg wit="#KKms">vītataik</rdg>
     <rdg wit="#TNVmsac">vitatai taṇciṉaik</rdg>
   </app>
-  <app corresp="47,56">
+  <app loc="47,56">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">kaṭipoḻil</lem>
     <rdg wit="#TNVmsac">kaṭipoḻiv</rdg>
   </app>
-  <app corresp="56,62">
+  <app loc="56,62">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">yāvayi</lem>
     <rdg wit="#KKms">yā<sic>vai</sic>yi</rdg>
   </app>
-  <app corresp="67,85">
+  <app loc="67,85">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed">viḻaivuṟun takaittē</lem>
     <rdg wit="#KKmsac">viḻaivuṟu muttamē</rdg>
   </app>
@@ -4014,7 +4014,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="24,34">
+  <app loc="24,34">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKedpc">ṇakaṟṟaliṉ</lem>
     <rdg wit="#KKms #KKedac">ṭakaṟṟaliṉ</rdg>
     <rdg wit="#TNVmsac">ṇekaṟṟaliṉ</rdg>
@@ -4035,7 +4035,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="34,47">
+  <app loc="34,47">
     <lem wit="#TNVms #TNVcac">cevvāy payanta</lem>
     <rdg wit="#KKms"><space unit="character" quantity="6"/> tiṟantu</rdg>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #KKedac #KKedpc">
@@ -4043,15 +4043,15 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
       <rdg type="minor" wit="#TNVcpc #TNV1937 #TNV1947 #KKedpc">cevvāy tiṟantu</rdg>
     </rdgGrp>
   </app>
-  <app corresp="56,65">
+  <app loc="56,65">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed">kiḷaviyām</lem>
     <rdg wit="#KKmsac">kiḷayām</rdg>
   </app>
-  <app corresp="88,93">
+  <app loc="88,93">
     <lem wit="#TNVc #TNV1937 #TNV1947 #KKms #KKed">yuyir</lem>
     <rdg wit="#TNVms">yupir</rdg>
   </app>
-  <app corresp="93,105">
+  <app loc="93,105">
     <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947 #KKms #KKed">peyarp paritē</lem>
     <rdgGrp select="#TNVmsac #TNVcac">
       <rdg type="main">peyar paritē.</rdg>
@@ -4074,15 +4074,15 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="7,15">
+  <app loc="7,15">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">karuṅkaṭ</lem>
     <rdg wit="#KKms">karukaṭ</rdg>
   </app>
-  <app corresp="15,22">
+  <app loc="15,22">
     <lem wit="#TNVc #TNV1937 #TNV1947 #KKms #KKed">cevvāyp</lem>
     <rdg wit="#TNVms">cevvāy</rdg>
   </app>
-  <app corresp="30,43">
+  <app loc="30,43">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">pūviri curimeṉ</lem>
     <rdg wit="#KKedac">pūviri[n taṉ]ṉa</rdg>
     <rdg wit="#KKms">pūviri<space unit="character" quantity="8"/>ṉ</rdg>
@@ -4103,15 +4103,15 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="10,17">
+  <app loc="10,17">
     <lem wit="#TNVms #TNVc #TNV1947">pirinta</lem>
     <rdg wit="#TNV1937">piranta</rdg>
   </app>
-  <app corresp="59,69">
+  <app loc="59,69">
     <lem wit="#TNVms">karuṅkalat</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">kiruṅkalat</rdg>
   </app>
-  <app corresp="69,77">
+  <app loc="69,77">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">toṉmaṉai</lem>
     <rdg wit="#TNVms #TNVcac">toṇmaṉai</rdg>
   </app>

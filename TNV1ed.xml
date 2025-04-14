@@ -427,7 +427,7 @@ occurrence of these two categories and the liberation which is their end goal, t
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="46,55">
+  <app loc="46,55">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">virintatu</lem>
     <rdg wit="#TNVmsac">virintaṉatu</rdg>
   </app>
@@ -447,7 +447,7 @@ occurrence of these two categories and the liberation which is their end goal, t
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="27,59">
+  <app loc="27,59">
     <lem wit="#TNVc #TNV1937 #TNV1947">ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu.</lem>
     <rdg wit="#TNVms">ilakkaṇa<gap reason="lost" unit="character" quantity="4"/><lb n="2"/>rttutanutaliṟṟu.</rdg>
     
@@ -468,15 +468,15 @@ occurrence of these two categories and the liberation which is their end goal, t
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="37,51">
+  <app loc="37,51">
     <lem wit="#TNVc #TNV1937 #TNV1947">puṟap poruḷum āy</lem>
     <rdg wit="#TNVms">puṟap<gap reason="lost" unit="character" quantity="4"/><lb n="3"/>y</rdg>
   </app>
-  <app corresp="103,113">
+  <app loc="103,113">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vēṟu vakaip</lem>
     <rdg wit="#TNVmsac">vēṟu<gap reason="illegible" unit="character" quantity="2"/> vakaip</rdg>
   </app>
-  <app corresp="142,158">
+  <app loc="142,158">
     <lem wit="#TNVc #TNV1937 #TNV1947">poruḷ ām eṉṟa vāṟu.</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="4"/>ṉṟavāṟu.</rdg>
     
@@ -500,27 +500,27 @@ occurrence of these two categories and the liberation which is their end goal, t
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="81,95">
+  <app loc="81,95">
     <lem wit="#TNVc #TNV1937 #TNV1947">kāmam akap poruḷ</lem>
     <rdg wit="#TNVms">kāma<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>ruḷ</rdg>
   </app>
-  <app corresp="178,188">
+  <app loc="178,188">
     <lem wit="#TNVc #TNV1937 #TNV1947">puṟap poruḷ</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="6"/>ruḷ</rdg>
   </app>
-  <app corresp="188,195">
+  <app loc="188,195">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">eṉpatu.<anchor xml:id="enpatu"/></lem>
     <rdg wit="#TNVms #TNVcac">eṉappaṭṭatu.</rdg>
   </app>
-  <app corresp="211,216">
+  <app loc="211,216">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puṟam</lem>
     <rdg wit="#TNVmsac">puṟaṅm</rdg>
   </app>
-  <app corresp="259,264">
+  <app loc="259,264">
     <lem wit="#TNVc #TNV1937 #TNV1947">vīṭum</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="1"/>īṭum</rdg>
   </app>
-  <app corresp="267,288">
+  <app loc="267,288">
     <lem wit="#TNVc #TNV1937 #TNV1947">vakai nikaḻcciyunōkkik</lem>
     <rdg wit="#TNVms">va<gap reason="lost" unit="character" quantity="4"/><lb n="7"/>ciyunōkkik</rdg>
   </app>

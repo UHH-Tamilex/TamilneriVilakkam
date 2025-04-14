@@ -739,15 +739,15 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,7">
+  <app loc="0,7">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tiṉaiyē</lem>
     <rdg wit="#TNVmsac"><pb n="3r" facs="6" type="folio"/><lb n="1"/>tiṇaiyē</rdg>
   </app>
-  <app corresp="29,36">
+  <app loc="29,36">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vilaikō</lem>
     <rdg wit="#TNVmsac"><unclear>ka</unclear>vilaikō</rdg>
   </app>
-  <app corresp="36,45">
+  <app loc="36,45">
     <lem wit="#TNVms">ḷaṉaiyaṉa</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">ḷiṉaiyaṉa</rdg>
   </app>
@@ -782,11 +782,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,8">
+  <app loc="0,8">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tiṉaiyun</lem>
     <rdg wit="#TNVmsac">tiṇaiyun</rdg>
   </app>
-  <app corresp="52,61">
+  <app loc="52,61">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cen nellum</lem>
     <rdg wit="#TNVmsac">ñ cennellum</rdg>
   </app>
@@ -806,11 +806,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,8">
+  <app loc="0,8">
     <lem wit="#TNV1937 #TNV1947">iṉaiyaṉa</lem>
     <rdg wit="#TNVms #TNVc">iṉaiya</rdg>
   </app>
-  <app corresp="94,99">
+  <app loc="94,99">
     <lem wit="#TNVms #TNVc">uvari</lem>
     <rdg wit="#TNV1937 #TNV1947">uvar</rdg>
   </app>

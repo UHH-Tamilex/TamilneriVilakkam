@@ -345,7 +345,7 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="20,34">
+  <app loc="20,34">
     <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
       <lem>yeyiṉa roṟkamil</lem>
       <rdg type="minor" wit="#TNVc">yeyiṉar <lb xmlns="http://www.tei-c.org/ns/1.0" n="27"/>oṟkamil</rdg>
@@ -354,15 +354,15 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
     <rdg wit="#TNVmsac">yeyiṉata <sic xmlns="http://www.tei-c.org/ns/1.0">ro</sic>ṟkamil</rdg>
     <rdg wit="#TNVmspc">yeyiṉa <sic xmlns="http://www.tei-c.org/ns/1.0">rā</sic>ṟkamil</rdg>
   </app>
-  <app corresp="34,44">
+  <app loc="34,44">
     <lem wit="#TNVc #TNV1937 #TNV1947">kuṟumpoṟai</lem>
     <rdg wit="#TNVms">kuṟum<gap xmlns="http://www.tei-c.org/ns/1.0" reason="lost" unit="character" quantity="1"/>oṟai</rdg>
   </app>
-  <app corresp="69,76">
+  <app loc="69,76">
     <lem wit="#TNVc #TNV1937 #TNV1947">cērppaṉ</lem>
     <rdg wit="#TNVms">cēr<sic xmlns="http://www.tei-c.org/ns/1.0">p</sic>aṉ</rdg>
   </app>
-  <app corresp="76,84">
+  <app loc="76,84">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">paratava</lem>
     <rdg wit="#TNVmsac">paratavaṉ</rdg>
   </app>
@@ -954,7 +954,7 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="126,135">
+  <app loc="126,135">
     <rdgGrp type="lemma" select="#TNV1937 #TNV1947">
       <lem>eṉṟa vāṟu.</lem>
       <rdg type="minor" wit="#TNV1937 #TNV1947">eṉṟavāṟu.</rdg>
@@ -977,32 +977,32 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="24,32">
+  <app loc="24,32">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">malaiyaṉ</lem>
     <rdg wit="#TNVmsac">melaiyaṉ</rdg>
   </app>
-  <app corresp="32,40">
+  <app loc="32,40">
     <lem wit="#TNVc #TNV1937 #TNV1947">cilampaṉ</lem>
     <rdg wit="#TNVmsac">cil<sic>ai</sic>m<unclear><gap reason="illegible" unit="character" quantity="1"/></unclear>paṉ</rdg>
     <rdg wit="#TNVmspc">cil<sic>ai</sic>mpaṉ</rdg>
   </app>
-  <app corresp="80,87">
+  <app loc="80,87">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">viṭalai</lem>
     <rdg wit="#TNVmsac">viṭa<gap reason="illegible" unit="character" quantity="1"/>lai</rdg>
   </app>
-  <app corresp="183,190">
+  <app loc="183,190">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">maṉaivi</lem>
     <rdg wit="#TNVmsac">maṉaivik</rdg>
   </app>
-  <app corresp="214,228">
+  <app loc="214,228">
     <lem wit="#TNVms #TNVcpc">koṇkaṉ ṟuṟaivaṉ</lem>
     <rdg wit="#TNVcac">koṇkaṉ <gap reason="illegible" quantity="1" unit="character"/>ṟaivaṉ<sic>.</sic></rdg>
   </app>
-  <app corresp="228,235">
+  <app loc="228,235">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ṟuṟaivi</lem>
     <rdg wit="#TNVmsac">ṟai<unclear>vi</unclear>vi</rdg>
   </app>
-  <app corresp="261,267">
+  <app loc="261,267">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">eṉavum</lem>
     <rdg wit="#TNVmsac">eṉa</rdg>
   </app>

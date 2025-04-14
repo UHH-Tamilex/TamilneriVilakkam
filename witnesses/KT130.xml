@@ -241,24 +241,24 @@
 </standOff>
 <standOff corresp="#KT130" type="apparatus"><listApp>
 <app><note xml:lang="en">FF</note></app>
-<app corresp="11,17">
+<app loc="11,17">
         <lem wit="#C2 #C3 #C5 #G1 #G2 #EA #Cam">pukāar</lem>
         <rdg wit="#L1 #C1">pukār</rdg>
         </app>
-<app corresp="26,46">
+<app loc="26,46">
         <lem wit="#C2 #C3 #C5 #G2 #Cam">vilaṅkiru munnīr kāliṟ</lem>
         <rdg wit="#L1 #C1 #EA">vilaṅkiru muṉṉīr kāliṟ</rdg>
 <rdg wit="#G1 #CamvFF">piṟaṅkiru munnī rāviṟ</rdg>
         </app>
-<app corresp="62,66">
+<app loc="62,66">
         <lem wit="#L1 #C1 #C2 #C5 #G1 #G2 #EA #Cam">ṉūri</lem>
         <rdg wit="#C3"><note xml:lang="en">[om.]</note></rdg>
         </app>
-<app corresp="89,94">
+<app loc="89,94">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #G2 #KKv #EA #Cam">tēriṟ</lem>
         <rdg wit="#TV #KKFF">teriyiṟ</rdg>
         </app>
-<app corresp="102,111">
+<app loc="102,111">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1v #G2 #EA #Cam">muḷarōnaṅ</lem>
         <rdg wit="#G1">muḷarōṅ</rdg>
         </app>

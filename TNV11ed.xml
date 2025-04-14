@@ -774,18 +774,18 @@ and others mentioned [elsewhere are] mentioned as music.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="22,30">
+  <app loc="22,30">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">pañcuram</lem>
     <rdg wit="#TNVms #TNVcac">paiñcuram <note place="foot">This maybe also be a dialectical variation, but I have found no other instances of its occurrence or of a similar phonetic variant in this text (a-&gt;ai), so I print the standard reading of the word.</note></rdg>
   </app>
-  <app corresp="30,39">
+  <app loc="30,39">
     <lem wit="#TNVms">perukicai</lem>
     <rdgGrp select="#TNVc #TNV1937 #TNV1947">
       <rdg type="main">perukiya</rdg>
       <rdg type="minor" wit="#TNVc"><lb n="27"/>perukiya</rdg>
     </rdgGrp>
   </app>
-  <app corresp="39,44">
+  <app loc="39,44">
     <lem wit="#TNVms #TNVcac">yēṟaṅ</lem>
     <rdg wit="#TNVcpc #TNV1937 #TNV1947">vēṟaṅ</rdg>
   </app>
@@ -820,18 +820,18 @@ and others mentioned [elsewhere are] mentioned as music.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="13,21">
+  <app loc="13,21">
     <lem wit="#TNVms #TNV1937 #TNV1947">kuṟuñcip</lem>
     <rdg wit="#TNVc">kuṟuñ<sic>u</sic>cip</rdg>
   </app>
-  <app corresp="42,51">
+  <app loc="42,51">
     <lem wit="#TNVms #TNVcac">paṇṇuṅ kōṭ</lem>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947">
       <rdg type="main">paṇṇum; ēṟaṅkōṭ</rdg>
       <rdg type="minor" wit="#TNVcpc">paṇṇum ēṟaṅkōṭ<lb n="32"/></rdg>
     </rdgGrp>
   </app>
-  <app corresp="76,88">
+  <app loc="76,88">
     <lem wit="#TNVms #TNVc #TNV1937">kiṇaiyumutaṟ</lem>
     <rdg wit="#TNV1947">kiṇai mutaṟ</rdg>
   </app>
@@ -852,7 +852,7 @@ and others mentioned [elsewhere are] mentioned as music.</p>
   </desc>
 </interp><listApp>
  
-  <app corresp="89,95">
+  <app loc="89,95">
     <lem wit="#TNV1937 #TNV1947">koḷka.</lem>
     <rdg wit="#TNVc">koḷka. e-ṟu.</rdg>
     <rdg wit="#TNVms">koḷka veṉṟavāṟu.</rdg>

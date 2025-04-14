@@ -225,20 +225,20 @@
 </entry>
 </standOff>
 <standOff corresp="#KT1" type="apparatus"><listApp>
-<app corresp="35,41">
+<app loc="35,41">
         <lem wit="#C2 #C3v #Cam">lampiṟ</lem>
         <rdg wit="#L1 #C1 #C3 #G1 #G2 #Nam #EA">lampiṉ</rdg>
         </app>
-<app corresp="41,47">
+<app loc="41,47">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">ceṅkōṭ</lem>
         <rdg wit="#PP">ceṅkō</rdg>
 <rdg wit="#AA">veṇkōṭ</rdg>
         </app>
-<app corresp="55,64">
+<app loc="55,64">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">kaḻaṟoṭic</lem>
         <rdg wit="#Camv">kaḻaṟoṭīi</rdg>
         </app>
-<app corresp="64,68">
+<app loc="64,68">
         <lem wit="#C1 #C2 #C3 #G1v #G2 #Ilv #EA #Cam">cēey</lem>
         <rdg wit="#G1">cēeyk</rdg>
 <rdg wit="#L1">cēe</rdg>

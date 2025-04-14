@@ -291,7 +291,7 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="27,48">
+  <app loc="27,48">
     <lem wit="#TNVc">āṟuṇarttutaṉutaliṟṟu.</lem>
     
     <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu.</rdg>
@@ -314,23 +314,23 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="28,51">
+  <app loc="28,51">
     <lem wit="#TNVc #TNV1937 #TNV1947">ciṟu tūṟuṭaip puṟavumalar</lem>
     <rdg wit="#TNVms">ciṟutūṟ u<gap reason="lost" unit="character" quantity="4"/><lb n="4"/><gap reason="lost" unit="character" quantity="1"/>vumalar</rdg>
   </app>
-  <app corresp="59,68">
+  <app loc="59,68">
     <lem wit="#TNVms #TNVcac">paḻaṉamuñ</lem>
     <rdg wit="#TNVcpc #TNV1937 #TNV1947">paḻaṉañ</rdg>
   </app>
-  <app corresp="81,89">
+  <app loc="81,89">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kaṭaloṭu</lem>
     <rdg wit="#TNVmsac">kaṭalo<gap reason="illegible" unit="character" quantity="1"/>ṭu</rdg>
   </app>
-  <app corresp="127,145">
+  <app loc="127,145">
     <lem wit="#TNVc #TNV1937 #TNV1947">mullai marutaneytal</lem>
     <rdg wit="#TNVms">mu<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>rutaneytal</rdg>
   </app>
-  <app corresp="152,173">
+  <app loc="152,173">
     <lem wit="#TNVms #TNVc">perun tiṇaiyunilamutal</lem>
     <rdg wit="#TNV1937 #TNV1947">peruntiṇaiyiṉ nilamutal</rdg>
   </app>
@@ -350,7 +350,7 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="23,40">
+  <app loc="23,40">
     <lem wit="#TNVc #TNV1937 #TNV1947">paḻaṉam parappamai</lem>
     <rdg wit="#TNVms">paḻa<gap reason="lost" unit="character" quantity="4"/><lb n="3"/> pamai</rdg>
   </app>

@@ -4891,35 +4891,35 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="14,22">
+  <app loc="14,22">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">māṇpiyal</lem>
     <rdg wit="#TNVms #TNVcac">māṇviyal</rdg>
   </app>
-  <app corresp="98,105">
+  <app loc="98,105">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kaṭṭuvi</lem>
     <rdg wit="#TNVmsac">kaṭṭuñvi</rdg>
   </app>
-  <app corresp="170,177">
+  <app loc="170,177">
     <lem wit="#TNVms">poṉṟuta</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">poṉṟat</rdg>
   </app>
-  <app corresp="177,186">
+  <app loc="177,186">
     <lem wit="#TNVms">ṟuṇitaluṅ</lem>
     <rdgGrp select="#TNVc #TNV1937 #TNV1947">
       <rdg type="main">tuṇitalum</rdg>
       <rdg type="minor" wit="#TNVc">tuṇitaluṅ</rdg>
     </rdgGrp>
   </app>
-  <app corresp="186,192">
+  <app loc="186,192">
     <lem wit="#TNVms #TNVc">kaiyeṉ</lem>
     <rdg wit="#TNV1937 #TNV1947">kaiyaṉ</rdg>
   </app>
-  <app corresp="313,327">
+  <app loc="313,327">
     <lem wit="#TNVc #TNV1937">kiḷanta tamvayi</lem>
     <rdg wit="#TNVms">ki<sic>ḷain tamvayi</sic></rdg>
     <rdg wit="#TNV1947">kiḷanta tamarvayi</rdg>
   </app>
-  <app corresp="342,350">
+  <app loc="342,350">
     <lem wit="#TNVc #TNV1937 #TNV1947">miḷaiyōṟ</lem>
     <rdg wit="#TNVms">miḷaiyōṟk</rdg>
   </app>
@@ -4940,11 +4940,11 @@
   </desc>
 </interp><listApp>
   
-  <app corresp="14,19">
+  <app loc="14,19">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">nilai</lem>
     <rdg wit="#TNVmsac">nilai<lb n="8"/><gap reason="illegible" unit="character" quantity="2"/></rdg>
   </app>
-  <app corresp="22,43">
+  <app loc="22,43">
     <lem wit="#TNVc #TNV1937 #TNV1947">āṟuṇarttutaṉutaliṟṟu.</lem>
     <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu.</rdg>
   </app>
@@ -4964,16 +4964,16 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,10">
+  <app loc="0,10">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kaṟpiṉōṭuṅ</lem>
     <rdg wit="#TNVmsac">kaṟpiṉō<unclear>ṭu</unclear>ṭuṅ</rdg>
   </app>
-  <app corresp="10,30">
+  <app loc="10,30">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kāvalōṭunalattiṉōṭuṅ</lem>
     <rdg wit="#TNVmsac">kāvalōṭunalattiṉēṭuṅ</rdg>
   </app>
  
-  <app corresp="85,99">
+  <app loc="85,99">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">aṟattoṭu niṟṟaṉ</lem>
     <rdg wit="#TNVmsac">aṟatto<gap reason="illegible" unit="character" quantity="1"/>ṭuniṟṟaṉ</rdg>
   </app>
@@ -4994,7 +4994,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5015,11 +5015,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app corresp="24,34">
+  <app loc="24,34">
     <lem wit="#TNVms #TNVc">makaṭkōlañ</lem>
     <rdg wit="#TNV1937 #TNV1947">nāṭkōlañ</rdg>
   </app>
@@ -5039,12 +5039,12 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
  
-  <app corresp="44,57">
+  <app loc="44,57">
     <lem wit="#TNVms #TNVc">eytutaṟkariya</lem>
     <rdg wit="#TNV1937 #TNV1947">eytutaṟkuriya</rdg>
   </app>
@@ -5065,11 +5065,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app corresp="16,24">
+  <app loc="16,24">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vēṟupāṭu</lem>
     <rdg wit="#TNVmsac">vē<gap reason="illegible" unit="character" quantity="1"/>ṟupāṭu</rdg>
   </app>
@@ -5089,7 +5089,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5109,7 +5109,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5129,7 +5129,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5149,11 +5149,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app corresp="29,39">
+  <app loc="29,39">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">maṟuttatu.</lem>
     <rdg wit="#TNVmsac">maṟṟuttatu.</rdg>
   </app>
@@ -5173,7 +5173,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5193,7 +5193,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5213,11 +5213,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app corresp="6,15">
+  <app loc="6,15">
     <lem wit="#TNVms #TNVc">veṭṭiṉ kaṇ</lem>
     <rdg wit="#TNV1937 #TNV1947">veṟiyāṭṭiṉkaṇ</rdg>
   </app>
@@ -5237,7 +5237,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem>eṉpatu</lem>
     <rdg wit="#TNVms"/>
   </app>
@@ -5257,7 +5257,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5277,15 +5277,15 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="28,34">
+  <app loc="28,34">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed #TKn #YV1960a #YV1960b">taṉaḷē</lem>
     <rdg wit="#KKmsac">taṉaḷē <pb n="127" type="folio"/><space unit="character" quantity="7"/>ḷ</rdg>
   </app>
-  <app corresp="41,47">
+  <app loc="41,47">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed #TKn #YV1960a #YV1960b">ṉoḷvēṟ</lem>
     <rdg wit="#KKms">ṉoṇvēṟ</rdg>
   </app>
-  <app corresp="52,60">
+  <app loc="52,60">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc #TKn #YV1960a">mulaiyum</lem>
     <rdg wit="#KKms">mulaiyiṉa</rdg>
     <rdgGrp select="#KKedac #YV1960b">
@@ -5293,7 +5293,7 @@
       <rdg type="minor" wit="#YV1960b">mulaiyiṉam</rdg>
     </rdgGrp>
   </app>
-  <app corresp="60,65">
+  <app loc="60,65">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #YV1960a #YV1960b">vārāṇ</lem>
     <rdg wit="#KKms">vāra</rdg>
     <rdg wit="#KKed #TKn">vārā</rdg>
@@ -5329,7 +5329,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5350,7 +5350,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdgGrp select="#TNVms #TNVc">
       <rdg type="main"/>
@@ -5376,7 +5376,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5396,11 +5396,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app corresp="35,48">
+  <app loc="35,48">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">yāṟṟuvittatu.</lem>
     <rdg wit="#TNVmsac">yā<gap reason="illegible" unit="character" quantity="1"/>ṟṟuvittatu.</rdg>
   </app>
@@ -5420,15 +5420,15 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app corresp="6,12">
+  <app loc="6,12">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">naṟṟāy</lem>
     <rdg wit="#TNVmsac">naṟṟāṟay</rdg>
   </app>
-  <app corresp="12,27">
+  <app loc="12,27">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tamarkkaṟattoṭu</lem>
     <rdg wit="#TNVmsac">matamarkkaṟattoṭu</rdg>
   </app>
@@ -5448,7 +5448,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
@@ -5468,11 +5468,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="18,25">
+  <app loc="18,25">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">ṉāḻkaya</lem>
     <rdg wit="#KKms">rāḻkaya</rdg>
   </app>
-  <app corresp="25,32">
+  <app loc="25,32">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">maruṅki</lem>
     <rdg wit="#TNVmsac">maruṅkiki</rdg>
   </app>
@@ -5492,7 +5492,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="60,69">
+  <app loc="60,69">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tirunalam</lem>
     <rdg wit="#TNVmsac">tirunanalam</rdg>
   </app>
@@ -5512,23 +5512,23 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="17,25">
+  <app loc="17,25">
     <lem wit="#TNVms #TNVc">māṇkuḻai</lem>
     <rdg wit="#TNV1937 #TNV1947">māṉkuḻai</rdg>
   </app>
-  <app corresp="39,46">
+  <app loc="39,46">
     <lem wit="#TNVms #TNVcac">muṭiyāl</lem>
     <rdg wit="#TNVcpc #TNV1937 #TNV1947">muṭiyāp</rdg>
   </app>
-  <app corresp="56,62">
+  <app loc="56,62">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">peṟuka</lem>
     <rdg wit="#TNVmsac">peṟukaka</rdg>
   </app>
-  <app corresp="62,68">
+  <app loc="62,68">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">niṉṉai</lem>
     <rdg wit="#TNVmsac"><unclear>ri</unclear><lb n="6"/>ṉṉai</rdg>
   </app>
-  <app corresp="74,82">
+  <app loc="74,82">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">naṟunuta</lem>
     <rdg wit="#TNVmsac">naṟutunuta</rdg>
   </app>
@@ -5548,42 +5548,42 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="11,19">
+  <app loc="11,19">
     <lem wit="#TNV1937 #TNV1947 #KKed">ṭiṉaiyal</lem>
     <rdg wit="#KKms">ṭiyal</rdg>
     <rdg wit="#TNVms #TNVc">ṭiṉaiyaṉ</rdg>
   </app>
-  <app corresp="23,30">
+  <app loc="23,30">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">maitapu</lem>
     <rdg wit="#KKms #KKed">yem maitapu</rdg>
   </app>
-  <app corresp="30,38">
+  <app loc="30,38">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKed">kaḻaṅkiṟ</lem>
     <rdg wit="#KKms">kaḻaṟaṅkiṟ</rdg>
     <rdg wit="#TNVmsac">kaḻa<unclear>ṅku</unclear>ṅkiṟ</rdg>
   </app>
-  <app corresp="51,58">
+  <app loc="51,58">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">yatutāṉ</lem>
     <rdg wit="#KKms #KKed"/>
   </app>
-  <app corresp="72,82">
+  <app loc="72,82">
     <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKedpc">vayaṅkuyir</lem>
     <rdg wit="#KKms #KKedac"/>
     <rdg wit="#TNVms">vayaṅkiyiṉ</rdg>
     <rdg wit="#TNVcac">vayaṅki<lb n="27"/>yir</rdg>
   </app>
-  <app corresp="82,91">
+  <app loc="82,91">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKedpc">mayaṅkiya</lem>
     <rdg wit="#KKedac">mayaṅki y[ai]</rdg>
   </app>
-  <app corresp="91,102">
+  <app loc="91,102">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">teyva vāṇuru</lem>
     <rdgGrp select="#KKms #KKedac">
       <rdg type="main">te ṉuru...</rdg>
       <rdg type="minor" wit="#KKms">teṉuru</rdg>
     </rdgGrp>
   </app>
-  <app corresp="108,114">
+  <app loc="108,114">
     <lem wit="#TNVc #TNV1937 #TNV1947 #KKms #KKed">ṟeḷivē</lem>
     <rdg wit="#TNVms">ṟeḷiyē.</rdg>
   </app>
@@ -5603,28 +5603,28 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,5">
+  <app loc="0,5">
     <lem wit="#TNVms">aṟivā</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">aṟiyā</rdg>
   </app>
-  <app corresp="20,27">
+  <app loc="20,27">
     <lem wit="#TNVms #TNVc">nuṭaṅku</lem>
     <rdg wit="#TNV1937 #TNV1947">toṭaṅku</rdg>
   </app>
-  <app corresp="27,33">
+  <app loc="27,33">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">mevaṉā</lem>
     <rdg wit="#TNVmsac">mevaṉō</rdg>
   </app>
-  <app corresp="39,44">
+  <app loc="39,44">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">neñcē</lem>
     <rdg wit="#TNVmsac">neñcē<gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
-  <app corresp="68,72">
+  <app loc="68,72">
     <lem wit="#TNVc #TNV1937 #TNV1947">nāṇu</lem>
     <rdg wit="#TNVmsac"><sic>ṉā</sic>ṉuṇu</rdg>
     <rdg wit="#TNVmspc"><sic>ṉā</sic>ṇu</rdg>
   </app>
-  <app corresp="85,92">
+  <app loc="85,92">
     <lem wit="#TNVms #TNVc #TNV1937">milluḻi</lem>
     <rdg wit="#TNV1947">mivvuḻi</rdg>
   </app>
@@ -5644,15 +5644,15 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,4">
+  <app loc="0,4">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vīyā</lem>
     <rdg wit="#TNVmsac"><gap reason="illegible" unit="character" quantity="1"/>vīyā</rdg>
   </app>
-  <app corresp="4,10">
+  <app loc="4,10">
     <lem wit="#TNVc #TNV1937 #TNV1947">marapi</lem>
     <rdg wit="#TNVms">mara<sic>yi</sic></rdg>
   </app>
-  <app corresp="10,18">
+  <app loc="10,18">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ṉorutiṟa</lem>
     <rdg wit="#TNVmsac">ṉā</rdg>
   </app>
@@ -5672,7 +5672,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="37,47">
+  <app loc="37,47">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">maṭantaini</lem>
     <rdg wit="#TNVmsac">maṭantaini<gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
@@ -5692,15 +5692,15 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="6,14">
+  <app loc="6,14">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">kimmaṟai</lem>
     <rdg wit="#TNVms #TNVcac">kimmuṟai</rdg>
   </app>
-  <app corresp="14,22">
+  <app loc="14,22">
     <lem wit="#TNVc #TNV1937 #TNV1947">yuṇartti</lem>
     <rdg wit="#TNVms">yuṇa<lb n="6"/>tti</rdg>
   </app>
-  <app corresp="73,80">
+  <app loc="73,80">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">viṭukēṉ</lem>
     <rdg wit="#TNVmsac">viṭukē<unclear>ṭu</unclear><sic>ṉi</sic></rdg>
     <rdgGrp select="#TNVmspc #TNVcac">
@@ -5708,7 +5708,7 @@
       <rdg type="minor" wit="#TNVmspc">viṭukē<sic>ṉi</sic></rdg>
     </rdgGrp>
   </app>
-  <app corresp="98,102">
+  <app loc="98,102">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">yāṉē</lem>
     <rdg wit="#TNVcac">yāḷē.</rdg>
   </app>
@@ -5728,7 +5728,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="31,40">
+  <app loc="31,40">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">voḻukkamu</lem>
     <rdg wit="#TNVmsac">voḻukkkamu</rdg>
   </app>
@@ -5748,23 +5748,23 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="13,24">
+  <app loc="13,24">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">yavarmalaip</lem>
     <rdg wit="#TNVmsac">ya<unclear>ṇa</unclear><pb n="17r" facs="34" type="folio"/><lb n="1"/>varmalaip</rdg>
   </app>
-  <app corresp="30,39">
+  <app loc="30,39">
     <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947">poḻilakan</lem>
     <rdg wit="#TNVcac">po<lb n="13"/>ḻilakat</rdg>
     <rdg wit="#TNVmsac">poḻileekan</rdg>
   </app>
-  <app corresp="39,46">
+  <app loc="39,46">
     <lem wit="#TNVms #TNVcac">tuḻaiik</lem>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947">
       <rdg type="main">tuḻaiiya</rdg>
       <rdg type="minor" wit="#TNVcpc">tuḻaiiya ,</rdg>
     </rdgGrp>
   </app>
-  <app corresp="46,51">
+  <app loc="46,51">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">kāṟṟē</lem>
     <rdg wit="#TNVcac">kāṟṟa</rdg>
   </app>
@@ -5784,25 +5784,25 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="6,17">
+  <app loc="6,17">
     <lem wit="#TNVc #KKms #KKedac">cāyali vaṇōy</lem>
     <rdg wit="#TNV1937 #TNV1947 #KKedpc">cāyaliva ḷuṇṇōy</rdg>
     <rdg wit="#TNVms"><lb n="2"/>cāyali<sic> vaṉōy</sic></rdg>
   </app>
-  <app corresp="23,31">
+  <app loc="23,31">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">veṇṇiṉai</lem>
     <rdg wit="#KKms #KKed">veṇṇiṉa</rdg>
   </app>
-  <app corresp="31,47">
+  <app loc="31,47">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">koṭutti yāyi ṉaṇṇa</lem>
     <rdg wit="#KKms #KKed">rāyiṉ maṉṉō vaṇṇa</rdg>
     <rdg wit="#TNVmsac">koṭutti yāyi ṉaṇṇa<unclear>ṇa</unclear></rdg>
   </app>
-  <app corresp="53,60">
+  <app loc="53,60">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #KKms #KKed">muṇṇumō</lem>
     <rdg wit="#TNVcac">ṇṇumō</rdg>
   </app>
-  <app corresp="60,66">
+  <app loc="60,66">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKed">paliyē</lem>
     <rdg wit="#KKmsac">yaliyē</rdg>
     <rdg wit="#KKmspc"><unclear>pu</unclear>liyē</rdg>
@@ -5823,19 +5823,19 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="5,9">
+  <app loc="5,9">
     <lem wit="#TNVms">vāḻi</lem>
     <rdg wit="#KKms #KKed">vāḻiya</rdg>
   </app>
-  <app corresp="35,43">
+  <app loc="35,43">
     <lem wit="#TNVms">yuraittu</lem>
     <rdg wit="#KKms #KKed">yuṇarntu</rdg>
   </app>
-  <app corresp="43,51">
+  <app loc="43,51">
     <lem wit="#TNVms">mātarnōy</lem>
     <rdg wit="#KKms #KKed">vārānōy</rdg>
   </app>
-  <app corresp="51,58">
+  <app loc="51,58">
     <lem wit="#TNVms">taṇippa</lem>
     <rdg wit="#KKms #KKed">taṇiya</rdg>
   </app>
@@ -5855,7 +5855,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="33,41">
+  <app loc="33,41">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKedpc">toḷitika</lem>
     <rdgGrp select="#KKms #KKedac">
       <rdg type="main">ta ḷaḷiya</rdg>
@@ -5863,16 +5863,16 @@
     </rdgGrp>
     <rdg wit="#TNVmsac">teḷitika</rdg>
   </app>
-  <app corresp="41,54">
+  <app loc="41,54">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">ḻoruva ṉīṭṭiya</lem>
     <rdg wit="#KKms #KKedac">ṉoruvaṉ</rdg>
   </app>
  
-  <app corresp="69,76">
+  <app loc="69,76">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">tāṅkiṉa</lem>
     <rdg wit="#KKms #KKedac">mulaiyum</rdg>
   </app>
-  <app corresp="76,83">
+  <app loc="76,83">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">ḷuvantē</lem>
     <rdg wit="#KKms #KKedac">vārāḷ mutukkuṟain taṉaḷē.</rdg>
   </app>
@@ -5892,7 +5892,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="36,45">
+  <app loc="36,45">
     <lem wit="#TNVmspc #TNVc #TNV1937">ṉaṉeṭutta</lem>
     <rdg wit="#TNV1947">ṉeṭutta</rdg>
     <rdg wit="#TNVmsac">ṉaṉeḻaṭutta</rdg>
@@ -5913,11 +5913,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="15,23">
+  <app loc="15,23">
     <lem wit="#TNVc #TNV1937 #TNV1947">kiḷaiyum</lem>
     <rdg wit="#TNVms">kiḷa<lb n="8"/>yum</rdg>
   </app>
-  <app corresp="23,33">
+  <app loc="23,33">
     <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947">vaḷaipayil</lem>
     <rdg wit="#TNVcac">vaḷai</rdg>
     <rdg wit="#TNVmsac"><unclear>ṟu</unclear>ḷaipayil</rdg>
@@ -5938,15 +5938,15 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="7,16">
+  <app loc="7,16">
     <lem wit="#TNVms #TNVc">cintaiyaḷ</lem>
     <rdg wit="#TNV1937 #TNV1947">cintaiyaṉ</rdg>
   </app>
-  <app corresp="21,28">
+  <app loc="21,28">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">namvayi</lem>
     <rdg wit="#TNVcac">tamvayi</rdg>
   </app>
-  <app corresp="52,61">
+  <app loc="52,61">
     <lem wit="#TNVms #TNVc">vaṇitikaḻ</lem>
     <rdg wit="#TNV1937 #TNV1947">aḷitikaḻ</rdg>
   </app>
@@ -5981,24 +5981,24 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,8">
+  <app loc="0,8">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed">kalantāṅ</lem>
     <rdg wit="#KKmsac">kalantā</rdg>
   </app>
-  <app corresp="8,18">
+  <app loc="8,18">
     <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKmspc #KKed">kiḷamulaik</lem>
     <rdg wit="#KKmsac">keḷamulaik</rdg>
     <rdg wit="#TNVms #TNVcac">kiḷamulai</rdg>
   </app>
-  <app corresp="26,38">
+  <app loc="26,38">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">maṭantaiyaik</lem>
     <rdg wit="#TNVmsac">maṭantai<gap reason="illegible" unit="character" quantity="1"/>yaik</rdg>
   </app>
-  <app corresp="57,64">
+  <app loc="57,64">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed">nalañcā</lem>
     <rdg wit="#KKmsac">nalañcāṉṟa</rdg>
   </app>
-  <app corresp="79,86">
+  <app loc="79,86">
     <lem wit="#TNVms #TNVcac">kaṭaiyē</lem>
     <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #KKms #KKed">
       <rdg type="main">naṭaiyē.</rdg>
@@ -6021,12 +6021,12 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,6">
+  <app loc="0,6">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKmspc">vāṉṟōy</lem>
     <rdg wit="#KKmsac">vāṉṟō</rdg>
     <rdg wit="#TNVmsac">vavāṉṟōy</rdg>
   </app>
-  <app corresp="19,27">
+  <app loc="19,27">
     <lem wit="#TNVmspc #KKms">mivvaḻic</lem>
     <rdgGrp select="#TNVc #TNV1937 #TNV1947">
       <rdg type="main">mavvaḻic</rdg>
@@ -6034,15 +6034,15 @@
     </rdgGrp>
     <rdg wit="#TNVmsac"><sic>ve</sic>v<lb n="5"/>vaḻic</rdg>
   </app>
-  <app corresp="27,32">
+  <app loc="27,32">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">cāṉṟī</lem>
     <rdg wit="#KKms">cāṉṟōr</rdg>
   </app>
-  <app corresp="32,38">
+  <app loc="32,38">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">rumatu</lem>
     <rdg wit="#KKms">tamatu</rdg>
   </app>
-  <app corresp="49,57">
+  <app loc="49,57">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms">nērntaṉa</lem>
     <rdg wit="#TNVmsac">nērkataṉa</rdg>
   </app>

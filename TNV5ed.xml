@@ -267,15 +267,15 @@ antiyum ēṟpāṭu<anchor xml:id="erpatu"/> muṟaiyāṉē ain tiṇaikkum ci
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="8,18">
+  <app loc="8,18">
     <lem wit="#TNVc #TNV1937 #TNV1947">yucci mālai</lem>
     <rdg wit="#TNVms"/>
   </app>
-  <app corresp="35,40">
+  <app loc="35,40">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">yanti</lem>
     <rdg wit="#TNVmsac">yanti yu</rdg>
   </app>
-  <app corresp="49,55">
+  <app loc="49,55">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">poḻutē</lem>
     <rdg wit="#TNVmsac">po<gap reason="illegible" unit="character" quantity="1"/>ḻutē.</rdg>
   </app>
@@ -614,7 +614,7 @@ antiyum ēṟpāṭu<anchor xml:id="erpatu"/> muṟaiyāṉē ain tiṇaikkum ci
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="20,41">
+  <app loc="20,41">
     <lem wit="#TNVc #TNV1937 #TNV1947">āṟuṇarttutaṉutaliṟṟu.</lem>
     
     <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu.</rdg>
@@ -650,7 +650,7 @@ with a subsequent <term xml:lang="ta"><hi rend="italic">-ē</hi></term> particle
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="16,23">
+  <app loc="16,23">
     <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
       <lem>yāmamuṅ</lem>
       <rdg type="minor" wit="#TNV1947">yāmmum,</rdg>
@@ -658,7 +658,7 @@ with a subsequent <term xml:lang="ta"><hi rend="italic">-ē</hi></term> particle
     </rdgGrp>
     <rdg wit="#TNVms"><gap xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" unit="character" quantity="3"/><lb xmlns="http://www.tei-c.org/ns/1.0" n="2"/>muṅ</rdg>
   </app>
-  <app corresp="70,92">
+  <app loc="70,92">
     <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947">
       <lem>antiyum ēṟpāṭu muṟaiyāṉē</lem>
       <rdg type="minor" wit="#TNV1937 #TNV1947">antiyum, eṟpāṭum muṟaiyāṉē</rdg>
@@ -669,7 +669,7 @@ with a subsequent <term xml:lang="ta"><hi rend="italic">-ē</hi></term> particle
       <rdg type="minor" wit="#TNVcac">antiyumē muṟpāṭumuṟaiyāṉē<lb xmlns="http://www.tei-c.org/ns/1.0" n="11"/></rdg>
     </rdgGrp>
   </app>
-  <app corresp="119,128">
+  <app loc="119,128">
     <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
       <lem>eṉṟa vāṟu.</lem>
       <rdg type="minor" wit="#TNVc #TNV1937 #TNV1947">eṉṟavāṟu. (5)</rdg>

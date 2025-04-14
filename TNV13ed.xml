@@ -791,7 +791,7 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="27,33">
+  <app loc="27,33">
     <lem wit="#TNVms #TNVc #TNV1937">mūṭalu</lem>
     <rdg wit="#TNV1947">mūṭalum</rdg>
   </app>
@@ -826,11 +826,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="105,121">
+  <app loc="105,121">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">iraṅkaṉimittamuṅ</lem>
     <rdg wit="#TNVmsac">iraṅ kaṉimittamu<gap reason="illegible" unit="character" quantity="1"/>ṅ</rdg>
   </app>
-  <app corresp="173,182">
+  <app loc="173,182">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">eṉṟavāṟu.</lem>
     <rdg wit="#TNVmsac">me<lb n="4"/>ṉṟavāṟu</rdg>
   </app>
