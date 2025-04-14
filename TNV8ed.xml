@@ -161,9 +161,9 @@
 <l>makuṇa<note place="foot">My working theory is that this is a dialectical variant of <term xml:lang="ta"><hi rend="italic">makiḻnaṉ/makiṇan</hi></term> (both are recorded in the Tamil Lexicon). 
 cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV3</ref> where we find <term xml:lang="ta"><hi rend="italic">kuruñci</hi></term> instead of the more standard <term xml:lang="ta"><hi rend="italic">kuriñci</hi></term>.</note> ṉuḻavar cērppaṉ paratava</l>
 <l>riṉaiyaṉa piṟavu makkaṭ peyarē</l></lg>
-<p xml:lang="en">The names of humans [are] ‘man of the mountain’, ‘hill people’, ‘the strong man [in the desert]’, 
-‘desert hunters’, ‘man from a land of small hillocks devoid of destitution’, ‘herdsmen’, ‘pleasure man‘, 
-‘ploughmen’, ‘man from the coast’, ‘fishermen’ and others of this kind.</p>
+<p xml:lang="en">The names of humans [are] the man of the mountain, the hill people, the strong man [in the desert], 
+the desert hunters, the man from a land of small hillocks devoid of destitution, the herdsmen, the pleasure-man, 
+the ploughmen, the man from the coast, the fishermen and others of this kind.</p>
 </div>
 </body>
 </text>
@@ -176,13 +176,56 @@ cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV
       <p xml:id="TNV8comm2">veṟpaṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ cērppaṉ eṉpaṉa talaimakaṉ peyar. 
       kuṟavar eyiṉar kuṭavar uḻavar paratavar eṉpaṉa van nilattu vāḻvār peyar eṉṟa vāṟu.
       </p>
-      <p xml:lang="en">The man from the mountain, the warrior, the man from the land of short hillocks, the pleasure-man and the man from the coast - these are said to be the names of the people. The hill people, <hi rend="italic">the eyiṉar</hi> tribe, the western people, the ploughmen and the fishermen - these are said to be the names of the inhabitants of those lands.</p>
+      <p xml:lang="en">The man from the mountain, the warrior, the man from the land of short
+        hillocks, the pleasure-man and the man from the coast - these are said to be the names of
+        the people. The hill people, the <hi rend="italic">eyiṉar</hi> tribe, the western people,
+        the ploughmen and the fishermen - these are said to be the names of the inhabitants of those
+        lands.</p>
       
       <p xml:id="TNV8comm3">piṟavum eṉṟataṉāṟ poruppaṉ malaiyaṉ cilampaṉ koṭicci kuṟatti kuṟavar 
       iṟavuḷar eṉavuṅ kāḷai viṭalai yeyiṉar eyiṟṟi maṟavar eṉavum aṇṇal mīḷi yiṭaicciyar āycciyar 
       kōvalar iṭaiyar potuvar āyar eṉavum ūraṉ kiḻatti maṉaivi kaṭaiyar kaṭaiciyar eṉavuṅ koṇkaṉ 
       ṟuṟaivaṉ ṟuṟaivi paratti nuḷaiyar nuḷaicciyar eṉavum varuvaṉa vellāṅ koḷka.
       </p>
+      <p xml:lang="en">Because of '<q xml:lang="ta"><hi rend="italic">piṟavum</hi></q>', understand that 
+      all [of these] are included: the man from the hill, the man from the mountain, the man from the mountainside, 
+      the woman from the hills, the woman of the creeper<note place="foot" xml:lang="en">This is a literal 
+      translation which I chose to retain as much flavour of the orignal Tamil as possible. In practice, this 
+      refers to a woman who inhabits the hills of the <term xml:lang="ta"><hi rend="italic">Kuriñci</hi></term> 
+      landscape.</note>, the hill woman, the hill inhabitants and the hill tribe; the young men, the warroirs, the 
+      <term xml:lang="ta"><hi rend="italic">eyiṉar</hi></term> tribe, the <term xml:lang="ta"><hi rend="italic">eyiṉar</hi></term> 
+      woman and the bold ones<note place="foot" xml:lang="en">It is not entriely clear what is meant by such terms. 
+      In practice <q xml:lang="ta"><hi rend="italic">maṟavar</hi></q> refers to an enemy of a strong warrior, but 
+      this is the case for quite a few of the such designations. When they appear, I try and translate them quite 
+      literally and keep intact as much of the Tamil etymology as possible.</note>; the majestic [rulers of the 
+      forest landscape], the commanders, the female herders of the middle [region]<note place="foot" xml:lang="en">The 
+      'middle' here is normally understood as referring to the tract of land in-between the hills 
+      (<term xml:lang="ta"><hi rend="en">kuriñci</hi></term>) and plains (<term xml:lang="ta"><hi rend="en">marutam</hi></term>), 
+      so the forest pastures (<term xml:lang="ta"><hi rend="en">muḷḷai</hi></term>).</note>, female cowherds, 
+      cowherds, cowherds of the middle [region]<note place="foot" xml:lang="en">The male herdsmen, presumably.</note>, 
+      herdsmen<note place="foot" xml:lang="en">My assumption is that this must refer to a different class of herders, 
+      perhaps of goats rather than cows or other types of cattle. As an aside, this is also a later addition to the 
+      <term xml:lang="ta"><hi rend="italic">akam</hi></term> population. It first appears in the <term xml:lang="ta">Kalittokai.</term></note> and 
+      the cowherds<note place="foot" xml:lang="en">This might be a slightly later designation referring to the same 
+      herders as <q xml:lang="ta"><hi rend="ta">kōvalar</hi></q>, found earlier in this enumeration. <q xml:lang="ta"><hi rend="ta">āyar</hi></q> 
+      only appears on in the 'old' corpus in PN390.1, whereas <q xml:lang="ta"><hi rend="ta">kōvalar</hi></q> is 
+      quite common (see KT358.6 NA69.8, AN155.8, for example)</note>; the man from the village, the heroine<note place="foot" xml:lang="en">One 
+      could translate this more literally, as the 'proprietress' (as done in the TL) - the feminine singular 
+      pronominalised noun from <term xml:lang="ta"><hi rend="italic">kiḻamai</hi></term> ('claim, right, property'). 
+      However, <q xml:lang="ta">kiḻatti<hi rend="italic"/></q> is so prevalent in both poetry and commentarial 
+      literature to refer specifically to the <term xml:lang="ta"><hi rend="italic">talaivi</hi></term>, that I feel 
+      confident that the refernt is the heroine, and that to translate it defferently would in this case take us 
+      further away from the indended meaning of the world.</note>, the house-wife<note place="foot" xml:lang="en">This 
+      also refers to the heroine in her post-marriage life.</note>, the peripheral men and the peripheral women<note place="foot" xml:lang="en">This is not a designation found in the Caṅkam corpus. I assume, as 
+      others have (see the TL entry), that this refers to a group of people with low societal status. I have
+       chose 'peripheral' here, thinking that this might most closely mirror the Tamil where I understand 
+       <q xml:lang="ta">kaṭai<hi rend="italic"/></q> to mean 'boundary, limit'. I think 'marginalised' would 
+       perhaps be even more appropriate, however it implies a a procedural element which may not in face be there 
+       in the Tamil - a person becomes marginalised by people and society. This may be making a purely sptical 
+       observation, which probably reflected social status, that people existed on teh periheries of either a 
+       settlement or a concept of society. I chose the more neutral language her to encompass I wider range of possibilities.</note>; the 
+      man from the shore, the man from the ghat, the woman from the ghat, the maratime woman, the fishermen caste 
+      and the women of the fishermen caste.</p>
       </body>
       </text>
       <standOff corresp="#TNV8" type="wordsplit">
