@@ -173,7 +173,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
       <p xml:id="TNV8comm1">e-tu. makkaṭ peyar ām āṟuṇarttutaṉutaliṟṟu.
       </p>
       <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the names of the people occur.</p>
-      <p xml:id="TNV8comm2">veṟpaṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ cērppaṉ eṉpaṉa talaimakaṉ peyar. 
+      <p xml:id="TNV8comm2">veṟpaṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ<anchor xml:id="makunan"/> cērppaṉ eṉpaṉa talaimakaṉ peyar. 
       kuṟavar eyiṉar kuṭavar uḻavar paratavar eṉpaṉa van nilattu vāḻvār peyar eṉṟa vāṟu.
       </p>
       <p xml:lang="en">The man from the mountain, the warrior, the man from the land of short
@@ -182,9 +182,9 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
         the ploughmen and the fishermen - these are said to be the names of the inhabitants of those
         lands.</p>
       
-      <p xml:id="TNV8comm3">piṟavum eṉṟataṉāṟ poruppaṉ malaiyaṉ cilampaṉ koṭicci kuṟatti kuṟavar 
-      iṟavuḷar eṉavuṅ kāḷai viṭalai yeyiṉar eyiṟṟi maṟavar eṉavum aṇṇal mīḷi yiṭaicciyar āycciyar 
-      kōvalar iṭaiyar potuvar āyar eṉavum ūraṉ kiḻatti maṉaivi kaṭaiyar kaṭaiciyar eṉavuṅ koṇkaṉ 
+      <p xml:id="TNV8comm3">piṟavum eṉṟataṉāṟ poruppaṉ malaiyaṉ cilampaṉ<anchor xml:id="cilampan"/> koṭicci kuṟatti<anchor xml:id="kuratti"/> kuṟavar 
+      iṟavuḷar<anchor xml:id="iravular"/> eṉavuṅ kāḷai viṭalai yeyiṉar eyiṟṟi maṟavar<anchor xml:id="maravar"/> eṉavum aṇṇal mīḷi<anchor xml:id="mili"/> yiṭaicciyar āycciyar 
+      kōvalar iṭaiyar potuvar āyar<anchor xml:id="ayar"/> eṉavum ūraṉ kiḻatti maṉaivi kaṭaiyar kaṭaiciyar<anchor xml:id="kataiciyar"/> eṉavuṅ koṇkaṉ 
       ṟuṟaivaṉ ṟuṟaivi paratti nuḷaiyar nuḷaicciyar eṉavum varuvaṉa vellāṅ koḷka.
       </p>
       <p xml:lang="en">Because of <q xml:lang="ta"><hi rend="italic">piṟavum</hi></q>, understand that 
@@ -1010,7 +1010,15 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
     <rdg wit="#TNVms #TNVc"/>
   </app>
 </listApp></standOff>
+<standOff type="notes1" corresp="#TNV8comm3"><note xml:lang="ta" target="#cilampan"><term xml:lang="en">Cf. IAC1, p.25:</term> [kuriñcikku...] talaimakaṉpeyar cilampaṉ veṟpaṉ poruppaṉ</note></standOff>
+<standOff type="notes1" corresp="#TNV8comm3"><note xml:lang="ta" target="#kuratti"><term xml:lang="en">Cf. IAC1, p.25:</term> [kuriñcikku...] talaimakaḷpeyar koṭicci kuṟatti</note></standOff>
+<standOff type="notes1" corresp="#TNV8comm3"><note xml:lang="ta" target="#iravular"><term xml:lang="en">Cf. IAC1, p.25:</term> [kuriñcikku...] makkaḷpeyar kuṟavar iṟavuḷar kuṉṟavar</note></standOff>
+<standOff type="notes1" corresp="#TNV8comm3"><note xml:lang="ta" target="#maravar"><term xml:lang="en">Cf. IAC1, p.26:</term> [pālaikku...] talaimakaṉpeyar mīḷi viṭalai kāḷai; talaimakaḷpeyar eyiṟṟi pētai...; makkaḷpeyar eyiṉar eyiṟṟiṉar maṟavar maṟattiyar</note></standOff>   
+<standOff type="notes1" corresp="#TNV8comm3"><note xml:lang="ta" target="#ayar"><term xml:lang="en">Cf. IAC1, p.26-27:</term> [muḷḷaikku...] makkaḷpeyar iṭaiyar iṭaicciyar āyar āycciyar</note></standOff>
+<standOff type="notes1" corresp="#TNV8comm3"><note xml:lang="ta" target="#kataiciyar"><term xml:lang="en">Cf. IAC1, p.27:</term> [marutattu...] talaimakaṉpeyar ūraṉ makiṇaṉ; talaimakaḷpeyar kiḻatti maṉaivi...; makkaḷpeyar kaṭaiyar kaṭaicciyar uḻavar uḻattiyar</note></standOff> 
 <standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en">Most, but not all of the designations listed here are found in Caṅkam poetry. Many of the others can be found in the <term xml:lang="ta"><hi rend="italic">nikantus</hi></term>: See Tiv. 2.125-140 for a roughly contemporaneous enumeration of the people found in the different landcapes which I have not presented here beaucause of its length.</note></standOff>
+<standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en" target="#mili">Interestingly, the TNV here deviates from the IAC, which it otherwise is almost identical to in content. <q xml:lang="ta"><hi rend="italic">mīli</hi></q> is attributed as as a <term xml:lang="ta"><hi rend="italic">muḷḷai</hi></term> person, whereas in the IAC, Nakkīraṉār includes in his section on <term xml:lang="ta"><hi rend="italic">pālai</hi></term>.</note></standOff>
+<standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en">In IAC1, p.26-27, Nakkīraṉār notes that the <q xml:lang="ta"><hi rend="italic">talaimakaḷpeyar</hi></q> ('the names of the women') <q xml:lang="ta"><hi rend="italic">kiḻatti</hi></q> and <q xml:lang="ta"><hi rend="italic">maṉaivi</hi></q> are suitable for <term xml:lang="ta"><hi rend="italic">muḷḷai</hi></term> and <term xml:lang="ta"><hi rend="italic">marutam</hi></term>, whereas in the TNV they belong to <term xml:lang="ta"><hi rend="italic">marutam</hi></term> alone.</note></standOff>
 <standOff type="apparatus" corresp="#TNV8comm3" source="alignments/TNV8comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
