@@ -202,13 +202,13 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
       'middle' here is normally understood as referring to the tract of land in-between the hills 
       (<term xml:lang="ta"><hi rend="en">kuriñci</hi></term>) and plains (<term xml:lang="ta"><hi rend="en">marutam</hi></term>), 
       so the forest pastures (<term xml:lang="ta"><hi rend="en">muḷḷai</hi></term>).</note>, female cowherds, 
-      cowherds, cowherds of the middle [region]<note place="foot" xml:lang="en">The male herdsmen, presumably.</note>, 
+      cowherds, herdsmen of the middle [region]<note place="foot" xml:lang="en">The male herdsmen, presumably.</note>, 
       herdsmen<note place="foot" xml:lang="en">My assumption is that this must refer to a different class of herders, 
       perhaps of goats rather than cows or other types of cattle. As an aside, this is also a later addition to the 
       <term xml:lang="ta"><hi rend="italic">akam</hi></term> population. It first appears in the <term xml:lang="ta">Kalittokai.</term></note> and 
       the cowherds<note place="foot" xml:lang="en">This might be a slightly later designation referring to the same 
-      herders as <q xml:lang="ta"><hi rend="ta">kōvalar</hi></q>, found earlier in this enumeration. <q xml:lang="ta"><hi rend="ta">āyar</hi></q> 
-      only appears on in the 'old' corpus in PN390.1, whereas <q xml:lang="ta"><hi rend="ta">kōvalar</hi></q> is 
+      herders as <q xml:lang="ta"><hi rend="italic">kōvalar</hi></q>, found earlier in this enumeration. <q xml:lang="ta"><hi rend="ta">āyar</hi></q> 
+      only appears on in the 'old' corpus in PN390.1, whereas <q xml:lang="ta"><hi rend="italic">kōvalar</hi></q> is 
       quite common (see KT358.6 NA69.8, AN155.8, for example)</note>; the man from the village, the heroine<note place="foot" xml:lang="en">One 
       could translate this more literally, as the 'proprietress' (as done in the TL) - the feminine singular 
       pronominalised noun from <term xml:lang="ta"><hi rend="italic">kiḻamai</hi></term> ('claim, right, property'). 
@@ -224,8 +224,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
        in the Tamil - a person becomes marginalised by people and society. This may be making a purely spacial 
        observation, which probably reflected social status, that people existed on the peripheries of either a 
        settlement or a concept of society. I chose the more neutral language here to encompass a wider range of possibilities.</note>; the 
-      man from the shore, the man from the ghat, the woman from the ghat, the maratime woman<!--note place="foot" xml:lang="en">
-      This is not a designation found in poetry and neither is its masculine counterpart, which is odd. My assumption is that this must have come from a lexicon. One finds  </note-->, the men of the fishermen caste 
+      man from the shore, the man from the ghat, the woman from the ghat, the maratime woman<note xml:lang="en" place="foot">The list in the <term xml:lang="ta">Tivākaram</term> is slightly more exhaustive than the one found in this commentary, so I think it is safe to conclude that it was not used as a source for this enumeration. Either the commentator simply listed those people he knew of from poetry itself, based this list on a smiliar one in another treatise (I cannot find this same list anywhere else), or did some mixture of the two. In some cases, desiginations might have been theorised based on the occurence of their gender-counterpart, even if they did not appear in poems themselves. It is possible that is what happened in the case of <q xml:lang="ta"><hi rend="italic">paratti</hi></q>, <q xml:lang="ta"><hi rend="italic">iṭaicciyar</hi></q>, <q xml:lang="ta"><hi rend="italic">nuḷaicciyar</hi></q> (though this does have a close parallel found in Ciṟu. 158 - <q xml:lang="ta"><hi rend="italic">nuḷaimakaḷ</hi></q>) and <q xml:lang="ta"><hi rend="italic">tuṟaivi.</hi></q> It is impossible to rule out the possibility that these names appeard in poetry now lost, though.</note>, the men of the fishermen caste 
       and the women of the fishermen caste.</p>
       </body>
       </text>
@@ -373,7 +372,12 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV8" source="alignments/TNV8.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV8"><note xml:lang="ta"><term xml:lang="en">Cf. TP22:</term> peyarum viṉaiyumeṉ ṟāyiru vakaiya / tiṇaitoṟu marīiya tiṇainilaip peyarē//</note></standOff>
+<standOff type="notes1" corresp="#TNV8"><note xml:lang="ta"><term xml:lang="en">Cf. TP23:</term> āyar vēṭṭuva rāṭūu tiṇaippeya / rāvayiṉ varūuṅ kiḻavaru muḷarē//</note></standOff>
+<standOff type="notes1" corresp="#TNV8"><note xml:lang="ta"><term xml:lang="en">Cf. TP24:</term> ēṉōr pāṅkiṉu meṇṇuṅ kālai / yāṉu vakaiya tiṇainilaip peyarē//</note></standOff>
+<standOff type="notes4" corresp="#TNV8"><note xml:lang="en">The TP <term xml:lang="ta"><hi rend="italic">cūttirams</hi></term> cited explain the appropriate naming practice in <term xml:lang="ta"><hi rend="italic">akam</hi></term> poems. Essentially, names of people in the poetic landscapes can either be based on their class or clan or based on their occupation.</note></standOff>
+<standOff type="apparatus" corresp="#TNV8" source="alignments/TNV8.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -1006,7 +1010,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
     <rdg wit="#TNVms #TNVc"/>
   </app>
 </listApp></standOff>
-<standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en">Most, but not all of the designations listed here are found in Caṅkam poetry. Many of the others can be found in the <term xml:lang="ta"><hi rend="italic">nikantus</hi></term>: See Tiv. 2.125-140 for a roughly contemporaneous enumeration of the people found in the different landcapes. That list is slightly more exhaustive than the one found in this commentary.</note></standOff>
+<standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en">Most, but not all of the designations listed here are found in Caṅkam poetry. Many of the others can be found in the <term xml:lang="ta"><hi rend="italic">nikantus</hi></term>: See Tiv. 2.125-140 for a roughly contemporaneous enumeration of the people found in the different landcapes which I have not presented here beaucause of its length.</note></standOff>
 <standOff type="apparatus" corresp="#TNV8comm3" source="alignments/TNV8comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
