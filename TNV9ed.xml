@@ -173,7 +173,7 @@
       uḻutaluṅ kaṭal ūṭu pukutalum eṉṟip peṟṟi yellām āṇṭaic ceytiyām eṉṟa vāṟu.</p>
       <p xml:lang="en">Destroying honey-combs; harassing [travellers] on the road; grazing herds; 
       ploughing and entering into the sea - all [of these] are the occupations in each respective place.</p>
-      <p xml:id="TNV9comm3">iṉaiyaṉa veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum ūr 
+      <p xml:id="TNV9comm3">iṉaiyaṉa<anchor xml:id="inaiyana"/> veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum ūr 
       eṟitalunirai kōṭalum varakaritalum ēṟu kōṭalum viḻavayartalum puṉal āṭalum uppākkutalumuttuk 
       kuḷittalum uḷḷiṭṭaṉa vellāṅ koḷka.<note> 9.</note></p>
       <p xml:lang="en">Because of <q xml:lang="ta"><hi rend="italic">iṉaiyaṉa</hi></q>, understand that all [of these] are included: harvesting italian millet; harvesting root vegetables; raiding towns; seizing cattle-herds; 
@@ -303,7 +303,7 @@
 </entry>
 <entry>
 <form>ceyal-ē</form>
-<def>action</def>
+<def>occupation</def>
 <form type="simple">ceyal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -475,7 +475,7 @@
 </entry>
 <entry>
 <form>ceyti</form>
-<def>action</def>
+<def>occupation</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -716,7 +716,11 @@
   <gram type="role">optative</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV9" source="alignments/TNV9.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes2" corresp="#TNV9"><note xml:lang="ta"><term xml:lang="en">Cf. TP22:</term> peyarum viṉaiyumeṉ ṟāyiru vakaiya / tiṇaitoṟu marīiya tiṇainilaip peyarē//</note></standOff>
+<standOff type="notes2" corresp="#TNV9"><note xml:lang="ta"><term xml:lang="en">Cf. TP23:</term> āyar vēṭṭuva rāṭūu tiṇaippeya / rāvayiṉ varūuṅ kiḻavaru muḷarē//</note></standOff>
+<standOff type="notes2" corresp="#TNV9"><note xml:lang="ta"><term xml:lang="en">Cf. TP24:</term> ēṉōr pāṅkiṉu meṇṇuṅ kālai / yāṉu vakaiya tiṇainilaip peyarē//</note></standOff>
+<standOff type="apparatus" corresp="#TNV9" source="alignments/TNV9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -769,7 +773,7 @@
 </interp><listApp>
   <app loc="0,12">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tēṉ aḻittalum</lem>
-    <rdg wit="#TNVmsac">tēṉeḻittalum<note place="foot">I assume this was just a scribal error -- the scribe repeated the <hi rend="italic">kompu</hi>. I could not thing of any reasonable interpretation of this with the <hi rend="italic">kompu</hi>, hence why I have represented it as such, whereas the reading in the edition is word-split.</note></rdg>
+    <rdg wit="#TNVmsac">tēṉeḻittalum</rdg>
   </app>
   <app loc="37,45">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uḻutaluṅ</lem>
@@ -783,7 +787,9 @@
     </rdgGrp>
   </app>
   
-</listApp></standOff><standOff type="apparatus" corresp="#TNV9comm3" source="alignments/TNV9comm3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV9comm3"><note target="#inaiyana">I have emended here in line with UVC. The commmentator is referring back to the <hi rend="italic">cūttiram</hi> and in both the palm-leaf and paper copy, the <hi rend="italic">cūttiram</hi> reads <hi rend="italic">iṉaiyaṉa</hi>.</note></standOff>
+<standOff type="apparatus" corresp="#TNV9comm3" source="alignments/TNV9comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -801,7 +807,7 @@
 </interp><listApp>
   <app loc="0,8">
     <lem wit="#TNV1937 #TNV1947">iṉaiyaṉa</lem>
-    <rdg wit="#TNVms #TNVc">iṉaiya<note place="foot">I have emended here in line with UVC. The commmentator is referring back to the <hi rend="italic">cūttiram</hi> and in both the palm-leaf and paper copy, the <hi rend="italic">cūttiram</hi> reads <hi rend="italic">iṉaiyaṉa</hi>.</note></rdg>
+    <rdg wit="#TNVms #TNVc">iṉaiya</rdg>
   </app>
   <app loc="8,23">
     <lem wit="#TNVmspc #TNVc">veṉṟataṉāṟ ṟiṉai</lem>
