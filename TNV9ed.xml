@@ -160,7 +160,7 @@
 <l>morukkiṉa mōmpalu muḻavoṭu payiṟalun</l>
 <l>tiraikkaṭaṟ cēṟalō ṭiṉaiyaṉa ceyalē</l>
 </lg>
-<p xml:lang="en">Destroying full honey-combs; going on the road and harassing; protecting gathered herds; practising ploughing and going on the rolling sea - such are the actions.</p>
+<p xml:lang="en">Destroying full honey-combs; going on the road and harassing [travellers]; protecting gathered herds; practising ploughing and going on the rolling sea - such are the occupations.</p>
 </div>
 </body>
 </text>
@@ -168,17 +168,16 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV9comm1">e-tu. ceyti yām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way [in which] the actions occur.</p>
+      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way [in which] the occupations occur.</p>
       <p xml:id="TNV9comm2">tēṉ aḻittalum āṟalaittalunirai mēyttalum 
       uḻutaluṅ kaṭal ūṭu pukutalum eṉṟip peṟṟi yellām āṇṭaic ceytiyām eṉṟa vāṟu.</p>
-      <p xml:lang="en">Destroying honey-combs; harassing on the road; grazing herds; 
-      ploughing and entering into the sea - all [of these] are the actions [performed] in each respective place.</p>
+      <p xml:lang="en">Destroying honey-combs; harassing [travellers] on the road; grazing herds; 
+      ploughing and entering into the sea - all [of these] are the occupations in each respective place.</p>
       <p xml:id="TNV9comm3">iṉaiyaṉa veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum ūr 
       eṟitalunirai kōṭalum varakaritalum ēṟu kōṭalum viḻavayartalum puṉal āṭalum uppākkutalumuttuk 
-      kuḷittalum uḷḷiṭṭaṉa vellāṅ koḷka. <note>9.</note></p>
-      <p xml:lang="en">Because he says "<hi rend="italic">iṉaiyaṉa</hi>", understand that all [of these] are included: harvesting italian millet; harvesting root vegetables; raiding towns; seizing cattle-herds; 
-      harvesting common millet; capturing bulls; performing ceremonies; playing in the flood; making salt and diving for pearls.
-       .</p>
+      kuḷittalum uḷḷiṭṭaṉa vellāṅ koḷka.<note> 9.</note></p>
+      <p xml:lang="en">Because of <q xml:lang="ta"><hi rend="italic">iṉaiyaṉa</hi></q>, understand that all [of these] are included: harvesting italian millet; harvesting root vegetables; raiding towns; seizing cattle-herds; 
+      harvesting common millet; capturing bulls; performing ceremonies; playing in the flood; making salt and diving for pearls.</p>
       </body>
       </text>
       <standOff corresp="#TNV9" type="wordsplit">
@@ -504,7 +503,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV9comm3" type="wordsplit">
-<interp type="alignment" select="0">38MG7MG11MR10MG7MG6MG10MG7MG7MG11MG5MG7MG2ML13MG26M,177MGMGM</interp>
+<interp type="alignment" select="0">38MG7MG11MR10MG7MG6MG10MG7MG7MG11MG5MG7MG2ML13MG23M,177MG</interp>
 <entry>
 <form>iṉaiyaṉa</form>
 <def>such</def>
@@ -716,11 +715,6 @@
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>()</form>
-<def>9</def>
-<form type="sandhi"><note>(9)</note></form>
 </entry>
 </standOff><standOff type="apparatus" corresp="#TNV9" source="alignments/TNV9.xml"><interp type="normalization">
   <desc type="tagfilters">

@@ -187,7 +187,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
       kōvalar iṭaiyar potuvar āyar eṉavum ūraṉ kiḻatti maṉaivi kaṭaiyar kaṭaiciyar eṉavuṅ koṇkaṉ 
       ṟuṟaivaṉ ṟuṟaivi paratti nuḷaiyar nuḷaicciyar eṉavum varuvaṉa vellāṅ koḷka.
       </p>
-      <p xml:lang="en">Because of '<q xml:lang="ta"><hi rend="italic">piṟavum</hi></q>', understand that 
+      <p xml:lang="en">Because of <q xml:lang="ta"><hi rend="italic">piṟavum</hi></q>, understand that 
       all [of these] are included: the man from the hill, the man from the mountain, the man from the mountainside, 
       the woman from the hills, the woman of the creeper<note place="foot" xml:lang="en">This is a literal 
       translation which I chose to retain as much flavour of the orignal Tamil as possible. In practice, this 
@@ -224,7 +224,8 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
        in the Tamil - a person becomes marginalised by people and society. This may be making a purely spacial 
        observation, which probably reflected social status, that people existed on the peripheries of either a 
        settlement or a concept of society. I chose the more neutral language here to encompass a wider range of possibilities.</note>; the 
-      man from the shore, the man from the ghat, the woman from the ghat, the maratime woman, the fishermen caste 
+      man from the shore, the man from the ghat, the woman from the ghat, the maratime woman<!--note place="foot" xml:lang="en">
+      This is not a designation found in poetry and neither is its masculine counterpart, which is odd. My assumption is that this must have come from a lexicon. One finds  </note-->, the men of the fishermen caste 
       and the women of the fishermen caste.</p>
       </body>
       </text>
@@ -802,7 +803,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form><c type="glide">y</c>iṭaicciyar</form>
-<def>mullai cowherd</def>
+<def>goatherd</def>
 <gramGrp>
   <gram type="role">feminine</gram>
   <gram type="role">third person</gram>
@@ -832,7 +833,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form>potuvar</form>
-<def>herdsmen</def>
+<def>goatherd</def>
 <gramGrp>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -1004,7 +1005,9 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
     </rdgGrp>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV8comm3" source="alignments/TNV8comm3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en">Most, but not all of the designations listed here are found in Caṅkam poetry. Many of the others can be found in the <term xml:lang="ta"><hi rend="italic">nikantus</hi></term>: See Tiv. 2.125-140 for a roughly contemporaneous enumeration of the people found in the different landcapes. That list is slightly more exhaustive than the one found in this commentary.</note></standOff>
+<standOff type="apparatus" corresp="#TNV8comm3" source="alignments/TNV8comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
