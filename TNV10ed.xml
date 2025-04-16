@@ -156,10 +156,17 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV10">
-      <l>tiṉaiyē taruppaṇa<note place="foot">From Skt. <hi rend="italic">tarpaṇa</hi>, which originally meant ‘a libation to the gods’. I think this meaning has been extended into ‘refreshments’, in the sense of cooling foods and drinks, though that is purely speculation.</note> mutirai cennel</l>
-<l>vilaikō ḷaṉaiyaṉa mēviya vuṇavē</l>
+          <l>tiṉaiyē taruppaṇa mutirai cennel</l>
+          <l>vilaikō ḷaṉaiyaṉa mēviya vuṇavē</l>
 </lg>
-<p xml:lang="en">Millet, refreshments, legumes, red rice and exchanged goods - such are the corresponding foods [to each <hi rend="italic">tiṇai</hi>]</p>
+<p xml:lang="en">Millet<note place="foot" xml:lang="en"><q xml:lang="ta">tiṉai</q> can also refer to the wider group of millets as 
+  a whole, not just the foxtail type mentioned in the commentary to the previous 
+  <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>. As this is not a detailed commentary 
+  enumeration, I have chosen teh more general term. That is also more in keeping with the other items such 
+  as 'legumes'.</note>, refreshments<note place="foot">From Skt. <hi rend="italic">tarpaṇa</hi>, which
+    originally meant ‘a libation to the gods’. I think this meaning has been extended into
+    ‘refreshments’, in the sense of cooling foods and drinks, though that is purely
+    speculation.</note>, legumes, red rice and exchanged goods - such are the foods attached [to the landscapes].</p>
 </div>
 </body>
 </text>
