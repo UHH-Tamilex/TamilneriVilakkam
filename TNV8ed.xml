@@ -173,9 +173,12 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV8comm1">e-tu. makkaṭ peyar ām āṟuṇarttutaṉutaliṟṟu.
       </p>
       <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the names of the people occur.</p>
+      </div>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV8comm2">veṟpaṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ cērppaṉ eṉpaṉa talaimakaṉ peyar. 
       kuṟavar eyiṉar kuṭavar uḻavar paratavar eṉpaṉa van nilattu vāḻvār peyar eṉṟa vāṟu.
       </p>
@@ -183,8 +186,8 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
         hillocks, the pleasure-man and the man from the coast - these are said to be the names of
         the people. The hill people, the <hi rend="italic">eyiṉar</hi> tribe, the western people,
         the ploughmen and the fishermen - these are said to be the names of the inhabitants of those
-        lands.</p>
-      
+        lands.</p></div>
+        <div type="commentary" rend="parallel"> 
       <p xml:id="TNV8comm3">piṟavum eṉṟataṉāṟ poruppaṉ malaiyaṉ cilampaṉ koṭicci kuṟatti kuṟavar 
       iṟavuḷar<anchor xml:id="iravular"/> eṉavuṅ kāḷai viṭalai yeyiṉar eyiṟṟi maṟavar<anchor xml:id="maravar"/> eṉavum aṇṇal mīḷi<anchor xml:id="mili"/> yiṭaicciyar āycciyar 
       kōvalar iṭaiyar potuvar āyar<anchor xml:id="ayar"/> eṉavum ūraṉ kiḻatti maṉaivi kaṭaiyar kaṭaiciyar<anchor xml:id="kataiciyar"/> eṉavuṅ koṇkaṉ 
@@ -229,6 +232,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
        settlement or a concept of society. I chose the more neutral language here to encompass a wider range of possibilities.</note>; the 
       man from the shore, the man from the ghat, the woman from the ghat, the maratime woman, the men of the fishermen caste 
       and the women of the fishermen caste.</p>
+      </div>
       </body>
       </text>
       <standOff corresp="#TNV8" type="wordsplit">
