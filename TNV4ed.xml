@@ -156,8 +156,8 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV4">
-<l>kūtir vēṉil koḻuṅkā roḻipaṉi</l>
-<l>vēṉil muṉpaṉi meyyuyar poḻutē</l></lg>
+<l>kūtir<anchor xml:id="kutir"/> vēṉil<anchor xml:id="venil"/> koḻuṅkā<anchor xml:id="kar"/> roḻipaṉi<anchor xml:id="pani"/></l>
+<l>vēṉil muṉpaṉi<anchor xml:id="munpani"/> meyyuyar poḻutē<anchor xml:id="polute"/></l></lg>
 <p xml:lang="en">The actual<note place="foot" xml:lang="en"><q xml:lang="ta">mey</q> literally meants 'truth', 
 and I have taken it here to mean something like 'in reality', or as I have translated here 'actual'.</note> 
 major times are the cold season, the hot season, the full rainy season, the season of ceasing dew, 
@@ -168,13 +168,16 @@ the hot season, and the early dew season.</p>
  <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
 <p xml:id="TNV4comm1">e-tu. ain tiṇaikkuṅ kālamutal uṭ perum poḻutām āṟuṇarttutaṉutaliṟṟu.</p>
 <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the large time-periods (i.e. seasons) occur amongst the basic time-elements.</p>
+</div>
+<div type="commentary" rend="parallel">
 <p xml:id="TNV4comm2"> 
 aippaciyuṅ kārttikaiyum ākiya kūtirk kālamum āṉiyum āṭiyum ākiya vēṉiṟ kālamum 
 āvaṇiyum puraṭṭātiyum ākiya kār kālamumāciyum paṅkuṉiyum ākiya piṉ paṉik kālamuñ 
 cittiraiyum vaikāciyum ākiya viḷa vēṉiṟ kālamumārkaḻiyun taiyum ākiya muṉ paṉik kālamumuṟaiyāṉē ain tiṇaikkum 
-uyar kālamutal ām eṉṟa vāṟu. <note>4.</note></p>
+uyar kālamutal ām eṉṟa vāṟu<anchor xml:id="varu"/>. <note>4.</note></p>
 <p xml:lang="en">The cold season comprises of [the months] <term xml:lang="ta"><hi rend="italic">aippaci</hi></term> 
 and <term xml:lang="ta"><hi rend="italic">kārttikai</hi></term>; the hot season comprises of [the months] 
 <term xml:lang="ta"><hi rend="italic">āṉi</hi></term> and <term xml:lang="ta"><hi rend="italic">āṭi</hi></term>; 
@@ -194,6 +197,7 @@ enumeration given elsewhere, but since the order is the same as what we find in 
 the implied order is the same; see TP6-12i, where the implied list is different), I think the
  commentator is referring back to his own list. This is why I have translated this as 'order' rather than 
  'tradition'.</note></p>
+ </div>
       </body></text>
       <standOff type="apparatus" corresp="#TNV4comm1" source="alignments/TNV4comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -217,7 +221,10 @@ the implied order is the same; see TP6-12i, where the implied list is different)
   
     <rdg wit="#TNVms">āṟuṇarttutanu</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV4comm2" source="alignments/TNV4comm2.xml"><interp type="normalization">
+</listApp>
+</standOff>
+<standOff type="notes4" corresp="#TNV4comm2"><note xml:lang="en" target="varu">There is no list of the months in either the TP, IA or IAC. This may be the earliest such list still extant.</note></standOff>
+<standOff type="apparatus" corresp="#TNV4comm2" source="alignments/TNV4comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -255,14 +262,17 @@ the implied order is the same; see TP6-12i, where the implied list is different)
   </app>
   
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV4"><note xml:lang="ta"><term xml:lang="en">Cf. TP6i:</term> kāru mālaiyu mullai//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP7i:</term> kuṟiñci / kūtir yāma meṉmaṉār pulavar//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP8i:</term> paṉiyetir paruvamu muritteṉa moḻipa//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP9i:</term> vaikuṟu viṭiyaṉ marutam//</note> 
-<note xml:lang="ta"><term xml:lang="en">Cf. TP10i:</term> eṟpāṭu / neyta lātaṉ meypeṟat tōṉṟum //</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP11i:</term> naṭuvunilait tiṇaiyē naṇpakala vēṉiloṭu / muṭivunilai maruṅkiṉ muṉṉiya neṟittē//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP12i:</term> piṉpaṉi tāṉu muritteṉa moḻipa</note></standOff>
-<standOff type="notes4" corresp="#TNV4"><note xml:lang="en">The Tolkāppiyam treates these slightly differently. Each landscape and its respective appropriate season and time of day are listed in separate <term xml:lang="ta"><hi rend="italic">cūttirams</hi></term>. This is also why the exact same list of sources is provided for the next <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>.</note></standOff>
+<standOff type="notes1" corresp="#TNV4"><note xml:lang="ta" target="#kar"><term xml:lang="en">Cf. TP6i:</term> kāru mālaiyu mullai//</note>
+<note xml:lang="ta" target="#kutir"><term xml:lang="en">Cf. TP7i:</term> kuṟiñci / kūtir yāma meṉmaṉār pulavar//</note>
+<note xml:lang="ta" target="#munpani"><term xml:lang="en">Cf. TP8i:</term> paṉiyetir paruvamu muritteṉa moḻipa//</note>
+<note xml:lang="ta" target="#venil"><term xml:lang="en">Cf. TP11i:</term> naṭuvunilait tiṇaiyē naṇpakala vēṉiloṭu / muṭivunilai maruṅkiṉ muṉṉiya neṟittē//</note>
+<note xml:lang="ta" target="#pani"><term xml:lang="en">Cf. TP12i:</term> piṉpaṉi tāṉu muritteṉa moḻipa//</note>
+<note xml:lang="ta" target="#kar"><term xml:lang="en">Cf. IAC1, p.24:</term> mullaikku... poḻutu kārum mālaiyum</note>
+<note xml:lang="ta" target="#kutir"><term xml:lang="en">Cf. IAC1, p.23:</term> kuriñcikku... poḻutu kūtirum yāmamum muṉpaṉiyum</note>
+<note xml:lang="ta" target="#venil"><term xml:lang="en">Cf. IAC1, p.23:</term> pālaikku... poḻutu naṇpakalum vēṉilum piṉpaṉiyum urittu</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV4"><note xml:lang="en" target="#polute">Nakkīraṉār states that since Tolkāppiyaṉār does not assign seasons to <term xml:lang="ta"><hi rend="italic">marutam</hi></term> and <term xml:lang="ta"><hi rend="italic">neytal</hi></term>, all six are approprite - IAC1, p.25: <q xml:lang="ta"><hi rend="italic">maruttatiṟkum neytaṟkum perumpoḻutu colliṟṟiṉmaiyiṉ aṟuvakai yirutuvum uriyaveṉakkoḷka</hi></q></note>
+<note xml:lang="en" target="#polute">The Tolkāppiyam treats these slightly differently. Landscapes and their appropriate season and time of day are listed in separate <term xml:lang="ta"><hi rend="italic">cūttirams</hi></term>. This is also why there is significant overlap with the list of sources for the next <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>. The TP also has a different list to that found here. Only <term xml:lang="ta"><hi rend="italic">kuriñci</hi></term>, <term xml:lang="ta"><hi rend="italic">pālai</hi></term> and <term xml:lang="ta"><hi rend="italic">mullai</hi></term> have prescribed seasons and only 5 seasons are listed - <term xml:lang="ta"><hi rend="italic">kūtir</hi></term> and <term xml:lang="ta"><hi rend="italic">[muṉ]paṉi</hi></term> (<term xml:lang="ta"><hi rend="italic">kuriñci</hi></term>); <term xml:lang="ta"><hi rend="italic">vēṉil</hi></term> and <term xml:lang="ta"><hi rend="italic">piṉpaṉi</hi></term> (<term xml:lang="ta"><hi rend="italic">pālai</hi></term>); and <term xml:lang="ta"><hi rend="italic">kār</hi></term> (<term xml:lang="ta"><hi rend="italic">mullai</hi></term>).</note></standOff>
 <standOff type="apparatus" corresp="#TNV4" source="alignments/TNV4.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
