@@ -157,7 +157,7 @@
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV7">
       <l>murukaṉu miraviyu māyaṉum vēntaṉum</l>
-<l>varuṇaṉu<anchor xml:id="varunan"/> māka vakuttaṉar koḷalē.</l></lg>
+<l>varuṇaṉu<anchor xml:id="varunan"/> māka vakuttaṉar koḷalē<anchor xml:id="kolale"/></l></lg>
 <p xml:lang="en">Murukaṉ, Iravi, Māyan, Vēntan and Varuṇa - [let there be an] understanding that they have assigned [them as the gods].</p>
 </div>
 </body>
@@ -165,15 +165,17 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV7comm1">e-tu. collap paṭṭa karuviṉ uḷ atiteyvam ām āṟuṇarttutaṉutaliṟṟu.</p>
        <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the
-       presiding deities amongst the aformentioned constituent elements occur.</p> 
+       presiding deities amongst the aformentioned constituent elements occur.</p></div>
+       <div type="commentary" rend="parallel">
       <p xml:id="TNV7comm2">murukavēḷum<anchor xml:id="murukavel"/> pakalōṉumāyaṉum intiraṉum<anchor xml:id="intiran"/> varuṇaṉumuṟaiyāṉē ain tiṇaikkum atiteyvam ām eṉṟavāṟu. <note>(7)</note></p>
-      <p xml:lang="en">Murukavēḷ, Pakalōṉ, Māyaṉ, Intiraṉ and Varuṇaṉ are the gods for the five poetic landscapes according to the [established] order.</p>
+      <p xml:lang="en">Murukavēḷ, Pakalōṉ, Māyaṉ, Intiraṉ and Varuṇaṉ are the gods for the five poetic landscapes according to the [established] order.</p></div>
       </body>
       </text>
-      <standOff type="notes1" corresp="#TNV7comm2"><note xml:lang="ta" target="#murukavel"><term xml:lang="en">Cf. IAC1, p.25:</term> kuriñcikkut teyvam murukavēḷ</note></standOff>
-      <standOff type="notes1" corresp="#TNV7comm2"><note target="#intiran"><term xml:lang="en">Cf. IAC1, p.26:</term> marutukkut teyvam intiraṉ</note></standOff>
+      <standOff type="notes1" corresp="#TNV7comm2"><note xml:lang="ta" target="#murukavel"><term xml:lang="en">Cf. IAC1, p.25:</term> kuriñcikkut teyvam murukavēḷ</note>
+      <note target="#intiran"><term xml:lang="en">Cf. IAC1, p.26:</term> marutukkut teyvam intiraṉ</note></standOff>
       <standOff type="apparatus" corresp="#TNV7comm2" source="alignments/TNV7comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -215,9 +217,9 @@
   </desc>
 </interp>
 </standOff>
-<standOff type="notes1" corresp="#TNV7"><note xml:lang="ta"><term xml:lang="en">Cf. TP5iː</term> māyōṉ mēya kāṭuṟai yulakamuñ / cēyōṉ mēya maivarai yulakamum / vēntaṉ mēya tīmpuṉa lulakamum / varuṇaṉ mēya perumaṇa lulakamum / mullai kuṟiñci maruta neytaleṉac / colliya muṟaiyāṟ collavum paṭumē//</note></standOff>
-<standOff type="notes1" corresp="#TNV7"><note xml:lang="ta"><term xml:lang="en" target="#varunan">Cf. IAC1, p.25:</term> neytaṟkkut teyvam varuṇaṉ</note></standOff>
-<standOff type="notes4" corresp="#TNV7"><note xml:lang="en">The TNV supplies a presiding deity for the <term xml:lang="ta"><hi rend="italic">pālai</hi></term> landscape, which is left out of the enumeration in the TP. Note also the different order of the landscapes.</note></standOff>
+<standOff type="notes1" corresp="#TNV7"><note xml:lang="ta" target="#kolale"><term xml:lang="en">Cf. TP5iː</term> māyōṉ mēya kāṭuṟai yulakamuñ / cēyōṉ mēya maivarai yulakamum / vēntaṉ mēya tīmpuṉa lulakamum / varuṇaṉ mēya perumaṇa lulakamum / mullai kuṟiñci maruta neytaleṉac / colliya muṟaiyāṟ collavum paṭumē//</note>
+<note xml:lang="ta" target="#varunan"><term xml:lang="en">Cf. IAC1, p.25:</term> neytaṟkkut teyvam varuṇaṉ</note></standOff>
+<standOff type="notes4" corresp="#TNV7"><note xml:lang="en" target="#kolale">The TNV supplies a presiding deity for the <term xml:lang="ta"><hi rend="italic">pālai</hi></term> landscape, which is left out of the enumeration in the TP. Note also the different order of the landscapes.</note></standOff>
 <standOff type="apparatus" corresp="#TNV7" source="alignments/TNV7.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>

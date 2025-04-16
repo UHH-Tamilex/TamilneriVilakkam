@@ -170,9 +170,14 @@ that which is <term xml:lang="ta"><hi rend="italic">puṟam</hi></term> and that
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
 <p xml:id="TNV1comm1">eṉpatu niṟutta muṟaiyāṉē poruḷ ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu. eṉavē yivvōttup poruḷ iyal eṉpatāyiṟṟu.</p>
+</div>
+<div type="commentary" rend="parallel">
 <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the 
 way in which the grammar of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term> occurs. This chapter is therefore called the 'the nature of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term>'.</p>
+</div>
+<div type="commentary" rend="parallel">
 <p xml:id="TNV1comm2">akattiṉ ākiya vakap poruḷum puṟattiṉ ākiya
 puṟap poruḷum āy iru vakaiyiṉum ākiya vakap puṟap poruḷum eṉa mū vīṟṟatāyp pal vēṟu
 vakaip paṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷ ām eṉṟa vāṟu.</p>
@@ -181,6 +186,8 @@ the many different types of poetic situations which are divided into three [cate
 — <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> which is about the "inner world";
 <term xml:lang="ta"><hi rend="italic">puṟapporuḷ</hi></term> which is about the "outer world" and
 <term xml:lang="ta"><hi rend="italic">akappuṟapporuḷ</hi></term> which is about both of those categories.</p>
+</div>
+<div type="commentary" rend="parallel">
 <p xml:id="TNV1comm3">puṟac ceykai yuḷateṉiṉumikuti vakaiyāl akam paṟṟi nikaḻtaliṉ
 iru talaiyum tīrā vaṉpiṟṟākiya kāmam akap poruḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakaiyāṟ puṟac 
 ceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟam puṟap poruḷ eṉpatu. akam allā viṉpamum puṟam allāp poruḷ ceyal 
@@ -207,7 +214,7 @@ instances of external actions, there is <term xml:lang="ta"><hi rend="italic">pu
 which is not <term xml:lang="ta"><hi rend="italic">akam</hi></term> and the virtue which is catagorised as worldy action outside of <term xml:lang="ta"><hi rend="italic">puram</hi></term> — keeping in mind the 
 occurrence of these two categories and the liberation which is their end goal, there are things termed 
 <term xml:lang="ta"><hi rend="italic">akappurapporul</hi></term>.</p>
- 
+ </div>
  </body>
  </text>     
 <standOff corresp="#TNV1comm1" type="wordsplit">

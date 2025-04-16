@@ -164,11 +164,16 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
 <p xml:id="TNV2comm1">e – tu. collap paṭṭaṉa vuḷ akap poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
 <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> occurs amongst those which have been mentioned.<note xml:lang="en" place="foot">This is referring back to the three categories mentioned in <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term> 1 — <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term>, <term xml:lang="ta"><hi rend="italic">puṟapporuḷ</hi></term> and what the commentator identifies as <term xml:lang="ta"><hi rend="italic">akappuṟapporuḷ</hi></term>.</note></p>
+</div>
+<div type="commentary" rend="parallel">
 <p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta urip poruḷ akap poruḷ ām eṉṟa vāṟu.</p>  
 <p xml:lang="en"><term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> is the suitable poetic content which is attached to the basic elements and the constituent elements.</p>
-<p xml:id="TNV2comm3">mutal eṉap paṭṭatiṭamum kālamum eṉṟuṇarvatu. karu veṉap paṭṭa poruṭ ceykai yoḻittuk koḷka. 
+</div>
+<div type="commentary" rend="parallel">
+<p xml:id="TNV2comm3">mutal eṉap paṭṭatiṭamum kālamum eṉṟuṇarvatu<anchor xml:id="mutal"/>. karu veṉap paṭṭa poruṭ ceykai yoḻittuk koḷka. 
 vatuvum uriyum paṇpeṉap paṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉap paṭum eṉpatu. <note>2.</note></p>
 <p xml:lang="en">The thing called <term xml:lang="ta"><hi rend="italic">mutal</hi></term> is understood as 
 place and time. Understand that the things called <term xml:lang="ta"><hi rend="italic">karu</hi></term> are 
@@ -183,6 +188,7 @@ and emotional themes in a poem are natural to the basic elements - the time and 
 poetic landscapes have specific properties and themes in their nature.</note> and the group of those 
 four<note xml:lang="en" place="foot">Presumably this is referring to <q xml:lang="ta"><hi rend="italic">itam, 
 kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi rend="italic">tiṇai</hi></term>.</p>
+</div>
 </body></text><standOff corresp="#TNV2" type="wordsplit">
 <interp type="alignment" select="0">31MGM,33M</interp>
 <entry>
@@ -365,7 +371,9 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
     <rdg wit="#TNVcac">akappo<lb n="19"/>ruḷāra<gap reason="illegible" unit="character" quantity="1"/>ṟaṉṟavāṟu.</rdg>
     <rdg wit="#TNVms">akapporuḷā</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV2comm3" source="alignments/TNV2comm3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV2comm3"><note xml:lang="ta" target="mutal"><term xml:lang="en">Cf. TP4iː</term> mutaleṉap paṭuvatu nilampoḻu tiraṇṭi / ṉiyalpeṉa moḻipa viyalpuṇarn tōrē//</note></standOff>
+<standOff type="apparatus" corresp="#TNV2comm3" source="alignments/TNV2comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>

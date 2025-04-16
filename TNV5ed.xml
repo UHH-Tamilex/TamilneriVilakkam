@@ -215,10 +215,10 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV5">
-      <l>iruṇilai yucci mālai vaikaṟai</l>
-<l>poruṇilai yanti puṇarkkum poḻutē</l></lg>
+      <l>iruṇilai<anchor xml:id="irunilai"/> yucci<anchor xml:id="ucci"/> mālai<anchor xml:id="malai"/> vaikaṟai<anchor xml:id="vaikarai"/></l>
+<l>poruṇilai yanti<anchor xml:id="yanti"/> puṇarkkum poḻutē<anchor xml:id="polute"/></l></lg>
 <p xml:lang="en">The state of darkness, midday, evening, daybreak and twilight in its objective 
-state<note place="foot">This is not clear to me. One could make the argument that there has been some 
+state<!--note place="foot">This is not clear to me. One could make the argument that there has been some 
 distortion of standard word order for the sake of <term xml:lang="ta"><hi rend="italic">etukai</hi></term>, 
 in which case we could read <term xml:lang="ta"><hi rend="italic">nilai poruḷ</hi></term> and understand the 
 phrase to mean 'established meaning'. However, the author only applies <term xml:lang="ta"><hi rend="italic">etukai</hi></term>
@@ -227,30 +227,31 @@ phrase to mean 'established meaning'. However, the author only applies <term xml
  what the phrase means in the <term xml:lang="ta">Tolkāppiyam</term> (cf. TC250.2), though what it means exactly is still not clear. 
  It could be referring to a specific time within twilight, though if so, I do not know when.</note> all together<note place="foot" xml:lang="ta">
  I am not sure what the union is here. Do these times of day connect to some elliptical object, like their respective landscapes? 
- Or are they combined with each other and as a group should be understod as <q xml:lang="ta"><hi rend="italic">poḻutu</hi></q>?</note> are the times [of day].</p>
+ Or are they combined with each other and as a group should be understod as <q xml:lang="ta"><hi rend="italic">poḻutu</hi></q>?</note--> are the times [of day].</p>
 </div>
 </body>
 </text>
  <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV5comm1">e-tu. ciṟu kālamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
 <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which
-the minor basic time-element occurs.</p>
+the minor basic time-element occurs.</p></div>
+<div type="commentary" rend="parallel">
 <p xml:id="TNV5comm2">naṭuvu paṭṭa viruḷ yāmamuṅ katir kāyum uccip poḻutu mālaip poḻutum pular kālaiyum 
 antiyum ēṟpāṭu<anchor xml:id="erpatu"/> muṟaiyāṉē ain tiṇaikkum ciṟu kāla mutal ām eṉṟa vāṟu. <note>5.</note></p>
 <p xml:lang="en">The middle of the dark midnight, the midday time when the sun burns, the evening-time, the time of dawn and twilight - so the basic small time-elements for the five potic landscapes occur according to the established order.</p>
-      </body>
+</div>     
+</body>
       </text>
-      <standOff type="notes1" corresp="#TNV5"><note xml:lang="ta"><term xml:lang="en">Cf. TP6i:</term> kāru mālaiyu mullai//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP7i:</term> kuṟiñci / kūtir yāma meṉmaṉār pulavar//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP8i:</term> paṉiyetir paruvamu muritteṉa moḻipa//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP9i:</term> vaikuṟu viṭiyaṉ marutam//</note> 
-<note xml:lang="ta"><term xml:lang="en">Cf. TP10i:</term> eṟpāṭu / neyta lātaṉ meypeṟat tōṉṟum //</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP11i:</term> naṭuvunilait tiṇaiyē naṇpakala vēṉiloṭu / muṭivunilai maruṅkiṉ muṉṉiya neṟittē//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP12i:</term> piṉpaṉi tāṉu muritteṉa moḻipa</note></standOff>
-<standOff type="notes4" corresp="#TNV5"><note xml:lang="en">See the note in the apparatus to TNV4.</note>
-<note xml:lang="en">It is also worth pointing out that the TNV only lists five time of days, whereas the TP gives six - both <term xml:lang="ta"><hi rend="italic">vaikarai</hi></term> (the hours before sunrise) and <term xml:lang="ta"><hi rend="italic">viṭiyal</hi></term> (the hours after sunset) are approriate in <term xml:lang="ta"><hi rend="italic">marutam</hi></term>.</note></standOff>
+      <standOff type="notes1" corresp="#TNV5"><note xml:lang="ta" target="#malai"><term xml:lang="en">Cf. TP6i:</term> kāru mālaiyu mullai//</note>
+<note xml:lang="ta" target="#irunilai"><term xml:lang="en">Cf. TP7i:</term> kuṟiñci / kūtir yāma meṉmaṉār pulavar//</note>
+<note xml:lang="ta" target="#vaikarai"><term xml:lang="en">Cf. TP9i:</term> vaikuṟu viṭiyaṉ marutam//</note> 
+<note xml:lang="ta" target="#yanti"><term xml:lang="en">Cf. TP10i:</term> eṟpāṭu / neyta lātaṉ meypeṟat tōṉṟum //</note>
+<note xml:lang="ta" target="#ucci"><term xml:lang="en">Cf. TP11i:</term> naṭuvunilait tiṇaiyē naṇpakala vēṉiloṭu / muṭivunilai maruṅkiṉ muṉṉiya neṟittē//</note></standOff>
+<standOff type="notes4" corresp="#TNV5"><note xml:lang="en" target="#polute">See the note in the apparatus to TNV4.</note>
+<note xml:lang="en" target="#polute">It is also worth pointing out that the TNV only lists five time of days, whereas the TP gives six - both <term xml:lang="ta"><hi rend="italic">vaikarai</hi></term> (the hours before sunrise) and <term xml:lang="ta"><hi rend="italic">viṭiyal</hi></term> (the hours after sunset) are approriate in <term xml:lang="ta"><hi rend="italic">marutam</hi></term>.</note></standOff>
       <standOff type="apparatus" corresp="#TNV5" source="alignments/TNV5.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
