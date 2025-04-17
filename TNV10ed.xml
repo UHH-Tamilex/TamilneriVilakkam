@@ -113,11 +113,11 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          </witness>          
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          </witness>
+          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
           <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
@@ -145,7 +145,8 @@
               <abbr type="siglum">KT40</abbr>
               <expan>KT40</expan>
           </witness>
-        </listWit>
+          
+       </listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -156,8 +157,8 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV10">
-          <l>tiṉaiyē taruppaṇa mutirai cennel</l>
-          <l>vilaikō ḷaṉaiyaṉa mēviya vuṇavē</l>
+          <l>tiṉaiyē<anchor xml:id="tinai"/> taruppaṇa mutirai cennel<anchor xml:id="cennel"/></l>
+          <l>vilaikō<anchor xml:id="vilai"/> ḷiṉaiyaṉa<anchor xml:id="inaiyana"/> mēviya vuṇavē<anchor xml:id="una"/></l>
 </lg>
 <p xml:lang="en">Millet<note place="foot" xml:lang="en"><q xml:lang="ta">tiṉai</q> can also refer to the wider group of millets as 
   a whole, not just the foxtail type mentioned in the commentary to the previous 
@@ -174,15 +175,15 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV10comm1">e-tu. uṇavām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way [in which] food occurs.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way [in which] food occurs.</p>
       <p xml:id="TNV10comm2">tiṉaiyun taruppaṇamum varaku mutaliyaṉavum vayal viḷaiyuñ cen nellum 
-      uppu vilaiyum uḷ ḷiṭṭaṉa vellām uṇavām eṉṟa vāṟu.</p>
+      uppu vilaiyum<anchor xml:id="uppuvilai"/> uḷ ḷiṭṭaṉa vellām uṇavām eṉṟa vāṟu.</p>
       <p xml:lang="en">Foxtail millet, refreshments, those things beginning with common millet<note place="foot" xml:lang="en">This clearly </note>, red rice 
         produced in paddy fields, salt that is exchanged - all [of these] are included as the foods.</p>
       <p xml:id="TNV10comm3">iṉaiyaṉa veṉṟataṉāl vetir nelluṅ kiḻaṅkun tēṉeyyum aruvi nīruñ cuṉai nīrum 
       āṟalaittaṉavum vaṟuñ cuṉai nīrum uvari nīruṅ kāṉ yāṟṟu nīrum veṇ ṇelluṅ kiṇaṟṟu nīrum poykai nīrumaṇaṟ 
       kūvaṉīrum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
-      <p xml:lang="en">Because he says "<hi rend="italic">iṉaiyaṉa</hi>", understand that all [of these] are included: blossomed rice,  
+      <p xml:lang="en">Because he says <q xml:lang="ta-Latn"><hi rend="italic">iṉaiyaṉa</hi></q>, understand that all [of these] are included: blossomed rice,  
       root vegetables, honey, river water, mountain-spring water; things robbed from the way, 
       water from dried mountain springs, brackish water; water from a pastoral river; white rice, 
       water from wells, tank/pond water and water from sand dunes.</p>
@@ -731,7 +732,16 @@
   <gram type="role">optative</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV10" source="alignments/TNV10.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes2" corresp="#TNV10"><note xml:lang="ta" target="#tinai"><term xml:lang="en">Cf. IAC1, p.25:</term> kuṟiñcikku... uṇā... tiṉaiyum</note>
+  <note xml:lang="ta" target="#cennel"><term xml:lang="en">Cf. IAC1, p.27:</term> marutattukku... uṇā cennelum</note>
+  <note xml:lang="ta" target="#vilai"><term xml:lang="en">Cf. IAC1, p.25:</term> neytaṟku... uṇā mīṉvilaiyum uppuvilaiyum</note>
+  </standOff>
+    
+<standOff type="notes4" corresp="#TNV10"><note xml:lang="en" target="#inaiyana">I have chosen to not take the plam-leaf MS reading as <q xml:lang="ta-Latn"><hi rend="italic">iṉaiyaṉa</hi></q> is clearly the reading of the commentator and follows the pattern of the last <term xml:id="ta-Latn"><hi rend="italic">cūttiram</hi></term>, where <q xml:lang="ta-Latn"><hi rend="italic">iṉaiyaṉa</hi></q> indicated a potential extension of the enumeration.</note>
+  <note xml:lang="en" target="#una">The differences are quite stark here. I have included the similar passages from the IAC, included those where the content is identical, under parallels. The similarities here seem incidental, as if often the case with the relationship between the TNV <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term> and IAC.</note> 
+</standOff>
+<standOff type="apparatus" corresp="#TNV10" source="alignments/TNV10.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -748,16 +758,23 @@
   </desc>
 </interp><listApp>
   <app loc="0,7">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tiṉaiyē</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>tiṉaiyē</lem>
+      <rdg type="minor" wit="#TNVc"><lb n="16"/>tiṉaiyē</rdg>
+      <rdg type="minor" wit="#TNVmspc"><pb n="3r" facs="6" type="folio"/><lb n="1"/>tiṉaiyē</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac"><pb n="3r" facs="6" type="folio"/><lb n="1"/>tiṇaiyē</rdg>
   </app>
   <app loc="29,36">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vilaikō</lem>
-    <rdg wit="#TNVmsac"><unclear>ka</unclear>vilaikō</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>vilaikō</lem>
+      <rdg type="minor" wit="#TNVc"><lb n="17"/>vilaikō</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac"><unclear>ki</unclear>vilaikō</rdg>
   </app>
   <app loc="36,45">
-    <lem wit="#TNVms">ḷaṉaiyaṉa</lem>
-    <rdg wit="#TNVc #TNV1937 #TNV1947">ḷiṉaiyaṉa</rdg>
+    <lem wit="#TNVc #TNV1937 #TNV1947">ḷiṉaiyaṉa</lem>
+    <rdg wit="#TNVms">ḷaṉaiyaṉa</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV10comm1" source="alignments/TNV10comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -774,7 +791,9 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV10comm2" source="alignments/TNV10comm2.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV10comm2"><note xml:lang="ta" target="#uppuvilai"><term xml:lang="en">Cf. IAC1, p.25:</term> neytaṟku... uṇā mīṉvilaiyum uppuvilaiyum</note></standOff>
+<standOff type="apparatus" corresp="#TNV10comm2" source="alignments/TNV10comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
