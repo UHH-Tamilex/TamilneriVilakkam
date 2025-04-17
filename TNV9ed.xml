@@ -156,9 +156,9 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV9">
-      <l>niṟaittē ṉaḻittalu neṟicceṉ ṟalaittalu</l>
-<l>morukkiṉa mōmpalu muḻavoṭu payiṟalun</l>
-<l>tiraikkaṭaṟ cēṟalō ṭiṉaiyaṉa ceyalē</l>
+      <l>niṟaittē ṉaḻittalu<anchor xml:id="alittal"/> neṟicceṉ ṟalaittalu<anchor xml:id="alaittal"/></l>
+<l>morukkiṉa mōmpalu<anchor xml:id="ompal"/> muḻavoṭu payiṟalun<anchor xml:id="payiral"/></l>
+<l>tiraikkaṭaṟ cēṟalō<anchor xml:id="ceral"/> ṭiṉaiyaṉa ceyalē<anchor xml:id="ceyal"/></l>
 </lg>
 <p xml:lang="en">Destroying full honey-combs; going on the road and harassing [travellers]; protecting gathered herds; practising ploughing and going on the rolling sea - such are the occupations.</p>
 </div>
@@ -167,19 +167,25 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV9comm1">e-tu. ceyti yām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way [in which] the occupations occur.</p>
-      <p xml:id="TNV9comm2">tēṉ aḻittalum āṟalaittalunirai mēyttalum 
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way [in which] the occupations occur.</p>
+      </div>
+      <div type="commentary" rend="parallel">
+      <p xml:id="TNV9comm2">tēṉ aḻittalum āṟalaittalunirai mēyttalum<anchor xml:id="meyttal"/> 
       uḻutaluṅ kaṭal ūṭu pukutalum eṉṟip peṟṟi yellām āṇṭaic ceytiyām eṉṟa vāṟu.</p>
       <p xml:lang="en">Destroying honey-combs; harassing [travellers] on the road; grazing herds; 
       ploughing and entering into the sea - all [of these] are the occupations each place in this order<note place="foot" xml:lang="en">This performs a simlar fuction to <q xml:lang="ta"><hi rend="italic">muṟaiyāṉē</hi></q> in previous <term xml:lang="ta"><hi rend="italic">cūttirams</hi></term>.</note>.</p>
-      <p xml:id="TNV9comm3">iṉaiyaṉa<anchor xml:id="inaiyana"/> veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum ūr 
-      eṟitalunirai kōṭalum varakaritalum ēṟu kōṭalum viḻavayartalum puṉal āṭalum uppākkutalumuttuk 
-      kuḷittalum uḷḷiṭṭaṉa vellāṅ koḷka.<note> 9.</note></p>
+      </div>
+      <div type="commentary" rend="parallel">
+      <p xml:id="TNV9comm3">iṉaiyaṉa<anchor xml:id="inaiyana"/> veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum<anchor xml:id="kilankakal"/> ūr 
+      eṟitalunirai kōṭalum<anchor xml:id="niraikotal"/> varakaritalum ēṟu kōṭalum<anchor xml:id="erukotal"/> viḻavayartalum puṉal āṭalum<anchor xml:id="atal"/> uppākkutalumuttuk 
+      kuḷittalum<anchor xml:id="kulittal"/> uḷḷiṭṭaṉa vellāṅ koḷka.<note> 9.</note></p>
       <p xml:lang="en">Because of <q xml:lang="ta"><hi rend="italic">iṉaiyaṉa</hi></q>, understand that all 
-        [of these] are included: harvesting foxtail millet; harvesting root vegetables; raiding towns; seizing 
-        cattle-herds; harvesting common millet; capturing bulls; performing ceremonies; playing in the flood; 
+        [of these] are included: harvesting foxtail millet and harvesting root vegetables; raiding towns and seizing 
+        cattle-herds; harvesting common millet and capturing bulls; performing ceremonies and playing in the flood; 
         making salt and diving for pearls.</p>
+        </div>
       </body>
       </text>
       <standOff corresp="#TNV9" type="wordsplit">
@@ -719,9 +725,15 @@
 </gramGrp>
 </entry>
 </standOff>
-<standOff type="notes2" corresp="#TNV9"><note xml:lang="ta"><term xml:lang="en">Cf. TP22:</term> peyarum viṉaiyumeṉ ṟāyiru vakaiya / tiṇaitoṟu marīiya tiṇainilaip peyarē//</note></standOff>
-<standOff type="notes2" corresp="#TNV9"><note xml:lang="ta"><term xml:lang="en">Cf. TP23:</term> āyar vēṭṭuva rāṭūu tiṇaippeya / rāvayiṉ varūuṅ kiḻavaru muḷarē//</note></standOff>
-<standOff type="notes2" corresp="#TNV9"><note xml:lang="ta"><term xml:lang="en">Cf. TP24:</term> ēṉōr pāṅkiṉu meṇṇuṅ kālai / yāṉu vakaiya tiṇainilaip peyarē//</note></standOff>
+<standOff type="notes1" corresp="#TNV9"><note xml:lang="ta" target="#alittal"><term xml:lang="en">Cf. IAC1, p.25:</term> kuṟiñcikku... ceyti tēṉaḻittaluṅ</note>
+</standOff>
+<standOff type="notes2" corresp="#TNV9">
+<note xml:lang="ta" target="#ceral"><term xml:lang="en">Cf. IAC1, p.25:</term> neytaṟku... ceyti mīṉviṟṟalum</note>
+<note xml:lang="ta" target="#alaittal"><term xml:lang="en">Cf. IAC1, p.26:</term> pālaikku... ceyti... cātteṟitaluñ</note>
+<note xml:lang="ta" target="#ompal"><term xml:lang="en">Cf. IAC1, p.26:</term> mullaikku... ceyti... niraimēyttalum</note>
+<note xml:lang="ta" target="#payiral"><term xml:lang="en">Cf. IAC1, p.27:</term> marutattukku... ceyti... payirkkuk kaḷaikaṭṭalum</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV9"><note xml:lang="en" target="#ceyal">The situation here is a bit odd. The occupations listed in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> correspong to one of the ones listed in the corresponding section in the IAC. However, with the exception of <q xml:lang="ta"><hi rend="italic">tēṉaḻittal</hi></q>, they have are described in different language. The IAC also lists out multiple jobs, whereas the TNV <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> lists only one per landscape. I have chosen to give only the revelevant corresponding occupation from the IAC here. In the notes to the commentary, the others are provided, where they are in fact sources/parallels.</note></standOff>
 <standOff type="apparatus" corresp="#TNV9" source="alignments/TNV9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -757,7 +769,9 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV9comm2" source="alignments/TNV9comm2.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV9comm2"><note xml:lang="ta" target="#meyttal"><term xml:lang="en">Cf. IAC1, p.27:</term> mullaikku... ceyti... niraimēyttalum</note></standOff>
+<standOff type="apparatus" corresp="#TNV9comm2" source="alignments/TNV9comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -790,7 +804,15 @@
   </app>
   
 </listApp></standOff>
-<standOff type="notes4" corresp="#TNV9comm3"><note target="#inaiyana">I have emended here in line with UVC. The commmentator is referring back to the <hi rend="italic">cūttiram</hi> and in both the palm-leaf and paper copy, the <hi rend="italic">cūttiram</hi> reads <hi rend="italic">iṉaiyaṉa</hi>.</note></standOff>
+<standOff type="notes1" corresp="#TNV9comm3"><note xml:lang="ta" target="#kilankakal"><term xml:lang="en">Cf. IAC, p.25:</term> kuṟiñcikku... ceyti... kiḻaṅkakaḻtaluṅ kuṉṟamoṭutalun tiṉaikkiḷikaṭitalum</note>
+<note xml:lang="ta" target="#niraikotal"><term xml:lang="en">Cf. IAC, p.26:</term> pālaikku... ceyti niraikōṭaluñ cātteṟitaluñ cūṟaiyāṭalum</note>
+<note xml:lang="ta" target="#erukotal"><term xml:lang="en">Cf. IAC, p.26:</term> mullaikku... ceyti varaku kaḷaikaṭṭalum avai yaṟuttaluṅ kaṭāviṭutalum niraimēyttalum ēṟukōṭalum</note>
+<note xml:lang="ta" target="#atal"><term xml:lang="en">Cf. IAC, p.26:</term> marutattukku... ceyti nellaritalum avai kaṭāviṭutalum payirkkuk kaḷaikaṭṭalum</note>
+<note xml:lang="ta" target="#kulittal"><term xml:lang="en">Cf. IAC, p.25:</term> neytaṟku... ceyti mīṉviṟṟalum uppuviṟṟalum avaipaṭuttalum</note> 
+</standOff>
+<standOff type="notes4" corresp="#TNV9comm3"><note xml:lang="en" target="#inaiyana">I have emended here in line with UVC. The commmentator is referring back to the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> and in both the palm-leaf and paper copy, the <hi rend="italic">cūttiram</hi> reads <hi rend="italic">iṉaiyaṉa</hi>.</note>
+  <note xml:lang="en" target="#kulittal">As is often the case, the disambiguation between source and parallel is diffcult to make. The IAC provides slightly fuller lists of occupations than this commentary. Much, however, is the same. I have simply quoted the relevant passages in full unders sources here as, even though the are cases where the treatent is not identical, there are enough similarites to suggest that the IAC was the source, and I did not want to balloon this apparatus any further than necessary.</note>
+</standOff>
 <standOff type="apparatus" corresp="#TNV9comm3" source="alignments/TNV9comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
