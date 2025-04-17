@@ -174,19 +174,25 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV10comm1">e-tu. uṇavām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way [in which] food occurs.</p>
+      </div>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV10comm2">tiṉaiyun taruppaṇamum varaku mutaliyaṉavum vayal viḷaiyuñ cen nellum 
       uppu vilaiyum<anchor xml:id="uppuvilai"/> uḷ ḷiṭṭaṉa vellām uṇavām eṉṟa vāṟu.</p>
       <p xml:lang="en">Foxtail millet, refreshments, those things beginning with common millet<note place="foot" xml:lang="en">This clearly </note>, red rice 
         produced in paddy fields, salt that is exchanged - all [of these] are included as the foods.</p>
-      <p xml:id="TNV10comm3">iṉaiyaṉa veṉṟataṉāl vetir nelluṅ kiḻaṅkun tēṉeyyum aruvi nīruñ cuṉai nīrum 
-      āṟalaittaṉavum vaṟuñ cuṉai nīrum uvari nīruṅ kāṉ yāṟṟu nīrum veṇ ṇelluṅ kiṇaṟṟu nīrum poykai nīrumaṇaṟ 
-      kūvaṉīrum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
+      </div>
+      <div type="commentary" rend="parallel">
+        <p xml:id="TNV10comm3">iṉaiyaṉa veṉṟataṉāl vetir nelluṅ kiḻaṅkun tēṉeyyum aruvi nīruñ cuṉai nīrum<anchor xml:id="kurinci"/> 
+      āṟalaittaṉavum vaṟuñ cuṉai nīrum uvari nīruṅ<anchor xml:id="palai"/> kāṉ yāṟṟu nīrum<anchor xml:id="mullai"/> veṇ ṇelluṅ kiṇaṟṟu nīrum poykai<anchor xml:id="marutam"/> nīrumaṇaṟ 
+      kūvaṉīrum<anchor xml:id="neytal"/> uḷ ḷiṭṭaṉa vellāṅ koḷka.<anchor xml:id="note"/></p>
       <p xml:lang="en">Because he says <q xml:lang="ta-Latn"><hi rend="italic">iṉaiyaṉa</hi></q>, understand that all [of these] are included: blossomed rice,  
       root vegetables, honey, river water, mountain-spring water; things robbed from the way, 
       water from dried mountain springs, brackish water; water from a pastoral river; white rice, 
       water from wells, tank/pond water and water from sand dunes.</p>
+      </div>
       </body>
       </text>
       <standOff corresp="#TNV10" type="wordsplit">
@@ -810,14 +816,24 @@
   </desc>
 </interp><listApp>
   <app loc="0,8">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tiṉaiyun</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>tiṉaiyun</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947"><note>(i – ḷ.)</note> tiṉaiyum,</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">tiṇaiyun</rdg>
   </app>
-  <app loc="52,61">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cen nellum</lem>
-    <rdg wit="#TNVmsac">ñ cennellum</rdg>
+  <app loc="44,52">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">viḷaiyuñ</lem>
+    <rdg wit="#TNVmsac">viḷaiyuññ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV10comm3" source="alignments/TNV10comm3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV10comm3"><note xml:lang="ta" target="#kurinci"><term xml:lang="en">Cf. IAC1, p.25:</term> kuṟiñcikku... uṇā aivana nellun tiṉaiyum...; nīr aruvinīruñ cuṉainīrum</note>
+<note xml:lang="ta" target="#palai"><term xml:lang="en">Cf. IAC1, p.26:</term> pāliakku... uṇā āṟalaittaṉavum ūreṟitaṉavum...; nīr vaṟunīrkkūvalum aṟunīrccuṉaiyum</note>
+<note xml:lang="ta" target="#mullai"><term xml:lang="en">Cf. IAC1, p.26-7:</term> mullaikku... nīr kāṉyāṟu</note>
+<note xml:lang="ta" target="#marutam"><term xml:lang="en">Cf. IAC1, p.27:</term> marutattukku... uṇā cennellum veṇṇellum...; nīr maṉaikkiṇaṟum poykaiyum yāṟum</note>
+<note xml:lang="ta" target="#neytal"><term xml:lang="en">Cf. IAC1, p.26:</term> neytaṟku... nīr maṇaṟkiṇaṟum uvarkkaḻiyum</note></standOff>
+<standOff type="notes4" corresp="#TNV10comm3"><note xml:lang="en" target="#note">Where only additional types of water were enumerated in the TNV commentary, I provided only the section on water from the IAC, where both food and water were endumerated, I provided both corresponding sections. There is some small crossover with what is provided as a parallel for the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>.</note></standOff>
+<standOff type="apparatus" corresp="#TNV10comm3" source="alignments/TNV10comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
