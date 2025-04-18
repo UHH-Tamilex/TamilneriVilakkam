@@ -161,7 +161,7 @@
 <l>kuruntē mullai yiralai puṟavē</l>
 <l>kāñci kaḻunīr mēti yaṉṉaṅ</l>
 <l>kaitai muṇṭakaṅ karāmē kampuḷeṉ</l>
-<l>ṟeytiya piṟavu miyampiya vilaṅkē</l></lg>
+<l>ṟeytiya piṟavu miyampiya vilaṅkē<anchor xml:id="vilanku"/></l></lg>
 <p xml:lang="en">Kino tree, Malabar glory lily, lion, peacock,
 <term xml:lang="ta-Latn"><hi rend="italic">Pāṅkar</hi></term> tree, <term xml:lang="ta-Latn"><hi rend="italic">Maṟā</hi></term> tree, wild dog, kite,
 wild lime, jasmine, <term xml:lang="ta-Latn"><hi rend="italic">iralai</hi></term> deer, pigeon,
@@ -182,9 +182,9 @@ paruntup puḷḷuṅ kurunta maramuṅ koṭip pū mullaiyum iralai māvum pu�
 kāñci maramum pūṅ kaḻunīrum erumai māvum aṉṉap puḷḷun tāḻai maramum pūṅ kaḻi muḷḷiyumutalai māvuṅ 
 kampuṭ puḷḷum piṟavum ain tiṇaikkuriya vilaṅkām eṉṟa vāṟu.</p>
 <p xml:id="TNV12comm3">piṟavum eṉṟataṉāl akiluñ cantaṉamum vēṅkaip pūvuñ cuṉaik kuvaḷaip pūvum 
-puliyum yāṉaiyuṅ kiḷiyum vēṅkaiyuṅ kurām pūvum pātiram pūvumurukkuṅ koṉṟaiyun tōṉṟip pūvumuyaluṅ 
-kāṉaṅ kōḻiyumarutum vañciyun tāmaraip pūvunīrnāyun tārāvum puṉṉaiyuñāḻaluneytaṟ pūvum 
-aṉṉamumakaṉṟilum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
+puliyum yāṉaiyuṅ kiḷiyum vēṅkaiyuṅ<anchor xml:id="venkai"/> kurām pūvum pātiram pūvumurukkuṅ<anchor xml:id="murukku"/> koṉṟaiyun tōṉṟip pūvumuyaluṅ 
+kāṉaṅ kōḻiyu<anchor xml:id="koli"/>marutum vañciyun tāmaraip pūvunīrnāyun tārāvum<anchor xml:id="tara"/> puṉṉaiyuñāḻaluneytaṟ pūvum 
+aṉṉamumakaṉṟilum<anchor xml:id="akanril"/> uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
 </body>
 </text>
 <standOff corresp="#TNV12" type="wordsplit">
@@ -1240,7 +1240,9 @@ aṉṉamumakaṉṟilum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV12" source="alignments/TNV12.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes4" corresp="#TNV12"><note xml:lang="en">Though most of the items in this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> are found in the IAC, I have not included it as either a source or parallel. This is for purely practical reasons. The repective organisation of the TNV, TNVC and IAC, the only way to present the relevant sections of the IAC would be to list out four enumerations for each lanscape: trees, flowers animals and birds. I have included the full enumerations in the commentary apparatus. Understand that they are also a parallel for the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term></note></standOff>
+<standOff type="apparatus" corresp="#TNV12" source="alignments/TNV12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -1272,7 +1274,14 @@ aṉṉamumakaṉṟilum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
     <lem wit="#TNVc #TNV1937 #TNV1947">kampuḷeṉ</lem>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="2"/>puḷeṉ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV12comm3" source="alignments/TNV12comm3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV12comm3"><note xml:lang="ta" target="#venkai"><term xml:lang="en">Cf. IAC1, p.25:</term> kuṟiñcikku... mā puliyum paṉriyum yāṉaiyum; maram akilum āramun timicun tēkkum vēṅkaiyum; puḷ kiḷiyum mayilum...; pū kuṟiñciyuṅ kāntaḷum vēṅkaiyuñ ceṉai kuvaḷaiyum</note>
+  <note xml:lang="ta" target="#murukku"><term xml:lang="en">Cf. IAC1, p.26:</term> pālaikku... mā valiyaḻinta yāṉaiyum puliyuñ cennāyum; maram iruppaiyum ōmaiyum; puḷ kaḻukum paruntum puṟavum...; pū marāmpūvuṅ kurāmpūvum pātirippūvum</note>
+  <note xml:lang="ta" target="#koli"><term xml:lang="en">Cf. IAC1, p.26-7:</term> mullaikku... mā muyaluñ ciṟumāṉum' maram koṉṟaiyuṅ kuruntum; puḷ kāṉaṅkōḻiyum mayiluñ civalum...; pū mullaiyun tōṉṟiyum</note>
+  <note xml:lang="ta" target="#tara"><term xml:lang="en">Cf. IAC1, p.27:</term> marutattukku... mā eṟumaiyum nīrnāyum; maram vañciyuṅ kāñciyum marutum; puḷ nīrkkōḻiyun tāravum... pū tāmaraippūvuñ ceṅkaḻunīrppūvum</note>
+    <note xml:lang="ta" target="#akanril"><term xml:lang="en">Cf. IAC1, p.25-6:</term> neytaṟku... mā cuṟavum mutalaiyum; maram puṉṉaiyum ñāḻalum kaṇṭalum; puḷ aṉṉamum aṉṟilum makaṉṟilum...; pū veḷḷitaḻk kaitaiyum neytalum</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV12comm3" source="alignments/TNV12comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
