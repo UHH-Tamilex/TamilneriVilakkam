@@ -263,13 +263,13 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV17comm1">e-tu. tōḻiyiṟ kūṭṭattup pakaṟ kuṟi yām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way 
-      in which the daytime meeting place for a union by means of the <hi rend="italic">tōḻi</hi> occurs.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way 
+      in which the daytime meeting place for a union by means of the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term> occurs.</p>
       <p xml:id="TNV17comm2">pāṅkiyai yuṇarntatu mutal ākak koṇṭu peyarntatīṟākac collap paṭṭaṉa 
       vellān tōḻiyiṉ ākiya pakaṟ kuṟik kūṭṭam ām eṉṟa vāṟu.</p> 
-<p xml:lang="en">All of the things mentioned, beginning with 'making known [his desire] to the <hi rend="italic">tōḻi</hi>' 
-and ending with '[the <hi rend="italic">tōḻi</hi>] taking [the heroine] and departing', are the union at the daytime meeting-place 
-on account of the <hi rend="italic">tōḻi</hi>.</p>
+<p xml:lang="en">All of the things mentioned, beginning with 'making known [his desire] to the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term>' 
+and ending with '[the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term>] taking [the heroine] and departing', are the union at the daytime meeting-place 
+on account of the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term>.</p>
 <div type="citation" rend="parallel">
         <lg xml:id="TNV17poem1">
      <l>nōkkiṉum piṟamuka nōkkāḷ cāriṉum</l>
@@ -366,7 +366,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lg xml:id="TNV17poem10"> 
         <l>vāṅkiruñ cilampiṉ vaṇṭa layarun</l>
         <l>tēṅkamaḻ kūntaṉ makaḷiruḷ</l>
-        <l>yāṅkā kiyarō<note place="foot"><hi rend="italic">ākiyarō</hi> is relatively common as a rhetorical question in Caṅkam Tamil, employing the optative. cf. KT40. In this case something like 'where will it fall?'. I am non quite sure why UVC felt the need to emend in this case. Perhaps he thought ākiyar was an epicene form and thus corrected it to the neuter singular, though would would be extremely surprising given his breadth of knowledge.</note> vēntaṉiṉ ṉaruḷē</l>
+        <l>yāṅkā kiyarō<note place="foot"><term xml:lang="ta-Latn"><hi rend="italic">ākiyarō</hi></term> is relatively common as a rhetorical question in Caṅkam Tamil, employing the optative. cf. KT40. In this case something like 'where will it fall?'. I am non quite sure why UVC felt the need to emend in this case. Perhaps he thought ākiyar was an epicene form and thus corrected it to the neuter singular, though would would be extremely surprising given his breadth of knowledge.</note> vēntaṉiṉ ṉaruḷē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -496,7 +496,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu22">eṉpatu kaiyuṟai veḷumai<note place="foot">This is recorded as a variant spelling for the more common <hi rend="italic">eḷimai</hi> 'easiness' in the TL. This follows a larger pattern of i/u spelling variants in this manuscript, possibly indicating a regional dialect and thus place of production.</note> kūṟiyatu.</p>
+    <p xml:id="TNV17koḷu22">eṉpatu kaiyuṟai veḷumai<note place="foot">This is recorded as a variant spelling for the more common <term xml:lang="ta-Latn"><hi rend="italic">eḷimai</hi></term> 'easiness' in the TL. This follows a larger pattern of i/u spelling variants in this manuscript, possibly indicating a regional dialect and thus place of production.</note> kūṟiyatu.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem23"> 
@@ -512,7 +512,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lg xml:id="TNV17poem24"> 
         <l>māmalaic cilampa mayilēr cāyaṟ</l>
         <l>ṟēmoḻi nilaimai terintapiṉ</l>
-        <l>pūmeṉ ṟaṇṭaḻai koḷkuvaṉ<note place="foot"><hi rend="italic">koḷḷuvaṉ</hi> has no attestations, but can we hypothosise its existence as a participial noun formed in the same way as <hi rend="italic">coḷḷuvāḷ</hi>? Both are mono-syllabic CVC verbal roots. For now I am favouring the known form.</note> purintē</l>
+        <l>pūmeṉ ṟaṇṭaḻai koḷkuvaṉ<note place="foot"><term xml:lang="ta-Latn"><hi rend="italic">koḷḷuvaṉ</hi></term> has no attestations, but can we hypothosise its existence as a participial noun formed in the same way as <term xml:lang="ta-Latn"><hi rend="italic">coḷḷuvāḷ</hi></term>? Both are mono-syllabic CVC verbal roots. For now I am favouring the known form.</note> purintē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -657,7 +657,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu37">eṉpatu talaimakaṉaik kuṟiyiṉ<note place="foot">I think <hi rend="italic">kuṟi</hi> referred to both the tryst and the location of the tryst and the early theoreticians and commentators used them quite interchangeably. Perhaps later editors sought to standardise and narrow the meaning of the word into just the tryst, hense the addition of <hi rend="italic">va(yiṉ)</hi>.</note> iṟuttip peyarntatu.</p>
+    <p xml:id="TNV17koḷu37">eṉpatu talaimakaṉaik kuṟiyiṉ<note place="foot">I think <term xml:lang="ta-Latn"><hi rend="italic">kuṟi</hi></term> referred to both the tryst and the location of the tryst and the early theoreticians and commentators used them quite interchangeably. Perhaps later editors sought to standardise and narrow the meaning of the word into just the tryst, hense the addition of <term xml:lang="ta-Latn"><hi rend="italic">va(yiṉ)</hi></term>.</note> iṟuttip peyarntatu.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem38"> 

@@ -137,7 +137,7 @@
                 <witness xml:id="KT2-C2" select="#C2">
                   <abbr type="siglum">KT2-C2</abbr>
                   <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
+                    Iṟaiyaṉār</persName>: <term xml:lang="ta-Latn"><hi rend="italic">HE</hi></term> [witness C2]</expan>
                 </witness>
               </listWit>
           </witness>
@@ -158,7 +158,7 @@
       <lg xml:id="TNV14">
       <l>muntiya nūlōr moḻintaveṇ maṇattiluṅ</l>
 <l>kantiruva muṟaimai kaḷaveṉap paṭumē.</l></lg>
-<p xml:lang="en">Amongst the eight [types of] marriage mentioned by those prior theoreticians, the <hi rend="italic">kaniruvam</hi> custom is called <hi rend="italic">kaḷavu</hi></p>
+<p xml:lang="en">Amongst the eight [types of] marriage mentioned by those prior theoreticians, the <term xml:lang="ta-Latn"><hi rend="italic">kaniruvam</hi></term> custom is called <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term></p>
 </div>
 </body>
 </text>
@@ -166,37 +166,37 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV14comm1">e-tu. kaikōḷ iraṇṭiṉ uḷḷuṅ kaḷavoḻukkām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way in which, 
-      of the two [which form] <hi rend="italic">kaikōḷ</hi>, the <hi rend="italic">kaḷavu</hi> conduct occurs.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which, 
+      of the two [which form] <term xml:lang="ta-Latn"><hi rend="italic">kaikōḷ</hi></term>, the <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> conduct occurs.</p>
       <p xml:id="TNV14comm2">toṉ ṉūl āciriyarkaḷāṟ collap paṭṭa vaṟanilai yoppu poruḷ kōṭeyvam arum poruḷ 
       vali nilai pēy nilai kantiruvam eṉap paṭṭa maṇam eṭṭiṉ uḷḷuṅ kantiruva vaḻakkam pōlvatu kaḷavoḻukkam ām eṉṟa vāṟu.</p>
-      <p xml:lang="en"><hi rend="italic">aṟanilai</hi>, <hi rend="italic">oppu</hi>, <hi rend="italic">poruḷ kōḷ</hi>, <hi rend="italic">teyvam</hi>, <hi rend="italic">arum poruḷ</hi>, <hi rend="italic">vali nilai</hi>, <hi rend="italic">pēy nilai</hi>, <hi rend="italic">kantiruvam</hi> which are 
-      [all] mentioned by the teachers of the old treatises - amongst those eight [types of] marriage, the <hi rend="italic">kantiruvam</hi> 
-      custom is the same as the <hi rend="italic">kaḷavu</hi> conduct.</p>
+      <p xml:lang="en"><term xml:lang="ta-Latn"><hi rend="italic">aṟanilai</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">oppu</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">poruḷ kōḷ</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">teyvam</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">arum poruḷ</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">vali nilai</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">pēy nilai</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">kantiruvam</hi></term> which are 
+      [all] mentioned by the teachers of the old treatises - amongst those eight [types of] marriage, the <term xml:lang="ta-Latn"><hi rend="italic">kantiruvam</hi></term> 
+      custom is the same as the <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> conduct.</p>
       <p xml:id="TNV14comm3">aṟanilai yāvatu nāṟpatteṭṭiyāṇṭu piramacariyaṅ kāttāṟkup paṉṉīrāṭṭaip pirāyattāḷai 
       yaṇikalam aṇintu koṭuppatu. iḵtoppil kūṭṭam ātaliṟ poruntāk kāmattiṉ pāṟ paṭum</p>
-      <p xml:lang="en">As for <hi rend="italic">aṟanilai</hi>, to a protector who is a 48 year old <hi rend="italic">brahmacharya</hi>, a 12 year old girl is 
+      <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">aṟanilai</hi></term>, to a protector who is a 48 year old <term xml:lang="ta-Latn"><hi rend="italic">brahmacharya</hi></term>, a 12 year old girl is 
       given after being decorated with ornaments. This falls to the side of unsuitable love because this union is 
       unequal.</p>
       <p xml:id="TNV14comm4">oppāvatu maittuṉak kōttirattāṟku māṟṟātu koṭuppatu. itu kaṟpiṉ pāṟ paṭum.</p>
-      <p xml:lang="en">As for <hi rend="italic">oppu</hi>, [it is] the giving [of the bride] without refusal to the <hi rend="italic">kōttiram</hi> of one’s maternal cousin. This falls to the side of <hi rend="italic">kaṟpu</hi>.</p>
+      <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">oppu</hi></term>, [it is] the giving [of the bride] without refusal to the <term xml:lang="ta-Latn"><hi rend="italic">kōttiram</hi></term> of one’s maternal cousin. This falls to the side of <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term>.</p>
       <p xml:id="TNV14comm5">poruḷ kōḷ āvatu āṉum āṉ ēṟum poṟ kōṭṭup poṟ kuḷam piṉavākac ceyvataṟṟōṭu nīriṟ koṭuppatu.
        ivvāṟōtaṟkaṇ otta pirāya mutal āyiṉ avaṟṟuḷaveṉiṟ kaṟpiṉ pāṟ paṭum; aṉṟeṉiṟ poruntāk kāmattiṉ pāṟ paṭum</p>
       <!--p xml:lang="en">As for <q xml:lang="ta"><hi rend="italic">poruḷ kōḷ</hi></q>, after making a cow and a bull have gold horns and hooves, 
       it is the giving [of the bride] along with them by means of [the pouring of] water. In this way, 
       in the case of giving, if the factors beginning with being the same age exist, then this falls to the side 
-      of <hi rend="italic">karpu</hi>. If one says something different, then this falls to the side to unsuitable love</p-->
+      of <term xml:lang="ta-Latn"><hi rend="italic">karpu</hi></term>. If one says something different, then this falls to the side to unsuitable love</p-->
       <p xml:id="TNV14comm6">teyvam āvatu vēḷvi yāciriyaṟku vēḷvit tī muṉṉar koṭuppatu. ituvum poruḷ kōḷōṭokkum</p> 
-      <p xml:lang="en">As for <hi rend="italic">teyvam</hi>, [it is] the giving [of the bride] to the sacrificial priest before the sacrificial fire. This too is the same as <hi rend="italic">poruḷ kōḷ</hi>.</p>
+      <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">teyvam</hi></term>, [it is] the giving [of the bride] to the sacrificial priest before the sacrificial fire. This too is the same as <term xml:lang="ta-Latn"><hi rend="italic">poruḷ kōḷ</hi></term>.</p>
 <p xml:id="TNV14comm7">arum poruḷ viṉai yāvatu kol lēṟu taḻuvutal vil lēṟṟu mutalaṉa ceytārkkuk koṭuppatu. 
 itu vaṉ maṇam ātaliṟ poruntāk kāmattiṉ pāṟ paṭum.</p>
-<p xml:lang="en">As for <hi rend="italic">arum poruḷ viṉai</hi>, [it is] the giving [of the bride] to the one who does the actions of 
+<p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">arum poruḷ viṉai</hi></term>, [it is] the giving [of the bride] to the one who does the actions of 
 embracing the murderous bull, bowmanship etc. This falls to the side of unsuitable love because this is a forced marriage.</p>
 <p xml:id="TNV14comm8">vali nilai yāvatu tamariṉum avaḷiṉum peṟātu valintu koḷvatu. ituvum ataṉ pāṟ paṭum.</p>
-<p xml:lang="en">As for <hi rend="italic">vali nilai</hi>, [it is] the forceful taking without obtaining [permission] from either her relations or her. This also falls to that side [of being a forced marriage].
+<p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">vali nilai</hi></term>, [it is] the forceful taking without obtaining [permission] from either her relations or her. This also falls to that side [of being a forced marriage].
 </p>
 <p xml:id="TNV14comm9">pēy nilai yāvatu kaḷittāṇ māṭṭun tuyiṉṟāṇ māṭṭuñ celvatu. ituvum poruntāk kāmattiṉ pāṟ paṭum.</p>
-<p xml:lang="en">As for <hi rend="italic">pēy nilai</hi>, [it is] the going [off with the bride] when she is intoxicated or sleeping. This too falls to the side of unsuitable love.</p>
+<p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">pēy nilai</hi></term>, [it is] the going [off with the bride] when she is intoxicated or sleeping. This too falls to the side of unsuitable love.</p>
 <p xml:id="TNV14comm10">kantiruvam āvatu ottār iruvar tāmē kaḷaviṉāṟ kūṭuṅ kūṭṭam. itaṉāl oruvāṟaṟamuṉ ākiya voppumai
  yuṭaittēṉum āṇ mutalākac collap paṭṭa kaḷavoḻukkan teyvap puṇarcciyum pāṅkaṟ kūṭṭamun tōḻiyiṟ kūṭṭattup 
  pakaṟ kuṟiyum iravuk kuṟiyum varaivu kaṭātalum uṭaṉ pōkku valittalum eṉa vāṟām eṉra vāṟu. <note>14.</note></p>
