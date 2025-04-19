@@ -175,16 +175,37 @@ and appropriate others [are] the living things mentioned.
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV12comm1">e-tu. vilaṅkām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which living things occur.</p>
-<p xml:id="TNV12comm2">vēṅkai maramum pūṅ kulaik kāntaḷuñ cīyamāvumayiṟ puḷḷum ōmai maramumarām pūvuñ cennāy māvum 
+    </div>
+    <div type="commentary" rend="parallel">
+      <p xml:id="TNV12comm2">vēṅkai maramum pūṅ kulaik kāntaḷuñ cīyamāvumayiṟ puḷḷum ōmai maramumarām pūvuñ cennāy māvum 
 paruntup puḷḷuṅ kurunta maramuṅ koṭip pū mullaiyum iralai māvum puṟavup puḷḷuṅ 
 kāñci maramum pūṅ kaḻunīrum erumai māvum aṉṉap puḷḷun tāḻai maramum pūṅ kaḻi muḷḷiyumutalai māvuṅ 
 kampuṭ puḷḷum piṟavum ain tiṇaikkuriya vilaṅkām eṉṟa vāṟu.</p>
-<p xml:id="TNV12comm3">piṟavum eṉṟataṉāl akiluñ cantaṉamum vēṅkaip pūvuñ cuṉaik kuvaḷaip pūvum 
+<p xml:lang="en">The Kino tree, clusters of Malabar glory lilies, the lion and the peacock; 
+  the <term xml:lang="ta-Latn"><hi rend="italic">Ōmai</hi></term> tree, the 
+  <term xml:lang="ta-Latn"><hi rend="italic">Marām</hi></term> flower, the wild red dog and the kite; 
+  the wild-lime tree, the creeper jasmine, the <term xml:lang="ta-Latn"><hi rend="italic">Iralai</hi></term> deer 
+  and the dove; the <term xml:lang="ta-Latn"><hi rend="italic">Kañci</hi></term> tree, the purple waterlily, the 
+  buffalo and the goose; the screwpine tree, the <term xml:lang="ta-Latn"><hi rend="italic">Muḷḷi</hi></term> plant 
+  from the backwaters, the crocodile and the water-fowl - [these] and other are the living beings appropriate for the five poetic landscapes.</p>
+</div>
+<div type="commentary" rend="parallel">
+  <p xml:id="TNV12comm3">piṟavum eṉṟataṉāl akiluñ cantaṉamum vēṅkaip pūvuñ cuṉaik kuvaḷaip pūvum 
 puliyum yāṉaiyuṅ kiḷiyum vēṅkaiyuṅ<anchor xml:id="venkai"/> kurām pūvum pātiram pūvumurukkuṅ<anchor xml:id="murukku"/> koṉṟaiyun tōṉṟip pūvumuyaluṅ 
 kāṉaṅ kōḻiyu<anchor xml:id="koli"/>marutum vañciyun tāmaraip pūvunīrnāyun tārāvum<anchor xml:id="tara"/> puṉṉaiyuñāḻaluneytaṟ pūvum 
 aṉṉamumakaṉṟilum<anchor xml:id="akanril"/> uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
+<p xml:lang="en">Because he says <q xml:lang="ta-Latn"><hi rend="italic">piṟavum</hi></q>, understand that all [of these] are included: 
+the eagle-wood tree, the sandalwood tree, the Kino tree flower, the mountian-pool waterlily, the panther, the elephant, 
+the parakeet and the tiger<note place="foot"><q xml:lang="ta-Latn"><hi rend="italic">puli</hi></q> and 
+  <q xml:lang="ta-Latn"><hi rend="italic">vēṅkai</hi></q> both normally refer to a tiger. Here one of them 
+  presumably refers to another big cat, though I am not confident which one.</note>; the bottle-flower, the <term xml:lang="ta-Latn"><hi rend="italic">Pātiram</hi></term> flower
+ and the <term xml:lang="ta-Latn"><hi rend="italic">Palaś</hi></term> tree; the Laburnam tree, the Malabar glory lily, the hare 
+and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="italic">Vañci</hi></term> tree, the lotus flower, the otter and the duck; 
+<term xml:lang="ta-Latn"><hi rend="italic">Puṉṉai</hi></term> tree, the <term xml:lang="ta-Latn"><hi rend="italic">Ñāḻal</hi></term> tree, the blue waterlily, the goose and the <term xml:lang="ta-Latn"><hi rend="italic">Makaṉṟil</hi></term> bird.</p>
+</div>
 </body>
 </text>
 <standOff corresp="#TNV12" type="wordsplit">
