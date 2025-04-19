@@ -113,11 +113,11 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          </witness>          
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          </witness>
+          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
           <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
@@ -159,7 +159,7 @@
       <l>puṇartalum piritalu miruttalu mūṭalu</l>
 <l>maṉaivayi ṉiraṅkalu mavaṟṟi ṉimittamuṅ</l>
 <l>kaḷavoṭu kaṟpeṉak kavainar kūṟiya</l>
-<l>vaḷavi luripporu ḷāku meṉmaṉār.</l></lg>
+<l>vaḷavi luripporu ḷāku meṉmaṉār<anchor xml:id="enmanar"/></l></lg>
 <p xml:lang="en">Uniting, separating, expecting [the lover’s arrival], sulking, crying in the house and the signs of those things – they say that is <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> as defined by the those who distinguish <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term>.</p>
 </div>
 </body>
@@ -167,17 +167,23 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV13comm1">e-tu. uripporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> occurs.</p>
-      <p xml:id="TNV13comm2">puṇartalum puṇartaṉimittamum piritalum piritaṉimittamum iruttalum iruttaṉimittamum
-       ūṭalum ūṭaṉimittamum iraṅkalum iraṅkaṉimittamuṅ kaḷavuṅ kaṟpum eṉa vaṭakkik kūṟap paṭṭa 
+      </div>
+      <div type="mūlam" rend="parallel">
+      <p xml:id="TNV13comm2">puṇartalum puṇartaṉimittamum<anchor xml:id="punartal"/> piritalum piritaṉimittamum<anchor xml:id="pirital"/> iruttalum iruttaṉimittamum<anchor xml:id="iruttal"/>
+       ūṭalum ūṭaṉimittamum<anchor xml:id="utal"/> iraṅkalum iraṅkaṉimittamuṅ<anchor xml:id="irankal"/> kaḷavuṅ kaṟpum eṉa vaṭakkik kūṟap paṭṭa 
       vaḷavil uripporuḷ ām eṉṟa vāṟu.
 </p>
 <p xml:lang="en">Uniting and the signs of uniting, searating and the signs of separating, expecting an the signs of expecting, sulking and the signs of sulking, crying and the signs of crying - thus does <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> occur within the scope that is controlled and named as <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term>.
 </p>
+</div>
+<div type="mūlam" rend="parallel">
 <p xml:id="TNV13comm3">kuṟuñci mutal ai vakai nilattiṟkuñ ciṟappu nōkki yavaḻip puṇartaṉ mutaṉirai niraiyāṟ koḷḷap paṭum. avvaḻic ciṟupāṉmai yeṉaittiṟkum uriya vaḻakkoṭu paṭṭa vāṟu koḷka.
 </p>
 <p xml:lang="en">Having seen what is distinctive about all of the 5 types of landscape that begin with <term xml:lang="ta-Latn"><hi rend="italic">kuṟuñci</hi></term>, let it be understood that, in accordance with their order, there is the joining [of the appropriate <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term>] with the [respective] <term xml:lang="ta-Latn"><hi rend="italic">mutal</hi></term> in such a way. In that way, understand that the way in which they occur in accordance with common usage is accepted in any [situation] occasionally.</p>
+</div>
 </body>
 </text>
 <standOff corresp="#TNV13" type="wordsplit">
@@ -775,7 +781,9 @@
   <gram type="role">optative</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV13" source="alignments/TNV13.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV13"><note xml:lang="ta" target="#enmamar"><term xml:id="en">Cf. TP16i:</term> puṇartal pirita lirutta liraṇka / lūṭa livaṟṟi ṉimitta meṉṟivai tēruṅ kālait tiṇakkurip poruḷē//</note></standOff>
+<standOff type="apparatus" corresp="#TNV13" source="alignments/TNV13.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -810,7 +818,14 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV13comm2" source="alignments/TNV13comm2.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV13comm2"><note xml:lang="ta" target="#punartal"><term xml:lang="en">Cf. IAC1, p.28:</term> puṇartalum puṇartaṉimittamuṅ kuṟiñci</note>
+  <note xml:lang="ta" target="#pirital"><term xml:lang="en">Cf. IAC1, p.28:</term> piritalum piritaṉimittamum pālai</note>
+    <note xml:lang="ta" target="#iruttal"><term xml:lang="en">Cf. IAC1, p.28:</term> iruttalum iruttaṉimittamum mullai</note> 
+      <note xml:lang="ta" target="#utal"><term xml:lang="en">Cf. IAC1, p.28:</term> ūṭalum ūṭaṉimittamum marutam</note>
+        <note xml:lang="ta" target="#irankal"><term xml:lang="en">Cf. IAC1, p.28:</term> iraṅkalum iraṅkaṉimittamum neytal</note></standOff> 
+          
+<standOff type="apparatus" corresp="#TNV13comm2" source="alignments/TNV13comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -827,12 +842,12 @@
   </desc>
 </interp><listApp>
   <app loc="105,121">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">iraṅkaṉimittamuṅ</lem>
-    <rdg wit="#TNVmsac">iraṅ kaṉimittamu<gap reason="illegible" unit="character" quantity="1"/>ṅ</rdg>
-  </app>
-  <app loc="173,182">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">eṉṟavāṟu.</lem>
-    <rdg wit="#TNVmsac">me<lb n="4"/>ṉṟavāṟu</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>iraṅkaṉimittamuṅ</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">iraṅkal nimittamum,</rdg>
+      <rdg type="minor" wit="#TNVc">iraṅ<lb n="28"/>kaṉimittamuṅ</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">iraṅkaṉimittamu<gap reason="illegible" unit="character" quantity="1"/>ṅ</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV13comm3" source="alignments/TNV13comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
