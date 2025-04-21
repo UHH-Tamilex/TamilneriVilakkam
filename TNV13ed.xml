@@ -168,26 +168,28 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV13comm1">e-tu. uripporuḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> occurs.</p>
+      <p xml:id="TNV13comm1">e-tu. urip poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the suitable poetic content occurs.</p>
       </div>
       <div type="mūlam" rend="parallel">
       <p xml:id="TNV13comm2">puṇartalum puṇartaṉimittamum<anchor xml:id="punartal"/> piritalum piritaṉimittamum<anchor xml:id="pirital"/> iruttalum iruttaṉimittamum<anchor xml:id="iruttal"/>
        ūṭalum ūṭaṉimittamum<anchor xml:id="utal"/> iraṅkalum iraṅkaṉimittamuṅ<anchor xml:id="irankal"/> kaḷavuṅ kaṟpum eṉa vaṭakkik kūṟap paṭṭa 
-      vaḷavil uripporuḷ ām eṉṟa vāṟu.
+      vaḷavil urip poruḷ ām eṉṟa vāṟu.
 </p>
-<p xml:lang="en">Uniting and the signs of uniting, searating and the signs of separating, expecting an the signs of expecting, sulking and the signs of sulking, crying and the signs of crying - thus does <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> occur within the scope that is controlled and named as <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term>.
+<p xml:lang="en">Uniting and the signs of uniting, searating and the signs of separating, expecting an the signs 
+  of expecting, sulking and the signs of sulking, crying and the signs of crying - [this] is 
+  the suitable poetic content within the scope that is defined<note xml:lang="en" place="foot"><q xml:lang="ta-Latn">vaṭakkik kūṟap paṭṭa</q> literally means 'controlled and named'. I understand this to mean 'defined'.</note> as clandestine phase and married phase.
 </p>
 </div>
 <div type="mūlam" rend="parallel">
 <p xml:id="TNV13comm3">kuṟuñci mutal ai vakai nilattiṟkuñ ciṟappu nōkki yavaḻip puṇartaṉ mutaṉirai niraiyāṟ koḷḷap paṭum. avvaḻic ciṟupāṉmai yeṉaittiṟkum uriya vaḻakkoṭu paṭṭa vāṟu koḷka.
 </p>
-<p xml:lang="en">Having seen what is distinctive about all of the 5 types of landscape that begin with <term xml:lang="ta-Latn"><hi rend="italic">kuṟuñci</hi></term>, let it be understood that, in accordance with their order, there is the joining [of the appropriate <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term>] with the [respective] <term xml:lang="ta-Latn"><hi rend="italic">mutal</hi></term> in such a way. In that way, understand that the way in which they occur in accordance with common usage is accepted in any [situation] occasionally.</p>
+<p xml:lang="en">Having seen what is distinctive about all of the five types of poetic landscape, beginning with <term xml:lang="ta-Latn"><hi rend="italic">kuṟuñci</hi></term>, let it be understood that, in accordance with their order, there is the joining [of the appropriate <term xml:lang="ta-Latn"><hi rend="italic">poetic content</hi></term>] with the [respective] basic element in such a way. In that way, understand that the way in which they occur in accordance with common usage is accepted in any [situation] occasionally.</p>
 </div>
 </body>
 </text>
 <standOff corresp="#TNV13" type="wordsplit">
-<interp type="alignment" select="0">8MG9MG9MG6MG2ML16MG9ML7MG14MG46M,134MG</interp>
+<interp type="alignment" select="0">8MG9MG9MG6MG2ML16MG9ML7MG14MG45M,134M</interp>
 <entry>
 <form>puṇartal-um</form>
 <def>uniting</def>
@@ -312,8 +314,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uripporuḷ</form>
-<def>uripporul</def>
+<form>uri<c type="geminated">p</c></form>
+<def>suitability</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>poetic content</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -336,7 +345,7 @@
 <interp type="alignment" select="0">2M2G16MG10ML9M,6MG33MG</interp>
 <entry>
 <form>eṉpatu</form>
-<def>say-it</def>
+<def>say</def>
 <form type="sandhi">e-tu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
@@ -344,8 +353,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uripporuḷ</form>
-<def>uripporul</def>
+<form>uri<c type="geminated">p</c></form>
+<def>suitability</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>poetic content</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -383,7 +399,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV13comm2" type="wordsplit">
-<interp type="alignment" select="0">8MG10ML7MG9MG9ML7MG9MG17MG6MG6ML7MG9MG17MG7M2G6M2G49M,199MG</interp>
+<interp type="alignment" select="0">8MG10ML7MG9MG9ML7MG9MG9ML7MG6MG6ML7MG9MG9ML7MG7M2G6M2G50M,174MG25MG</interp>
 <entry>
 <form>puṇartal-um</form>
 <def>uniting</def>
@@ -459,6 +475,7 @@
 <form>nimittam-um</form>
 <def>sign</def>
 <form type="simple">nimittam</form>
+<form type="sandhi">ṉimittam</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -503,6 +520,7 @@
 <entry>
 <form>iraṅkal</form>
 <def>crying</def>
+<form type="sandhi">iraṅkaṉ</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -511,6 +529,7 @@
 <form>nimittam-um</form>
 <def>sign</def>
 <form type="simple">nimittam</form>
+<form type="sandhi">ṉimittam</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -573,8 +592,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uripporuḷ</form>
-<def>uripporul</def>
+<form>uri<c type="geminated">p</c></form>
+<def>suitability</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>poetic content</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -798,12 +824,8 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="27,33">
-    <lem wit="#TNVms #TNVc #TNV1937">mūṭalu</lem>
-    <rdg wit="#TNV1947">mūṭalum</rdg>
-  </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV13comm1" source="alignments/TNV13comm1.xml"><interp type="normalization">
+</interp>
+</standOff><standOff type="apparatus" corresp="#TNV13comm1" source="alignments/TNV13comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
