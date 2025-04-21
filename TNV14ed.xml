@@ -113,11 +113,11 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          </witness>          
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          </witness>
+          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
           <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
@@ -157,7 +157,7 @@
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV14">
       <l>muntiya nūlōr moḻintaveṇ maṇattiluṅ</l>
-<l>kantiruva muṟaimai kaḷaveṉap paṭumē.</l></lg>
+<l>kantiruva muṟaimai kaḷaveṉap paṭumē<anchor xml:id="definition"/></l></lg>
 <p xml:lang="en">Amongst the eight [types of] marriage mentioned by those prior theoreticians, the <term xml:lang="ta-Latn"><hi rend="italic">kaniruvam</hi></term> custom is called <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term></p>
 </div>
 </body>
@@ -165,43 +165,66 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV14comm1">e-tu. kaikōḷ iraṇṭiṉ uḷḷuṅ kaḷavoḻukkām āṟuṇarttutaṉutaliṟṟu.</p>
+     
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which, 
       of the two [which form] <term xml:lang="ta-Latn"><hi rend="italic">kaikōḷ</hi></term>, the <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> conduct occurs.</p>
+    </div>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV14comm2">toṉ ṉūl āciriyarkaḷāṟ collap paṭṭa vaṟanilai yoppu poruḷ kōṭeyvam arum poruḷ 
-      vali nilai pēy nilai kantiruvam eṉap paṭṭa maṇam eṭṭiṉ uḷḷuṅ kantiruva vaḻakkam pōlvatu kaḷavoḻukkam ām eṉṟa vāṟu.</p>
+      vali nilai pēy nilai kantiruvam eṉap paṭṭa maṇam eṭṭiṉ uḷḷuṅ kantiruva vaḻakkam pōlvatu kaḷavoḻukkam<anchor xml:id="kalavu"/> ām eṉṟa vāṟu.</p>
       <p xml:lang="en"><term xml:lang="ta-Latn"><hi rend="italic">aṟanilai</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">oppu</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">poruḷ kōḷ</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">teyvam</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">arum poruḷ</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">vali nilai</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">pēy nilai</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">kantiruvam</hi></term> which are 
       [all] mentioned by the teachers of the old treatises - amongst those eight [types of] marriage, the <term xml:lang="ta-Latn"><hi rend="italic">kantiruvam</hi></term> 
       custom is the same as the <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> conduct.</p>
-      <p xml:id="TNV14comm3">aṟanilai yāvatu nāṟpatteṭṭiyāṇṭu piramacariyaṅ kāttāṟkup paṉṉīrāṭṭaip pirāyattāḷai 
+      </div>
+      <div type="commentary" rend="parallel">
+      <p xml:id="TNV14comm3">aṟanilai<anchor xml:id="aranilai"/> yāvatu nāṟpatteṭṭiyāṇṭu piramacariyaṅ kāttāṟkup paṉṉīrāṭṭaip pirāyattāḷai 
       yaṇikalam aṇintu koṭuppatu. iḵtoppil kūṭṭam ātaliṟ poruntāk kāmattiṉ pāṟ paṭum</p>
       <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">aṟanilai</hi></term>, to a protector who is a 48 year old <term xml:lang="ta-Latn"><hi rend="italic">brahmacharya</hi></term>, a 12 year old girl is 
       given after being decorated with ornaments. This falls to the side of unsuitable love because this union is 
       unequal.</p>
-      <p xml:id="TNV14comm4">oppāvatu maittuṉak kōttirattāṟku māṟṟātu koṭuppatu. itu kaṟpiṉ pāṟ paṭum.</p>
+      </div>
+      <div type="commentary" rend="parallel">
+      <p xml:id="TNV14comm4">oppāvatu<anchor xml:id="oppu"/> maittuṉak kōttirattāṟku māṟṟātu koṭuppatu. itu kaṟpiṉ pāṟ paṭum.</p>
       <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">oppu</hi></term>, [it is] the giving [of the bride] without refusal to the <term xml:lang="ta-Latn"><hi rend="italic">kōttiram</hi></term> of one’s maternal cousin. This falls to the side of <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term>.</p>
-      <p xml:id="TNV14comm5">poruḷ kōḷ āvatu āṉum āṉ ēṟum poṟ kōṭṭup poṟ kuḷam piṉavākac ceyvataṟṟōṭu nīriṟ koṭuppatu.
+      </div>
+      <div type="commentary" rend="parallel">
+      <p xml:id="TNV14comm5">poruḷ kōḷ<anchor xml:id="porul"/> āvatu āṉum āṉ ēṟum poṟ kōṭṭup poṟ kuḷam piṉavākac ceyvataṟṟōṭu nīriṟ koṭuppatu.
        ivvāṟōtaṟkaṇ otta pirāya mutal āyiṉ avaṟṟuḷaveṉiṟ kaṟpiṉ pāṟ paṭum; aṉṟeṉiṟ poruntāk kāmattiṉ pāṟ paṭum</p>
       <!--p xml:lang="en">As for <q xml:lang="ta"><hi rend="italic">poruḷ kōḷ</hi></q>, after making a cow and a bull have gold horns and hooves, 
       it is the giving [of the bride] along with them by means of [the pouring of] water. In this way, 
       in the case of giving, if the factors beginning with being the same age exist, then this falls to the side 
       of <term xml:lang="ta-Latn"><hi rend="italic">karpu</hi></term>. If one says something different, then this falls to the side to unsuitable love</p-->
-      <p xml:id="TNV14comm6">teyvam āvatu vēḷvi yāciriyaṟku vēḷvit tī muṉṉar koṭuppatu. ituvum poruḷ kōḷōṭokkum</p> 
+      </div>
+      <div type="commentary" rend="parallel">
+      <p xml:id="TNV14comm6">teyvam<anchor xml:id="teyvam"/> āvatu vēḷvi yāciriyaṟku vēḷvit tī muṉṉar koṭuppatu. ituvum poruḷ kōḷōṭokkum</p> 
       <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">teyvam</hi></term>, [it is] the giving [of the bride] to the sacrificial priest before the sacrificial fire. This too is the same as <term xml:lang="ta-Latn"><hi rend="italic">poruḷ kōḷ</hi></term>.</p>
-<p xml:id="TNV14comm7">arum poruḷ viṉai yāvatu kol lēṟu taḻuvutal vil lēṟṟu mutalaṉa ceytārkkuk koṭuppatu. 
+</div>
+<div type="commentary" rend="parallel">
+      <p xml:id="TNV14comm7">arum poruḷ viṉai<anchor xml:id="vinai"/> yāvatu kol lēṟu taḻuvutal vil lēṟṟu mutalaṉa ceytārkkuk koṭuppatu. 
 itu vaṉ maṇam ātaliṟ poruntāk kāmattiṉ pāṟ paṭum.</p>
 <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">arum poruḷ viṉai</hi></term>, [it is] the giving [of the bride] to the one who does the actions of 
 embracing the murderous bull, bowmanship etc. This falls to the side of unsuitable love because this is a forced marriage.</p>
-<p xml:id="TNV14comm8">vali nilai yāvatu tamariṉum avaḷiṉum peṟātu valintu koḷvatu. ituvum ataṉ pāṟ paṭum.</p>
+</div>
+<div type="commentary" rend="parallel">
+<p xml:id="TNV14comm8">vali nilai<anchor xml:id="vali"/> yāvatu tamariṉum avaḷiṉum peṟātu valintu koḷvatu. ituvum ataṉ pāṟ paṭum.</p>
 <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">vali nilai</hi></term>, [it is] the forceful taking without obtaining [permission] from either her relations or her. This also falls to that side [of being a forced marriage].
 </p>
-<p xml:id="TNV14comm9">pēy nilai yāvatu kaḷittāṇ māṭṭun tuyiṉṟāṇ māṭṭuñ celvatu. ituvum poruntāk kāmattiṉ pāṟ paṭum.</p>
+</div>
+<div type="commentary" rend="parallel">
+<p xml:id="TNV14comm9">pēy nilai<anchor xml:id="pey"/> yāvatu kaḷittāṇ māṭṭun tuyiṉṟāṇ māṭṭuñ celvatu. ituvum poruntāk kāmattiṉ pāṟ paṭum.</p>
 <p xml:lang="en">As for <term xml:lang="ta-Latn"><hi rend="italic">pēy nilai</hi></term>, [it is] the going [off with the bride] when she is intoxicated or sleeping. This too falls to the side of unsuitable love.</p>
-<p xml:id="TNV14comm10">kantiruvam āvatu ottār iruvar tāmē kaḷaviṉāṟ kūṭuṅ kūṭṭam. itaṉāl oruvāṟaṟamuṉ ākiya voppumai
- yuṭaittēṉum āṇ mutalākac collap paṭṭa kaḷavoḻukkan teyvap puṇarcciyum pāṅkaṟ kūṭṭamun tōḻiyiṟ kūṭṭattup 
+</div>
+<div type="commentary" rend="parallel">
+<p xml:id="TNV14comm10">kantiruvam<anchor xml:id="kantiruvam"/> āvatu ottār iruvar tāmē kaḷaviṉāṟ kūṭuṅ kūṭṭam.</p> 
+</div>
+<div type="commentary" rend="parallel">
+<p xml:id="TNV14comm11">itaṉāl oruvāṟaṟamuṉ ākiya voppumai yuṭaittēṉum āṇ mutalākac collap paṭṭa kaḷavoḻukkan teyvap puṇarcciyum pāṅkaṟ kūṭṭamun tōḻiyiṟ kūṭṭattup 
  pakaṟ kuṟiyum iravuk kuṟiyum varaivu kaṭātalum uṭaṉ pōkku valittalum eṉa vāṟām eṉra vāṟu. <note>14.</note></p>
  <!--p xml:lang="en">
  <̤/p-->
+ </div>
  </body>
  </text>
  <standOff corresp="#TNV14" type="wordsplit">
@@ -1873,7 +1896,11 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV14" source="alignments/TNV14.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV14"><note xml:lang="ta" target="#definition"><term xml:lang="en">Cf. IA1:</term> aṉpi ṉaintiṇaik kaḷaveṉap paṭuva / tantaṇa rarumaṟai maṉṟa leṭṭaṉuṭ / kantaruva vaḻukka meṉmaṉār pulavar//</note>
+  <note xml:lang="ta" target="#definition"><term xml:lang="en">Cf. TP89i:</term>...kāmak kūṭṭaṅ kāṇuṅ kālai / maṟaiyōr tēettu maṉṟa leṭṭaṉuṭ / ṭuṟaiyamai nalyāḻt tuṇaimaiyō riyalpē//</note> 
+</standOff>
+<standOff type="apparatus" corresp="#TNV14" source="alignments/TNV14.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -1918,7 +1945,24 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <rdg wit="#TNVc #TNV1937 #TNV1947">kaḷavoḻukkam ām</rdg>
     <rdg wit="#TNVmsac">kaḷavoḻukkam</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm2" source="alignments/TNV14comm2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV14comm2"><note xml:lang="ta" target="#kalavu"><term xml:lang="en">Cf. IAC1, p.31:</term> aṟanilai yoppē poruḷkō ṭeyvam/ yāḻōr kūṭṭa marumporuḷ viṉaiyē/ yākkatam pēynilai yeṉṟik kūṟiya/ maṟaiyōr maṉṟa leṭṭivai yavaṟṟuṭ/ ṭuṟaiyamai nalliyāḻt tuṇaimaiyō riyalpitaṉ/ poruṇmai yeṉmaṉār pulamai yōrē//</note></standOff>
+<standOff type="notes4" corresp="#TNV14comm2"><note xml:lang="en" target="#kalavu">This anonymous verse is the 
+  earliest known enumeration of the 'Tamil' terms for the <term xml:lang="sa-Latn"><hi rend="italic">aṣṭavivāha</hi></term> 
+  . It may be that this list is based on the <term xml:lang="sa-Latn"><hi rend="italic">Gautama Dharmasūtra</hi></term>, which shares the same order of the enumeration (Wilden 2021). It is also quoted in Iḷampūraṇar's commentary to the first <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> 
+  of the <term xml:lang="ta-Latn"><hi rend="italic">Kaḷaviyal</hi></term> (TP89i). In essence, these names are 
+  really descriptions of the main characteristc of the marriage rite being performed. The other early enumeration 
+  we find for the eight types of marriage is in the commentary to the IAC, immediately following the above quoted 
+  verse. In this, <term xml:lang="ta-Latn"><hi rend="italic">Nakkīraṉār</hi></term> gives a correspondence between
+   the Tamilised Sanskrit names of the types of marriage which are the class of being for whom each type of 
+   marriage is suitable. For whatever reason, this treatise and commentary both choose the Sanskritic name for the 
+   marriage most appropriate for <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> poetry - 
+   '<q xml:lang="ta-Latn"><hi rend="italic">kantiruvam</hi></q> (Skt. <term xml:lang="sa-Latn"><hi rend="italic">Gāndharva</hi></term>)
+    - as opposed to the Tamil term - <q xml:lang="ta-Latn"><hi rend="italic">nalyāḻt tuṇaimai</hi></q> 
+    ('companionship of those with the good lutes' i.e. the <term xml:lang="sa-Latn"><hi rend="italic">Gāndharvas</hi></term>). 
+    For a more detalied analysis and explanation of the transmission of the <term xml:lang="sa-Latn"><hi rend="italic">aṣṭavivāha</hi></term>, 
+    see Wilden 2021.</note></standOff>
+<standOff type="apparatus" corresp="#TNV14comm2" source="alignments/TNV14comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -1955,7 +1999,11 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <rdg wit="#TNVc">kaḷavoḻukkam<lb n="5"/></rdg>
     <rdg wit="#TNVms">kaḷavo<gap reason="lost" unit="character" quantity="2"/>kam</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm3" source="alignments/TNV14comm3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV14comm3"><note xml:lang="ta" target="#aranilai"><term xml:lang="en">Cf. IAC1, p.31:</term> piramam eṉpatu nāṟpat teṭṭiyāṇṭu piramacariyaṅ kāttāṟkup paṉṉīrāṭṭaip pirāyattāḷai aṇikalaṉaṇintu koṭuppatu. koṭāviṭiṉ, orirutukkāḷci oruvaṉaic cārātu kaḻinta viṭattu oru pārppaṉakkālaiyōṭu okku meṉpatu; ataṉai aṟanilaiyeṉpatu</note>
+  <note xml:lang="sa" target="#aranilai"><term xml:lang="en">Cf. Gaut 4.6:</term> brāhmo vidyācāritrabandhuśīlasaṃpannāya dadyādācchādyālaṃkṛtām</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV14comm3" source="alignments/TNV14comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -1979,7 +2027,11 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <lem wit="#TNVc #TNV1937 #TNV1947">yaṇikalam</lem>
     <rdg wit="#TNVms">vaṇikala<lb n="2"/>m</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm4" source="alignments/TNV14comm4.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV14comm4"><note xml:lang="ta" target="#oppu"><term xml:lang="en">Cf. IAC1, p.31:</term> piracāpattiyam eṉpatu maittuṉa kōttirattāṉ makaḷvēṇṭic ceṉṟāl maṟātu koṭuppatu; ataṉai oppeṉpatu</note>
+ <note xml:lang="sa" target="#oppu"><term xml:lang="en">Cf. Gaut 4.7:</term> saṃyogamantraḥ prājāpatye saha dharmaś caryatām iti</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV14comm4" source="alignments/TNV14comm4.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -1994,7 +2046,11 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV14comm5" source="alignments/TNV14comm5.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV14comm5"><note xml:lang="ta" target="#porul"><term xml:lang="en">Cf. IAC1, p.31-2:</term> āriṭam eṉpatu āvum āṉēṟum poṟkōṭṭup poṟkuḷampiṉavākac ceytu avaṟṟiṭai nīriṟkoṭuppatu; ataṉai poruḷkōḷeṉpatu</note>
+  <note xml:lang="sa" target="#porul"><term xml:lang="en">Cf. Gaut 4.8:</term> ārṣe gomithunaṃ kanyāvate dadyāt</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV14comm5" source="alignments/TNV14comm5.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2025,7 +2081,11 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <rdg wit="#TNV1937 #TNV1947">ivvāṟu ītaṟkaṇ</rdg>
   </app>
  
-</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm6" source="alignments/TNV14comm6.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV14comm6"><note xml:lang="ta" target="#teyvam"><term xml:lang="en">Cf. IAC1, p.32:</term> teyvam eṉpatu, vēḷviyāciriyaṟku vēḷvittīmuṉ vaittuk koṭuppatu; ataṉai teyvameṉru vaḻipaṭappaṭṭatu</note>
+<note xml:lang="sa" target="#teyvam"><term xml:lang="en">Cf. Gaut 4.9:</term> antarvedyṛtvije dānaṃ daivo 'laṃkṛtya</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV14comm6" source="alignments/TNV14comm6.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2050,7 +2110,12 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <lem wit="#TNVms">muṉṉar koṭuppatu.</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">muṉṉark koṭuppatu.</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm7" source="alignments/TNV14comm7.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV14comm7"><note xml:lang="ta" target="#vinai"><term xml:lang="en">Cf. IAC1, p.32:</term> acuram eṉpatu, kollēṟu koṇṭāṉ ivaḷaiyeytum, villēṟṟiṉāṉ ivaḷaiyeytum, tiripiṉṟi eytāṉ ivaḷaiyeytum, mālai cūṭṭappaṭṭāṉ ivaḷaiyeytum iṉṉatoruporuḷ tantāṉ ivaḷai yeytumeṉa ivvāṟu collikkoṭuppatu; aḵtu arumporuḷ viṉainilaiyeṉpatu</note>
+  <note xml:lang="sa" target="#vinai"><term xml:lang="en">Cf. Gaut 4.11:</term> vittenānatiḥ strīmatām āsuraḥ</note>
+</standOff>
+
+<standOff type="apparatus" corresp="#TNV14comm7" source="alignments/TNV14comm7.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2078,7 +2143,11 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <lem wit="#TNVms">mutalaṉa</lem>
     <rdg wit="#TNVc #TNV1937 #TNV1947">mutaliyaṉa</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm8" source="alignments/TNV14comm8.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV14comm8"><note xml:lang="ta" target="#vali"><term xml:lang="en">Cf. IAC1, p.32:</term> irākkatam eṉpatu avaḷ taṉṉiṉun tamariṉum peṟātu valintu koḷvatu</note>
+  <note xml:lang="sa" target="#vali"><term xml:lang="en">Cf. Gaut 4.12:</term> prasahyādānād rākṣasaḥ</note>
+</standOff>  
+<standOff type="apparatus" corresp="#TNV14comm8" source="alignments/TNV14comm8.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2099,7 +2168,11 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <rdg wit="#TNVmsac">vi<gap reason="illegible" unit="character" quantity="1"/>valinilai</rdg>
   </app>
   
-</listApp></standOff><standOff type="apparatus" corresp="#TNV14comm9" source="alignments/TNV14comm9.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV14comm9"><note xml:lang="ta" target="#pey"><term xml:lang="en">Cf. IAC1, p.32:</term> paicācam eṉpatu mūttāṇmāṭṭun tuyiṉṟāṇmāṭṭuṅ kaḷittāṇmāṭṭuñ cārvatu: atu pēynilaiyeṉappaṭum</note>
+  <note xml:lang="ta" target="#pey"><term xml:lang="en">Cf. Gaut 4.13:</term> asaṃvijñātopasaṃgamāt paiśācaḥ</note> 
+</standOff>
+<standOff type="apparatus" corresp="#TNV14comm9" source="alignments/TNV14comm9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2114,7 +2187,27 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV14comm10" source="alignments/TNV14comm10.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV14comm10"><note xml:lang="ta" target="#kantiruvam"><term xml:lang="en">Cf. IAC1, p.32:</term> kārntārvam eṉpatu iruvar ottār tāmē kūṭuṅkūṭṭam; ataṉai yāḻōr kūṭṭameṉpatu</note>
+  <note xml:lang="ta" target="#kantiruvam"><term xml:lang="en">Cf. Gaut 4.10:</term> icchantyāḥ svayaṃ saṃyogo gāndharvaḥ</note>  
+</standOff>
+
+<standOff type="apparatus" corresp="#TNV14comm10" source="alignments/TNV14comm10.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp></standOff><standOff type="apparatus" corresp="#TNV14comm11" source="alignments/TNV14comm11.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2130,7 +2223,7 @@ embracing the murderous bull, bowmanship etc. This falls to the side of unsuitab
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="51,57">
+  <app loc="0,6">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">itaṉāl</lem>
     <rdg wit="#TNVmsac">iṉāl</rdg>
   </app>
