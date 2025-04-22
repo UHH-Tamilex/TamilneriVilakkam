@@ -168,7 +168,7 @@
         <lg xml:lang="en">
           <l>His desire becoming clear, the fear of separation,</l>
           <l>sweet-natured comfort, the difficulty of obtaining [her],</l>
-          <l>saying "[you are my] life", comforting and then departing</l>
+          <l>saying "[you are my] life", [him being] comforted and then departing</l>
           <l>― [these are] the divine union of faultless love.</l>
         </lg>
       </div>
@@ -177,11 +177,14 @@
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="mūlam" rend="parallel">
       <p xml:id="TNV15comm1">
         e-tu. collap paṭṭa pākiṉ uṭ ṭeyvap puṇarcci yām āṟuṇarttutaṉutaliṟṟu.
 </p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way
         in which the divine union occurs amongst the aformentioned division.</p>
+        </div>
+        <div type="mūlam" rend="parallel">
       <p xml:id="TNV15comm2">muṟ cey viṉai kāraṇam ākak kaṇṇuṟṟup puṇarnta piṉpu talaimakaṉayappuṇarttalun<anchor xml:id="nayappunarttal"/> teruṭṭalum 
       pirivaccamum<anchor xml:id="pirivaccam"/> vaṉpoṟaiyum<anchor xml:id="vanporai"/> eytutal arumaiyum<anchor xml:id="arumai"/> uyir eṉṟalum<anchor xml:id="uyir"/> āṟṟip peyartalum<anchor xml:id="peyartal"/> eṉap paṭṭaṉa
         teyvap puṇarcci yām eṉṟa vāṟu.<anchor xml:id="varu"/>
@@ -191,6 +194,7 @@
         the difficulty of obtaining [her], saying [you are like my] life; and being comforted and
         departing - these things are [how] divine union occurs.
 </p>
+</div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem1" corresp="#KT2">
           <l>koṅkutēr vāḻkkai yañcirai tumpi</l>
@@ -2390,7 +2394,8 @@
         <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. AV27.1:</term> iḵtu iyaṟkaip puṇarcci</note>
       </standOff>
         <standOff type="notes4" corresp="#TNV15">
-          <note target="#punarcci" xml:lang="en"> A note on the terminology for this union. The 
+          <note target="#punarcci" xml:lang="en">This <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> follows the same sequence as the IAC, but the corresponding passages are included as sources for the commentary. This is because the wording was more similar in teh commentary, and in previous cases, the commentary has very clearly been closely based on the IAC, where the <term xml:lang="ta-Latn"><hi rend="italic">cūṭtiram</hi></term> has not been. This is to say that one should probably also consider this enumeration to follow in the footsteps of Nakkīraṉār. It is only for practical considerations  namely that it would be a waste of space to report the same sources/parallels twice - that they only appear there.</note>
+          <note target="#punarcci" xml:lang="en">A note on the terminology for this union. The 
             later <term xml:lang="ta-Latn"><hi rend="italic">teyvap puṇarcci</hi></term>, found in this text, 
             suggests a more moralistic karmic initial meeting - the union in this life has been fated due to two 
             lovers' relationship in their past lives. As for <term xml:lang="ta-Latn"><hi rend="italic">kāmap 
@@ -2939,7 +2944,7 @@
 </standOff>
 <standOff type="notes4" corresp="#TNV15comm2">
   <note xml:lang="en" target="#uyir">Cf. IAC2 (PK20 + 21), p. 60 - the idea expressed in this phrase is found in both these poems quoted in Nakkīraṉār's commentary, though not explicitly in his prose explanation, in the same point in the sequence as in the TNV commentary.</note>
-  <note xml:lang="en" target="#varu">As the earliest known text which organises the speech situations (and the poems they describe) into a <term xml:lang="ta-Latn"><hi rend="italic">kōvai</hi></term> ('sequence'), and because of the clear similarities in phrasing, we should consider the IAC as a source for the commentary. The corresponding sections have been porvided at some length, as they provide potentially valuable information not found in the comparatively terse TNV commentary.</note> 
+  <note xml:lang="en" target="#varu">As the earliest known text which organises the speech situations (and the poems they describe) into a <term xml:lang="ta-Latn"><hi rend="italic">kōvai</hi></term> ('sequence'), and because of the clear similarities in phrasing, we should consider the IAC as a source for the TNV. The corresponding sections have been provided at some length, as they provide potentially valuable information not found in either the <term xml:lang="ta-Latn"><hi rend="italic">mūklam</hi></term> or the comparatively terse TNV commentary.</note> 
   <note xml:lang="en" target="#varu">It is worth noting that the TNV begins its enumeration after what Takanobu has termed the 'prologue' (Takanobu 1995: 62) - four situations which precede their first union. The TP indrectly mentions them, the IA does not, the IAC mentions them explicitly, as does the AV. They are: <term xml:lang="ta-Latn"><hi rend="italic">kāṭci</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">aiyam</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">tuṇivu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kuṟippaṟital</hi></term>.</note>
   </standOff>
  
