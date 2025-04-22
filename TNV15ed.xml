@@ -160,7 +160,7 @@
     <body>
       <div type="mūlam" rend="parallel">
         <lg xml:id="TNV15">
-          <l>taṉṉayan teḷitalun talaippiri vaccamum</l>
+          <l>taṉṉayan teḷitalun talaippiri vaccamum<anchor xml:id="accam"/></l>
           <l>iṉṉiyal vaṉpoṟai yeytuta larumaiyum</l>
           <l>uyireṉak kūṟalu māṟṟiṉaṉ peyartalum</l>
           <l>ceyirtapu kātaṟ ṟeyvap puṇarcci<anchor xml:id="punarcci"/></l>
@@ -2380,6 +2380,11 @@
       </gramGrp>
     </entry>
   </standOff>
+  <standOff type="notes1" corresp="#TNV15"><note target="#accam" xml:lang="ta"><term xml:lang="en">Cf. TP221i:</term> pirital accam</note>
+    <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.46:</term> iṉit teyvappuṇarcciyeṉavumpaṭum</note></standOff>
+      <standOff type="notes2" corresp="#TNV15">  
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. TP487i.1:</term> kāmap puṇarcciyum</note> 
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IA2.2:</term> kāmap puṇarcci</note></standOff>
   <standOff type="apparatus" corresp="#TNV15" source="alignments/TNV15.xml">
     <interp type="normalization">
       <desc type="tagfilters">
@@ -2413,7 +2418,6 @@
     </listApp>
   </standOff>
   
-  <standOff type="notes1" corresp="#TNV15"><note target="punarcci"><term xml:lang="en">Cf. IAC2, p.46:</term> iṉit teyvappuṇarcciyeṉavumpaṭum; <term xml:lang="en">Cf. TP487i.1:</term> kāmap puṇarcciyum; <term xml:lang="en">Cf. IA2.2:</term> kāmap puṇarcci.</note></standOff>
   <standOff corresp="#TNV15poem1" type="notes4">
     <note xml:lang="en" target="#vatkkai"><q xml:lang="ta">
         <hi rend="italic">vāṭkkai</hi>
