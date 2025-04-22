@@ -2381,11 +2381,34 @@
     </entry>
   </standOff>
   <standOff type="notes1" corresp="#TNV15"><note target="#accam" xml:lang="ta"><term xml:lang="en">Cf. TP221i:</term> pirital accam</note>
-    <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.46:</term> iṉit teyvappuṇarcciyeṉavumpaṭum</note></standOff>
+    <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.46:</term> iṉit teyvap puṇarcciyeṉavumpaṭum, iruvarum teyvattaṉmaiyāṟ puṇarntārākaliṉeṉpatu</note></standOff>
       <standOff type="notes2" corresp="#TNV15">  
         <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. TP487i.1:</term> kāmap puṇarcciyum</note> 
-        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IA2.2:</term> kāmap puṇarcci</note></standOff>
-  <standOff type="apparatus" corresp="#TNV15" source="alignments/TNV15.xml">
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IA2.2:</term> kāmap puṇarcci</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.46:</term> iyaṟkaip punṇarcci yeṉappaṭum, pulavarāṟkūṟappaṭṭa iyalpiṉāṟ puṇarntār...</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.47:</term> muṉṉuṟupuṇarcci yeṉavumpaṭum, ivaḷ nalam ivaṉāṉē muṉṟuṟa eytuappaṭṭamaiyāṉum, ivaṉ nalam ivaḷāṉē muṉṉuṟa eytappaṭṭamaiyāṉumeṉpaṭu</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. AV27.1:</term> iḵtu iyaṟkaip puṇarcci</note>
+      </standOff>
+        <standOff type="notes4" corresp="#TNV15">
+          <note target="#punarcci" xml:lang="en"> A note on the terminology for this union. The 
+            later <term xml:lang="ta-Latn"><hi rend="italic">teyvap puṇarcci</hi></term>, found in this text, 
+            suggests a more moralistic karmic initial meeting - the union in this life has been fated due to two 
+            lovers' relationship in their past lives. As for <term xml:lang="ta-Latn"><hi rend="italic">kāmap 
+              puṇarcci</hi></term>, the term found in the oldest grammars, the precise connotation is not clear. Nakkīraṉār understands it as a union 
+              borne out of their increased desire when they meet alone (IAC2), in which case 
+              <term xml:lang="ta-Latn"><hi rend="italic">kāma</hi></term> carries a clear sexual undertone. 
+              Takanobu however argues convincingly that in the earliest strata of Tamil literature, 
+              <term xml:lang="ta-Latn"><hi rend="italic">kāma</hi></term> was a broader term that should be 
+              better translated as 'love' (Takanobu 1995: 66-7). The two other terms used for this meeting, at 
+              least according to Nakkīraṉār (IAC2), are also quite ambiguous. <term xml:lang="ta-Latn"><hi rend="italic">muṉṉuṟu 
+                puṇarcci</hi></term> refers to some previous union and is understood to refer 
+                ellipticaly this initial union and the most common term for this - 
+                <term xml:lang="ta-Latn"><hi rend="italic">iyaṟkaip puṇarcci</hi></term> - could also mean a 
+                number of things. The union maybe 'natural' as they chance upon each other, whereas their other 
+                meetings need to be organised through intermediaries, or because it has been divinely ordained. 
+                According Nakkīraṉār whom later scholars largely follow on this point, these four terms all refer to the exact same thing (IAC2 p.47).</note>
+          </standOff>   
+        <standOff type="apparatus" corresp="#TNV15" source="alignments/TNV15.xml">
     <interp type="normalization">
       <desc type="tagfilters">
         <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
