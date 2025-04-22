@@ -168,7 +168,7 @@
         <lg xml:lang="en">
           <l>His desire becoming clear, the fear of separation,</l>
           <l>sweet-natured comfort, the difficulty of obtaining [her],</l>
-          <l>saying ‘[you are my] life’, comforting and then departing</l>
+          <l>saying "[you are my] life", comforting and then departing</l>
           <l>― [these are] the divine union of faultless love.</l>
         </lg>
       </div>
@@ -180,15 +180,15 @@
       <p xml:id="TNV15comm1">
         e-tu. collap paṭṭa pākiṉ uṭ ṭeyvap puṇarcci yām āṟuṇarttutaṉutaliṟṟu.
 </p>
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way
-        in which <hi rend="italic">teyvappuṇarcci</hi> in the aforementioned division occurs. </p>
-      <p xml:id="TNV15comm2">muṟ cey viṉai kāraṇam ākak kaṇṇuṟṟup puṇarnta piṉpu talaimakaṉayappuṇarttalun teruṭṭalum 
-      pirivaccamum vaṉpoṟaiyum eytutal arumaiyum uyir eṉṟalum āṟṟip peyartalum eṉap paṭṭaṉa
-        teyvap puṇarcci yām eṉṟa vāṟu.
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way
+        in which the divine union occurs amongst the aformentioned division.</p>
+      <p xml:id="TNV15comm2">muṟ cey viṉai kāraṇam ākak kaṇṇuṟṟup puṇarnta piṉpu talaimakaṉayappuṇarttalun<anchor xml:id="nayappunarttal"/> teruṭṭalum 
+      pirivaccamum<anchor xml:id="pirivaccam"/> vaṉpoṟaiyum<anchor xml:id="vanporai"/> eytutal arumaiyum<anchor xml:id="arumai"/> uyir eṉṟalum<anchor xml:id="uyir"/> āṟṟip peyartalum<anchor xml:id="peyartal"/> eṉap paṭṭaṉa
+        teyvap puṇarcci yām eṉṟa vāṟu.<anchor xml:id="varu"/>
       </p>
-      <p xml:lang="en">After meeting and uniting on account of previous action, the uniting [with
-        her] and the making known of the talaimakaṉ’s desire, the fear of separation, comfort[ing],
-        the difficulty of obtaining [her], saying [you are my] life and comforting and then
+      <p xml:lang="en">After meeting and uniting on account of previous action<note place="foot" xml:lang="en">This most likely refers to actions in their past lives, in which case this an allusion to that fact their relationship is divinely ordained. Or, it might be an elliptical reference to the 'prologue' mentioned in the apparatus notes.</note>, the uniting [with
+        her] and the making known of the hero’s desire, the fear of separation, comfort[ing],
+        the difficulty of obtaining [her], saying [you are like my] life; and being comforted and
         departing - these things are [how] divine union occurs.
 </p>
       <div type="citation" rend="parallel">
@@ -242,7 +242,7 @@
         <lg xml:id="TNV15poem5">
           <l>iṉaiyal vāḻi yemmūr malarnta</l>
           <l>paḻaṉat tāmaraik keḻīiya vaṇṭuniṉ</l>
-          <l>kaṇṇeṉa malarnta kāmar cuṉaimalar<note place="foot">Were it not for the coreection, this <term xml:lang="ta"><hi rend="italic">cīr</hi></term> would not be metrical.</note></l>
+          <l>kaṇṇeṉa malarnta kāmar cuṉaimalar<note place="foot">Were it not for the correction, this <term xml:lang="ta"><hi rend="italic">cīr</hi></term> would not be metrical.</note></l>
           <l>naṇṇi nāḷu nalaṉuka rummē</l>
         </lg>
       </div>
@@ -2929,7 +2929,21 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV15comm2" source="alignments/TNV15comm2.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV15comm2">
+  <note xml:lang="ta" target="#nayappunarttal"><term xml:lang="en">Cf. IAC2, p. 49:</term> nayappeṉpatu talaimakaṉ vaṇṭiṟku uraippāṉāyt talaimakaḷ kēṭpat taṉ nayappuṇarttiyatu.</note>
+  <note xml:lang="ta" target="#pirivaccam"><term xml:lang="en">Cf. IAC2, p. 55:</term> pirivaccameṉpatu, tāṉ pirivu añciṟṟum pirivaccam; avaḷaip pirivu añcuvittatum pirivaccam; ātaliṟ pirivaccameṉappaṭum</note>
+  <note xml:lang="ta" target="#vanporai"><term xml:lang="en">Cf. IAC2, p. 57:</term> vaṉpuṟaiyeṉpatu vaṟpuṟuttuvatu.</note>
+  <note xml:lang="ta" target="#arumai"><term xml:lang="en">Cf. IAC2, p. 59:</term> kāṭṭiṉāḷaik kaṇṭu, ivaḷai yāṉ eytiṉēṉeṉak karutiṉaṉ! eytiyatuṇṭēṟ kaṉāypōlam! naṉavēyāyiṉum ivaḷ eṉakku eytutaṟku ariyaḷāmeṉa āṟṟāṉāyiṉ.</note>
+  <note xml:lang="ta" target="#peyartal"><term xml:lang="en">Cf. IAC2, p. 60:</term> atu paṟṟukkōṭāka āṟṟi nīṅkumeṉpatu.</note> 
+</standOff>
+<standOff type="notes4" corresp="#TNV15comm2">
+  <note xml:lang="en" target="#uyir">Cf. IAC2 (PK20 + 21), p. 60 - the idea expressed in this phrase is found in both these poems quoted in Nakkīraṉār's commentary, though not explicitly in his prose explanation, in the same point in the sequence as in the TNV commentary.</note>
+  <note xml:lang="en" target="#varu">As the earliest known text which organises the speech situations (and the poems they describe) into a <term xml:lang="ta-Latn"><hi rend="italic">kōvai</hi></term> ('sequence'), and because of the clear similarities in phrasing, we should consider the IAC as a source for the commentary. The corresponding sections have been porvided at some length, as they provide potentially valuable information not found in the comparatively terse TNV commentary.</note> 
+  <note xml:lang="en" target="#varu">It is worth noting that the TNV begins its enumeration after what Takanobu has termed the 'prologue' (Takanobu 1995: 62) - four situations which precede their first union. The TP indrectly mentions them, the IA does not, the IAC mentions them explicitly, as does the AV. They are: <term xml:lang="ta-Latn"><hi rend="italic">kāṭci</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">aiyam</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">tuṇivu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kuṟippaṟital</hi></term>.</note>
+  </standOff>
+ 
+<standOff type="apparatus" corresp="#TNV15comm2" source="alignments/TNV15comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
