@@ -160,15 +160,15 @@
     <body>
       <div type="mūlam" rend="parallel">
         <lg xml:id="TNV16">
-        <l>viṉātalum viṭuttaluṅ kaḻaṟalu maṟuttalu</l>
+        <l>viṉātalum viṭuttaluṅ kaḻaṟalu maṟuttalu<anchor xml:id="maruttal"/></l>
 <l>nōtalum yāṇṭeṉa viṉṉuḻi yeṉṟalu</l>
 <l>mātaraik kāṇṭalu maṉṉiya vakuttaluṅ</l>
 <l>kiḻavōṟ kicaittalu māṟṟāṉ kiḷattalum</l>
-<l>paḻavarai viṭuttalum pāṅkaṟ kūṭṭam</l></lg>
+<l>paḻavarai viṭuttalum pāṅkaṟ kūṭṭam<anchor xml:id="kuttam"/></l></lg>
 <p xml:lang="en">Questioning [the hero], letting out [the secret], reproaching [him], refusing,
-[friend’s] suffering, [when asked] ‘Where?’ saying ‘In such a place.’, seeing the woman, 
+[friend’s] suffering, [when asked] "Where?" saying "In such a place", seeing the woman, 
 classifying [her as] agreeable, speaking to the hero, making it clear that he cannot bear and 
-sending [her] off to the old ones (i.e. her family) - these are the union [by means of] the friend.
+sending [her] off to the old ones (i.e. her family) - these are the union [by means of] his friend.
 </p>
 </div>
 </body>
@@ -176,15 +176,26 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV16comm1">e-tu. pāṅkaṟ kūṭṭam ām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<hi rend="italic">cūttiram</hi>] intends to make known the way in which 
-      the meeting [by means of the] friend occurs.</p>
-    <p xml:id="TNV16comm2">pāṅkaṉ ṟalaimakaṟkuṟṟa viṉātalun talaimakaṉ iṉṉateṉṟalum pāṅkaṉ kaḻaṟalun talaimakaṉ 
-    kaḻaṟṟetir maṟuttalum pāṅkaṉōtalum evviṭattevvuru veṉṟalun talaimakaṉ iṉṉa viṭattiṉṉa vuru veṉṟalum 
-    pāṅkaṉ avviṭattavvuruk kāṇṭalun talaimakaṉaip perumai kūṟalum peyarntu vantu talaimakaṟkuraittalun 
-    talaimakaṉ ṟalaimakaḷaik kaṇṭaṇaitalum uṟaviṉ āṟṟāṉ kūṟalum viṭuttalum pāṅkaṟ kūṭṭam ām eṉṟa vāṟu.</p>
-    <p xml:lang="en">His friend questioning the hero about what has happened [to him]; the hero saying "it is so"; his friend reproaching [him]; [the hero] refuting [his friend's] reproach; his friend's suffering; [his friend] saying, "In what place and in what way?" and [the hero] saying, "In such a place and in such a way"; his friend seeing [her] at that place; [his friend] speaking of [the hero's] greatness; [the friend] leaving and telling [the hero about the place]; the hero seeing the heroine and approaching [her]; [the hero] not being able to bear the experience and speaking; and sending [the heroine] off - [these] are the union [with the help of] his friend.    </p>
-<div type="citation" rend="parallel">
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which 
+      the union [by means of] his friend occurs.</p>
+      </div>
+      <div type="mūlam" rend="parallel">
+    <p xml:id="TNV16comm2">pāṅkaṉ ṟalaimakaṟkuṟṟa viṉātalun<anchor xml:id="vinatal"/> talaimakaṉ iṉṉateṉṟalum<anchor xml:id="innatu"/> pāṅkaṉ kaḻaṟalun<anchor xml:id="kalaral"/> talaimakaṉ 
+    kaḻaṟṟetir maṟuttalum<anchor xml:id="maruttalum"/> pāṅkaṉōtalum<anchor xml:id="notalum"/> evviṭattevvuru veṉṟalun<anchor xml:id="um"/> talaimakaṉ iṉṉa viṭattiṉṉa vuru veṉṟalum<anchor xml:id="itam"/> 
+    pāṅkaṉ avviṭattavvuruk kāṇṭalun<anchor xml:id="kantal"/> talaimakaṉaip perumai kūṟalum<anchor xml:id="kural"/> peyarntu vantu talaimakaṟkuraittalun<anchor xml:id="uraittal"/> 
+    talaimakaṉ ṟalaimakaḷaik kaṇṭaṇaitalum<anchor xml:id="anaital"/> uṟaviṉ āṟṟāṉ kūṟalum<anchor xml:id="arran"/> viṭuttalum<anchor xml:id="vituttal"/> pāṅkaṟ kūṭṭam ām eṉṟa vāṟu.</p>
+      <p xml:lang="en">His friend questioning the hero about what has happened [to him]; the hero
+        saying "it is so"; his friend reproaching [him]; [the hero] refuting [his friend's]
+        reproach; his friend's suffering; [his friend] saying, "In what place and in what way?";
+        [the hero] saying, "In such a place and in such a way";<note place="foot" xml:lang="en">What seems to be one situation in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> - <q xml:lang="ta-Latn"><hi rend="italic">yāṇṭeṉa viṉṉuḻi yeṉṟal</hi></q> ('[when asked] "Where?" saying "In such a place."), I take to be treated as two here. The Tamil allows one to understand this as one, but as this commentary closely follows the IAC, I have chosen to mirror its construction and take these as distinct situations.</note> his friend seeing [her] at that
+        place; [his friend] speaking of [the hero's] greatness; [the friend] leaving and telling
+        [the hero about the place]; the hero seeing the heroine and approaching [her]; [the hero]
+        not being able to bear the experience and speaking; and sending [the heroine] off - [these]
+        are the union [by means of] his friend. </p>
+        </div>
+      <div type="citation" rend="parallel">
         <lg xml:id="TNV16poem1">
 <l>muṉṉiṉai muṭippatoṉ ṟuḷatukoṉ mūvakai</l>
 <l>nuṇṇiya paṉuvali ṉuḻaintuko</l>
@@ -3341,7 +3352,16 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
   <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV16" source="alignments/TNV16.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes2" corresp="#TNV16"><note xml:lang="ta" target="#kuttam"><term xml:lang="en">Cf. TP487i:</term> paṅkoṭu taḻāalum</note>
+  <note xml:lang="ta" target="#kuttam"><term xml:lang="en">Cf. TP99i.9:</term> niṟpavai niṉaii nikaḻpavai yuraippiṉuṅ | kūṟṟaṅ kāṭṭiya vāyil peṭpiṉum</note> 
+  <note xml:lang="ta" target="#kuttam"><term xml:lang="en">Cf. IA3:</term> āṅṅaṉam puṉarnta kiḻavōṉ ṟaṉvayiṟ | pāṅka ṉōriṟ kuṟitalaip peyartalum</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV16">
+  <note xml:lang="en" target="#maruttal">Iḷampūraṉar and Nacciṉārkkiṉiyar both understand these lines in TP99i to refer to the friend's reproach. This is the only mention in the TP concerning this situation.</note>
+  <note xml:lang="en" target="#kuttam"> The IA parallel simply mentions the existence of a meeting in which the hero's friend plays some sort of role, but there is no elaboration on the figure. The first instance of any expansion of teh situation come in Nakkīraṉār's commentary. As before, I am quite certain that it was the source for this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, but as the commentary shows closer similarities to the wording found in the IAC, I have provided it there.</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV16" source="alignments/TNV16.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3400,7 +3420,30 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <lem wit="#TNVc #TNV1937 #TNV1947">ām āṟuṇarttutaṉutaliṟṟu.</lem>
     <rdg wit="#TNVms">ā<lb n="5"/>ṟuṇarttutaṉutaliṟṟu.</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16comm2" source="alignments/TNV16comm2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16comm2">
+  <note xml:lang="ta" target="#vinatal"><term xml:lang="en">Cf. IAC3, p. 62:</term> eṉṉaikollō emperumāṟku iṟṟai vēṟupāṭṭu vāṭṭam eṉṉum</note>
+  <note xml:lang="ta" target="#innatu"><term xml:lang="en">Cf. IAC3, p. 63:</term> kaṭaippiṭittu viṉāyiṉa pāṅkaṟku nerunal ivvakaiyār kaṇṭēṟku...</note>
+  <note xml:lang="ta" target="#kalaral"><term xml:lang="en">Cf. IAC3, p. 64:</term> ivvāṟu collakkēṭṭa pāṅkaṉ kaḻaṟum</note>
+  <note xml:lang="ta" target="#maruttalum"><term xml:lang="en">Cf. IAC3, p. 65:</term> ivvāṟu pāṅkaṉkaḻaṟat talaimakaṉ āṟṟāṉāyc colluñ corṟkaḷ kaḻaṟṟetirmaṟai yeṉpatu</note>
+  <note xml:lang="ta" target="#notal"><term xml:lang="en">Cf. IAC3, p. 66:</term> ivvāṟu talaimakaṉ taṉatāṟṟāmaiyiṟ kaḻaṟetir maṟutturaippatukēṭṭa pāṅkaṉ... eṉa kavaṉṟāṉ</note>
+  <note xml:lang="ta" target="#um"><term xml:lang="en">Cf. IAC3, p. 67:</term> evviṭattu ettaṉmaittu niṉṟār kāṇapaṭṭa uruveṉṉum</note>
+  <note xml:lang="ta" target="#itam"><term xml:lang="en">Cf. IAC3, p. 67:</term> ivviṭattu ittaṉmaittu eṉṟār kāṇapaṭṭa uruveṉṉum</note>
+  <note xml:lang="ta" target="#kantal"><term xml:lang="en">Cf. IAC3, p. 69:</term> kaṇtu ivviṭamē avaṉāṟ kāṇappaṭṭa uruvumeṉattuṇiyum</note>
+  <note xml:lang="ta" target="#kural"><term xml:lang="en">Cf. IAC3, p. 70:</term> iṟantupaṭātu eṉkāṟum vanta iruntuṇaip peruntakkāṉai yāṉ periyatōriṭaṉaṉṟik kaḻaṟiṉēṉeṉa niṉaikkum</note>
+  <note xml:lang="ta" target="#uraittal"><term xml:lang="en">Cf. IAC3, p. 71:</term> avvakai niṉaittut talaimakṉaicceṉṟeyti, yāṉkaṇṭa iṭam mētakkatēkāṇ</note>
+  <note xml:lang="ta" target="#anaital"><term xml:lang="en">Cf. IAC3, p. 73:</term> aṭaiya maṟaivatu kāṇātumātupaṭnōkki taṉ maṇikkāntaṇ melviralāṟ pōtupuraineṭuṅkaṇ</note>
+  <note xml:lang="ta" target="#arran"><term xml:lang="en">Cf. IAC3, p. 67:</term> āṟṟāmaiyāvatu piṟitevvuṇarvumiṉṟi avvaṟṟāmaitāṉēyāvatu. avvāṟṟāmai āṟṟuvatoṉṟaṉaippaṟṟum. āṟṟuvatu piṟitaṉmaiyiṉ orucoṟcollum.</note>
+  </standOff>
+<standOff type="notes2" corresp="#TNV16comm2">
+  <note xml:lang="ta" target="#vituattal"><term xml:lang="en">Cf. AV137.15-16:</term> talaiviyaip | pāṅkiyoṭu varukeṉap pakartal</note>
+
+  </standOff>
+<standOff type="notes4" corresp="#TNV16comm2">
+  <note xml:lang="en" target="#innatu">The parallels here are sometimes not exact. The IAC introduces situations by explaining them and doesn't normally provide a specific term for them, whearas the TNV commentary does. In some of cases, the TNV commentator uses the wording from the IAC. I have provided the most pertinent passage.</note>
+  <note xml:lang="en" target="#vituttal">This final situation is not found in the IAC, but only in the AV.</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV16comm2" source="alignments/TNV16comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3416,37 +3459,62 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-
+ 
   <app loc="40,52">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">iṉṉateṉṟalum</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>iṉṉateṉṟalum</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">iṉṉateṉṟalum,</rdg>
+      <rdg type="minor" wit="#TNVc">iṉṉateṉṟa<lb n="35"/>lum</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">iṉṉṉateṉṟalum</rdg>
   </app>
   <app loc="52,67">
-    <lem wit="#TNVmspc #TNVc #TNV1937">pāṅkaṉ kaḻaṟalun</lem>
-    <rdg wit="#TNV1947">pāṅka</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937">
+      <lem>pāṅkaṉ kaḻaṟalun</lem>
+      <rdg type="minor" wit="#TNV1937">pāṅkaṉ kaḻaṟalum,</rdg>
+    </rdgGrp>
+    <rdg wit="#TNV1947">pāṅkaṉ</rdg>
     <rdg wit="#TNVmsac">pāṅkaṉ kaḻaṟalumn</rdg>
   </app>
   <app loc="67,97">
-    <lem wit="#TNVmspc #TNVc #TNV1937">talaimakaṉ kaḻaṟṟetir maṟuttalum</lem>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937">
+      <lem>talaimakaṉ kaḻaṟṟetir maṟuttalum</lem>
+      <rdg type="minor" wit="#TNV1937">talaimakaṉ kaḻaṟṟetir maṟuttalum,</rdg>
+      <rdg type="minor" wit="#TNVc">talaimakaṉ kaḻaṟṟetir maṟuttalu<pb n="8" facs="9" type="folio"/><lb n="1"/>m</rdg>
+    </rdgGrp>
     <rdg wit="#TNV1947"/>
     <rdg wit="#TNVmsac">talaimakaṉmakaḻa<lb n="6"/>ṟṟetir maṟuttalum</rdg>
-
+    <rdg wit="#TNVmspc">talaimakaṉkaḻa<lb n="6"/>ṟṟetir maṟuttalum</rdg>
   </app>
   <app loc="97,109">
-    <lem wit="#TNVmspc #TNVc #TNV1937">pāṅkaṉōtalum</lem>
-    <rdg wit="#TNV1947">ṉ nōtalum,</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937">
+      <lem>pāṅkaṉōtalum</lem>
+      <rdg type="minor" wit="#TNV1937">pāṅkaṉ nōtalum,</rdg>
+    </rdgGrp>
+    <rdg wit="#TNV1947">nōtalum,</rdg>
     <rdg wit="#TNVmsac">pāṅkaṉōtalalum</rdg>
   </app>
-
-
+ 
+  
   <app loc="223,231">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">peyarntu</lem>
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947">
+      <lem>peyarntu</lem>
+      <rdg type="minor" wit="#TNVcpc">peyarntu<lb n="4"/></rdg>
+    </rdgGrp>
     <rdgGrp select="#TNVms #TNVcac">
       <rdg type="main">peyarntatu</rdg>
       <rdg type="minor" wit="#TNVcac">peyarntatu<lb n="4"/></rdg>
     </rdgGrp>
   </app>
   
+  <app loc="257,267">
+    <rdgGrp type="lemma" select="#TNVms #TNVc">
+      <lem>talaimakaṉ</lem>
+      <rdg type="minor" wit="#TNVms">talaima<lb n="8"/>kaṉ</rdg>
+    </rdgGrp>
+    <rdg wit="#TNV1937 #TNV1947">talaimakaṉ</rdg>
+  </app>
+ 
 </listApp></standOff><standOff type="apparatus" corresp="#TNV16poem1" source="alignments/TNV16poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
