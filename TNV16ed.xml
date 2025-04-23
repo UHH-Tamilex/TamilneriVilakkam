@@ -183,6 +183,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     kaḻaṟṟetir maṟuttalum pāṅkaṉōtalum evviṭattevvuru veṉṟalun talaimakaṉ iṉṉa viṭattiṉṉa vuru veṉṟalum 
     pāṅkaṉ avviṭattavvuruk kāṇṭalun talaimakaṉaip perumai kūṟalum peyarntu vantu talaimakaṟkuraittalun 
     talaimakaṉ ṟalaimakaḷaik kaṇṭaṇaitalum uṟaviṉ āṟṟāṉ kūṟalum viṭuttalum pāṅkaṟ kūṭṭam ām eṉṟa vāṟu.</p>
+    <p xml:lang="en">His friend questioning the hero about what has happened [to him]; the hero saying "it is so"; his friend reproaching [him]; [the hero] refuting [his friend's] reproach; his friend's suffering; [his friend] saying, "In what place and in what way?" and [the hero] saying, "In such a place and in such a way"; his friend seeing [her] at that place; [his friend] speaking of [the hero's] greatness; [the friend] leaving and telling [the hero about the place]; the hero seeing the heroine and approaching [her]; [the hero] not being able to bear the experience and speaking; and sending [the heroine] off - [these] are the union [with the help of] his friend.    </p>
 <div type="citation" rend="parallel">
         <lg xml:id="TNV16poem1">
 <l>muṉṉiṉai muṭippatoṉ ṟuḷatukoṉ mūvakai</l>
@@ -566,7 +567,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV16comm2" type="wordsplit">
-<interp type="alignment" select="0">17MG11MG17MG5MG15MG18MG12MG8ML4MG10MG12MG37MG16MG13MG27MG26MG8MG29MG7MG28MG25M,364MG</interp>
+<interp type="alignment" select="0">17MG11MG17MG5MG15MG18MG12MG8ML4MG10MG12MG22MG14MG16MG13MG27MG26MG8MG29MG7MG28MG25M,364MG</interp>
 <entry>
 <form>pāṅkaṉ</form>
 <def>companion</def>
@@ -577,7 +578,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <entry>
 <form>talaimakaṟk<c type="elided">u</c></form>
 <def>hero</def>
-<form type="sandhi">talaimakaṟk</form>
+<form type="sandhi">ṟalaimakaṟk</form>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
@@ -665,6 +666,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <form>maruttal-um</form>
 <def>rejecting</def>
 <form type="simple">maruttal</form>
+<form type="sandhi">maṟuttal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -690,8 +692,6 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <entry>
 <form>e<c type="geminated">v</c></form>
 <def>what</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>iṭatt<c type="elided">u</c></form>
@@ -704,8 +704,6 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <entry>
 <form>e<c type="geminated">v</c></form>
 <def>what</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>uru</form>
@@ -741,6 +739,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <entry>
 <form><c type="glide">v</c>iṭattu</form>
 <def>place</def>
+<form type="sandhi"><c type="glide">v</c>iṭatt</form>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -779,8 +778,6 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <entry>
 <form>a<c type="geminated">v</c></form>
 <def>that</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>iṭatt<c type="elided">u</c></form>
@@ -793,8 +790,6 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <entry>
 <form>a<c type="geminated">v</c></form>
 <def>that</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>uru<c type="geminated">k</c></form>
@@ -891,7 +886,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 </entry>
 <entry>
 <form>aṇaital-um</form>
-<def>touching</def>
+<def>approaching</def>
 <form type="simple">aṇaital</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
