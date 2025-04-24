@@ -256,7 +256,9 @@
 <l>virumpiṭa muraittaluṅ kuṟiyoṭu nīṅkalum</l>
 <l>puṉaintu nilaiyalu nilaimai kūṟalum</l>
 <l>pāṅkikoṇ ṭikattalum pakaṟkuṟi<anchor xml:id="pakarkuri"/> yākum</l>
-</lg></div>
+</lg>
+<p xml:lang="en">[The hero] expressing his desire [for a meeting] entreatingly when her companion has [her] doubts; her companion then questioning [the hero]; [the hero] creating a mutual understanding; [her companion] resolving [to help]; [her companion?] saying "Do not hide being one who knows [by saying] "I do not know what is pointed out"; [her companion] speaking [to him about] what is not intended; [her companion] speaking fabrications; [her companion] saying she is difficult [to approach]; [her companion] saying "You speak [to her]!"; [her companion] jokingly comforting [the hero]; [the hero] saying "Speak [to me] without joking!"; [her companion] saying "We are not appropriate for this, you great man!"; [her companion] demonstrating the uniqueness of the gift<note place="foot" xml:lang="en">This is not in prasise of the gift, but rather highlighting the fact that it is <hi rend="italic">not</hi> unique</note>; [her companion] saying "It is not suitable to touch [her] body."; [her compainion] saying "Knowing her state, I will take [the gift]."; speaking of the Palymyra-horse; [her companion] opposing [it]; [her companion] accepting the gift; [her companion] speaking [to the heroine] entreatingly [on his behalf]; [her companion speaking of the hero] leaving in shame; [her companion] persuading [the heroine] to accept [the hero's] request by spaking forcefully; [her companion] kindly accepting [the leaf-skirt]; [her companion] entrusting the leaf-skirt [to the heroine]; [the heroine] accepting the gift; [her companion] saying that [the acceptence of the gift] had come true; speaking about the desired [meeting-]place; [her companion] leaving with [knowledge of] the meeting-place; getting dressing and being ready [to return]; [the hero] speaking [to her companion] about [the heroine's] state; and leaving with her companion are [the situaions of] the daytime tryst.</p>
+</div>
 </body>
 </text>
 <text xml:lang="ta" type="edition" corresp="#Ed">
@@ -696,7 +698,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </body>
     </text>
     <standOff corresp="#TNV17" type="wordsplit">
-<interp type="alignment" select="0">4MG5MG25MG5MG11MG2ML13MG9MG17MG10MG25MG13MG19MG13MGMR5MG5MGMR9MG5MGMR5MG10MG17MG12MG23MG2ML12MG5MG6ML25MG2ML11MG2ML3MG11MG15MG18MGMR12MG7MG26MG13MG16MG37MG8MG12MG16MG18MGMR13MG11MG7MG17M,644MG</interp>
+<interp type="alignment" select="0">4MG5MG25MG5MG11MG2ML13MG9MG17MG10MG25MG13MG19MG13MGMR5MG5MGMR9MG5MGMR5MG10MG17MG12MG23MG2ML12MG5MG6ML25MG2ML11MG2ML3MG11MG15MG18MGMR12MG7MG26MG13MG16MG37MG8MG12MG16MG18MGMR13MG11MG7MG16M,644M</interp>
 <entry>
 <form>pāṅk<c type="elided">u</c></form>
 <def>companion</def>
@@ -990,7 +992,12 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 </entry>
 <entry>
 <form>periyīr</form>
-<def>?</def>
+<def>great</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>yām</form>
@@ -1011,9 +1018,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 </entry>
 <entry>
 <form>iyaiyēm</form>
-<def>agree</def>
+<def>not be appropriate</def>
 <gramGrp>
-  <gram type="role">participial noun</gram>
+  <gram type="role">negative</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -8698,7 +8705,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 <note xml:lang="ta" target="#pakarkuri"><term xml:lang="en">Cf. TP130i:</term> pakaṟpuṇar kaḷaṉē paṟaṉeṉa maḻipa | vavaḷaṟi vuṇara varuvaḻi yāṉa</note>
 <note xml:lang="ta" target="#pakarkuri"><term xml:lang="en">Cf. IA20:</term> pakaḵuṟi tāṉē yikappiṉum vuraiyār</note>
 </standOff>
-<standOff type="notes4" corresp="#TNV17comm2"><note xml:lang="en">In keeping with the pattern from previous <term xml:lang="ta-Latn"><hi rend="italic">cūttirams</hi></term>, the IAC is not treated as a source for the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>. It is cited where appropriate in the commmentary.</note></standOff>
+<standOff type="notes4" corresp="#TNV17"><note xml:lang="en" target="pakarkuri">In keeping with the pattern from previous <term xml:lang="ta-Latn"><hi rend="italic">cūttirams</hi></term>, the IAC is not treated as a source for the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>. It is cited where appropriate in the commmentary.</note></standOff>
 <standOff type="apparatus" corresp="#TNV17" source="alignments/TNV17.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
