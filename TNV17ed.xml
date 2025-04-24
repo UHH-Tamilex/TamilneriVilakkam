@@ -237,25 +237,25 @@
     <body>
       <div type="mūlam" rend="parallel">
         <lg xml:id="TNV17">
-<l>pāṅkuṇar vaiyuṟa virantukuṟai yuṟutalu</l>
-<l>māṅkavaṉ viṉātalu matiyuṭa ṉākkalun</l>
-<l>tuṇitaluñ cēṭpaṭa niṟuttaluñ cuṭṭiya</l>
+<l>pāṅkuṇar vaiyuṟa virantukuṟai yuṟutalu<anchor xml:id="urutal"/></l>
+<l>māṅkavaṉ viṉātalu matiyuṭa ṉākkalun<anchor xml:id="matiyutan"/></l>
+<l>tuṇitaluñ cēṭpaṭa niṟuttaluñ<anchor xml:id="niruttal"/> cuṭṭiya</l>
 <l>taṟiyē ṉaṟivaṉ maṟaiyē leṉṟaluṅ</l>
-<l>kuṟiyā kūṟalum paṭaittaṉa moḻitalu</l>
+<l>kuṟiyā kūṟalum paṭaittaṉa moḻitalu<anchor xml:id="molital"/></l>
 <l>mariyā ḷeṉṟalu nīkū ṟeṉṟalu</l>
 <l>nakaikoṇ ṭāṟṟalu nakāturai yeṉṟalum</l>
 <l>periyīr yāmataṟ kiyaiyē meṉṟaluṅ</l>
 <l>kaiyuṟai yorumai kāṭṭalu meyyuṟa</l>
 <l>vovvā teṉṟalu mavaṇilai yuṇarntu</l>
-<l>koḷkuva ṉeṉṟalu maṭaṉmā kūṟalu</l>
+<l>koḷkuva ṉeṉṟalu maṭaṉmā kūṟalu<anchor xml:id="kural"/></l>
 <l>maṟṟatu vilakkaluṅ kaiyuṟai kōṭalum</l>
 <l>viḻaiya vuṇarttalu nāṇoṭu nīṅkalum</l>
 <l>valitākac collik kuṟainayap pittalun</l>
-<l>taḻīik kōṭalun taḻaiyēṟ pittaluṅ</l>
+<l>taḻīik kōṭalun<anchor xml:id="kotal"/> taḻaiyēṟ pittaluṅ</l>
 <l>kaiyuṟai yetirntamai meypeṟa vicaittalum</l>
 <l>virumpiṭa muraittaluṅ kuṟiyoṭu nīṅkalum</l>
 <l>puṉaintu nilaiyalu nilaimai kūṟalum</l>
-<l>pāṅkikoṇ ṭikattalum pakaṟkuṟi yākum.</l>
+<l>pāṅkikoṇ ṭikattalum pakaṟkuṟi<anchor xml:id="pakarkuri"/> yākum</l>
 </lg></div>
 </body>
 </text>
@@ -264,7 +264,7 @@
       <head xml:lang="en">Commentary</head>
       <p xml:id="TNV17comm1">e-tu. tōḻiyiṟ kūṭṭattup pakaṟ kuṟi yām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way 
-      in which the daytime meeting place for a union by means of the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term> occurs.</p>
+      in which the daytime meeting place for a union [by means of] her companion occurs.</p>
       <p xml:id="TNV17comm2">pāṅkiyai yuṇarntatu mutal ākak koṇṭu peyarntatīṟākac collap paṭṭaṉa 
       vellān tōḻiyiṉ ākiya pakaṟ kuṟik kūṭṭam ām eṉṟa vāṟu.</p> 
 <p xml:lang="en">All of the things mentioned, beginning with 'making known [his desire] to the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term>' 
@@ -8681,7 +8681,25 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
   <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV17" source="alignments/TNV17.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV17">
+  <note xml:lang="ta" target="#urutal"><term xml:lang="en">Cf. TP99i.12:</term> tōḻiyayaikkuṟaiyuṟum pakutiyum</note>
+  <note xml:lang="ta" target="#urutal"><term xml:lang="en">Cf. IA5.3:</term> irantukuṟai yuṟutalum kiḻavōṉ mēṟṟē</note> 
+<note xml:lang="ta" target="#urutal"><term xml:lang="en">Cf. TP125i.1:</term> kuṟaiyuṟa vuṇartaṉ muṉṉurṟa vuṇartal</note>
+<note xml:lang="ta" target="#urutal"><term xml:lang="en">Cf. IA7.1:</term> muṉṉuṟa vuṇartal kuṟaiyuṟa vuṇartal</note>
+<note xml:lang="ta" target="#matiyutan"><term xml:lang="en">Cf. TP125i.3:</term> matiyuṭam paṭuttal</note>
+<note xml:lang="ta" target="#matiyutan"><term xml:lang="en">Cf. IA6.5:</term> matiyuṭam paṭuttaṟku...</note>
+<note xml:lang="ta" target="#niruttal"><term xml:lang="en">Cf. IA12.2:</term> cēṭpaṭa niṟuttalum</note>
+<note xml:lang="ta" target="#molital"><term xml:lang="en">Cf. IA12.8:</term> paṭaittumoḻi kiḷaiviyuṅ</note>
+<note xml:lang="ta" target="#kural"><term xml:lang="en">Cf. TP99i.20:</term> maṭal mā kūṟum</note>
+<note xml:lang="ta" target="#kotal"><term xml:lang="en">Cf. TP171i.1:</term> taḻīik kōṭal</note>
+<note xml:lang="ta" target="#pakarkuri"><term xml:lang="en">Cf. TP128i:</term> kuṟiyeṉap paṭuva tiraviṉum pakaliṉu | maṟit tōṉṟu māṟṟa teṉpa</note>
+<note xml:lang="ta" target="#pakarkuri"><term xml:lang="en">Cf. IA18:</term> kuṟiyeṉap paṭuva tiraviṉum pakaliṉu | maṟiyak kiḷant viṭameṉa moḻipa</note>
+<note xml:lang="ta" target="#pakarkuri"><term xml:lang="en">Cf. TP130i:</term> pakaṟpuṇar kaḷaṉē paṟaṉeṉa maḻipa | vavaḷaṟi vuṇara varuvaḻi yāṉa</note>
+<note xml:lang="ta" target="#pakarkuri"><term xml:lang="en">Cf. IA20:</term> pakaḵuṟi tāṉē yikappiṉum vuraiyār</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV17comm2"><note xml:lang="en">In keeping with the pattern from previous <term xml:lang="ta-Latn"><hi rend="italic">cūttirams</hi></term>, the IAC is not treated as a source for the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>. It is cited where appropriate in the commmentary.</note></standOff>
+<standOff type="apparatus" corresp="#TNV17" source="alignments/TNV17.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -8789,7 +8807,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp>
-</standOff><standOff type="apparatus" corresp="#TNV17comm2" source="alignments/TNV17comm2.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes4" corresp="#TNV17comm2"><note xml:lang="en">Unlike the commentary to the previous <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, there is no enumeration of speech situations here and so there are no sources or parallels.</note></standOff>
+<standOff type="apparatus" corresp="#TNV17comm2" source="alignments/TNV17comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
