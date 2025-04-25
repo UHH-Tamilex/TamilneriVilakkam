@@ -264,14 +264,18 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV17comm1">e-tu. tōḻiyiṟ kūṭṭattup pakaṟ kuṟi yām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way 
       in which the daytime meeting place for a union [by means of] her companion occurs.</p>
+      </div>
+      <div type="mūlam" rend="parallel">
       <p xml:id="TNV17comm2">pāṅkiyai yuṇarntatu mutal ākak koṇṭu peyarntatīṟākac collap paṭṭaṉa 
       vellān tōḻiyiṉ ākiya pakaṟ kuṟik kūṭṭam ām eṉṟa vāṟu.</p> 
 <p xml:lang="en">All of the things mentioned, beginning with 'making known [his desire] to the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term>' 
 and ending with '[the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term>] taking [the heroine] and departing', are the union at the daytime meeting-place 
 on account of the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term>.</p>
+</div>
 <div type="citation" rend="parallel">
         <lg xml:id="TNV17poem1">
      <l>nōkkiṉum piṟamuka nōkkāḷ cāriṉum</l>

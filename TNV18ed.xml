@@ -190,9 +190,10 @@
 <l>miṟappa nuvaṟalu miruḷvara vēṇṭalu</l>
 <l>maṟuttalu nērtaluṅ kuṟiyiṭam vakuttalum</l>
 <l>nayappa moḻitalu mavaṉvara vuṇarttaluṅ</l>
-<l>kuṟittuḻi yuyttalum peyarcciyo ṭalkuṟic</l>
+<l>kuṟittuḻi yuyttalum peyarcciyo ṭalkuṟic<anchor xml:id="kuri"/></l>
 <l>ciṟaippuṟa mākac ceppalu nōtalu</l>
-<l>miṟaippuṟa mākiya viravuk kuṟiyē.</l></lg>
+<l>miṟaippuṟa mākiya viravuk kuṟiyē<anchor xml:id="iravu"/></l></lg>
+<p xml:lang="en">The speech where [the heroine] excessively divugles her love [to her confidante]; the speech of her confidante while [the hero] has gone outside the wall [of the house]<note place="foot" xml:lang="en">In this situation, the heroine's friend speaks to herself while he is within earshot, though not visible, and so, in practice, speaks to him.</note>; [her confidante] informing [the hero] of her confinement; [her confidante] thinking "[The hero has made] a vow."; [her confidante] speaking about [the heroine's] death; [the hero] saying "It is necessary to come at night."; [the confidante] rejecting [that idea]; [the confidante] agreeing [to the idea]; [the confdiante] designating the meeting-place; [the confidante?] speaking so [the heroine?] agrees [to the tryst]; [the confidante] informing [the heroine] that he is coming; [the confidante] leading her to the designated place; [the confidante] speaking while [the hero] is outside the surrounding wall about the false sign and [the hero] leaving; and [the hero] suffering - [these are the situations of] the nighttime tryst which is occurs outside of the house.</p>
 </div>
 </body>
 </text>
@@ -5183,7 +5184,17 @@
   <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV18" source="alignments/TNV18.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV18">
+<note xml:lang="ta" target="#kuri"><term xml:lang="en">Cf. TP131i:</term> alllkuṟip paṭutalu mavaḷvayi ṉurittē | yavaṉkuṟi mayaṅkiya vamaivoṭu variṉē</note>
+<note xml:lang="ta" target="#kuri"><term xml:lang="en">Cf. IA17:</term> allakuṟip paṭutalu mavviya ṉurittē | yavaṉvara vaṟiyuṅ kuṟippiṉāṉa</note>
+<note xml:lang="ta" target="#iravu"><term xml:lang="en">Cf. TP129i:</term> iravu kuṟiyē yillakat tuḷḷu | maṉaiyōr kiḷavi kēṭkumvaḻi yatuvē | maṉaiyakam pukāak kālai yāṉa</note>
+<note xml:lang="ta" target="#iravu"><term xml:lang="en">Cf. IA19:</term> iravuk kuṟiyē yilvarai yikavātu</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV18">
+  <note xml:lang="en" target="#iravu">TP128i and IA18 which were provided as sources for the previous <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> should be considered as a source for this one as well. They state that a tryst can occur both in the daytime and nighttime.</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV18" source="alignments/TNV18.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
