@@ -200,13 +200,17 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="mūlam" rend="parallel">
       <p xml:id="TNV18comm1">eṉpatu iravuk kuṟi yām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which 
       the nighttime tryst occurs.</p>
+      </div>
+      <div type="mūlam" rend="parallel">
       <p xml:id="TNV18comm2">vāy viṭu kiḷavi mutal ākat talaimakaṉeñcoṭu nōtal īṟākac collap paṭṭaṉa vil 
       varai ikavā viravuk kuṟi yām eṉṟa vāṟu.</p>
       <p xml:lang="en">The things mentioned, beginning with 'the speech [where she] divulges' and ending with 'the hero aching with his heart', are the nighttime tryst that occurs outside the boundary of the house.</p>
- <div type="citation" rend="parallel">
+ </div>
+      <div type="citation" rend="parallel">
     <lg xml:id="TNV18poem1"> 
         <l>aṭumpiṉ meṉkoṭi tumiyak kaṭumpakaṟ</l>
         <l>koṭuṅkaḻi maruṅkiṉvan takaṉṟa</l>
@@ -458,7 +462,7 @@
 </body>
 </text>
 <standOff corresp="#TNV18" type="wordsplit">
-<interp type="alignment" select="0">25MG19MG2MG9MG9MG4MG7MG17MG15MG16MG2ML7MGMR6MG19MG16MG11MG8MG8MG10MG13MG28MGMR5MG28MG3M,313MG</interp>
+<interp type="alignment" select="0">25MG19MG2MG9MG9MG4MG7MG17MG15MG16MG2ML7MGMR6MG19MG16MG11MG8MG8MG10MG13MG28MGMR5MG28MG2M,313M</interp>
 <entry>
 <form>kātal</form>
 <def>love</def>
@@ -729,7 +733,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>uyttal-um</form>
-<def>dispatching</def>
+<def>leading</def>
 <form type="simple">uyttal</form>
 <form type="sandhi"><c type="glide">y</c>uyttal</form>
 <gramGrp>
