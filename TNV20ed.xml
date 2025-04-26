@@ -201,12 +201,16 @@
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="mūlam" rend="parallel">
       <p xml:id="TNV20comm1">eṉpatu uṭaṉ pōkku valittal ām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which 'encouraging elopement' occurs.</p>
-     <p xml:id="TNV20comm2">alar periteṉṟaṉ mutal ākap pāvak kiḷavi yīṟākac collap paṭṭa kiḷavikaḷai 
+    </div>
+    <div type="mūlam" rend="parallel">
+      <p xml:id="TNV20comm2">alar periteṉṟaṉ mutal ākap pāvak kiḷavi yīṟākac collap paṭṭa kiḷavikaḷai 
      yuṭaitteṉṟu colluvar uṭaṉ pōkku valittalai eṉṟa vāṟu.</p> 
      <p xml:lang="en">They say about 'ecouraging elopement' that it possesses those aforementioned speech situations, beginning with 'talking about the gossip being great' and ending with 'the speech of pity'.</p>
-<div type="citation" rend="parallel">
+</div>
+     <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem1"> 
         <l>nilavō raṉṉa veṇmaṇaṟ pākkattu</l>
         <l>malarēr kūntaṉ maṭantaik</l>

@@ -190,16 +190,23 @@
         <lg xml:id="TNV21">
         <l>mukkaṭ kūṭṭa mutalā nāṉkun</l>
 <l>tokkiya loḻukkaṅ kaṟpeṉat tōṉṟum</l></lg>
+<p xml:lang="en">All the four [situations], which have as their basis the union based on three [things]<note xml:lang="en" place="foot">This phrase has troubled scholars for generations, and I am not confident that it is yet fully understood. The most commonly accepted meaning of the phrase is that this refers to the unions which occur by means of three things - fate, the hero's companion, and the heroine's companion. I am not convinced. For a detailed discussion on this topic see (give ref. for introduction)</note>, appear together as the natural conduct called <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term></p>
 </div>
 </body>
 </text>
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV21comm1">eṉpatu kaṟpām āṟuṇarttutaṉutaliṟṟu.</p>
- <p xml:id="TNV21comm2">aṟattoṭu nilaiyum uṭaṉ celavuñ cēy iṭaip pirivum āy iṭaip pirivum 
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the 'married phase' occurs.</p>
+ </div>
+ <div type="commentary" rend="parallel">
+      <p xml:id="TNV21comm2">aṟattoṭu nilaiyum uṭaṉ celavuñ cēy iṭaip pirivum āy iṭaip pirivum 
  eṉap paṭṭa nāṉkum tokka voḻukka muk kaṭ kūṭṭam uṭaiya kaṟpeṉṟu ciṟappikkap paṭum eṉṟa vāṟu.<note> 21.</note></p>
- </body>
+ <p xml:lang="en">The conduct which is all the four [situations] together - namely standing with duty, the elopement, the long-distance separation and the separation to 'that place' - have the special designation <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term> which posseses the union based on three [things].</p>
+</div>
+</body>
  </text>
  <standOff corresp="#TNV21" type="wordsplit">
 <interp type="alignment" select="0">12ML9M2G6MG15MG10M,57M</interp>
