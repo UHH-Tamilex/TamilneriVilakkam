@@ -238,19 +238,26 @@
 <l>naivuṭaic cevili naṟṟāy moḻiyē</l>
 <l>celcurat tiraṅkal kaṇṭōr teḷitta</l>
 <l>lilvayiṟ peyartta liḷaiyōr celavē</l>
-<l>yaṟintaṉaṉ maṟaita<!--note place="foot" xml:lang="en">This reading aligns with the <hi rend="italic">koḷu</hi> in the commentary, so it is presumably the reading known to the commentator. I have also not been able to find <hi rend="italic">malaital</hi> as a sub-situation in other poetic treatises, so I have deviated from the MS reading.</note--> layalōr moḻital</l>
+<l>yaṟintaṉaṉ maṟaita<anchor xml:id="maraital"/><!--note place="foot" xml:lang="en">This reading aligns with the <hi rend="italic">koḷu</hi> in the commentary, so it is presumably the reading known to the commentator. I have also not been able to find <hi rend="italic">malaital</hi> as a sub-situation in other poetic treatises, so I have deviated from the MS reading.</note--> layalōr moḻital</l>
 <l>peyarntaṉaṉ varutal peruṅkiḷai makiḻvē</l>
-<l>tāyar kūṟṟē talaimakaḷ moḻiyō</l>
+<l>tāyar kūṟṟē talaimakaṉ<anchor xml:id="talaimakan"/> moḻiyō</l>
 <l>ṭāyiṉa piṟavu muṭaṉcela vākum.</l></lg>
+<p xml:lang="en">[The confidante] entrusting [the heroine to the hero]; [the hero's] joy; the speech of the onlookers; the speech of the distressed foster-motehr to the birth-mother; [the foster-mother] weeping about [the couple] going through the desert; the onlookers clarifying [the situation]; the young men [of her family] going [after them]; [the hero] knowing [they are coming and] hiding; the nighbours speaking; [the hero] who had left, returning [with her]; the joy of [the heroine's] many relatives; the speech of the mothers; the speech of the hero? and other [speech situations] are 'the elopement'.</p>
 </div>
 </body>
 </text>
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="mūlam" rend="parallel">
       <p xml:id="TNV23comm1">eṉpatu uṭaṉ celavām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:id="TNV23comm2">kai yaṭai mutal ākat talaimakaḷ kūṟṟīṟākac collap paṭṭaṉa varaivu maṟuttuḻi 
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which 'the elopement' occurs.</p>
+      </div>
+      <div type="mūlam" rend="parallel">
+      <p xml:id="TNV23comm2">kai yaṭai mutal ākat talaimakaṉ kūṟṟīṟākac collap paṭṭaṉa varaivu maṟuttuḻi 
       yākiya vuṭaṉ celavām eṉṟa vāṟu.</p>
+      <p xml:lang="en">Beginning with entrusting and ending with the speech of the hero - those things which have been mentioned are the elopement which takes place after the marriage rejection.</p>
+      </div>
       <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem1"> 
     <l>ivaḷē niṉṉala tilaḷē yāyuṅ</l>
@@ -630,8 +637,6 @@
 <entry>
 <form>uṭai<c type="geminated">c</c></form>
 <def>possess</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>cevili</form>
@@ -827,12 +832,12 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>talaimakaḷ</form>
-<def>heroine</def>
+<form>talaimakaṉ</form>
+<def>hero</def>
 <gramGrp>
   <gram type="role">noun</gram>
   <gram type="role">singular</gram>
-  <gram type="role">feminine</gram>
+  <gram type="role">masculine</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -863,8 +868,6 @@
 <entry>
 <form>uṭaṉ</form>
 <def>together</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>celav<c type="elided">u</c></form>
@@ -932,7 +935,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23comm2" type="wordsplit">
-<interp type="alignment" select="0">31MG2MG30MG18MG11M,95MG</interp>
+<interp type="alignment" select="0">31MG2MG30MG19MG11M,75MG20MG</interp>
 <entry>
 <form>kai</form>
 <def>hand</def>
@@ -962,12 +965,12 @@
 </gramGrp>
 </entry>
 <entry>
-<form>talaimakaḷ</form>
-<def>heroine</def>
+<form>talaimakaṉ</form>
+<def>hero</def>
 <gramGrp>
   <gram type="role">noun</gram>
   <gram type="role">singular</gram>
-  <gram type="role">feminine</gram>
+  <gram type="role">masculine</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1043,8 +1046,6 @@
 <entry>
 <form>uṭaṉ</form>
 <def>together</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>celav<c type="elided">u</c></form>
@@ -6544,7 +6545,12 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV23" source="alignments/TNV23.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes4" corresp="#TNV23">
+<note xml:lang="en" target="#maraital">This reading aligns with the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> in the commentary, so it is presumably the reading known to the commentator. I have also not been able to find <term xml:lang="ta-Latn"><hi rend="italic">malaital</hi></term> as a sub-situation in other poetic treatises, so I have deviated from the MS reading.</note>
+<note xml:lang="en" target="#talaimakan">Likewise, this aligns with what the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> suggests was the text known to the commentator. The transmission here is rather odd though. The palm-leaf MS gives different readings in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term> and commentary. Additionaly, UVC in the first edition of the text, printed <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term>, <q xml:lang="ta-Latn"><hi rend="italic">talaimakaḷ</hi></q> in the short prose commentary and then <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> again in the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term>. I have normalised these readings to <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q>, deviating from the MS, as I think it is unambigous that the speaker of the poem cited in the commentary is the hero. This situation is also not ofund in other treatises so there is no other information upon which to base this decision.</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV23" source="alignments/TNV23.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6573,14 +6579,19 @@
     <rdg wit="#TNVms #TNVc">malaita</rdg>
   </app>
   <app loc="144,155">
-    <lem wit="#TNVms #TNVc #TNV1937">peyarntaṉaṉ</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937">
+      <lem>peyarntaṉaṉ</lem>
+      <rdg type="minor" wit="#TNVms">peyarn<lb n="8"/>taṉaṉ</rdg>
+      <rdg type="minor" wit="#TNVc"><lb n="10"/>peyarntaṉaṉ</rdg>
+    </rdgGrp>
     <rdg wit="#TNV1947">peyarntaṉar</rdg>
   </app>
   <app loc="189,199">
-    <lem wit="#TNVms #TNVc">talaimakaḷ</lem>
-    <rdg wit="#TNV1937 #TNV1947">talaimakaṉ</rdg>
+    <lem wit="#TNV1937 #TNV1947">talaimakaṉ</lem>
+    <rdg wit="#TNVms #TNVc">talaimakaḷ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23comm1" source="alignments/TNV23comm1.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="apparatus" corresp="#TNV23comm1" source="alignments/TNV23comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6618,8 +6629,8 @@
   </desc>
 </interp><listApp>
   <app loc="17,27">
-    <lem wit="#TNVms #TNVc #TNV1937">talaimakaḷ</lem>
-    <rdg wit="#TNV1947">talaimakaṉ</rdg>
+    <lem wit="#TNV1947">talaimakaṉ</lem>
+    <rdg wit="#TNVms #TNVc #TNV1937">talaimakaḷ</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu1" source="alignments/TNV23koḷu1.xml"><interp type="normalization">
   <desc type="tagfilters">
