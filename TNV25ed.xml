@@ -231,16 +231,26 @@
 <l>viḻaikunaṉ viḻaiyā ṉivaṉeṉa viḷampalun</l>
 <l>tāykaṇ ṭuraittalun tāṅkiya kātali</l>
 <l>ṉāyiṉa piṟavu māyiṭaip pirivē</l></lg>
+<p xml:lang="en">[The confidante's] refusal [of teh hero] at the door; [the bard] speaking at the door; the confidante rebuking [the bard]; [the bard's] vexaion appearing; the hero becoming vexed; the heroine becoming vexed; [the heroine] saying "He, the lover, does not desire me"; the mother seeing [this] and speaking; and other [situations] which exist because of enduring love [are] 'the separation to 'that place''.</p>
 </div>
 </body>
 </text>
 <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <head xml:lang="en">Commentary</head>
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV25comm1">eṉpatu āy iṭaip pirivām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which 'the separation to 'that place'' occurs.</p>
+      </div>
+      <div type="mūlam" rend="parallel">
       <p xml:id="TNV25comm2">vāyiṉ maṟuttal mutal ākac cevili kūṟṟīṟākac collap paṭṭa vivaiyum 
       piṟavum parattaiyiṟ pirivām eṉṟa vāṟu.</p>
+      <p xml:lang="en">Beginning with the refusal at the door and ending with the foster-mother's speech, these which have been mentioned and other are [the situations of] 'the separation on account of the other woman'.</p>
+      </div>
+      <div type="mūlam" rend="parallel">
       <p xml:id="TNV25comm3">piṟavum eṉṟataṉāṟ parattaiyar kūṟṟum pūppuṇarttutalum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
+<p xml:lang="en">Because he says <q xml:lang="ta-Latn"><hi rend="italic">piṟavum</hi></q>, understand that they include all of the speeches of the other woman and making known the menstruation.</p>
+</div>      
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem1"> 
     <l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
