@@ -438,11 +438,12 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
         <l>alava ṉāṭalu māṭā ḷāyamoṭu</l>
         <l>malarpūṅ kāṉal vaṇṭalu mayarā</l>
         <l>ḷōviyap pāvai yottaṉaḷ</l>
-        <l>yātuko laṇṇalyāṉ collu māṟē</l>
+        <l>yātuko laṇṇalyāṉ collu māṟē<anchor xml:id="mar"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV17koḷu15">ituvum atu.</p>
+    <p xml:lang="en">And this is that.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem16" corresp="#KT78"> 
@@ -457,26 +458,29 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV17koḷu16">ituvum atu.</p>
+    <p xml:lang="en">And this is that.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem17"> 
-        <l>vampa varaviṉi rākali ṉuṇarīr</l>
+        <l>vampa varaviṉi rākali ṉuṇarīr<anchor xml:id="unarir"/></l>
         <l>empatat teḷiyaḷō maṭantai</l>
-        <l>yimpar vāḻkkai yiyavuṇmaṉ ṉemakkē.</l>
+        <l>yimpar vāḻkkai yiyavuṇmaṉ ṉemakkē<anchor xml:id="nemakke"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV17koḷu17">eṉpatu talaimakaḷ ariyaḷ eṉṟatu.</p>
+    <p xml:lang="en">[The confidante] says "She is difficult [to speak to]" [to the hero].</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem18"> 
         <l>poṉṉiyal cuṇaṅkiṉ meṉmulai yarivaikku</l>
         <l>miṉṉiva roḷivē laṇṇa</l>
-        <l>ṉiṉṉuṟu viḻumaṅ kūṟumati nīyē</l>
+        <l>ṉiṉṉuṟu viḻumaṅ kūṟumati nīyē<anchor xml:id="speak"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu18">eṉpatu niṉkuṟai nīyē kūṟeṉṟatu.</p>
+    <p xml:id="TNV17koḷu18">eṉpatu niṉkuṟai nīyē kūṟeṉṟatu.<anchor xml:id="kuru"/></p>
+    <p xml:lang="en">[The confidante] says "Tell [the heroine] your request yourself!" [to the hero].</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem19"> 
@@ -486,7 +490,8 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu19">eṉpatu nakai koṇṭāṟṟal.</p>
+    <p xml:id="TNV17koḷu19">eṉpatu nakai koṇṭāṟṟal.<anchor xml:id="arral"/></p>
+    <p xml:lang="en">[The heroine] comforting [the hero] jokingly.</p>
     </div>
  <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem20"> 
@@ -502,17 +507,17 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lg xml:id="TNV17poem21"> 
         <l>tiruntā vāḻkkaic ciṟukuṭi yemakkup</l>
         <l>peruntakai yaṇṇa ṉiṉṉiṭaip</l>
-        <l>poruntiya kēṇmaiyum puraivatō vaṉṟē</l>
+        <l>poruntiya kēṇmaiyum puraivatō vaṉṟē<anchor xml:id="anre"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu21">eṉpatu yām umakkiyaiyō meṉṟatu.</p>
+    <p xml:id="TNV17koḷu21">eṉpatu yām umakkiyaiyō meṉṟatu.<anchor xml:id="iyaiyom"/></p>
     </div>
  <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem22"> 
         <l>puyaṟkuḻaṉ maṭantaiyar pūṅkarum pulakkaiyi</l>
         <l>ṉakaikkavi ṉavāya vāmeṉa</l>
-        <l>vavaikkunar mātō valaṅkukatir muttē</l>
+        <l>vavaikkunar mātō valaṅkukatir muttē<anchor xml:id="mutte"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -522,7 +527,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lg xml:id="TNV17poem23"> 
         <l>māṇeḻi laṇṇal vāṅkutum yāmē</l>
         <l>cēṇuyar cilampiṉ yāṅkaṇuṅ</l>
-        <l>kāṇala maṉṉōvik kamaḻpūn taḻaiyē</l>
+        <l>kāṇala maṉṉōvik kamaḻpūn taḻaiyē<anchor xml:id="talai"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -543,18 +548,18 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
         <l>māveṉa maṭalu mūrpa pūveṉak</l>
         <l>kuvimuki ḻerukkaṅ kaṇṇiyuñ cūṭupa</l>
         <l>maṟuki ṉārkkavum paṭupa</l>
-        <l>piṟitu mākupa kāmaṅkāḻk koḷiṉē</l>
+        <l>piṟitu mākupa kāmaṅkāḻk koḷiṉē<anchor xml:id="koline"/></l>
         <trailer><note>kuṟun - 17</note></trailer>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu25">eṉpatu maṭal ēṟuvaṉ eṉṟatu.</p>
+    <p xml:id="TNV17koḷu25">eṉpatu maṭal ēṟuvaṉ eṉṟatu.<anchor xml:id="eruvan"/></p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem26"> 
-        <l>koḷḷali ramma varuḷiṉi rātaliṟ</l>
+        <l>koḷḷali ramma varuḷiṉi<anchor xml:id="arulinir"/> rātaliṟ</l>
         <l>puḷḷiṉ peruṅkiḷai yalaṟa</l>
-        <l>vaḷḷitiṉ virinta māppaṉai maṭalē</l>
+        <l>vaḷḷitiṉ virinta māppaṉai maṭalē<anchor xml:id="horse"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -564,11 +569,11 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lg xml:id="TNV17poem27"> 
         <l>eḷitō vamma voḷiyiḻai maṭantai</l>
         <l>kiḷipurai kiḷaviyu naṭaiyu</l>
-        <l>miḷameṉ cāyalu meḻutumā ṟumakkē</l>
+        <l>miḷameṉ cāyalu meḻutumā ṟumakkē<anchor xml:id="umakke"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu27">ituvum atu.</p>
+    <p xml:id="TNV17koḷu27">ituvum atu.<anchor xml:id="atu"/></p>
     </div>                    
  <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem28"> 
@@ -585,7 +590,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
         <l>aṭuntiṟal vēḻa māṟṟi yemvayiṟ</l>
         <l>kaṭuntuya roḻittaṉai yātaliṉ maṭantai</l>
         <l>kaṇṇu mēṉiyum puraiyum</l>
-        <l>taṇṇaṟuṅ kuvaḷaiyoṭu taḻaitan tīmē</l>
+        <l>taṇṇaṟuṅ kuvaḷaiyoṭu taḻaitan tīmē<anchor xml:id="tim"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -595,11 +600,11 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lg xml:id="TNV17poem30"> 
         <l>aṉṉā yoruvareṉ poymmoḻi nacaii</l>
         <l>yiṉṉu mivvaḻi varukuva</l>
-        <l>reṉṉai yāmavark kiyampuva tiṉiyē</l>
+        <l>reṉṉai yāmavark kiyampuva tiṉiyē<anchor xml:id="ini"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu30">eṉpatu melitākac collik kuṟai nayappittatu.</p>
+    <p xml:id="TNV17koḷu30">eṉpatu melitākac collik kuṟai nayappittatu.<anchor xml:id="melitaka"/></p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem31"> 
@@ -617,11 +622,11 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
         <l>neruna livvaḻip peṭaipuṟan tarūu</l>
         <l>malavaṉ ṟaṉṉaiyu meṉṉaiyu nōkkiyu</l>
         <l>nontaṉaṉ peyarnta tuṟaivaṉ</l>
-        <l>vantilaṉ mātō varuntumeṉ maṉaṉē</l>
+        <l>vantilaṉ mātō varuntumeṉ maṉaṉē<anchor xml:id="manan"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu32">eṉpatu valitākac collik kuṟai nayappittatu.</p>
+    <p xml:id="TNV17koḷu32">eṉpatu valitākac collik kuṟai nayappittatu.<anchor xml:id="valitaka"/></p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem33"> 
@@ -9237,7 +9242,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu18" source="alignments/TNV17koḷu18.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17koḷu18"><note xml:lang="ta" target="#kuru"><term xml:lang="en">Cf. IAC12, p.87:</term> 'nīyē ceṉṟu niṉkuṟai collāy'</note></standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu18" source="alignments/TNV17koḷu18.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9257,7 +9264,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu19" source="alignments/TNV17koḷu19.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17koḷu19"><note xml:lang="ta" target="#arral"><term xml:lang="en">Cf. IAC12, p.87:</term> avaṉ irantu piṉṉiṉṟaviṭattu māyamāṉa puṇarttuc collukiṉratu, iḵtu ulakattu nikaḻvateṉṟaṉṟālō eṉṟu avaṉoṭu nakāniṉṟē...</note></standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu19" source="alignments/TNV17koḷu19.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9277,7 +9286,8 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu20" source="alignments/TNV17koḷu20.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu20" source="alignments/TNV17koḷu20.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9297,7 +9307,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu21" source="alignments/TNV17koḷu21.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17koḷu21"><note xml:lang="ta" target="iyaiyom"><term xml:lang="en">Cf. IAC12, p.91:</term> iṉi ivvakaiyuñ collum: 'nīyir periyīr, yām ciṟiyōm, nammōṭu emmiṭaik kaṭṭurai poruntātu' eṉṉum</note></standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu21" source="alignments/TNV17koḷu21.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9391,7 +9403,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <rdg wit="#TNVms #TNVc"/>
   </app>
   
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu25" source="alignments/TNV17koḷu25.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17koḷu25"><note xml:lang="ta" target="#eruvan"><term xml:lang="en">Cf. IAC8, p.76:</term>maṭalēṟuvaṉ eṉṟirāl</note></standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu25" source="alignments/TNV17koḷu25.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9431,7 +9445,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu27" source="alignments/TNV17koḷu27.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV17koḷu27"><note xml:lang="ta" target="#atu"><term xml:lang="en">Cf. IAC8, p.76:</term> 'aṉṟiyum, "maṭalēṟuvaṉ" eṉṟirāl, ammaṭalēṟap paṭuvatu uruvu eḻutikkoṇ ṭaṉṟē ēṟuvatu; namakku uruveḻuttal āmō?'</note></standOff>
+<standOff type="notes4" corresp="#TNV17koḷu27"><note xml:lang="en" target="#atu">What is given one short identification in the TNVC <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> - that the confidante is trying to prevent him from riding the palmyra-horse - is expanded into multiple situations in the IAC, like the one cited here, relevant to this poem.</note></standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu27" source="alignments/TNV17koḷu27.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9486,7 +9503,11 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu30" source="alignments/TNV17koḷu30.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17koḷu30">
+<note xml:lang="ta" target="#melitaka"><term xml:lang="en">Cf. IAC10, p.79:</term> melitāka collik kuṟainayapppikkumāṟu</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu30" source="alignments/TNV17koḷu30.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9533,7 +9554,11 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
       <gap reason="illegible" unit="character" quantity="1"/>
     </rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu32" source="alignments/TNV17koḷu32.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17koḷu32">
+  <note xml:lang="ta" target="#valitaka"><term xml:lang="en">Cf. IAC10, p.80:</term> valitāka collik kuṟainayappikkumāṟu</note></standOff>
+  <standOff type="notes4" corresp="#TNV17koḷu32"><note xml:lang="ta" target="#valitaka">In practice, the IAC combines this sub-situation in the TNVC and the previous one. The confidante tells the heroine how the hero came the day before, and on seeing a male animal either play with or protect its female partner,  he feels shame that he is unable to do so and leaves. One sees this in the quoted poems.</note></standOff>
+  <standOff type="apparatus" corresp="#TNV17koḷu32" source="alignments/TNV17koḷu32.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10209,8 +10234,8 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <rdg wit="#TNVmsac">piṟakuperu</rdg>
   </app>
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV17poem14"><note xml:lang="ta" target="utaitte"><term xml:lang="en">Cf. IAC12, p.88-9:</term> ivviṭam eṉṉaiyarāṉun taṉṉaiyarāṉum palkālum pukutarappaṭumāl; avar nammaik kaṇṭāl ētañcayvar, kūṟṟiṉum kaṭuñciṉatta rākalāṉ... akaṉṟu niṉru</note></standOff>
-<standOff type="notes4" corresp="#TNV17poem14"><note xml:lang="en" target="utaitte">Recall that 'putting [the hero] at a distance' also fell under this general category in the IAC, whereas TNV has reorganised.</note></standOff>
+<standOff type="notes1" corresp="#TNV17poem14"><note xml:lang="ta" target="#utaitte"><term xml:lang="en">Cf. IAC12, p.88-9:</term> ivviṭam eṉṉaiyarāṉun taṉṉaiyarāṉum palkālum pukutarappaṭumāl; avar nammaik kaṇṭāl ētañcayvar, kūṟṟiṉum kaṭuñciṉatta rākalāṉ... akaṉṟu niṉru</note></standOff>
+<standOff type="notes4" corresp="#TNV17poem14"><note xml:lang="en" target="#utaitte">Recall that 'putting [the hero] at a distance' also fell under this general category in the IAC, whereas TNV has reorganised.</note></standOff>
 <standOff type="apparatus" corresp="#TNV17poem14" source="alignments/TNV17poem14.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -10231,7 +10256,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">luṭaittē</lem>
     <rdg wit="#TNVmsac">lu<lb n="5"/><unclear>ṭe</unclear>ttē.</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem15" source="alignments/TNV17poem15.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem15"><note xml:lang="ta" target="#mar"><term xml:lang="en">Cf. IAC12, p.90:</term> neṟinīr iruṅkaḻi nīlamum cūṭāḷ | poṟimāṇ variyalavaṉ āḷatlum āṭāḷ | ciṟunutal veyarvarumpac cintiyā niṉṟāṭku | eṟinīrttaṇ cīrppayāṉ eṉcollic celkō||</note></standOff>
+<standOff type="notes4" corresp="#TNV17poem15"><note xml:lang="en" target="#mar">The main rhetorical question of this anonymous poem - the confidante wondering what she can tell the heroine - and the image of girls playing in the sand are the same in both poems. The poem is also quoted in Nacci's commentary to TP23, which UVC in turn provides as a footnote for this poem in his TNV edition.</note></standOff>
+<standOff type="apparatus" corresp="#TNV17poem15" source="alignments/TNV17poem15.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10340,7 +10368,11 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
       <rdg type="minor" wit="#TNVcpc">pē<lb n="10"/> taimaittē.</rdg>
     </rdgGrp>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem17" source="alignments/TNV17poem17.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem17"><note xml:lang="ta" target="#unarir"><term xml:lang="en">Cf. IAC12, p.90:</term> 'nīyir viruntiṉirākalāṉ avaḷatu arumaiyum perumaiyum aṟiyīraṉṟē, ..., emakkuk kaṇkūṭākac celvatōr tevyamallaḷō?'</note></standOff>
+<standOff type="notes2" corresp="#TNV17poem17"><note xml:lang="ta" target="#nemakke"><term xml:lang="en">Cf. IAC12, p.91:</term> nerunalu muṉṉāḷ elliyum oruciṟaip | putuvai yākaliṟ kiḷattal nāṇi | nēriḻai vaḷaittōḷ niṉtōḻi ceyak | aruyir varuttaṅ kaḷaiyā yōveṉa | eṟkuṟai yuṟutir āyiṟ coṟkuṟai | empatta teḷiyaḷ allaḷ emakkōr | kaḷkāṇ kaḷavuḷ allaḷō peruma | vāykōṉ miḷakiṉ malayaṅ koḻuṅkoṭi | tuñcupuli varippuṟan taivarum | mañcucūḻ maṇvariai maṉṉavaṉ makaḷē||</note></standOff>
+<standOff type="notes4" corresp="#TNV17poem17"><note xml:lang="en" target="#nemakke">The first five lines of this anonymous poem, also quoted by Nacci in his commentary to TP23, is the same as what is transmitted in the KK. Then there seems to have been some cross-fertilisaton of different strands or simply of different poems. The final two lines of poem found in the TNVC, are the same as those in the KK, but the IAC and TPna different. Lines 6-7 of the IAC poem, are very similar in content to the TNVC poem. The most striking similarity is to the prose preamble to the IAC poem, which mirrors the content of the TNVC poem almost exactly, and which I therefore think is its primary source.</note></standOff>
+<standOff type="apparatus" corresp="#TNV17poem17" source="alignments/TNV17poem17.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10389,7 +10421,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">ṉemakkē.</lem>
     <rdg wit="#TNVmsac">ṉekkē.</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem18" source="alignments/TNV17poem18.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem18"><note xml:lang="ta" target="#speak"><term xml:lang="en">Cf. PK107.2-4 (IAC12, p.87):</term>...an taṇpūmpotiyil | vēyē aṉaiyameṉ tōḷikku niṉkaṇ melivuṟunōy | nīyē uraiyāy viraiyāy alaṇkal neṭuntakaiyē||</note></standOff>
+<standOff type="apparatus" corresp="#TNV17poem18" source="alignments/TNV17poem18.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10413,7 +10447,8 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKed">laṇṇa ṉiṉṉuṟu</lem>
     <rdg wit="#TNVmsac">la<unclear>ṇ</unclear>ṇṇa ṉiṉṉu<unclear>na</unclear>ṟu</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem19" source="alignments/TNV17poem19.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="apparatus" corresp="#TNV17poem19" source="alignments/TNV17poem19.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10476,7 +10511,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
       <rdg type="minor" wit="#TNVmspc">mārē.</rdg>
     </rdgGrp>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem21" source="alignments/TNV17poem21.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem21"><note xml:lang="ta" target="#anre"><term xml:lang="en">Cf. NA45.9-11 (IAC12, p. 91):</term> perunīr viḷaiyuḷeñ ciṟunal vāḻkkai | nammoṭu puraivatō aṉṟē | emma ṉūriṟ cemmalum uṭaittē||</note></standOff>
+<standOff type="notes4" corresp="#TNV17poem21"><note xml:lang="en" target="#anre">Note specifically the quotation in the TNVC of the phrase at the end of line 10 from NA45 - <q xml:lang="ta">puraivatō vaṉṟē</q>.</note></standOff>
+<standOff type="apparatus" corresp="#TNV17poem21" source="alignments/TNV17poem21.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10505,7 +10543,13 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVcpc #TNV1937 #TNV1947">kēṇmaiyum</lem>
     <rdg wit="#TNVms #TNVcac"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem22" source="alignments/TNV17poem22.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem22"><note xml:lang="ta" target="#mutte"><term xml:lang="en">Cf. IAC12, p.92:</term> nīṭunīrk kāṉal nerunalu nittilaṅkoṇ ṭaiyavantīr | kōṭuyar veṇmaṇaṟ coṟkaiyam mūrivaṟṟāṟ kuṟaivilamyām | āṭum kaḻaṅkum aṇiviḷaṅkum ammaṉaiyum piṟavumellām | pāṭiya vaippaṉ vumpantarp paṭuvaṉavum paṉinīrmuttam||</note>
+<note xml:lang="ta" target="#mutte"><term xml:lang="en">Cf. IAC12, p.92:</term> nuṉṉaittañ ciṟṟil muḻaṅkukaṭa lōtam mūḻkippeyar | aṉṉaik kuraippaṉ aṟivāykaṭa lēyeṉ ṟalaṟippēeuñ | taṉmai maṭavar taṇantukutta veṇmuttan takaicūḻkāṉaṟ | puṉṉai yarumpēyppapēvāraip pētuṟukkum pukārēyemmūr||</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV17poem22"><note xml:lang="ta" target="#mutte">Though neither poem is particularly close in their wording, the central idea is shared - the girl are not impressed by pearls since there are plenty where they are from.</note></standOff>
+
+<standOff type="apparatus" corresp="#TNV17poem22" source="alignments/TNV17poem22.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10540,7 +10584,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVcpc #TNV1937 #TNV1947">valaṅkukatir</lem>
     <rdg wit="#TNVms #TNVcac">vilaṅkukatir</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem23" source="alignments/TNV17poem23.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem23"><note xml:lang="ta" target="#talai"><term xml:lang="en">Cf. PK127 (IAC12, p.127):</term> kainnilat tuccilai yāṟkaṇai cintik kaṟuttetirntār | cennilat tuppaṭac cīṟiya kōṉceḻun taṇpotiyil | innilat tammalai mēlavov vāvirun taṇcilampā | ennilat temmalai mēlaic cantaṉat tīrntaḻaiyē||</note></standOff>
+<standOff type="notes4" corresp="#TNV17poem23"><note xml:lang="en" target="#talai">My impression is that the author of the TNVC was playing with the meaning of the PK source. The TNVC poem is sarcastic and its subtext is exactly that expressed in the PK - giving us a gift of flowers found on our mountains is not good enough.</note></standOff>
+<standOff type="apparatus" corresp="#TNV17poem23" source="alignments/TNV17poem23.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10605,7 +10652,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKms #KKed">koḷkuvaṉ</lem>
     <rdg wit="#TNVms #TNVcac">koḷḷuvaṉ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem25" source="alignments/TNV17poem25.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV17poem25"><note xml:lang="en" target="koline">This is also quoted, with no variation, in the IAC (p.76.).</note></standOff>
+<standOff type="apparatus" corresp="#TNV17poem25" source="alignments/TNV17poem25.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10629,7 +10678,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVcpc #TNV1937 #TNV1947 #KT17">kāmaṅkāḻk</lem>
     <rdg wit="#TNVms #TNVcac">kākamaṅkāḻk</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem26" source="alignments/TNV17poem26.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem26"><note xml:lang="ta" target="#arulinir"><term xml:lang="en">Cf. IAC8, p.76:</term> 'maṭaleṟuvaṉ eṉṟirāl, namakku maṭaleṟutal iyaivatukollō, eṉṉai, nīyir pēraruḷiṉir ākalāṉ'</note>
+<note xml:lang="ta" target="#horse"><term xml:lang="en">Cf. PK81 (IAC8, p.76):</term> palamaṉṉu puḷḷiṉam pārppuñ ciṉaiyum avaiyaḻiya | ulamaṉṉu tōḷaṇṇal ūrak koḷāykol olitiraicūḻ | nilamaṉṉaṉ nēriyaṉ māṟaṉ neṭuṅkaḷat taṭṭatiṅkaṭ | kulamaṉṉaṉ kaṉṉik kulaivaḷar peṇṇaik koḻumaṭalē||</note></standOff> 
+<standOff type="apparatus" corresp="#TNV17poem26" source="alignments/TNV17poem26.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10649,7 +10701,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">rātaliṟ</lem>
     <rdg wit="#TNVmsac">rāttaliṟ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem27" source="alignments/TNV17poem27.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem27">
+  <note xml:lang="ta" target="#umakke"><term xml:lang="en">Cf. PK83 (IAC, p.77):</term> kaḷicēr kaḷiṟṟuk kaḻalneṭu māṟaṉ kaṭaiyal veṉṟa | teḷicēr oḷimutta veṇkuṭai maṉṉaṉteṉ ṉuṭiayāḷ | kiḷicēr moḻiyum karuṅkuḻal nāṟṟamuṅ kēṭpiṉaiya | eḷitō eḻuta eḻutippiṉ ūrak eḻilmaṭal||</note></standOff>
+  <standOff type="apparatus" corresp="#TNV17poem27" source="alignments/TNV17poem27.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10684,7 +10739,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV17poem29" source="alignments/TNV17poem29.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV17poem29"><note xml:lang="ta" target="#tim"><term xml:lang="en">Cf. PK120.1-2 (IAC12, p.92):</term> vēḻam viṉavutir meṉpūn taḻaiyum koṇarntuniṟṟir | āḻu muṭaiya karumattir pōṟir aṇaintakalīr |</note></standOff>
+<standOff type="apparatus" corresp="#TNV17poem29" source="alignments/TNV17poem29.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10708,7 +10765,13 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVcpc #TNV1937 #TNV1947">mēṉiyum puraiyum</lem>
     <rdg wit="#TNVms #TNVcac">mēṉiyun</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem30" source="alignments/TNV17poem30.xml"><interp type="normalization">
+</listApp></standOff>
+ <standOff type="notes1" corresp="#TNV17poem30">
+  <note xml:lang="ta" target="#ini"><term xml:lang="en">Cf. IAC10, p.79:</term> avvāṟu karuti poyttēṟku avar ataṉai meyyeṉṟu karutikkoṇṭu ceṉṟār; tām poyyaṟiyāmaiyiṉ; aṉṉār iṉṟu varuvar</note>
+  <note xml:lang="ta" target="#ini"><term xml:lang="en">Cf. PK87.4 (IAC10, p.79):</term>...aṟiyēṉ uraippator poymmoḻiyē</note>
+    <note xml:lang="ta" target="#ini"><term xml:lang="en">Cf. PK92.2-4 (IAC10, p.80):</term>...yāṉ coṉṉa poyyaimey yeṉṟakalāṉ | perumpāṉ maiyumiṉṟu vārā viṭāṉvariṟ peramarkkaṭ | curumpār karuṅkuḻal vāyiṟ yēṉiṉic colluvatē</note>  
+</standOff>
+  <standOff type="apparatus" corresp="#TNV17poem30" source="alignments/TNV17poem30.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -10781,7 +10844,13 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">pāciṉaṅ</lem>
     <rdg wit="#TNVmsac">pācciṉaṅ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem32" source="alignments/TNV17poem32.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem32">
+  <note xml:lang="ta" target="#manan"><term xml:lang="en">Cf. IAC10, p.81:</term> nerunalaināḷāl ikkāṉaluḷ vantu eṉṉai etirppaṭṭut taṉ tuṉai puṟantaruvatōr alavaṉaik kaṇṭu, "ituvākātē aṟivum āṇmaiyumāvatu!" eṉa ataṉai naṉkumatittu āṟṟāṉāy eṉṉaiyum nōkki alavaṉaiyum nōkki, 'uṇarviṉai eṉkaṇṇum avvalavaṉ kaṇṇum oḻiyap pōyiṉaṉ'</note>
+  <note xml:lang="ta" target="#manan"><term xml:lang="en">Cf. PK96 (IAC, p.81):</term> pāṭuñ ciṟaivaṇ ṭaṟaipoḻiliṟ pāḻippaṟ ṟāvaracar | ōṭun tiṟaṇkaṇṭa kōṉkaṉṉik kāṉal uṟutuṇaiyōṭu | āṭum alavaṟ pukaḻnteṉṉai nōkki aṟivaḻiya | nītu niṉaintceṉ ṟaṉneṉṉal āṇkor neṭuntakaiyē||</note>
+  <note xml:lang="ta" target="#manan"><term xml:lang="en">Cf. Cilap.7, 31 (IAC10, p.79):</term> puṇartuṇaiyō ḷāṭum poṟiyalavaṉ nōkki | iṇaraitaip pūṅkāṉal eṉṉaiyum nōkki | uṇarvoḻiyap pōṉa olitirainīrc cērppaṉ | vaṇarpuri aimpālāy vaṇṇam uṇarēṉāl||</note>
+</standOff>  
+<standOff type="apparatus" corresp="#TNV17poem32" source="alignments/TNV17poem32.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
