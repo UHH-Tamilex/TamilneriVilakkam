@@ -226,7 +226,7 @@
             <expan><title xml:lang="ta">Kuṟuntokai</title> 315. <persName xml:lang="ta">Maturai
               Vēḷātattaṉ </persName>: <hi rend="italic">SHE</hi></expan>
           </witness>
-        </listWit>
+        <witness xml:id="IA" source="IAprint.xml"><abbr type="siglum">IA</abbr><expan>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ)</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -257,7 +257,7 @@
 <l>puṉaintu nilaiyalu nilaimai kūṟalum</l>
 <l>pāṅkikoṇ ṭikattalum pakaṟkuṟi<anchor xml:id="pakarkuri"/> yākum</l>
 </lg>
-<p xml:lang="en">[The hero] expressing his desire [for a meeting] entreatingly when her companion has [her] doubts; her companion then questioning [the hero]; [the hero] creating a mutual understanding; [her companion] determining [the intention of the hero]; [the confidante] putting him at a distance; [her companion?] saying "Do not hide being one who knows [by saying] "I do not know what is pointed out"; [her companion] speaking [to him about] what is not intended; [her companion] speaking fabrications; [her companion] saying she is difficult [to approach]; [her companion] saying "You speak [to her]!"; [her companion] jokingly comforting [the hero]; [the hero] saying "Speak [to me] without joking!"; [her companion] saying "We are not appropriate for this, you great man!"; [her companion] demonstrating the uniqueness of the gift<note place="foot" xml:lang="en">This is not in prasise of the gift, but rather highlighting the fact that it is <hi rend="italic">not</hi> unique</note>; [her companion] saying "It is not suitable to touch [her] body."; [her compainion] saying "Knowing her state, I will take [the gift]."; speaking of the Palymyra-horse; [her companion] opposing [it]; [her companion] accepting the gift; [her companion] speaking [to the heroine] entreatingly [on his behalf]; [her companion speaking of the hero] leaving in shame; [her companion] persuading [the heroine] to accept [the hero's] request by spaking forcefully; [her companion] kindly accepting [the leaf-skirt]; [her companion] entrusting the leaf-skirt [to the heroine]; [the heroine] accepting the gift; [her companion] saying that [the acceptence of the gift] had come true; speaking about the desired [meeting-]place; [her companion] leaving with [knowledge of] the meeting-place; getting dressing and being ready [to return]; [the hero] speaking [to her companion] about [the heroine's] state; and leaving with her companion are [the situaions of] the daytime tryst.</p>
+<p xml:lang="en">[The hero] expressing his desire [for a meeting] entreatingly when her companion has [her] doubts; her companion then questioning [the hero]; [the hero] creating a mutual understanding; [her companion] determining [the intention of the hero]; [the confidante] putting him at a distance; [her companion?] saying "Do not hide being one who knows [by saying] "I do not know what is pointed out"; [her companion] speaking [to him about] what is not intended; [her companion] speaking fabrications; [her companion] saying she is difficult [to approach]; [her companion] saying "You speak [to her]!"; [her companion] jokingly comforting [the hero]; [the hero] saying "Speak [to me] without joking!"; [her companion] saying "We are not appropriate for this, you great man!"; [her companion] demonstrating the uniqueness of the gift<note place="foot" xml:lang="en">This is not in prasise of the gift, but rather highlighting the fact that it is <hi rend="italic">not</hi> unique</note>; [her companion] saying "It is not suitable to touch [her] body."; [her compainion] saying "Knowing her state, I will take [the gift]."; speaking of the Palymyra-horse; [her companion] opposing [it]; [her companion] accepting the gift; [her companion] speaking [to the heroine] entreatingly [on his behalf]; [her companion speaking of the hero] leaving in shame; [her companion] persuading [the heroine] to accept [the hero's] request by spaking forcefully; [her companion] kindly accepting [the leaf-skirt]; [her companion] entrusting the leaf-skirt [to the heroine]; [the heroine] accepting the gift; [her companion] saying that [the acceptence of the gift] had come true; speaking about the desired [meeting-]place; [her companion] leaving with [knowledge of] the tryst; getting dressing and being ready [to return]; [the hero] speaking [to her companion] about [the heroine's] state; and leaving with her companion are [the situaions of] the daytime tryst.</p>
 </div>
 </body>
 </text>
@@ -656,33 +656,36 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 <l>maṇmicai viḷaṅki vaḻuttūr matitara</l>
 <l>ṉuṇṇiyaṟ paṉuva ṉuḻaiporu ṇuṉitta</l>
 <l>vāymoḻi yamirta maṭuttavar maṉameṉa</l>
-<l>yāṉilai peṟṟaṉṟi yāṉaṟin tilaṉē</l>
+<l>yāṉilai peṟṟaṉṟi yāṉaṟin tilaṉē<anchor xml:id="tilane"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV17koḷu35">eṉpatu kaiyuṟai yetirntamai kūṟiṟṟu.</p>
+    <p xml:lang="en">[The confidante] tells [the hero how the heroine] accepted the gift.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem36"> 
         <l>taḻaikoṭu ciṉaiya paṉmaran tuvaṉṟiya</l>
         <l>maḻaitavaḻ pūmpoḻil yāvarum</l>
-        <l>viḻaitakait tammavem viyaṉpuṉa maruṅkē</l>
+        <l>viḻaitakait tammavem viyaṉpuṉa maruṅkē<anchor xml:id="marunke"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu36">eṉpatu pakaṟ kuṟi yiṭam uraittatu.</p>
+    <p xml:id="TNV17koḷu36">eṉpatu pakaṟ kuṟi yiṭam uraittatu.<anchor xml:id="itam"/></p>
+    <p xml:lang="en">[The confidante] speaks about the place for the daytime tryst.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem37" corresp="#KT1"> 
         <l>ceṅkaḷam paṭakkoṉ ṟavuṇart tēytta</l>
         <l>ceṅkō lampiṉ ceṅkōṭṭi yāṉaik</l>
         <l>kaḻaṟoṭic cēey kuṉṟaṅ</l>
-        <l>kurutip pūviṉ kulaikkān taṭṭē</l>
+        <l>kurutip pūviṉ kulaikkān taṭṭē<anchor xml:id="kantattu"/></l>
         <trailer><note>kuṟun - 1</note></trailer>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV17koḷu37">eṉpatu talaimakaṉaik kuṟiyiṉ<note place="foot">I think <term xml:lang="ta-Latn"><hi rend="italic">kuṟi</hi></term> referred to both the tryst and the location of the tryst and the early theoreticians and commentators used them quite interchangeably. Perhaps later editors sought to standardise and narrow the meaning of the word into just the tryst, hense the addition of <term xml:lang="ta-Latn"><hi rend="italic">va(yiṉ)</hi></term>.</note> iṟuttip peyarntatu.</p>
+    <p xml:id="TNV17koḷu37">eṉpatu talaimakaḷaik<anchor xml:id="talaimakalai"/> kuṟiyiṉ<note place="foot">I think <term xml:lang="ta-Latn"><hi rend="italic">kuṟi</hi></term> referred to both the tryst and the location of the tryst and the early theoreticians and commentators used them quite interchangeably. Perhaps later editors sought to standardise and narrow the meaning of the word into just the tryst, hense the addition of <term xml:lang="ta-Latn"><hi rend="italic">va(yiṉ)</hi></term>.</note> iṟuttip peyarntatu.</p>
+    <p xml:lang="en">[The confidante] places the heroine at the meeting-place and leaves.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem38"> 
@@ -694,6 +697,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV17koḷu38">eṉpatu tāṉ ṟōḻiyai puṉaintamai uṇarttiyatu.</p>
+    <p xml:lang="en">The hero informs the confidante about [the heroine's] readiness.</p>
     </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV17poem39"> 
@@ -712,7 +716,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
         <l>naṟumpūṅ kaṇṇiyum peruntaṇ kōtaiyu</l>
         <l>nakaivāyp piṇaiyalu mukaivāyc cūṭṭum</l>
         <l>puṉaintaṉai yaruḷa vēṇṭuñ</l>
-        <l>ciṉaṅkeḻu kāṉavaṉ ceḻumaṭa makaḷē</l>
+        <l>ciṉaṅkeḻu kāṉavaṉ ceḻumaṭa makaḷē<anchor xml:id="makal"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -1385,7 +1389,7 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
 </entry>
 <entry>
 <form>kuṟiyoṭu</form>
-<def>meeting place</def>
+<def>tryst</def>
 <gramGrp>
   <gram type="role">sociative</gram>
 </gramGrp>
@@ -9638,7 +9642,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu36" source="alignments/TNV17koḷu36.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17koḷu36"><note xml:lang="ta" target="#itam"><term xml:lang="en">Cf. IAC18, p.104:</term> 'iṉṉa iṭattu vara' eṉru kuṟippiṉāṉ uṇarttum</note></standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu36" source="alignments/TNV17koḷu36.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9658,7 +9664,9 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17koḷu37" source="alignments/TNV17koḷu37.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV17koḷu37"><note xml:lang="en" target="#talaimakalai">I take the reading from the paper-copy here. <term xml:lang="ta-Latn"><hi rend="italic">ṉ</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">ḷ</hi></term> are easily confusable in Tamil script and since we would expect the heroine to be left by her friend at the meeting place, following the IAC, I think this is a worthwhile deviation.</note></standOff>
+<standOff type="apparatus" corresp="#TNV17koḷu37" source="alignments/TNV17koḷu37.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -9679,14 +9687,17 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <rdg wit="#TNVms #TNVc"/>
   </app>
   <app loc="6,19">
-    <lem wit="#TNVms">talaimakaṉaik</lem>
-    <rdgGrp select="#TNVc #TNV1937 #TNV1947">
-      <rdg type="main">talaimakaḷaik</rdg>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>talaimakaḷaik</lem>
       <rdg type="minor" wit="#TNVc">ta<lb n="33"/>laimakaḷaik</rdg>
     </rdgGrp>
+    <rdg wit="#TNVms">talaimakaṉaik</rdg>
   </app>
   <app loc="19,33">
-    <lem wit="#TNVmsac">kuṟiyiṉ iṟuttip</lem>
+    <rdgGrp type="lemma" select="#TNVmsac">
+      <lem>kuṟiyiṉ iṟuttip</lem>
+      <rdg type="minor" wit="#TNVmsac">kuṟiyiṉiṟuttip</rdg>
+    </rdgGrp>
     <rdgGrp select="#TNVmspc #TNVc #TNV1937 #TNV1947">
       <rdg type="main">kuṟivayiṉ niṟuttip</rdg>
       <rdg type="minor" wit="#TNVmspc #TNVc">kuṟivayiṉiṟuttip</rdg>
@@ -10921,7 +10932,15 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">roḻittuyt</lem>
     <rdg wit="#TNVmsac">ro<gap reason="illegible" unit="character" quantity="1"/>ḻittuyt<lb n="5"/></rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem35" source="alignments/TNV17poem35.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV17poem35">
+  <note xml:lang="ta" target="#tilane"><term xml:lang="en">Cf. PK100 (IAC11, p.84):</term> cilaimicai vatta puliyum kayaluñceṉ ṟōṅkucempoṉ | malaimicai vaitta perumāṉ varōtayaṉ vañciyaṉṉāḷcēr | mulaimicai vaittumeṉ tōḷmēṟ kaṭāyttaṉ moypūṅkuḻal | talaimicai vaittuṅkoṇ ṭāḷaṇṇal nītanta taṇtaḻaiyē||</note>
+  <note xml:lang="ta" target="#tilane"><term xml:lang="en">Cf. PK101 (IAC11, p.84):</term> kaḻutu karuti paḷiyak kalinītk kaṭaiayalveṉṟa | viḻutu paṭuneṭu vēlmaṉṉaṉ īrmpuṉal kūṭalaṉṉaḷ | toḻutu talaimicai vaittuṇkoṇ ṭallḷvaṇṭun tumpuliyumtēṉ | koḻutu malarneṟun tāraṇṇak nītanta koytaḻaiyē||</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV17poem35">
+  <note xml:lang="en" target="#tilane">Neither of the poems bear a great resemblence to the one quoted in the TNVC, however they are certainly used to exemplify the same situation. One also find the same poem quoted for the same situtaion in the AV (see AVC 149.) - telling the hero about how the heroine accepted the leaf skirt.</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV17poem35" source="alignments/TNV17poem35.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -11013,7 +11032,12 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKms #KKed">tilaṉē</lem>
     <rdg wit="#AVed">milaṇē</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem36" source="alignments/TNV17poem36.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV17poem36">
+  <note xml:lang="ta" target="#marunke"><term xml:lang="en">Cf. PK141 (IAC18, p.105):</term> maruḷpōl ciṟaivaṇṭu pāṭ nilavaṉṉa vārmaṇalmēl | iruḷpōl koḻuniḻalaṟ pāyaṟin tārkaḷkiṉ rīṅkamiḻiṉ kōṉ | poruḷpōl iṉtāyp pakaḻmaṉṉaṉ māṟaṉ potiyiliṉ | aruḷpōṟ kuḷirntaṉṉa muntuṉṉum nīrtteṅkaḷ āṭṭimē||</note>
+  <note xml:lang="ta" target="#marunke"><term xml:lang="en">Cf. PK142 (IAC18, p.105):</term> kāviyan taṇtuṟai cūḻntu kaṭaiyaṟ kaṟuttavarmēl | tūviyam peytavaṉ toṇṭivaṇ ṭārpuṉṉait tūmalarkaḷ | tāviya veṇmaṇaṟ ṟāyaṟin tārkaṭkut taṇtamiḻiṉ | āviyum pōl iṉitāy uḷateṅkaḷ āṭṭimē||</note> 
+</standOff>
+<standOff type="apparatus" corresp="#TNV17poem36" source="alignments/TNV17poem36.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -11037,7 +11061,16 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">viḻaitakait</lem>
     <rdg wit="#TNVmsac">vi<gap reason="illegible" unit="character" quantity="1"/>ḻaitakait</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem37" source="alignments/TNV17poem37.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem37">
+  <note xml:lang="ta" target="#kantattu"><term xml:lang="en">Cf. IAC18, p.105:</term> tōḻi talamiakaḷai kuṟiyiṭattu koṇṭuceṉṟu, 'yāṉ ceṅkāntaḷpūk koṇṭu varuvēṉ, avviṭattut teycamuṭaittu, niṉṉāl varappaṭātu, nī avvaḷavum ippoḻilakattē nil' eṉṟu niṟīi nīṅkum.</note>
+  <note xml:lang="ta" target="#kantattu"><term xml:lang="en">Cf. PK143.1 (IAC18, p.105):</term> añciṟai vaṇṭaṟai kāntaḷam pōtuceṉ ṟiyāṉtaruveṉ</note>
+    <note xml:lang="ta" target="#kantattu"><term xml:lang="en">Cf. PK144.1-2 (IAC18, p.105):</term> nīvarai kōtaiyiṅ kēnilniṉ ṉālavaraṟ pālataṉṟu | tīviri kāntaḷceṉ ṟiyāṉtaru vēṉteyvam aṅkuṭaittāl |</note>
+    </standOff>
+    <standOff type="notes4" corresp="#TNV17poem37">
+      <note xml:lang="en" target="#kantattu">KT1 is also quoted in the IAC to exemplify this situation.</note>
+    </standOff>
+  <standOff type="apparatus" corresp="#TNV17poem37" source="alignments/TNV17poem37.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -11154,7 +11187,10 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <lem wit="#TNV1937 #TNV1947 #KKms #KKed">ṇeyta</lem>
     <rdg wit="#TNVms #TNVc">ḷeyta</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem40" source="alignments/TNV17poem40.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem40">
+  <note xml:lang="ta" target="#kantattu"><term xml:lang="en">Cf. IAC18, p.105:</term> puṇarcciyiṟutikkaṇ tōḻivantu, 'niṉ kaipōlak kāntaḷ malarntaṉa koṇṭuvantēṉ, emperumāṭṭi, nīṭṭittāḷeṉṟu cīṟiyaruḷātu pōntaruḷ' eṉṟu, avaḷai koṇṭu pōy āyaveḷḷatoṭuṅ kūṭṭam</note></standOff>
+<standOff type="apparatus" corresp="#TNV17poem40" source="alignments/TNV17poem40.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
