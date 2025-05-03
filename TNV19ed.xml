@@ -185,9 +185,9 @@
       <div type="mūlam" rend="parallel">
         <lg xml:id="TNV19">
 <l>varuneṟi niṉaintu vāra leṉṟaluṅ</l>
-<l>kāppiṭai yīṭṭiṟ kaiyaṟu kiḷaviyum</l>
-<l>varuka veṉṟalum vāra leṉṟalum</l>
-<l>paṭaittu moḻitaluṅ kuṭittiṟaṅ kūṟalu</l>
+<l>kāppiṭai yīṭṭiṟ kaiyaṟu kiḷaviyum<anchor xml:id="kilavi"/></l>
+<l>varuka veṉṟalum vāra leṉṟalum<anchor xml:id="enral"/></l>
+<l>paṭaittu moḻitaluṅ<anchor xml:id="molital"/> kuṭittiṟaṅ kūṟalu</l>
 <l>marivaiyai yiṉṟiyā ṉaṟintē ṉeṉṟalō</l>
 <l>ṭuriyaṉa kiḷanta piṟavun tokaii</l>
 <l>varaivu kaṭāta lāku meṉmaṉār.</l></lg>
@@ -201,7 +201,7 @@
       <p xml:id="TNV19comm1">eṉpatu varaivu kaṭātal ām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which 
       'asking for marriage' occurs.</p> 
-    <p xml:id="TNV19comm2">āṟu pārttuṟṟa vaccak kiḷaviyum varavu vilakkaluṅ kāppiṉ iraṅkiya kaiyaṟu 
+    <p xml:id="TNV19comm2">āṟu pārttuṟṟa vaccak kiḷaviyum<anchor xml:id="accam"/> varavu vilakkaluṅ kāppiṉ iraṅkiya kaiyaṟu 
     kiḷaviyum iraviṉum pakaliṉum nī vā veṉṟalum vāral eṉṟalum paṭaittu moḻitaluṅ kuṭit tiṟaṅ 
     kūṟalumāṉiṭa makaḷ ātal iṉṟaṟintēṉ eṉṟalum eṉa viṉṉa vellām varaivu kaṭātal eṉṟu colluvar pulavar eṉṟa vāṟu.</p>
     <p xml:lang="en">The speech situation of experiencing fear having seen the path; averting the coming; 
@@ -213,7 +213,7 @@
         <l>āṟē yariya veṉṉā yāṟē</l>
         <l>malkupuṉal parantu kalluyarn taṉavē</l>
         <l>yiraviṉ varuvarnaṅ kātala</l>
-        <l>ruravēṉ ṟōḻiyā ṉuyirvāḻ vēṉē</l>
+        <l>ruravēṉ ṟōḻiyā ṉuyirvāḻ vēṉē<anchor xml:id="vene"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -222,9 +222,9 @@
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem2"> 
         <l>vārā tīmō cāra ṉāṭa</l>
-        <l>vuṟupuli koṉṟa ciṟukaṇ yāṉai</l>
+        <l>vuṟupuli koṉṟa ciṟukaṇ yāṉai<anchor xml:id="yanai"/></l>
         <l>yāṟukaṭi koḷḷu maruñcura</l>
-        <l>mūṟu tuṭaiya tamiyai nīyē</l>
+        <l>mūṟu tuṭaiya tamiyai nīyē<anchor xml:id="niye"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -2523,7 +2523,16 @@
   <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV19" source="alignments/TNV19.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV19">
+  <note xml:lang="ta" target="#kilavi"><term xml:lang="en">Cf. TP164i.1:</term>...kaiyaru kiḷavi</note>
+  <note xml:lang="ta" target="#kilavi"><term xml:lang="en">Cf. IA30.2:</term> kāppuc ciṟaimikka kaiyaṟu kiḷaviyum</note>
+  <note xml:lang="ta" target="#enral"><term xml:lang="en">Cf. TP207i.4-5:</term> iraviṉum pakaliṉu nīvā veṉṟaluṅ | kiḻavōṉ ṟaṉṉai vāra leṉṟalu |</note>
+  <note xml:lang="ta" target="#molital"><term xml:lang="en">Cf. IA12.8:</term> paṭaittumoḻi kiḷaviyum</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV19">
+  <note xml:lang="en" target="#kilavi">The sitaution for which the TP employs this phrase is slightly different, but as this is the only time in the TP where this phrase is used, so I think it is reasonable to expect that this would have been known to the author of this text. In the TP it refers to the desolation of an intermediary arguing for the hero to be allowed home after an affair.</note></standOff>
+<standOff type="apparatus" corresp="#TNV19" source="alignments/TNV19.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2573,7 +2582,9 @@
  
     <rdg wit="#TNVms">āṟuṇarttuta<sic>n</sic>utaliṟṟu.</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV19comm2" source="alignments/TNV19comm2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV19comm2"><note xml:lang="ta" target="#accam"><term xml:lang="en">Cf. IA30.3:</term> āṟupārt tuṟṟa accak kiḷaviyum</note>
+</standOff><standOff type="apparatus" corresp="#TNV19comm2" source="alignments/TNV19comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2784,7 +2795,13 @@
     <rdg wit="#TNVms #TNVc"/>
   </app>
  
-</listApp></standOff><standOff type="apparatus" corresp="#TNV19poem1" source="alignments/TNV19poem1.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV19poem1">
+  <note xml:lang="ta" target="#vene"><term xml:lang="en">Cf. IAC30, p.147:</term> aḵtāmāṟu, talaimakaṉ iravukkuṟivantu oḻukāniṉṟa nilaimaikkaṇ, emporumāṉ varumvaḻi iṟappavum iṉṉātu, nīruṭaittu kalluṭaittu muḷḷuṭaittu ēṟṟuṭaittu iḻivuṭaittu eṉak kavaṟal;</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV19poem1">
+  <note xml:lang="en" target="#vene">Cf. 228 also for the equivalent poem in the IAC spoken by the heroine. PK 220-228 all treat this topic, but the others are spoken by the confidante.</note></standOff>
+<standOff type="apparatus" corresp="#TNV19poem1" source="alignments/TNV19poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2816,7 +2833,13 @@
     <lem wit="#TNVcpc #TNV1937 #TNV1947">ṟōḻiyā</lem>
     <rdg wit="#TNVms #TNVcac">ṟōḻiyāyi</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV19poem2" source="alignments/TNV19poem2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV19poem2">
+  <note xml:lang="ta" target="#yanai"><term xml:lang="en">Cf. KT88.2:</term> ciṟukaṭ peruṅkaḷiṟu vayappuli tākkit</note>
+  </standOff>
+  <standOff type="notes4" corresp="#TNV19poem2">
+    <note xml:lang="en" target="#yanai">Cf. PK220-227 also. These poems all treat this topic, though none in quite the same way as the TNVC verse. They are left unquoted due to space concerns, and becuase none are an obvious direct source.</note></standOff>
+  <standOff type="apparatus" corresp="#TNV19poem2" source="alignments/TNV19poem2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
