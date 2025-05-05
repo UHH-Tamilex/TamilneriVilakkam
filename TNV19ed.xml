@@ -191,7 +191,13 @@
 <l>marivaiyai yiṉṟiyā ṉaṟintē ṉeṉṟalō</l>
 <l>ṭuriyaṉa kiḷanta piṟavun tokaii</l>
 <l>varaivu kaṭāta lāku meṉmaṉār.</l></lg>
-<p xml:lang="en">[The heroine] thinking of the path by which [the hero comes] comes and saying , "Do not come!"; the desolate speech [of the heroine] on account of her imprisonment; [the heroine] saying, "[You] ought to come."; [the heroine] saying, "Do not come!"; [the confidante] speaking fabrications; [the confidant] speaking of the excellence of [the hero's] family; [the confidante] saying, "Now, I know [the heroine]" - they say that [these] and others which are suitably expressed, taken together, are [the situaions of] asking for marriage. </p>
+<p xml:lang="en">[The heroine] thinking of the path by which [the hero comes] comes and saying , "Do
+          not come!"; the desolate speech [of the heroine] on account of her imprisonment; [the
+          heroine] saying, "[You] ought to come."; [the heroine] saying, "Do not come!"; [the
+          confidante] speaking fabrications; [the confidant] speaking of the excellence of [the
+          hero's] family; [the confidante] saying, "Now, I know [the heroine]" - they say that
+          [these] and others which are suitably expressed, taken together, are [the situaions of]
+          asking for marriage. </p>
 </div>
 </body>
 </text>
@@ -218,6 +224,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu1">eṉpatu āṟu pārttuṟṟa accak kiḷavi.</p>
+    <p xml:lang="en">[The heroine's] speech about [her] fear when thinking about [the hero's] path.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem2"> 
@@ -229,6 +236,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu2">eṉpatu varavu vilakkiṟṟu.</p>
+    <p xml:lang="en">[The confidante] prevents [the hero's] coming</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem3"> 
@@ -241,6 +249,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu3">eṉpatu kāppiṉ iraṅkik kaiyaṟu kiḷavi.</p>
+<p xml:lang="en">[The heroine's] speech about [her] overwhelming sadnes, weeping because [she is under] guard.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem4"> 
@@ -251,6 +260,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu4">eṉpatu iraviṉum pakaliṉum nī vā veṉṟatu.<anchor xml:id="enratu"/></p>
+    <p xml:lang="en">[The confidante] says, "You come, either by day or night."</p>    
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem5"> 
@@ -261,6 +271,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu5">eṉpatu iraviṉum pakaliṉum vāral eṉṟatu.<anchor xml:id="varal"/></p>
+    <p xml:lang="en">[The confidante] says, "Do not come, either by day or night."</p>  
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem6"> 
@@ -271,6 +282,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu6">eṉpatu tōḻi paṭaittu moḻintatu.</p>
+    <p xml:lang="en">The confidante speaks fabrications.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem7"> 
@@ -281,6 +293,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu7">ituvum atu.</p>
+    <p xml:lang="en">And this is that.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem8"> 
@@ -292,6 +305,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu8">eṉpatu kuṭit tiṟaṅ kūṟiyatu.</p>
+    <p xml:lang="en">[The confidante] talks about the issue of [her] family.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem9"> 
@@ -303,6 +317,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu9">eṉpatu iṉṟaṟintēṉ eṉṟal.<note> 19.</note></p>
+    <p xml:lang="en">[The conifdante] saying, "Today, I know [her]."</p>
 </div>
           </body>
           </text>
