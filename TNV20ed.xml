@@ -188,12 +188,12 @@
     <body>
       <div type="mūlam" rend="parallel">
         <lg xml:id="TNV20">
-<l>alarperi teṉṟalu mayalvarai vuraittalu</l>
+<l>alarperi teṉṟalu<anchor xml:id="alar"/> mayalvarai vuraittalu</l>
 <l>mulakiyal kūṟiya nīyurai yeṉṟaluñ</l>
 <l>curañcela vāṟṟu niṉṉō ṭeṉṟalum</l>
 <l>varuntiṟa muraittalum vaḻinayap pittalum</l>
 <l>virumpiṉa ṉērnta pāvak kiḷaviyum</l>
-<l>poruntu meṉmaṉār pōkkuṭaṉ valittal.</l></lg>
+<l>poruntu meṉmaṉār pōkkuṭaṉ valittal<anchor xml:id="valittal"/></l></lg>
 <p xml:lang="en">[The confidante] saying, "The gossip is great" [to the hero]; [the confidante] taliking about marriage [offers from] the neighbourhood; [the confidante] saying, "You who know the nature of the world, speak!"; [the confidante] saying, "Going through the desert is bearable [for the heroine] with you."; [the heroine?] speaking of the what is to come; [the confidante] encouraging [the heroine to take to] the path; [the confidante's] speech of [the heroine's] regret while [still] accepting he is desired - [these situations] are suitable, they say, for the encouragement of elopement.</p>
 </div>
 </body>
@@ -214,7 +214,7 @@
     <lg xml:id="TNV20poem1"> 
         <l>nilavō raṉṉa veṇmaṇaṟ pākkattu</l>
         <l>malarēr kūntaṉ maṭantaik</l>
-        <l>kalarā kiṉṟā laṇṇaṉiṉ ṉaruḷē</l>
+        <l>kalarā kiṉṟā laṇṇaṉiṉ ṉaruḷē<anchor xml:id="arul"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -2470,7 +2470,18 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV20" source="alignments/TNV20.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV20">
+<note xml:lang="ta" target="#alar"><term xml:lang="en">Cf. TP221i.3-4:</term> ampalu malaruṅ kaḷavuveḷip paṭukkumeṉ| ṟañcuca vanta vāṅkiru vakaiyiṉu |</note>
+<note xml:lang="ta" target="#alar"><term xml:lang="en">Cf. IA22:</term> ampalum alaruṅ kaḷavu</note>
+<note xml:lang="ta" target="#valittal"><term xml:lang="en">Cf. TP113i.8-9:</term> pōkkuṭa ṉaṟintapiṟ ṟōḻiyoṭu keḻīik| ka+rpi ṉākkattu niṟṟaṟ kaṇṇum|</note>
+<note xml:lang="ta" target="#valittal"><term xml:lang="en">Cf. TP196:</term> tāykku murittāṟ pūkkuṭaṉ kiḷappiṉ</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV20">
+  <note xml:lang="en" target="#alar"> There are other mentions of gossip in the TP, but this is the only one which specifically deals with it in this situation. Other times, it is mentioned as one of the situations in the married phase of life or with different speakers. Here what specifically dealt with is the threat of gossip, which is appropiate to the clandestine phase.</note>
+  <note xml:lang="en" target="#valittal"> These are included as they both use the same phrase for this situation - <q xml:lang="ta-Latn"><hi rend="italic">pōkkutaṉ</hi></q> - instead its inversion which became more common - <term xml:lang="ta-Latn"><hi rend="italic">utaṉpōkku</hi></term>, which is what is found in the commnetary to this verse, for example.</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV20" source="alignments/TNV20.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2730,7 +2741,13 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV20poem1" source="alignments/TNV20poem1.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV20poem1">
+  <note xml:lang="ta" target="#arul"><term xml:lang="en">Cf. PK165.4 (IAC23, p.118):</term> alarāy viḷaikiṉṟa tālaṇṇal nīceyta āraruḷē</note>
+  <note xml:lang="ta" target="#arul"><term xml:lang="en">Cf. PK166.3-4 (IAC23, p.118):</term>...aṇṇal vantuceyta | aruḷtāṉ alarāy viḷaikiṉṟa tālmaṟṟiv vāyiḻaikkē||</note>
+  <note xml:lang="ta" target="#arul"><term xml:lang="en">Cf. NA227.9 (IAC23, p.118):</term> kauvaiyā kiṉṟa taiyaniṉ ṉaruḷē</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV20poem1" source="alignments/TNV20poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
