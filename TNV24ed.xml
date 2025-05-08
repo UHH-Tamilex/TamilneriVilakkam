@@ -233,7 +233,7 @@
 <l>vantatu poḻuteṉa varuntalun tōḻi</l>
 <l>nontaṉa ḷuraippavu nōvāḷ kūṟṟu</l>
 <l>māṟṟu vittalu māyiṭai varuvōṉ</l>
-<l>mēṉavuñ cēyiṭaip piriveṉak koḷalē</l></lg>
+<l>mēṉavuñ cēyiṭaip piriveṉak koḷalē<anchor xml:id="kolale"/></l></lg>
 <p xml:lang="en">Informing [the confidante] about the type of separation; [the hero] rightfully suffering when her companion speaks [of the heroine's state]; [the confidante] saying "I know" when there is no [more] anguish; the one with the fragrant foerhead lamenting; [the confidante] speaking so that [the heroine] becomes amenable [to the separation]; she with the clear jewels agreeing; [the hero and his heart] becoming confused together on the journey; [the heroine] suffering because the time has come; while the confidate says [the heroine] has suffered, [the hero] says she is one who [still] suffers<note place="foot" xml:lang="en">This is not clear. Based on the poems in the commentary, this situation includes lots of possible other situations. I have understood it this way as thins is how the commentator seems to have interpreted it, and there are no other sources of information.</note>; and [the confidante] comforting [the heroine] - understand [these situations] are the long-distance separation, [which] also [apply to] the man who comes from 'that place'.</p>
 </div>
 </body>
@@ -259,7 +259,7 @@
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV24koḷu1">eṉpatu talaimakaṉ tōḻikkup pirivuṇarttiyatu.</p>
+    <p xml:id="TNV24koḷu1">eṉpatu talaimakaṉ tōḻikkup pirivuṇarttiyatu.<anchor xml:id="unarttiyatu"/></p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV24poem2"> 
@@ -269,7 +269,7 @@
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV24koḷu2">eṉpatu tōḻi talaimakaṇilaimai kūṟic celavaḻuṅkuvittatu.</p>
+    <p xml:id="TNV24koḷu2">eṉpatu tōḻi talaimakaṇilaimai kūṟic celavaḻuṅkuvittatu.<anchor xml:id="alunku"/></p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem3"> 
@@ -336,12 +336,12 @@
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV24koḷu8">eṉpatu kalvi viḷakkuvāṉ pirivar eṉa veḷip paṭa vuṇarttiyatu.</p>
+    <p xml:id="TNV24koḷu8">eṉpatu kalvi viḷakkuvāṉ pirivar eṉa veḷip paṭa vuṇarttiyatu.<anchor xml:id="kalvi"/></p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem9"> 
         <l>māyiru ñālat tuyirtalai yaḷikkuṅ</l>
-        <l>kāval vēṇṭiṉar kātala</l>
+        <l>kāval vēṇṭiṉar kātala<anchor xml:id="katalar"/></l>
         <l>rāyiḻai maṭantai yāṟṟutal kaṭaṉē</l>
     </lg>
 </div>
@@ -7502,7 +7502,12 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV24" source="alignments/TNV24.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV24">
+  <note xml:lang="ta" target="#kolale"><term xml:lang="en">Cf. TP27i:</term> ōtal pakaiyē tūtivai pirivē</note>
+  <note xml:lang="ta" target="#kolale"><term xml:lang="en">Cf. IA35:</term> pukaḻum koṭumaiyum kiḻavōṉ mēṉa</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV24" source="alignments/TNV24.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7592,7 +7597,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV24koḷu1" source="alignments/TNV24koḷu1.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV24koḷu1">
+  <note xml:lang="ta" target="#kolale"><term xml:lang="en">Cf. IAC39, p.169:</term> iṉi, poruṭkup piriyāluṟṟa talaimakaḷ tōḻiyāl talaimakaṭkup pirivu uṇarttivittaṟkuc ceyyul:</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV24koḷu1" source="alignments/TNV24koḷu1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7620,7 +7629,11 @@
     </rdgGrp>
   </app>
   
-</listApp></standOff><standOff type="apparatus" corresp="#TNV24koḷu2" source="alignments/TNV24koḷu2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV24koḷu2">
+  <note xml:lang="ta" target="#alunku"><term xml:lang="en">Cf. IAC39, p.169:</term> tōḻi talaimakaḷ nilaimai talaimakaṟkuc colliyataṟku ceyyuḷ:</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV24koḷu2" source="alignments/TNV24koḷu2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7740,7 +7753,11 @@
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tōḻi</lem>
     <rdg wit="#TNVmsac">tō<gap reason="illegible" unit="character" quantity="1"/>ḻi</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV24koḷu8" source="alignments/TNV24koḷu8.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV24koḷu8">
+  <note xml:lang="ta" target="#kalvi"><term xml:lang="en">Cf. IAC35, p.159:</term> ōtaṟku piriyum eṉpatu, kaṟpāṉ piriyum eṉpataṉṟu; paṇṭē kuravarkaḷāṟ kaṟpikkappaṭṭuk kaṟṟāṉ, aṟam poruḷ iṉpam vīṭupeṟukaḷ nutaliya nūlkaḷellām; iṉip, paratēcaṅkaḷiṉum avai vellār uḷareṉiṟ kāṇṭaṟkum, vallārkaḷ uḷvaḻic ceṉṟu taṉ ñāṉam mēṟpaṭuttu avar ñāṉaṅ kīḻppaṭuttaṟkum piriyum eṉakkoḷka.</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV24koḷu8" source="alignments/TNV24koḷu8.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -8534,7 +8551,11 @@
       <rdg type="minor" wit="#TNVms">na<sic>k</sic>aiip</rdg>
     </rdgGrp>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV24poem9" source="alignments/TNV24poem9.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV24poem9">
+  <note xml:lang="ta" target="#katalar"><term xml:lang="en">Cf. PK240.1-2 (IAC36, p.162):</term> tēkkiya teṇtirai munnīr irunilam tītakalak | kākkiya celvatu kātalit tāraṉpar...</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV24poem9" source="alignments/TNV24poem9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
