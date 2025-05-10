@@ -225,13 +225,13 @@
     <body>
       <div type="mūlam" rend="parallel">
         <lg xml:id="TNV25">
-        <l>vāyiṉ maṟuttalum vāyil kūṟalun</l>
-<l>tōḻi māṟṟalum pulavi tōṟṟaluṅ</l>
-<l>kiḻavaṉ pulattaluṅ kiḻavi pulattalum</l>
+        <l>vāyiṉ maṟuttalum vāyil kūṟalun<anchor xml:id="kural"/></l>
+<l>tōḻi māṟṟalum pulavi tōṟṟaluṅ<anchor xml:id="pulavi"/></l>
+<l>kiḻavaṉ pulattaluṅ kiḻavi pulattalum<anchor xml:id="pulattal"/></l>
 <l>viḻaikunaṉ viḻaiyā ṉivaṉeṉa viḷampalun</l>
 <l>tāykaṇ ṭuraittalun tāṅkiya kātali</l>
-<l>ṉāyiṉa piṟavu māyiṭaip pirivē</l></lg>
-<p xml:lang="en">[The confidante's] refusal [of teh hero] at the door; [the bard] speaking at the door; the confidante rebuking [the bard]; [the bard's] vexaion appearing; the hero becoming vexed; the heroine becoming vexed; [the heroine] saying "He, the lover, does not desire me"; the mother seeing [this] and speaking; and other [situations] which exist because of enduring love [are] 'the separation to 'that place''.</p>
+<l>ṉāyiṉa piṟavu māyiṭaip pirivē<anchor xml:id="pirivu"/></l></lg>
+<p xml:lang="en">[The confidante's] refusal [of the bard] at the door; [the bard] speaking at the door; the confidante rebuking [the bard]; [the bard's] vexaion appearing; the hero becoming vexed; the heroine becoming vexed; [the heroine] saying "He, the lover, does not desire me"; the mother seeing [this] and speaking; and other [situations] which exist because of enduring love [are] 'the separation to 'that place''.</p>
 </div>
 </body>
 </text>
@@ -248,7 +248,7 @@
       <p xml:lang="en">Beginning with the refusal at the door and ending with the foster-mother's speech, these which have been mentioned and other are [the situations of] 'the separation on account of the other woman'.</p>
       </div>
       <div type="mūlam" rend="parallel">
-      <p xml:id="TNV25comm3">piṟavum eṉṟataṉāṟ parattaiyar kūṟṟum pūppuṇarttutalum uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
+      <p xml:id="TNV25comm3">piṟavum eṉṟataṉāṟ parattaiyar kūṟṟum pūppuṇarttutalum<anchor xml:id="puppu"/> uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
 <p xml:lang="en">Because he says <q xml:lang="ta-Latn"><hi rend="italic">piṟavum</hi></q>, understand that they include all of the speeches of the other woman and making known the menstruation.</p>
 </div>      
 <div type="citation" rend="parallel">
@@ -1935,7 +1935,17 @@
 <entry>
 <form>tōḻi..</form>
 </entry>
-</standOff><standOff type="apparatus" corresp="#TNV25" source="alignments/TNV25.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV25">
+  <note xml:lang="ta" target="#kural"><term xml:lang="en">Cf. TP148i.25-26:</term> pāṇar kūttar viṟaliya reṉṟivar | pēṇic colliya kuṟaiviṉai yetiru |</note>
+  <note xml:lang="ta" target="#pulattal"><term xml:lang="en">Cf. TP154i:</term> uṇarppuvarai yiṟappiṉuñ ceykuṟi piḻaippiṉum | pulattalu mūṭaluṅ kiḻavōṟ kuriya ||</note>
+  <note xml:lang="ta" target="#pulavi"><term xml:lang="en">Cf. TP488i.4-5:</term>... pulaviyu mūṭalu muṇarvum | pirivoṭu puṇarntatu kaṟpeṉap paṭumē ||</note>
+  <note xml:lang="ta" target="#pulattal"><term xml:lang="en">Cf. IA47:</term> kiḻavōṉ muṉṉark kiḻatti kaṟpukaḻtal | pulavik kālattum puraiva taṉṟē ||</note>
+  <note xml:lang="ta" target="#pulattal"><term xml:lang="en">Cf. IA48:</term> nāṭum ūrum illum cuṭṭit | taṉvayiṉ kiḷappiṉ pulavip poruṭṭē ||</note>
+  <note xml:lang="ta" target="#piravu"><term xml:lang="en">Cf. TP44i.22-24:</term> parattaiyi ṉakaṟciyiṟ parintōṭ kuṟuki | yirattalun teḷittalu meṉaviru vakaiyō | ṭuraittiṟ nāṭṭaṅ kiḻavōṉ mēṉa ||</note>
+  <note xml:lang="ta" target="#piravu"><term xml:lang="en">Cf. IA40:</term> kātaṟ parattai ellārkkum urittē ||</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV25" source="alignments/TNV25.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2005,7 +2015,12 @@
     <rdg wit="#TNVmsac">vivaivuyumm</rdg>
   </app>
   
-</listApp></standOff><standOff type="apparatus" corresp="#TNV25comm3" source="alignments/TNV25comm3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV25comm3">
+  <note xml:lang="ta" target="#puppu"><term xml:lang="en">Cf. IA43:</term> parattaiyiṟ pirinta kiḻavōṉ maṉaivi | pūppiṉ puṟappā ṭīraṟu nāḷum | nīttakaṉ ṟuṟaital aṟattā ṟaṉṟē ||</note>
+  <note xml:lang="ta" target="#puppu"><term xml:lang="en">Cf. IAC43, p.179:</term> aḵtāmāṟuː talaimakaṉ parattiyiṟpirinta kālattut talaimakaṭku pūpput tōṉṟiṟṟu; tōṉṟat, talaimkaṉ uṇarum. eṅṅaṉam uṇarumō eṉiṉ, vvayilkaḷ uṇartta uṇarum eṉpatu.</note>
+  </standOff> 
+<standOff type="apparatus" corresp="#TNV25comm3" source="alignments/TNV25comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
