@@ -166,9 +166,9 @@
           <l>ceyirtapu kātaṟ ṟeyvap puṇarcci<anchor xml:id="punarcci"/></l>
         </lg>
         <lg xml:lang="en">
-          <l>His desire becoming clear, the fear of separation,</l>
-          <l>sweet-natured comfort, the difficulty of obtaining [her],</l>
-          <l>saying "[you are my] life", [him being] comforted and then departing</l>
+          <l>[The hero's] desire becoming clear, [the hero's] fear of separation,</l>
+          <l>[the hero's] sweet-natured comfort, [the hero's] difficulty obtaining [her],</l>
+          <l>[the hero] saying "[she is like my] life", [the hero feeling] comforted and then departing</l>
           <l>― [these are] the divine union of faultless love.</l>
         </lg>
       </div>
@@ -189,9 +189,9 @@
       pirivaccamum<anchor xml:id="pirivaccam"/> vaṉpoṟaiyum<anchor xml:id="vanporai"/> eytutal arumaiyum<anchor xml:id="arumai"/> uyir eṉṟalum<anchor xml:id="uyir"/> āṟṟip peyartalum<anchor xml:id="peyartal"/> eṉap paṭṭaṉa
         teyvap puṇarcci yām eṉṟa vāṟu.<anchor xml:id="varu"/>
       </p>
-      <p xml:lang="en">After meeting and uniting on account of previous action<note place="foot" xml:lang="en">This most likely refers to actions in their past lives, in which case this an allusion to that fact their relationship is divinely ordained. Or, it might be an elliptical reference to the 'prologue' mentioned in the apparatus notes.</note>, the uniting [with
-        her] and the making known of the hero’s desire, the fear of separation, comfort[ing],
-        the difficulty of obtaining [her], saying [you are like my] life; and being comforted and
+      <p xml:lang="en">After meeting and uniting on account of previous action<note place="foot" xml:lang="en">This most likely refers to actions in their past lives, in which case this an allusion to that fact their relationship is divinely ordained. Or, it might be an elliptical reference to the 'prologue' mentioned in the apparatus notes.</note>, [the hero] expressing desire, 
+        [the heroine's state] becoming clear [to the hero], [the hero's] fear of separation, [the hero] comfort[ing her],
+        [the hero's] difficulty obtaining [her], [the hero] saying, "[she is like my] life", and [the hero feeling] comforted and
         departing - these things are [how] divine union occurs.
 </p>
 </div>
@@ -201,7 +201,7 @@
           <l>kāmañ ceppātu kaṇṭatu moḻimō</l>
           <l>payiliyatu keḻīiya naṭpiṉ mayiliyaṟ</l>
           <l>ceṟiyeyiṟ ṟarivai kūntali</l>
-          <l>ṉaṟiyavu muḷavōnī yaṟiyum pūvē</l> <trailer>[kuṟun - 2]</trailer>   
+          <l>ṉaṟiyavu muḷavōnī yaṟiyum pūvē<anchor xml:id="pu"/></l> <trailer>[kuṟun - 2]</trailer>   
         </lg>  
        
         
@@ -219,13 +219,13 @@
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
-        <p xml:id="TNV15koḷu2">eṉpatu teḷital.</p>
+        <p xml:id="TNV15koḷu2">eṉpatu teḷital.<anchor xml:id="telital"/></p>
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem3">
           <l>iṉaiyal vāḻi pirivoṉ ṟilaṉē</l>
           <l>naṉaimalar naṟumpūṅ kōtai</l>
-          <l>yamaiyē ṉiṉṉaiyā ṉakaṉṟa nāṉṟē<note place="foot">The Tamil Lexicon cites the <term xml:lang="ta"><hi rend="italic">Tivviya Pirapantam</hi></term> for this seemingly alternate spelling of the more well attested <term xml:lang="ta"><hi rend="italic">ñāṉṟu</hi></term>. Since this is the reading of UVSL950 and it is attested elsewhere, I have chosen to take it. I consider it a valid alternate spelling. I believe the other readings are corrections (in the case of UVSL48032, an incorrect attempted correction) or standardisations.</note></l>
+          <l>yamaiyē ṉiṉṉaiyā ṉakaṉṟa nāṉṟē<note place="foot">The Tamil Lexicon cites the <term xml:lang="ta"><hi rend="italic">Tivviya Pirapantam</hi></term> for this seemingly alternate spelling of the more well attested <term xml:lang="ta"><hi rend="italic">ñāṉṟu</hi></term>. Since this is the reading of UVSL950 and it is attested elsewhere, I have chosen to take it. I consider it a valid alternate spelling. I believe the other readings are corrections (in the case of UVSL48032, an incorrect attempted correction) or standardisations.</note><anchor xml:id="nanre"/></l>
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
@@ -236,7 +236,7 @@
           <l>āṟṟiṉaṉ maṉṉō neñcē piriyiṉ</l>
           <l>āṟṟā ḷivaḷeṉa vaḻuṅkiṉa māka</l>
           <l>āṟṟā nilaimai kaiviṭ</l>
-          <l>ṭāṟṟā ḷāyiṉa ḷāyiḻai yataṟkē</l>
+          <l>ṭāṟṟā ḷāyiṉa ḷāyiḻai yataṟkē<anchor xml:id="atarke"/></l>
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
@@ -247,7 +247,7 @@
           <l>iṉaiyal vāḻi yemmūr malarnta</l>
           <l>paḻaṉat tāmaraik keḻīiya vaṇṭuniṉ</l>
           <l>kaṇṇeṉa malarnta kāmar cuṉaimalar<note place="foot">Were it not for the correction, this <term xml:lang="ta"><hi rend="italic">cīr</hi></term> would not be metrical.</note></l>
-          <l>naṇṇi nāḷu nalaṉuka rummē</l>
+          <l>naṇṇi nāḷu nalaṉuka rummē<anchor xml:id="rumme"/></l>
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
@@ -257,7 +257,7 @@
         <lg xml:id="TNV15poem6">
           <l>maṉavē ralkuṉ maṭantai kūṭṭam</l>
           <l>kaṉavō teriyiṉ yāvatu</l>
-          <l>naṉavē yeṉiṉu naṇṇalō varitē</l>
+          <l>naṉavē yeṉiṉu naṇṇalō varitē<anchor xml:id="varite"/></l>
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
@@ -267,7 +267,7 @@
         <lg xml:id="TNV15poem7">
           <l>pulaṉaṉ ṟeṉpa viṉṉuyi ratuvē</l>
           <l>yalarmulai yākan tāṅki</l>
-          <l>nilavoḷi matiyi ṉilavume ṉuyirē</l>
+          <l>nilavoḷi matiyi ṉilavume ṉuyirē<anchor xml:id="uyire"/></l>
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
@@ -288,7 +288,7 @@
           <l>uṭaiyai vāḻi neñcē yiṭaikoṇ</l>
           <l>ṭaḻuṅka lōmpumati taḻaṅkoli mikunīr</l>
           <l>vaḻuttūr kākkum puṇaiyiṉ</l>
-          <l>viḻuttuṇai cāṉṟa mikuperuṅ kiḷaiyē</l>
+          <l>viḻuttuṇai cāṉṟa mikuperuṅ kiḷaiyē<anchor xml:id="kilai"/></l>
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
@@ -2385,12 +2385,13 @@
     </entry>
   </standOff>
   <standOff type="notes1" corresp="#TNV15"><note target="#accam" xml:lang="ta"><term xml:lang="en">Cf. TP221i:</term> pirital accam</note>
-    <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.46:</term> iṉit teyvap puṇarcciyeṉavumpaṭum, iruvarum teyvattaṉmaiyāṟ puṇarntārākaliṉeṉpatu</note></standOff>
+    <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.37:</term> iṉit, teyvap puṇarcci eṉavum paṭum; iruvarum teyvattaṉmaiyāṟ puṇarntārākaliṉ eṉpatu.</note></standOff>
       <standOff type="notes2" corresp="#TNV15">  
         <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. TP487i.1:</term> kāmap puṇarcciyum</note> 
         <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IA2.2:</term> kāmap puṇarcci</note>
-        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.46:</term> iyaṟkaip punṇarcci yeṉappaṭum, pulavarāṟkūṟappaṭṭa iyalpiṉāṟ puṇarntār...</note>
-        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.47:</term> muṉṉuṟupuṇarcci yeṉavumpaṭum, ivaḷ nalam ivaṉāṉē muṉṟuṟa eytuappaṭṭamaiyāṉum, ivaṉ nalam ivaḷāṉē muṉṉuṟa eytappaṭṭamaiyāṉumeṉpaṭu</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.37:</term> iyaṟkaip punṇarcci eṉappaṭum; pulavarāṟ kūṟappaṭṭa iyalpiṉāṟ puṇarntārākalāṉum, kantaruva vaḻakkattoṭu otta iyalpiṉar puṇarntārākalāṉum eṉpatu.</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.37:</term> muṉṉuṟu puṇarcci eṉappaṭum; ivaḷnalam ivaṉāṉē muṉṟuṟa eytappaṭṭamaiyāṉum, ivaṉalam ivaḷāṉē muṉṉuṟa eytappaṭṭamaiyāṉum eṉpaṭu.</note>
+       
         <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. AV27.1:</term> iḵtu iyaṟkaip puṇarcci</note>
       </standOff>
         <standOff type="notes4" corresp="#TNV15">
@@ -2462,6 +2463,16 @@
       </term>. Is this simply a mistake? This is also the only
       grantha character in the two TNV manuscripts.</note>
   </standOff>
+  <standOff type="notes3" corresp="#TNV15poem1">
+    <note xml:lang="ta" target="#pu"><term xml:lang="en">Cf. PK5 (IAC2, p.42):</term> tūvaṇtai vaṇṭiṉaṅ kāḷvammiṉ collumiṉ tuṉṉinillāk | kōvuṇṭai kōṭṭāṟ ṟaḻivitta kōṉkoṅka nāṭṭaceṅkēḻ | māvuṇṭai vāṭṭiya nōkkiṉ vārkuḻal pōṟkamaḻum | pūvaṇṭai tāmuḷa vōnukaḷ kāṉṟa poḻiliṭattē ||</note>
+    <note xml:lang="ta" target="#pu"><term xml:lang="en">Cf. PK6.3-4 (IAC2, p.42):</term> marṅkuḻa luṅkaḷi vaṇṭiṉaṅ kāḷurai yīrmaṭantai | karuṅkuḻal nāṟumeṉ pōtuṭait tōnuṅ kaṭipoḻilē ||</note>
+    <note xml:lang="ta" target="#pu"><term xml:lang="en">Cf. PK7.2-4 (IAC2, p.43):</term>...oḷimalarttā | tuṇṭē yuḻalvā maṟitiyaṉ ṟēyuḷa vēluraiyāy | vaṇṭē maṭantai kuḻalpōṟ kamaḻu matumalarē ||</note>
+    <note xml:lang="ta" target="#pu"><term xml:lang="en">Cf. PK8.2-4 (IAC2, p.43):</term>...oṇ pōtukaṭam | maruṅkuḻal vāynī yaṟitivaṇ ṭēcol leṉakkumaṅkai | karuṅkuḻal pōluḷa vōvirai nāṟuṅ kaḷimalarē ||</note>
+    <note xml:lang="ta" target="#pu"><term xml:lang="en">Cf. PK9.2-4 (IAC2, p.43):</term>...koṅ kuṇṭuḻalvāy | māṟṟa murainī yeṉakkuvaṇ ṭēmaṅkai vārkuḻalpōl | nāṟṟa muṭaiya uḷavō aṟiyu naṟumalarē ||</note>
+    </standOff>
+ <standOff type="notes4" corresp="#TNV15poem1">
+  <note xml:lang="en" target="#pu">KT2 is also quoted in the commentary to IA2 (p.43) and is the earliest known occurence of this poetic topos.</note>
+ </standOff>
   <standOff type="apparatus" corresp="#TNV15poem1" source="alignments/TNV15poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -2547,7 +2558,11 @@
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">peynnīr</lem>
     <rdg wit="#KT40">peyaṉīr</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV15koḷu2" source="alignments/TNV15koḷu2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV15koḷu2">
+  <note xml:lang="ta" target="#telital"><term xml:lang="en">IAC2, p.43:</term> niṉaintu, aṟintēṉ eṉṉatu kātalmikaviṉāṟ pārāṭṭap pōlum eṉa uṇarntāṉ. uṇarntu, yāṉ taṉmuṉṉiṉṟu taṉṉaip pārāṭṭavum ivvakai melivu ceṉṟa perunāṇuṭaiyāḷ, puṟattu yārāṉum oruvar ivvoḻukkattai uṇarvārkollō eṉṟu uṭkoṇṭa ñāṉṟu ivaḷ iṟantupaṭumpōlum eṉap peryatōr āṟṟāt taṉmaiyaṉ āyiṉāṉ.</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV15koḷu2" source="alignments/TNV15koḷu2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2567,7 +2582,13 @@
     <lem wit="#TNVms #TNVc #TNV1937">teḷital.</lem>
     <rdg wit="#TNV1947">teḷittal.</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV15poem3" source="alignments/TNV15poem3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV15poem3">
+  <note xml:lang="ta" target="#nanre"><term xml:lang="en">Cf. PK10.3-4 (IAC2, p.44):</term> niṉṉiṟ piriyēṉ piriyiṉum āṟṟē ṉeṭumpaṇaittōṭ | poṉṉiṟ pacuntoḷi vāṭṭi eṉṉai pulampuvatē ||</note>
+  <note xml:lang="ta" target="#nanre"><term xml:lang="en">Cf. PK11.3-4 (IAC2, p.44):</term>... peyvaḷait tōḷiniṉ ṉiṟpiriyēṉ | maṇiniṟam poṉṉiṟa māyiṭa eṉṉai varuntvatē ||</note>
+  <note xml:lang="ta" target="#nanre"><term xml:lang="en">Cf. PK12.3-4 (IAC2, p.44):</term>...muciri | yaṉṉāy piriyēṉ piriryiṉum āṟṟē ṉaḻuṅkaṟkavē ||</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV15poem3" source="alignments/TNV15poem3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2615,7 +2636,14 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV15poem4" source="alignments/TNV15poem4.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV15poem4">
+  <note xml:lang="ta" target="#atarke"><term xml:lang="en">Cf. IAC2, p.44:</term> aṅṅaṉam āṟṟiṉāḷatu nīrmaiyaik kaṇṭu, 'ivaḷ evviṭattum taṉ taṉmaieṉpatu oṉṟu ivaḷ, eṉ taṉmaiyaḷē pōlum' eṉap peritōr kaḻiyuvakai mītūr niṉṟu, vaṉpuṟai eṉpatōr coṟcollum.</note>
+  </standOff>
+  <standOff type="notes4" corresp="#TNV15poem4">
+    <note xml:lang="ta" target="#atarke">This is as much as anything a summation of the situation expressed in the TNVC poem. It is difficult to conclusively say this was the source of the quoted poem, however since the TNV commentator clearly follows the IAC in general, it is fair to assume this prose passage was the inspiration for this poem.</note>
+    </standOff> 
+<standOff type="apparatus" corresp="#TNV15poem4" source="alignments/TNV15poem4.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2645,7 +2673,15 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV15poem5" source="alignments/TNV15poem5.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes2" corresp="#TNV15poem5">
+  <note xml:lang="ta" target="#rumme"><term xml:lang="en">Cf. PK14.2-4 (IAC2, p.45):</term>...toṇṭi yaṉṉāy tuyaralemmūr | maṇiniṟa maṭattu maṭṭiya vāñcuṭar mālainummūr | aṇiniṟa māḷikai mēṟpakal pārit taṇavarumē ||</note>
+  <note xml:lang="ta" target="#rumme"><term xml:lang="en">Cf. IAC2, p.45:</term> 'emperumāṉ aṇittu em iṭam eṉkiṉṟāṉāl, aṇiyataṟku arumaiyillai eṉkiṉṟāṉām.'</note>
+</standOff>
+  <standOff type="notes4" corresp="#TNV15poem5">
+    <note xml:lang="en" target="#rumme">This has been provided as it mimics the basic syntax of the TNVC poem, and has the same basic idea - their towns are close together and so he will be able to visist her easily and regularly. This is expressed in the prose passage quoted, where she realises what he is saying and deels comforted.</note> 
+</standOff>
+    <standOff type="apparatus" corresp="#TNV15poem5" source="alignments/TNV15poem5.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2673,7 +2709,13 @@
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKedpc">naṇṇi</lem>
     <rdg wit="#KKmsac #KKedac">naṟuṅkaṇṇi</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV15poem6" source="alignments/TNV15poem6.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV15poem6">
+  <note xml:lang="ta" target="#rumme"><term xml:lang="en">Cf. PK17.3-4 (IAC2, p.46):</term>...meṉ tōḷitaṉ ṉākam puṇarntatellām | kaṉavē naṉavāy vaṭiṉmey tātiṉik kaṇṇuṟavē ||</note>
+  <note xml:lang="ta" target="#rumme"><term xml:lang="en">Cf. PK18.3-4 (IAC2, p.46):</term>... peṇṇaṇaṅkiṉ | tirunalañ cērntatrl lāṅkaṉa vēyeṉṟu cintippaṉē ||</note>
+  <note xml:lang="ta" target="#rumme"><term xml:lang="en">Cf. IAC2, p.46:</term> kaṭṭiṉāḷaik kaṇṭu, 'ivaḷai yāṉ eytiṉeṉ eṉak karutiṉaṉ' eytiyatu uṇṭēl kaṉavēpōlum! naṉave yāyiṉum ivaḷ eṉakku eytutaṟku ariyaḷām'</note> 
+</standOff>
+<standOff type="apparatus" corresp="#TNV15poem6" source="alignments/TNV15poem6.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2751,7 +2793,12 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp>
-</standOff><standOff type="apparatus" corresp="#TNV15poem7" source="alignments/TNV15poem7.xml"><interp type="normalization">
+</standOff>
+<standOff type="notes1" corresp="#TNV15poem7">
+  <note xml:lang="ta" target="#uyire"><term xml:lang="en">Cf. PK20 (IAC2, p.47):</term> tēyat tavaruyi raippula ṉaṉṟeṉpar cennilattaik | kāyak kaṉaṉṟetirn tārmaru mattuk kaṭuṅkaṇaikaḷ | pāyac cilaikoṭṭa pañcavaṉ vañcippaim pūmpoḻillāy | āyat tiṭaiyatu vōtiri kiṉṟateṉ āruyirē ||</note>
+  <note xml:lang="ta" target="#uyire"><term xml:lang="en">Cf. PK21 (IAC2, p.47):</term> iṉṉuyir kaṇṭaṟi vārillai yeṉpa rikalmalaintār | maṉṉuyir vāṉceṉ ṟaṭaiyak kaṭaiyaluḷ veṉṟuvaiyan | taṉṉuyir pōlniṉṟu tāṅkumeṅ kōṇkollit tāḻpoḻilvāy | eṉṉuyi rāyat tiṭaiyitu vōniṉ ṟiyaṇkuvatē</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV15poem7" source="alignments/TNV15poem7.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2865,7 +2912,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV15poem9" source="alignments/TNV15poem9.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes1" corresp="#TNV15poem9">
+  <note xml:lang="ta" target="#uyire"><term xml:lang="en">IAC2, p.47:</term> āṟṟuvatu yātō eṉiṉ, tāṉ eyti āraṇaṅkākiya avvuruviṉai niṉaintu, tāṉ eytum upāyamāvatu taṉ kātaṟṟōḻaṉai itukoṇṭu muṭikkuṅ kollō eṉpatu.</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV15poem9" source="alignments/TNV15poem9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -2936,14 +2987,13 @@
   </desc>
 </interp></standOff>
 <standOff type="notes1" corresp="#TNV15comm2">
-  <note xml:lang="ta" target="#nayappunarttal"><term xml:lang="en">Cf. IAC2, p. 49:</term> nayappeṉpatu talaimakaṉ vaṇṭiṟku uraippāṉāyt talaimakaḷ kēṭpat taṉ nayappuṇarttiyatu.</note>
-  <note xml:lang="ta" target="#pirivaccam"><term xml:lang="en">Cf. IAC2, p. 55:</term> pirivaccameṉpatu, tāṉ pirivu añciṟṟum pirivaccam; avaḷaip pirivu añcuvittatum pirivaccam; ātaliṟ pirivaccameṉappaṭum</note>
-  <note xml:lang="ta" target="#vanporai"><term xml:lang="en">Cf. IAC2, p. 57:</term> vaṉpuṟaiyeṉpatu vaṟpuṟuttuvatu.</note>
-  <note xml:lang="ta" target="#arumai"><term xml:lang="en">Cf. IAC2, p. 59:</term> kāṭṭiṉāḷaik kaṇṭu, ivaḷai yāṉ eytiṉēṉeṉak karutiṉaṉ! eytiyatuṇṭēṟ kaṉāypōlam! naṉavēyāyiṉum ivaḷ eṉakku eytutaṟku ariyaḷāmeṉa āṟṟāṉāyiṉ.</note>
-  <note xml:lang="ta" target="#peyartal"><term xml:lang="en">Cf. IAC2, p. 60:</term> atu paṟṟukkōṭāka āṟṟi nīṅkumeṉpatu.</note> 
+  <note xml:lang="ta" target="#nayappunarttal"><term xml:lang="en">Cf. IAC2, p. 39:</term> nayappu eṉpatu talaimakaṉ vaṇṭiṟku uraippāṉāyt talaimakaḷ kēṭpat taṉ nayappuṇarttiyatu.</note>
+  <note xml:lang="ta" target="#pirivaccam"><term xml:lang="en">Cf. IAC2, p. 44:</term> pirivaccam eṉpatu, tāṉ pirivu añciṟṟum pirivaccam; avaḷaip pirivu añcuvittatum pirivaccam; ātaliṉ pirivaccam eṉappaṭṭatu.</note>
+  <note xml:lang="ta" target="#vanporai"><term xml:lang="en">Cf. IAC2, p. 45:</term> vaṉpuṟai eṉpatu vaṟpuṟuttuvatu.</note>
+  <note xml:lang="ta" target="#arumai"><term xml:lang="en">Cf. IAC2, p. 46:</term> kāṭṭiṉāḷaik kaṇṭu, 'ivaḷai yāṉ eytiṉēṉ eṉak karutiṉaṉ. eytiyatu uṇṭēl kaṉāvēpōlum! naṉavē āyiṉum ivaḷ eṉakku eytutaṟku ariyaḷām' eṉa āṟṟāṉāyiṉāṉ.</note>
+  <note xml:lang="ta" target="#peyartal"><term xml:lang="en">Cf. IAC2, p. 47:</term> atu paṟṟukkōṭāka āṟṟi nīṅkum eṉpatu.</note> 
 </standOff>
 <standOff type="notes4" corresp="#TNV15comm2">
-  <note xml:lang="en" target="#uyir">Cf. IAC2 (PK20 + 21), p. 60 - the idea expressed in this phrase is found in both these poems quoted in Nakkīraṉār's commentary, though not explicitly in his prose explanation, in the same point in the sequence as in the TNV commentary.</note>
   <note xml:lang="en" target="#varu">As the earliest known text which organises the speech situations (and the poems they describe) into a <term xml:lang="ta-Latn"><hi rend="italic">kōvai</hi></term> ('sequence'), and because of the clear similarities in phrasing, we should consider the IAC as a source for the TNV. The corresponding sections have been provided at some length, as they provide potentially valuable information not found in either the <term xml:lang="ta-Latn"><hi rend="italic">mūklam</hi></term> or the comparatively terse TNV commentary.</note> 
   <note xml:lang="en" target="#varu">It is worth noting that the TNV begins its enumeration after what Takanobu has termed the 'prologue' (Takanobu 1995: 62) - four situations which precede their first union. The TP indrectly mentions them, the IA does not, the IAC mentions them explicitly, as does the AV. They are: <term xml:lang="ta-Latn"><hi rend="italic">kāṭci</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">aiyam</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">tuṇivu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kuṟippaṟital</hi></term>.</note>
   </standOff>
