@@ -8891,8 +8891,8 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV17koḷu2">
-<note xml:lang="ta" target="#aiyurratu"><term xml:lang="en">Cf. IAC7, p.89:</term> ivaṭku ivvēṟupāṭu  teyvattiṉāṉāyiṟṟuk kollōveṉavumma makkaḷiṉāṉāyiṟṟuk kollō eṉavum</note>
-<note xml:lang="ta" target="#aiyurratu"><term xml:lang="en">Cf. IAC7, p.94:</term> avaḷatu vēṟupāṭu teyvattiṉāṉāyiṟṟuk kollō maṟṟoruvāṟāyiṟṟukkollōveṉa aiyuṟṟu niṟpatu.</note></standOff>
+<note xml:lang="ta" target="#aiyurratu"><term xml:lang="en">Cf. IAC7, p.67-68:</term> 'ivaṭku ivvēṟupāṭu teyvattiṉāṉ āyiṟṟukkollō' eṉavum, 'makkaḷiṉāṉ āyiṟṟukkollō' eṉavum</note>
+<note xml:lang="ta" target="#aiyurratu"><term xml:lang="en">Cf. IAC7, p.71-72:</term> avaḷatu vēṟupāṭu kaṇṭu, 'teyvattiṉāṉ āyiṟṟukkollō! maṟṟoruvāṟṟāṉāyiṟṟukkollō!' eṉa aiyuṟṟu niṟpatu;</note></standOff>
 <standOff type="notes4" corresp="#TNV17koḷu2"><note xml:lang="en" target="#aiyurratu">From this point on, sources from the IAC will be provided for the <term xml:lang="ta">koḷus</term> in the TNVC. They are the equivalent to a list of speech situations such as that in the commentary to TNV16.</note>
 <note xml:lang="en" target="#aiyurratu">The IAC names two situations where the confidante questions the cause of the bodily changes she has noticed in the heroine. I have provided both. Note that the poem cited in the TNVC is similar to the PK verse quoted to exmaplify the second occurrence of this doubt.</note></standOff>
 <standOff type="apparatus" corresp="#TNV17koḷu2" source="alignments/TNV17koḷu2.xml"><interp type="normalization">
@@ -9837,7 +9837,8 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.</p>
     <rdg wit="#KKms #KKedac">pirintaṉṟu</rdg>
   </app>
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV17poem3"><note xml:lang="ta" target="#cevviya"><term xml:lang="en">Cf. IAC5, p.82:</term> paṇinta moḻiyāmaṉṟē ittaḻainalla ikkaṇṇinalla veṉṟu iṅṅaṉaṅ kaiyuṟai pārāṭṭic ceṉṟuniṟṟal</note></standOff>
+<standOff type="notes1" corresp="#TNV17poem3">
+  <note xml:lang="ta" target="#cevviya"><term xml:lang="en">Cf. IAC5, p.82:</term> paṇinta moḻiyaṉṟē, 'ittaḻai nalla, ikkaṇṇi nalla' eṉṟu iṅṅaṉam kaiyuṟai pārāṭṭic ceṉṟu niṟṟal;</note></standOff>
 <standOff type="apparatus" corresp="#TNV17poem3" source="alignments/TNV17poem3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
