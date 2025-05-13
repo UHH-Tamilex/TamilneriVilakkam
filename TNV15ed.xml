@@ -7,7 +7,7 @@
         <title type="sub">Experimenting with formatting for the final edition.</title>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -15,7 +15,7 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p />
+              <p/>
             </summary>
           </msContents>
         </msDesc>
@@ -149,11 +149,11 @@
           
         </persName></expan></witness><witness xml:id="KT7" source="KT7.xml"><abbr type="siglum">KT7</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 7. <persName xml:lang="ta">Perumpatumaṉār</persName>: <hi rend="italic">Onlookers</hi></expan></witness><witness xml:id="KT17" source="KT17.xml"><abbr type="siglum">KT17</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 17. <persName xml:lang="ta">Pālaipāṭiya Peruṅkaṭuṅkō</persName>: <hi rend="italic">HE</hi></expan></witness><witness xml:id="KT18" source="KT18.xml"><abbr type="siglum">KT18</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 18. <persName xml:lang="ta">Kapilar</persName>: <hi rend="italic">the confidante</hi></expan></witness><witness xml:id="KT22" source="KT22.xml"><abbr type="siglum">KT22</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 22. <persName xml:lang="ta">Cēramāṉentai</persName>
           : <hi rend="italic">the confidante</hi></expan></witness><witness xml:id="KT71" source="KT71.xml"><abbr type="siglum">KT71</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 71. <persName xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <hi rend="italic">HE</hi></expan></witness><witness xml:id="KT78" source="KT78.xml"><abbr type="siglum">KT78</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 78. <persName xml:lang="ta">Nakkīraṉa(ār)</persName>: <hi rend="italic">the companion</hi></expan></witness><witness xml:id="KT88" source="KT88.xml"><abbr type="siglum">KT88</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 88. <persName xml:lang="ta">Maturaik Katakkaṇṇaṉ</persName>: <hi rend="italic">the confidante / SHE</hi></expan></witness><witness xml:id="KT119" source="KT119.xml"><abbr type="siglum">KT119</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 119. <persName xml:lang="ta">Cattinātaṉār (Cattiṉātaṉār, Cattinākaṉār)</persName>: <hi rend="italic">HE</hi></expan></witness><witness xml:id="KT130" source="KT130.xml"><abbr type="siglum">KT130</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 130. <persName xml:lang="ta">Veḷḷi Vīti(yār)</persName>: <hi rend="italic">the confidante / SHE</hi></expan></witness><witness xml:id="KT149" source="KT149.xml"><abbr type="siglum">KT149</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 149. <persName xml:lang="ta">Veḷḷi Vītiyār</persName>: <hi rend="italic">SHE</hi></expan></witness><witness xml:id="KT315" source="KT315.xml"><abbr type="siglum">KT315</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 315. <persName xml:lang="ta">Maturai
-          Vēḷātattaṉ </persName>: <hi rend="italic">SHE</hi></expan></witness></listWit>
+          Vēḷātattaṉ </persName>: <hi rend="italic">SHE</hi></expan></witness><witness xml:id="IA" source="IAprint.xml"><abbr type="siglum">IA</abbr><expan>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ)</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
@@ -208,6 +208,7 @@
       </div>
       <div type="koḷu" rend="parallel">
         <p xml:id="TNV15koḷu1">eṉpatu nayappuṇarttiyatu.</p>
+        <p xml:lang="en">[The hero] expresses [his] desire [to the heroine].</p>
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem2" corresp="#KT40">
@@ -220,6 +221,7 @@
       </div>
       <div type="koḷu" rend="parallel">
         <p xml:id="TNV15koḷu2">eṉpatu teḷital.<anchor xml:id="telital"/></p>
+        <p xml:lang="en">[The heroine's] state becomes clear [to the hero].</p>
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem3">
@@ -230,6 +232,7 @@
       </div>
       <div type="koḷu" rend="parallel">
         <p xml:id="TNV15koḷu3">eṉpatu pirivaccam.</p>
+        <p xml:lang="en">[The hero's] fear of separation.</p>
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem4">
@@ -241,6 +244,7 @@
       </div>
       <div type="koḷu" rend="parallel">
         <p xml:id="TNV15koḷu4">eṉpatu vaṉpoṟai.</p>
+        <p xml:lang="en">[The hero] consoles [the heroine].</p>
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem5">
@@ -252,6 +256,7 @@
       </div>
       <div type="koḷu" rend="parallel">
         <p xml:id="TNV15koḷu5">ituvum atu.</p>
+        <p xml:lang="en">And this is that.</p>
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem6">
@@ -262,6 +267,7 @@
       </div>
       <div type="koḷu" rend="parallel">
         <p xml:id="TNV15koḷu6">eṉpateytutal arumai.</p>
+        <p xml:lang="en">[The hero's] difficulty obtaining [the heroine].</p>
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem7">
@@ -272,6 +278,7 @@
       </div>
       <div type="koḷu" rend="parallel">
         <p xml:id="TNV15koḷu7">eṉpatuyir eṉak kūṟal.</p>
+        <p xml:lang="en">[The hero] saying, "[She is like my] life."</p>
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem8">
@@ -282,6 +289,7 @@
       </div>
       <div type="koḷu" rend="parallel">
         <p xml:id="TNV15koḷu8">eṉpatu teyvan tuṇai yākak koṇṭāṟṟip peyarntatu.</p>
+      
       </div>
       <div type="citation" rend="parallel">
         <lg xml:id="TNV15poem9">
@@ -292,7 +300,8 @@
         </lg>
       </div>
       <div type="koḷu" rend="parallel">
-        <p xml:id="TNV15koḷu9">eṉpatu pāṅkaṉai niṉaittāṟṟip peyarntatu. <note>15.</note></p>
+        <p xml:id="TNV15koḷu9">eṉpatu pāṅkaṉai niṉaintāṟṟip peyarntatu. <note>15.</note></p>
+        <p xml:lang="en">[The hero] thinks of his friend, feels comforted and leaves.</p>
       </div>
     </body>
 
@@ -2865,18 +2874,20 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="0,6">
-    <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
-    <rdg wit="#TNVms #TNVc"/>
-  </app>
+
   <app loc="6,12">
     <lem wit="#TNVc #TNV1937 #TNV1947">teyvan</lem>
     <rdg wit="#TNVms">teyvan<sic>ta</sic></rdg>
   </app>
   <app loc="12,22">
-    <lem wit="#TNV1937 #TNV1947">tuṇaiyākak</lem>
-    <rdg wit="#TNVms #TNVc">tuṇaiyāka<sic>ka</sic>k</rdg>
+    <lem wit="#TNV1937 #TNV1947">tuṇai yākak</lem>
+    <rdgGrp select="#TNVms #TNVc">
+      <rdg type="main">tuṇaiyākakak</rdg>
+      <rdg type="minor" wit="#TNVc">tuṇaiyāka<sic>ka</sic>k</rdg>
+      <rdg type="minor" wit="#TNVms"><sic/> tuṇaiyāka<sic>ka</sic></rdg>
+    </rdgGrp>
   </app>
+ 
 </listApp></standOff><standOff type="apparatus" corresp="#TNV15koḷu9" source="alignments/TNV15koḷu9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -2894,8 +2905,8 @@
   </desc>
 </interp><listApp>
   <app loc="14,26">
-    <lem wit="#TNVc">niṉaittāṟṟip</lem>
-    <rdg wit="#TNVms">niṉaintāṟṟip</rdg>
+    <lem wit="#TNVms">niṉaintāṟṟip</lem>
+    <rdg wit="#TNVc #TNV1937 #TNV1947">niṉaittāṟṟip</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV15poem8" source="alignments/TNV15poem8.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -2914,7 +2925,7 @@
   </desc>
 </interp></standOff>
 <standOff type="notes1" corresp="#TNV15poem9">
-  <note xml:lang="ta" target="#uyire"><term xml:lang="en">IAC2, p.47:</term> āṟṟuvatu yātō eṉiṉ, tāṉ eyti āraṇaṅkākiya avvuruviṉai niṉaintu, tāṉ eytum upāyamāvatu taṉ kātaṟṟōḻaṉai itukoṇṭu muṭikkuṅ kollō eṉpatu.</note>
+  <note xml:lang="ta" target="#kilai"><term xml:lang="en">IAC2, p.47:</term> āṟṟuvatu yātō eṉiṉ, tāṉ eyti āraṇaṅkākiya avvuruviṉai niṉaintu, tāṉ eytum upāyamāvatu taṉ kātaṟṟōḻaṉai itukoṇṭu muṭikkuṅ kollō eṉpatu.</note>
   </standOff>
 <standOff type="apparatus" corresp="#TNV15poem9" source="alignments/TNV15poem9.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -3018,4 +3029,19 @@
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">arumaiyum</lem>
     <rdg wit="#TNVmsac">arumaiyu<gap reason="illegible" unit="character" quantity="2"/>m</rdg>
   </app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff type="apparatus" corresp="#TNV15koḷu5" source="alignments/TNV15koḷu5.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp></standOff></TEI>
