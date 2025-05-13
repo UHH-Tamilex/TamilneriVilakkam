@@ -187,7 +187,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     pāṅkaṉ avviṭattavvuruk kāṇṭalun<anchor xml:id="kantal"/> talaimakaṉaip perumai kūṟalum<anchor xml:id="kural"/> peyarntu vantu talaimakaṟkuraittalun<anchor xml:id="uraittal"/> 
     talaimakaṉ ṟalaimakaḷaik kaṇṭaṇaitalum<anchor xml:id="anaital"/> uṟaviṉ āṟṟāṉ kūṟalum<anchor xml:id="arran"/> viṭuttalum<anchor xml:id="vituttal"/> pāṅkaṟ kūṭṭam ām eṉṟa vāṟu.</p>
       <p xml:lang="en">His friend questioning the hero about what has happened [to him]; the hero
-        saying "it is so"; his friend reproaching [him]; [the hero] refuting [his friend's]
+        saying "it is so"; the hero's friend reproaching [the hero]; [the hero] refuting [his friend's]
         reproach; his friend's suffering; [his friend] saying, "In what place and in what way?";
         [the hero] saying, "In such a place and in such a way";<note place="foot" xml:lang="en">What seems to be one situation in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> - <q xml:lang="ta-Latn"><hi rend="italic">yāṇṭeṉa viṉṉuḻi yeṉṟal</hi></q> ('[when asked] "Where?" saying "In such a place."), I take to be treated as two here. The Tamil allows one to understand this as one, but as this commentary closely follows the IAC, I have chosen to mirror its construction and take these as distinct situations.</note> his friend seeing [her] at that
         place; [his friend] speaking of [the hero's] greatness; [the friend] leaving and telling
@@ -199,7 +199,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
         <lg xml:id="TNV16poem1">
 <l>muṉṉiṉai muṭippatoṉ ṟuḷatukoṉ mūvakai</l>
 <l>nuṇṇiya paṉuvali ṉuḻaintuko</l>
-<l>leṉṉaikol vāṭiya taṇṇaṉiṉ ṉeḻilē</l>        
+<l>leṉṉaikol vāṭiya taṇṇaṉiṉ ṉeḻilē<anchor xml:id="nelile"/></l>        
 </lg></div>
 <div type="koḷu" rend="parallel">
 <p xml:id="TNV16koḷu1">eṉpatu viṉātal.</p>
@@ -209,7 +209,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
  <l>ciṟuveḷ ḷaravi ṉavvarik kuruḷai</l>
 <l>kāṉa yāṉai yaṇaṅki yāaṅ</l>
 <l>kiḷaiyaṇ muḷaivā ḷeyiṟṟaḷ</l>
-<l>vaḷaiyuṭaik kaiyaḷem maṇaṅki yōḷē</l>
+<l>vaḷaiyuṭaik kaiyaḷem maṇaṅki yōḷē<anchor xml:id="yole"/></l>
 <trailer><note>kuṟun - 119</note></trailer>
 </lg>
 </div>    
@@ -220,7 +220,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
         <lg xml:id="TNV16poem3">
 <l>poruntā tamma puṉaiyiḻai yarivai</l>
 <l>muruntēr muṟuva ṉōkki</l>
-<l>varuntiṉa ṉeṉpatu peruntakai peritē</l>
+<l>varuntiṉa ṉeṉpatu peruntakai peritē<anchor xml:id="peritu"/></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -230,7 +230,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
         <lg xml:id="TNV16poem4">
 <l>kāṇkuvi rāyiṟ kaḻaṟalir maṉṉō</l>
 <l>pūṇpuṉai vaḷariḷa vaṉamulai</l>
-<l>māṇkuḻai mātar maṭaṅkeḻu nōkkē</l>
+<l>māṇkuḻai mātar maṭaṅkeḻu nōkkē<anchor xml:id="nokke"/></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -240,7 +240,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
         <lg xml:id="TNV16poem5">
 <l>pulantuṟai pōkiya neñcuniṟai yaḻintu</l>
 <l>kalaṅkuva tāyiṉ mātō</l>
-<l>cilampaṉai yārō teḷikkunar piṟarē</l>
+<l>cilampaṉai yārō teḷikkunar piṟarē<anchor xml:id="pirar"/></l>
 </lg>
 </div>           
 <div type="koḷu" rend="parallel">
@@ -250,7 +250,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
         <lg xml:id="TNV16poem6"> 
 <l>vāḻvati yāvatu kollō vāṉpukaḻc</l>
 <l>cūḻkaḻa laṇṇa ṉeñca</l>
-<l>māḻtuya reyta vaṇaṅkiya vaṇaṅkē</l>   
+<l>māḻtuya reyta vaṇaṅkiya vaṇaṅkē<anchor xml:id="ananku"/></l>   
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -261,7 +261,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <l>kaṇṇē kāviyaṅ kayamalar nutalē</l>
 <l>taṇṇiḷa matiyeṉat takumē patiyum</l>
 <l>perumalaic cāraṟ cīṟū</l>
-<l>rarumai vāṅkiya vāyiḻai taṉakkē</l>
+<l>rarumai vāṅkiya vāyiḻai taṉakkē<anchor xml:id="tanakke"/></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -272,7 +272,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <l>vēṅkai yoḷvī kāntaḷoṭu kamaḻum</l>
 <l>pūntaṇ cāralu mituvē yēntilai</l>
 <l>yayilvē laṇṇal kūṟiya</l>
-<l>mayilēr cāyal vaṇṇamu mituvē</l>
+<l>mayilēr cāyal vaṇṇamu mituvē<anchor xml:id="ituve"/></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -283,7 +283,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <l>nōtaka vuṭaittē neñca matimicai</l>
 <l>mātark kuvaḷai malarmalarn taṉṉa</l>
 <l>karuntaṭaṅ kaṇkaṇ ṭāṟṟiyap</l>
-<l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē</l>
+<l>peruntakai yaṇṇalaik kaḻaṟiṉaṉ peritē<anchor xml:id="perite"/></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -293,7 +293,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
         <lg xml:id="TNV16poem10">
 <l>āytaḷir potuḷiya vītatai taṇciṉaik</l>
 <l>kāykatir nuḻaiyāk kaṭipoḻil</l>
-<l>yāvayi ṉōrum viḻaivuṟun takaittē</l>    
+<l>yāvayi ṉōrum viḻaivuṟun takaittē<anchor xml:id="takaitte"/></l>    
 </lg>
 </div>
  <div type="koḷu" rend="parallel">
@@ -302,8 +302,8 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <div type="citation" rend="parallel">
         <lg xml:id="TNV16poem11">
 <l>taṉimai neñcattu muṉivukaṇ ṇakaṟṟaliṉ</l>
-<l>viṉaimāṇ pāvai yaṉṉa</l>
-<l>puṉaiyiḻai mātarum pōṉṟatip poḻilē</l>
+<l>viṉaimāṇ pāvai yaṉṉa<anchor xml:id="anna"/></l>
+<l>puṉaiyiḻai mātarum pōṉṟatip poḻilē<anchor xml:id="polil"/></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -314,7 +314,7 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 <l>teyva māka vaiyuṟu neñcam</l>
 <l>poyyā tāyiṉiṉ cevvāy payanta</l>
 <l>kiḷipurai kiḷaviyām peṟuka</l>
-<l>voḷiyiḻai maṭantai yuyirpeyarp paritē</l>
+<l>voḷiyiḻai maṭantai yuyirpeyarp paritē<anchor xml:id="arite"/></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -3515,7 +3515,11 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <rdg wit="#TNV1937 #TNV1947">talaimakaṉ</rdg>
   </app>
  
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem1" source="alignments/TNV16poem1.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem1">
+  <note xml:lang="ta" target="#nelile"><term xml:lang="en">Cf. PK23.2-4 (IAC3, p.49):</term>...koḻuntamiḻiṉ | oṇturai mēluḷḷa mōṭiya tōvaṉṟi yuṟṟatuṇṭō | taṇturai vācintai vāṭiṭa eṉṉai taḷarkiṉṟatē ||</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV16poem1" source="alignments/TNV16poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3802,7 +3806,15 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV16poem2" source="alignments/TNV16poem2.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes2" corresp="#TNV16poem2">
+  <note xml:lang="ta" target="#yole"><term xml:lang="en">Cf. KT129.5-6 (IAC3, p.50):</term> katuppayal viḷaṅkuñ ciṟunutal | putukkōḷ yāṉaiyiṟ piṇittaṟṟā lemmē ||</note>
+  <note xml:lang="ta" target="#yole"><term xml:lang="en">Cf. PK25 (IAC3, p.49):</term> aḷaiyā raraviṉ kuruḷai yaṇaṅka aṟivaḻintu | tuḷaiyār neṭuṅkaik kaḷiṟu neṭuṅkit tuyarvatupōl | vaḷaiyār muḷaiyeyiṟ ṟarmaṉṉaṉ māṟaṉvaṇ kūṭalaṉṉa | iḷaiyā roruva raṇaṅkanain tāmmey iḷaikkiṉṟatē ||</note>
+  </standOff> 
+<standOff type="notes4" corresp="#TNV16poem2">
+  <note xml:lang="en" target="#yole">This poem is also quoted in the commentary to IA3 to exemplify the situation where the hero reveals to his friend that he is pining after the heroine. Other poems which employ the same image of something (which represents the heroine) entrancing an elephant (the hero) are provided as parallels.</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV16poem2" source="alignments/TNV16poem2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3822,7 +3834,14 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KT119">kuruḷai kāṉa</lem>
     <rdg wit="#TNVmsac">kuruḷai <gap reason="illegible" quantity="1" unit="character"/>kāṉa</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem3" source="alignments/TNV16poem3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem3">
+  <note xml:lang="ta" target="#peritu"><term xml:lang="en">Cf. IAC3, p.50:</term>..."appeṟṟiyāya nī, iṉṉatōr iṭattu iṉṉatōr uruvukaṇṭu, 'eṉ uruvu aḻiyap pōnteṉ' eṉṟal takkiṉru eṉṉum.</note></standOff>
+  <standOff type="notes4" corresp="#TNV16poem3">
+    <note xml:lang="en" target="#peritu">Though there are poems quoted in IAC3 for this situation, this sīms to be a casde where the TNVC poem more closely resemebles the prose summary of these poems.</note>
+    </standOff>
+
+  <standOff type="apparatus" corresp="#TNV16poem3" source="alignments/TNV16poem3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3854,7 +3873,16 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
       <rdg type="minor" wit="#TNV1937 #TNV1947 #KKed">muṟuva ṉōkkiṉ</rdg>
     </rdgGrp>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem4" source="alignments/TNV16poem4.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem4">
+  <note xml:lang="ta" target="#nokke"><term xml:lang="en">Cf. AN130, (IAC3, p.51):</term> amma vāḻi kōḷir muṉṉiṉṟu | kaṇṭaṉi rāyiṟ kaḻaṟaliṟ maṉṉō ... uṇkaṇ | mātar vāṇmuka mataiiya nōkkē ||</note> 
+  <note xml:lang="ta" target="#nokke"><term xml:lang="en">Cf. PK30.3-4, (IAC3, p.51):</term> vaṇṭār kuḻaṉmaṭa maṅkai matarvaimeṉ ṉōkkameṉpōṟ | kaṇṭā ruḷarē luraiyār piṟaviṉṉa kaṭṭuraiyē ||</note>
+  <note xml:lang="ta" target="#nokke"><term xml:lang="en">Cf. PK31.3-4, (IAC3, p.51):</term> paṇkoṇṭa collam maṭantai mukattuppaim pūṅkuvaḷaik | kaṇkaṇṭa piṉṉai yuraiyī ruraittavik kaṭṭuraiyē ||</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV16poem4">
+  <note xml:lang="en" target="#nokke">Just the main sentence of AN130 is quoted. It is a long poem and this is the relevant section.</note>
+  </standOff>
+  <standOff type="apparatus" corresp="#TNV16poem4" source="alignments/TNV16poem4.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3882,7 +3910,11 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vaṉamulai</lem>
     <rdg wit="#TNVmsac">vaṉakamulai</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem5" source="alignments/TNV16poem5.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem5">
+  <note xml:lang="ta" target="#nokke"><term xml:lang="en">Cf. PK32.3-4, (IAC3, p.52):</term>... niṟaiyu maṟivuṅ kalaṅki nilaitaḷarum | eṉṟāl teruṭṭaval vāriṉi yāriv virunilattē ||</note>
+  </standOff> 
+<standOff type="apparatus" corresp="#TNV16poem5" source="alignments/TNV16poem5.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3902,7 +3934,14 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">mātō</lem>
     <rdg wit="#TNVmsac">māta</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem6" source="alignments/TNV16poem6.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem6">
+  <note xml:lang="ta" target="#ananku"><term xml:lang="en">Cf. PK34.3-4, (IAC3, p.52):</term>...urainiṉ | oṇṭā rakalam melivitta mātar uraiviṭamē ||</note>
+  </standOff>
+  <standOff type="notes4" corresp="#TNV16poem6">
+    <note xml:lang="en" target="#ananku">The TNVC poem does not make explicit the question of where the two lovers met. It does, however, mirror the concern of the hero's friend.</note>
+    </standOff>
+<standOff type="apparatus" corresp="#TNV16poem6" source="alignments/TNV16poem6.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3922,7 +3961,13 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">vāḻvati yāvatu kollō vāṉpukaḻc cūḻkaḻa</lem>
     <rdg wit="#KKms #KKedac"><space unit="character" quantity="23"/> <space unit="character" quantity="3"/>ḻa</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem7" source="alignments/TNV16poem7.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem7">
+  <note xml:lang="ta" target="#tanakke"><term xml:lang="en">Cf. PK35 (IAC3, p.52):</term> aṭivaṇṇan tāmarai āṭara valkul varattamaṅkai | koṭivaṇṇam nuṇṇiṭai kovvaicev vāykoṅkaikōṅ karumpiṉ | paṭivaṇṇañ ceṅkōṟ parāṅkucaṉ kollip paṉivaraiyāy | vaṭivaṇṇa vēṟkaṇṇi ṉāleṉṉai vāṭṭiya vāṇutaṟkē ||</note>
+  <note xml:lang="ta" target="#tanakke"><term xml:lang="en">Cf. PK36 (IAC3, p.52):</term> tirumā mukantiṅkaḷ ceṅkayal uṇkaṇcem poṟcuṇaṅkēr | vārumā mulaimaṇic ceppiṇai vāṉavaṉ kāṉamuṉṉak | karumā neṭumatiṟ kōṭṭāṟ ṟaraṅkoṇṭa teṉṉaṉkaṉṉip | perumāṉ varōtayaṉ kolliyañ cāralppeṇ koṭikkē ||</note>
+  <note xml:lang="ta" target="#tanakke"><term xml:lang="en">Cf. PK37 (IAC3, p.53):</term> kaṭittaṭam viṇṭ kamala mukaṅkama lattarumpē | poṭittaṭaṅ kāmulai pūlantait temmaṉṉar pūaḻiya | iṭittaṭaṅ kāvuru mēntiya kōṉkolli yīrmpoḻilvāy | vaṭittaṭaṅ kaṇmala rāleṉṉai vāṭṭiya vāṇutaṟkē ||</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV16poem7" source="alignments/TNV16poem7.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3947,7 +3992,12 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     </rdgGrp>
     <rdg wit="#TNV1947">r arunilai</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem8" source="alignments/TNV16poem8.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem8">
+  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. PK38 (IAC3, p.54):</term> taṇtā talarkaṇṇi yaṇṇaltaṉ ṉuḷḷan taḷarvuceyt | vaṇṭār kuḻalava ḷēyivaḷ māṉīr maṇaṟṟimaṅkai | viṇṭār uṭaṟkuṉṟa mēṟi viḻikaḷ kaḻutuṟaṅkak | kaṇtāṉ potiyil ituvē avaṉcoṉṉa kārppuṉamē ||</note>
+  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. PK39 (IAC3, p.54):</term> ciṉamu maḻintu cerubiṭait tōṟṟatev vēntarkaḷpōyk | kaṉavumpaṭikaṭai yaṟceṟṟa vēntaṉ karuṅkuḻalār | maṉmum vaṭikkaṇṇun taṅkuman tārattu maṉṉaṉkaṉṉip | puṉamum ituvitu vēyavaṉ tāṉkaṇṭa pūṅkoṭiyē||</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV16poem8" source="alignments/TNV16poem8.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -3980,7 +4030,15 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <rdg wit="#KKms">la<space unit="character" quantity="6"/> <space unit="character" quantity="7"/>yal</rdg>
     <rdg wit="#KKedac">la<space unit="character" quantity="6"/></rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem9" source="alignments/TNV16poem9.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem9">
+  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. IAC3, p.54:</term>'... iṟantupaṭātu eṉkārum vanta iruntuṇaip peruntakkaṉai yāṉ periyatōr iṭaṉaṉṟik kaḻaṟiṉēṉ' eṉa niṉaikkum.</note>
+  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. PK41.4 (IAC3, p.54):</term> ariya malarneṭuṅ kaṇkaṇṭu mālaṇṇal āṟṟiyatē ||</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV16poem9">
+  <note xml:lang="en" target="#ituve">The TNVC poem has much more in common with the IAC prose preamble to these poems, though there is some similarity to the line proved from PK41.</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV16poem9" source="alignments/TNV16poem9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -4027,7 +4085,11 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <rdg wit="#TNVms #TNVcac">kaḻaṟṟiṉaṉ</rdg>
     <rdg wit="#KKmsac">kaḻaṉṟiṉaṉ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem10" source="alignments/TNV16poem10.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem10">
+  <note xml:lang="ta" target="#takaitte"><term xml:lang="en">Cf. IAC3, p.55:</term> iravō raṉṉa koḻuniḻal tāay | nilavō raṉṉa veṇmaṇa loḻuki | vaṇṭun tēṉum varikkaṭaip piracamuṅ | koṇṭu puṇarnaram peṉṟu muraṉṟu | viḻaivu viṭutta viḻumi yōraiyum | viḻaivu tōṟṟu nikkum paṇpiṟṟu ||</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV16poem10" source="alignments/TNV16poem10.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -4061,7 +4123,12 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKmspc #KKed">viḻaivuṟun takaittē</lem>
     <rdg wit="#KKmsac">viḻaivuṟu muttamē</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem11" source="alignments/TNV16poem11.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem11">
+  <note xml:lang="ta" target="#takaitte"><term xml:lang="en">Cf. PK52.4 (IAC3, p.55):</term> ērmaṉṉu kōtaiyaip pōliṉi tāyiṟṟiv vīrmpoḻilē ||</note>
+  <note xml:lang="ta" target="#anna"><term xml:lang="en">Cf. NA185.11:</term> viṉaimāṇ pāvai yaṉṉōḷ |</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV16poem11" source="alignments/TNV16poem11.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -4082,7 +4149,13 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
     <rdg wit="#KKms #KKedac">ṭakaṟṟaliṉ</rdg>
     <rdg wit="#TNVmsac">ṇekaṟṟaliṉ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV16poem12" source="alignments/TNV16poem12.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV16poem12">
+  <note xml:lang="ta" target="#arite"><term xml:lang="en">Cf. IAC3, p.55:</term> 'niṉṉai yāṉ ip poḻiluṟu teyvam eṉa aiyuṟuval, allai yāyiṉ vāytiṟavāy, āvi ceṉṟāl peyarppatu ariteṉrō'</note>
+  <note xml:lang="ta" target="#arite"><term xml:lang="en">Cf. PK44 (IAC3, p.56):</term> mēviyoṉ ṉāraiveṇ māttuveṉ ṟāṉkaṉṉi vīḻtuṟaivāyt | tēviyeṉ ṟāniṉṉai yāṉiṉaik kiṉṟatu cēyaripāy | kāviveṉ ṟāyakaṇ ṇāyallai yēloṉṟu kaṭṭuraiyāy | āviceṉ ṟāṟpeyarp pariṉi yāriv vakaliṭattē ||</note>
+  <note xml:lang="ta" target="#arite"><term xml:lang="en">Cf. PK45 (IAC3, p.56):</term> tiraiyuṟai vārpuṉaṟ cēvūrc cerumaṉṉar cīraḻitta | uraiyuṟai tīntamiḻ vēntaṉ ucitaṉāṇ pūmpotilyil | varaiyuṟai teyvameṉ ṟēṟkallai yēluṉṟaṉ vāytiṟavāy | viraiyuṟai kōtai uyircelliṉ yārpiṟar mīṭpavarē ||</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV16poem12" source="alignments/TNV16poem12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
