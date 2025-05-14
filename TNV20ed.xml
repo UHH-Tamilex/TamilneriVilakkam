@@ -219,6 +219,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu1">eṉpatu muṉ ṉiṉṟalar periteṉṟatu.</p>
+    <p xml:lang="en">[The confidante] says, "The gossip stood before us is great."</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem2"> 
@@ -229,6 +230,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu2">eṉpatu ayal varaivuraittatu.</p>
+    <p xml:lang="en">[The confidante] tells [the hero] about marriage [proposals] from the neighbourhood.</p>
 </div> 
 <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem3"> 
@@ -240,6 +242,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu3">eṉpatu tōḻiyait talaimakaṉ viṉāyatu.</p>
+    <p xml:lang="en">The hero questions the confidante.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem4"> 
@@ -250,6 +253,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu4">eṉpatu yāṉ aṟiyēṉī yurai yeṉṟatu.<anchor xml:id="enratu"/></p>
+    <p xml:lang="en">[The conifdante] says [to the hero], "I don't know. You speak [to her]!"</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem5"> 
@@ -260,6 +264,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu5">eṉpatu curañcela vāṟṟuniṉṉōṭeṉṟatu.</p>
+    <p xml:lang="en">[The confidante] says, "Going though the desert will be bearable [for the heroine] with you."</p>
 </div>  
 <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem6"> 
@@ -270,6 +275,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu6">eṉpatu varun tiṟamoḻintatu.</p>
+    <p xml:lang="en">[The confidante] speaks of how to come.</p>
 </div>  
 <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem7"> 
@@ -281,6 +287,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu7">eṉpatu uṭaṉ pōkku nayappittatu.<anchor xml:id="nayappitatu"/></p>
+    <p xml:lang="en">[The conifdante] encourages [the heroine] to elope.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem8"> 
@@ -293,6 +300,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu8">ituvum atu.</p>
+    <p xml:lang="en">And this is that.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV20poem9" corresp="#KT149"> 
@@ -307,6 +315,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV20koḷu9">eṉpatu talaimakaḷ uṭaṉ cela nērnta pāvak kiḷavi.<note> 20.</note></p>
+    <p xml:lang="en">The heroine's speech of lamentation, having agreed<note place="foot" xml:lang="en">This translation is imprecise, but there is no other comfortable way to render the Tamil in English. <q xml:lang="ta-Latn"><hi rend="italic">pāvam</hi></q> is literally the expression of lamentation or regret that one makes and whereas I have translated <q xml:lang="ta-Latn"><hi rend="italic">nērnta</hi></q> as an absolutive, it is actually a relative participle.</note> to elope.</p>
 </div>
 <div><p xml:id="TNV20comm3">kaḷavu muṟṟum.</p></div>
 </body>
