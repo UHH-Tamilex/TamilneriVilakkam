@@ -265,6 +265,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu1">eṉpatu talaimakaṭōḻikkaṟattoṭu niṉṟatu.</p>
+    <p xml:lang="en">The heroine stands with duty to the confidante.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem2"> 
@@ -275,7 +276,8 @@
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV22koḷu2">eṉpatu cevili talaimakaḷai makaṭkōlañ ceytatu.<anchor xml:id="ceytatu"/></p>
+    <p xml:id="TNV22koḷu2">eṉpatu cevili talaimakaḷai makaṭkōlañ<anchor xml:id="makatkolam"/> ceytatu.<anchor xml:id="ceytatu"/></p>
+    <p xml:lang="en">The foster mother does the daily adornment of the heroine.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem3"> 
@@ -288,6 +290,7 @@
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu3">eṉpatu cevili talaimakaḷaip puṉaintiyārō vivaḷai eytutaṟkariya peruntakai 
     eṉat tōḻi aṟattoṭu niṉṟatu.</p>
+    <p xml:lang="en">The confidante stands with duty when the foster mother, having decorated the heroine, says, "Who is that most worthy man who has the right to<note place="foot" xml:lang="en">This is a literal translation. What it gets at is that the hero is deserving of the right to come and speak to her - eligible, in other words.</note> approach her?"</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem4"> 
@@ -299,6 +302,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu4">eṉpatu talaimakaḷ vēṟupāṭu kaṇṭu cevili viṉavak kaṭṭuvicci colliyatu.</p>
+    <p xml:lang="en">When, having seen the changes in the heroine, the foster mother questions [their cause], the feamle diviner speaks.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem5"> 
@@ -310,6 +314,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu5">eṉpatu cevili veṟi kālkoḷḷat talaimakaḷ iraṅkiyatu.<anchor xml:id="irakiyatu"/></p>
+    <p xml:lang="en">When the foster mother initaites the <term xml:lang="ta-Latn">veṟi</term> dance, the heroine weeps.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem6"> 
@@ -321,6 +326,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu6">eṉpatu talaimakaḷ āṟṟāmai yuṇarnta tōḻi yaṟattoṭu niṟṟaṟakkateṉṟatu.</p>
+    <p xml:lang="en">The confidante, who had realised that the heroine was unable to bear [the situation], says, "It is appropriate to stand with duty."</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem7"> 
@@ -331,6 +337,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu7">eṉpatu āṟṟāḷ āy niṉṟa talaimakaḷait tōḻi poym moḻintaṉaṉ eṉa vāṟṟuvittatu.</p>
+    <p xml:lang="en">The confidante comforts the heroine, who was standing [there] unable to bear [the ritual], by saying, "He is telling lies."</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem8"> 
@@ -342,6 +349,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu8">eṉpatu talaimakaḷ aṟattoṭu nilai maṟuttatu.</p>
+    <p xml:lang="en">The heroine refuses to stand with duty.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem9"> 
@@ -353,6 +361,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu9">eṉpatu tōḻi yaṟattoṭu nilai nayappikkak kūṟiyatu.</p>
+    <p xml:lang="en">The confidate talks [to the heroine] to persuade her to stand with duty.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem10"> 
@@ -363,6 +372,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu10">eṉpatu talaimakaḷ aṟattoṭu nilai nayantatu.</p>
+    <p xml:lang="en">The hero longs to stand with duty.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem11"> 
@@ -373,6 +383,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu11">eṉpatu veṭṭiṉ kaṇ vēlaṉ mēl vaittut tōḻi yaṟattoṭu niṉṟatu.</p>
+    <p xml:lang="en">The confidante stands with duty with regards to the priest when [he] approaches.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poemextra"> 
@@ -383,6 +394,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷuextra">eṉpatu murukaṉ mēl vaittaṟattoṭu niṉṟatu</p>
+    <p xml:lang="en">[The confidante] stands with duty with regards to Murukaṉ.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem12"> 
@@ -393,6 +405,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu12">eṉpatu cevili viṉavat tōḻi yaṟattoṭu niṉṟatu.</p>
+    <p xml:lang="en">When the foster mother questions [her], the confidante stands with duty.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem13"> 
@@ -403,6 +416,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu13">ituvum atu.</p>
+    <p xml:lang="en">And this is that.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem14"> 
@@ -413,6 +427,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu14">eṉpatu cevili naṟṟāykkaṟattoṭu niṉṟatu.</p>
+    <p xml:lang="en">The foster mother stands with duty to the birth-mother.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem15"> 
@@ -424,6 +439,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu15">eṉpatu varaivu maṟuttatu.</p>
+    <p xml:lang="en">[The birth-mother] rejecing the marriage [proposal].</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem16"> 
@@ -434,6 +450,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu16">eṉpatu varaivu maṟutta vaḻit talaimakaḷ āṟṟāḷ āyiṟṟu.</p>
+    <p xml:lang="en">When [the birth-mother] rejects the marriage [proposal], the heroine becomes unable to bear it.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem17"> 
@@ -444,6 +461,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu17">eṉpatu varaivuṇarnta tōḻi talaimakaḷai yāṟṟuvittatu.</p>
+    <p xml:lang="en">The confidante, who was aware of the marriage [sitaution], comforts the heroine.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem18"> 
@@ -454,6 +472,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu18">eṉpatu naṟṟāy tamarkkaṟattoṭu niṉṟatu.</p>
+    <p xml:lang="en">The birth-mother stand with duty to her male relatives.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem19"> 
@@ -465,6 +484,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu19">eṉpatu varaivetir koṇṭatu.<note> 22.</note></p>
+    <p xml:lang="en">[The heroine's] family accept the marriage [proposal].</p>
 </div>
 
 </body>
@@ -5009,6 +5029,8 @@
 <standOff type="notes1" corresp="#TNV22koḷu2">
   <note xml:lang="ta" target="#ceytatu"><term xml:lang="en">Cf. IAC14, p.96:</term> 'emmaik kūḻaikkaṟṟaik kuḻavip pirāyattu māḻaikalanta ēḻainīrmaiyāroṭu nāṭkōlañ ceytu "viḷaiyāṭivammiṉ" eṉru pōkkiṉāy;</note>
 </standOff>
+<standOff type="notes4" corresp="#TNV22koḷu2">
+  <note xml:lang="en" target="#makatkolam">The two editions both print <q xml:lang="ta-Latn"><hi rend="italic">nāṭkōlañ</hi></q>, which is what we also find in the IAC. As this refers to a daily adornment of a daughter by a mother figure, the MS reading here make just as good sense. It makes explicit that this is a act performed on/for the daughter. I think it is reasonable to assume that there were multiple ways to describe this custom and that over time they became stansardised into <q xml:lang="ta-Latn"><hi rend="italic">nāṭkōlam</hi></q>.</note></standOff>
   <standOff type="apparatus" corresp="#TNV22koḷu2" source="alignments/TNV22koḷu2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
