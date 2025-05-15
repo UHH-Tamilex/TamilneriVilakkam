@@ -2400,8 +2400,10 @@
         <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IA2.2:</term> kāmap puṇarcci</note>
         <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.37:</term> iyaṟkaip punṇarcci eṉappaṭum; pulavarāṟ kūṟappaṭṭa iyalpiṉāṟ puṇarntārākalāṉum, kantaruva vaḻakkattoṭu otta iyalpiṉar puṇarntārākalāṉum eṉpatu.</note>
         <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. IAC2, p.37:</term> muṉṉuṟu puṇarcci eṉappaṭum; ivaḷnalam ivaṉāṉē muṉṟuṟa eytappaṭṭamaiyāṉum, ivaṉalam ivaḷāṉē muṉṉuṟa eytappaṭṭamaiyāṉum eṉpaṭu.</note>
-       
-        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. AV27.1:</term> iḵtu iyaṟkaip puṇarcci</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. AV27.1:</term> iyaṟkaip puṇarcci</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. AV32:</term> teyvan taṉiṉe ytavuṅ kiḻattiyi | ṉeytavum paṭūu miyaṟkaip puṇarcci ||</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. AV33:</term> iyaṟkaip puṇarcci teyvatti ṉeytuḻi | muyaṟciyiṉṟi muṭiva tākum ||</note>
+        <note target="#punarcci" xml:lang="ta"><term xml:lang="en">Cf. AV125:</term> kalantuḻi makiḻtalum nalampā rāṭṭalu | mēṟpuṟa vaṇitalum eṉṉumim mūṉṟum | pēṟṟiya teyvap puṇarcciyiṉ viriyē ||</note>
       </standOff>
         <standOff type="notes4" corresp="#TNV15">
           <note target="#punarcci" xml:lang="en">This <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> follows the same sequence as the IAC, but the corresponding passages are included as sources for the commentary. This is because the wording was more similar in teh commentary, and in previous cases, the commentary has very clearly been closely based on the IAC, where the <term xml:lang="ta-Latn"><hi rend="italic">cūṭtiram</hi></term> has not been. This is to say that one should probably also consider this enumeration to follow in the footsteps of Nakkīraṉār. It is only for practical considerations  namely that it would be a waste of space to report the same sources/parallels twice - that they only appear there.</note>
@@ -2683,13 +2685,17 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp></standOff>
-<standOff type="notes2" corresp="#TNV15poem5">
+<standOff type="notes1" corresp="#TNV15poem5">
   <note xml:lang="ta" target="#rumme"><term xml:lang="en">Cf. PK14.2-4 (IAC2, p.45):</term>...toṇṭi yaṉṉāy tuyaralemmūr | maṇiniṟa maṭattu maṭṭiya vāñcuṭar mālainummūr | aṇiniṟa māḷikai mēṟpakal pārit taṇavarumē ||</note>
   <note xml:lang="ta" target="#rumme"><term xml:lang="en">Cf. IAC2, p.45:</term> 'emperumāṉ aṇittu em iṭam eṉkiṉṟāṉāl, aṇiyataṟku arumaiyillai eṉkiṉṟāṉām.'</note>
 </standOff>
+<standOff type="notes2" corresp="#TNV15poem5">
+  <note xml:lang="en" target="#rumme"><term xml:lang="en">Cf. AV129.4:</term> itamaṇit teṉṟalum...</note>
+  </standOff>
   <standOff type="notes4" corresp="#TNV15poem5">
-    <note xml:lang="en" target="#rumme">This has been provided as it mimics the basic syntax of the TNVC poem, and has the same basic idea - their towns are close together and so he will be able to visist her easily and regularly. This is expressed in the prose passage quoted, where she realises what he is saying and deels comforted.</note> 
-</standOff>
+    <note xml:lang="en" target="#rumme">The IAC has been cited as it mirrors the basic syntax of the TNVC poem, and has the same basic idea - their towns are close together and so he will be able to visist her easily and regularly. This is expressed in the prose passage quoted, where she realises what he is saying and feels comforted.</note> 
+    <note xml:lang="en" target="#rumme">The AV closely mirrors the language found in the IAC prose passage quoted.</note>
+  </standOff>
     <standOff type="apparatus" corresp="#TNV15poem5" source="alignments/TNV15poem5.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -3004,8 +3010,12 @@
   <note xml:lang="ta" target="#arumai"><term xml:lang="en">Cf. IAC2, p. 46:</term> kāṭṭiṉāḷaik kaṇṭu, 'ivaḷai yāṉ eytiṉēṉ eṉak karutiṉaṉ. eytiyatu uṇṭēl kaṉāvēpōlum! naṉavē āyiṉum ivaḷ eṉakku eytutaṟku ariyaḷām' eṉa āṟṟāṉāyiṉāṉ.</note>
   <note xml:lang="ta" target="#peyartal"><term xml:lang="en">Cf. IAC2, p. 47:</term> atu paṟṟukkōṭāka āṟṟi nīṅkum eṉpatu.</note> 
 </standOff>
-<standOff type="notes4" corresp="#TNV15comm2">
-  <note xml:lang="en" target="#varu">As the earliest known text which organises the speech situations (and the poems they describe) into a <term xml:lang="ta-Latn"><hi rend="italic">kōvai</hi></term> ('sequence'), and because of the clear similarities in phrasing, we should consider the IAC as a source for the TNV. The corresponding sections have been provided at some length, as they provide potentially valuable information not found in either the <term xml:lang="ta-Latn"><hi rend="italic">mūklam</hi></term> or the comparatively terse TNV commentary.</note> 
+<standOff type="notes2" corresp="#TNV15comm2">
+  <note xml:lang="ta" target="#vanporai"><term xml:lang="en">Cf. AV128:</term> aiyan tīrttal pirivuḻi vaṟuttaleṉ | ṟeytiya vaṉpuṟai yiruvakaittākum ||</note>
+</standOff>
+  <standOff type="notes4" corresp="#TNV15comm2">
+    <note xml:lang="en" target="#vanporai">There seems to be some confusion amongst scribes between the common <q xml:lang="ta-Latn"><hi rend="italic">vaṉpuṟai</hi></q> and <q xml:lang="ta-Latn"><hi rend="italic">vaṉpoṟai</hi></q> which we find in the TNV. Rajaretthinam records <q xml:lang="ta-Latn"><hi rend="italic">vaṉpoṟai</hi></q> as a variant for <q xml:lang="ta-Latn"><hi rend="italic">vaṉpuṟai</hi></q> in his edition of the AV. I am inclined to understand this as a simple orthographic variation, possibly a regional one, and so I have retained this uncommon form.</note>
+    <note xml:lang="en" target="#varu">As the earliest known text which organises the speech situations (and the poems they describe) into a <term xml:lang="ta-Latn"><hi rend="italic">kōvai</hi></term> ('sequence'), and because of the clear similarities in phrasing, we should consider the IAC as a source for the TNV. The corresponding sections have been provided at some length, as they provide potentially valuable information not found in either the <term xml:lang="ta-Latn"><hi rend="italic">mūklam</hi></term> or the comparatively terse TNV commentary.</note> 
   <note xml:lang="en" target="#varu">It is worth noting that the TNV begins its enumeration after what Takanobu has termed the 'prologue' (Takanobu 1995: 62) - four situations which precede their first union. The TP indrectly mentions them, the IA does not, the IAC mentions them explicitly, as does the AV. They are: <term xml:lang="ta-Latn"><hi rend="italic">kāṭci</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">aiyam</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">tuṇivu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kuṟippaṟital</hi></term>.</note>
   </standOff>
  
