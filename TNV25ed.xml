@@ -231,7 +231,11 @@
 <l>viḻaikunaṉ viḻaiyā ṉivaṉeṉa viḷampalun</l>
 <l>tāykaṇ ṭuraittalun tāṅkiya kātali</l>
 <l>ṉāyiṉa piṟavu māyiṭaip pirivē<anchor xml:id="pirivu"/></l></lg>
-<p xml:lang="en">[The confidante's] refusal [of the bard] at the door; [the bard] speaking at the door; the confidante rebuking [the bard]; [the bard's] vexaion appearing; the hero becoming vexed; the heroine becoming vexed; [the heroine] saying "He, the lover, does not desire me"; the mother seeing [this] and speaking; and other [situations] which exist because of enduring love [are] 'the separation to 'that place''.</p>
+<p xml:lang="en">[The confidante's] refusal [of the bard] at the door; [the bard] speaking at the
+          door; the confidante rebuking [the bard]; [the bard's] vexaion appearing; the hero
+          becoming vexed; the heroine becoming vexed; [the heroine] saying "He, the lover, does not
+          desire me"; the mother seeing [this] and speaking; and other [situations] which exist
+          because of enduring love [are] 'the separation to 'that place''<note place="foot" xml:lang="en">This, as is made clear in the comentary, is a way to refer to the hero's separation when he is visiting his extramarital lover, whose character I render in English as 'the other woman'. It is not clear however, exactly how to translate the phrase <q xml:lang="ta-Latn">āyiṭai pirivu</q>. The most common translations are 'intermediate-distance separation' or 'separation to that place'. I prefer the second in part due to its ambiguity. For the sake of clarity, <q xml:lang="ta-Latn"><hi rend="italic">āyiṭai</hi></q> is a combination of the deictic prefix '<term xml:lang="ta-Latn"><hi rend="italic">a</hi></term>' (that, there) and the noun '<term xml:lang="ta-Latn"><hi rend="italic">iṭai</hi></term>' (place). Both convey the idea that this separation is both short-term, at least compared to the long-distance version mentioned in the previous <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, and short-distance, as the hero's other woman is understood to live in the same town as the hero and heroine by theoreticians. The translation 'that place' allows for an elliptical reference to the fact that he is going somewhere he shouldn't by stepping out of his marital home, and it also keeps open the possibility that it can be a separation to a place that is <hi rend="italic">right there</hi>.</note></p>
 </div>
 </body>
 </text>
@@ -261,6 +265,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV25koḷu1">eṉpatu pāṇaṉukku vāyiṉ maṟuttatu.</p>
+    <p xml:lang="en">[The confidante] refuses [entry] to the bard at the door.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem2"> 
@@ -271,6 +276,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV25koḷu2">eṉpatu vāyiṉ maṟuttatu.</p>
+    <p xml:lang="en"></p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem3"> 
