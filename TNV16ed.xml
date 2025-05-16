@@ -165,10 +165,10 @@
 <l>mātaraik kāṇṭalu maṉṉiya vakuttaluṅ</l>
 <l>kiḻavōṟ kicaittalu māṟṟāṉ kiḷattalum</l>
 <l>paḻavarai viṭuttalum pāṅkaṟ kūṭṭam<anchor xml:id="kuttam"/></l></lg>
-<p xml:lang="en">Questioning [the hero], letting out [the secret], reproaching [him], refusing,
-[friend’s] suffering, [when asked] "Where?" saying "In such a place", seeing the woman, 
-classifying [her as] agreeable, speaking to the hero, making it clear that he cannot bear and 
-sending [her] off to the old ones (i.e. her family) - these are the union [by means of] his friend.
+<p xml:lang="en">[The friend] questioning [the hero], [the hero] letting out [the secret]; [the hero's friend] reproaching [the hero], [the hero] refuting [that reproach],
+[the friend’s] suffering; [when asked by the friend], "Where?", [the hero] saying, "In such a place"; [the friend] seeing the woman, 
+[the friend] classifying [her as] agreeable, [the friend] speaking to the hero, [the hero] making it clear that he cannot bear, and 
+sending [her] off to the old ones (i.e. her family) - these are 'the union [by means of] his friend'.
 </p>
 </div>
 </body>
@@ -3367,13 +3367,14 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
 </gramGrp>
 </entry>
 </standOff>
-<standOff type="notes2" corresp="#TNV16"><note xml:lang="ta" target="#kuttam"><term xml:lang="en">Cf. TP487i:</term> paṅkoṭu taḻāalum</note>
+<standOff type="notes1" corresp="#TNV16"><note xml:lang="ta" target="#kuttam"><term xml:lang="en">Cf. TP487i:</term> paṅkoṭu taḻāalum</note>
   <note xml:lang="ta" target="#kuttam"><term xml:lang="en">Cf. TP99i.9:</term> niṟpavai niṉaii nikaḻpavai yuraippiṉuṅ | kūṟṟaṅ kāṭṭiya vāyil peṭpiṉum</note> 
   <note xml:lang="ta" target="#kuttam"><term xml:lang="en">Cf. IA3:</term> āṅṅaṉam puṉarnta kiḻavōṉ ṟaṉvayiṟ | pāṅka ṉōriṟ kuṟitalaip peyartalum</note>
 </standOff>
 <standOff type="notes4" corresp="#TNV16">
   <note xml:lang="en" target="#maruttal">Iḷampūraṉar and Nacciṉārkkiṉiyar both understand these lines in TP99i to refer to the friend's reproach. This is the only mention in the TP concerning this situation.</note>
-  <note xml:lang="en" target="#kuttam"> The IA parallel simply mentions the existence of a meeting in which the hero's friend plays some sort of role, but there is no elaboration on the figure. The first instance of any expansion of teh situation come in Nakkīraṉār's commentary. As before, I am quite certain that it was the source for this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, but as the commentary shows closer similarities to the wording found in the IAC, I have provided it there.</note>
+  <note xml:lang="en" target="#kuttam">The IA parallel simply mentions the existence of a meeting in which the hero's friend plays some sort of role, but there is no elaboration on the figure. The first instance of any expansion of teh situation come in Nakkīraṉār's commentary. As before, I am quite certain that it was the source for this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, but as the commentary shows closer similarities to the wording found in the IAC, I have provided it there.</note>
+  <note xml:lang="en" target="#kuttam">AV136 gives a list of situations that one could try and map onto that provided here, but the similarities are not great. Where one finds strong similarities are in AV137, the exposition on the situations listed in 136. These are parallels to the TNVC and both seem to follow the IAC closely in both content and phrasing.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV16" source="alignments/TNV16.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -3450,7 +3451,11 @@ sending [her] off to the old ones (i.e. her family) - these are the union [by me
   <note xml:lang="ta" target="#arran"><term xml:lang="en">Cf. IAC3, p. 55:</term> āṟṟāmai eṉpatu piṟitu evvuṇarvum iṉṟi avvaṟṟāmai tāṉē āvatu. avvāṟṟāmai āṟṟuvatu oṉṟaṉaip paṟṟum. āṟṟuvatu piṟitu iṉmaiyiṉ orucoṟ collum.</note>
   </standOff>
 <standOff type="notes2" corresp="#TNV16comm2">
-  <note xml:lang="ta" target="#vituattal"><term xml:lang="en">Cf. AV137.15-16:</term> talaiviyaip | pāṅkiyoṭu varukeṉap pakartal</note>
+  <note xml:lang="ta" target="#vinatal"><term xml:lang="en">Cf. AV137.1-2:</term>... pāṅkaṉ | ṟalaivaṉai yuṟṟatu viṉātalum</note>
+  <note xml:lang="ta" target="#innatu"><term xml:lang="en">Cf. AV137.2-3:</term>... talaivaṉ | uṟṟa tuṟaittalum</note>
+  <note xml:lang="ta" target="#kalaral"><term xml:lang="en">Cf. AV137.3-4:</term>... pāṅkaṉ | kaḻaṟalum</note>
+  <note xml:lang="ta" target="#maruttalum"><term xml:lang="en">Cf. AV137.4-5:</term>... kiḻavōṉ kaḻaṟetir maṟuttalum |</note>
+  <note xml:lang="ta" target="#vituttal"><term xml:lang="en">Cf. AV137.15-16:</term> talaiviyaip | pāṅkiyoṭu varukeṉap pakartal</note>
 
   </standOff>
 <standOff type="notes4" corresp="#TNV16comm2">
