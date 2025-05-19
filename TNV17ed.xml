@@ -290,8 +290,8 @@ on account of the <term xml:lang="ta-Latn"><hi rend="italic">tōḻi</hi></term>
 </div>
 <div type="citation" rend="parallel">
         <lg xml:id="TNV17poem2">
-<l><note place="foot" xml:lang="en">Cf. PK 75 (73 in some editions).</note>puṉaiyiḻai yāyamoṭu pūmpan teṟiyavu</l>
-<l>naṉaimalar ñāḻa loḷvī koyyavum</l>
+<l><note place="foot" xml:lang="en">Cf. PK 75 (73 in some editions).</note>puṉaiyiḻai yāyamoṭu pūmpan teṟiyavu<anchor xml:id="eriyavum"/></l>
+<l>naṉaimalar ñāḻa loḷvī koyyavum<anchor xml:id="koyyavum"/></l>
 <l>varuntiṉaḷ kollō maṭantai</l>
 <l>parantaṉṟu mātō paṇpukeḻu niṟaṉē</l></lg>
 </div>
@@ -9892,7 +9892,12 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.<anchor xml:id="vi
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">tōḻiyiv vēntiḻai</lem>
     <rdg wit="#KKms #KKedac #AVed">tōḻi yēntiḻai</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV17poem2" source="alignments/TNV17poem2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV17poem2">
+  <note xml:lang="ta" target="#eriyavum"><term xml:lang="en">Cf. AN153.2-4:</term>...ayamoṭu keḻīip | pantuvaḻip paṭākavu ḷāyiṉu nontunaṉi | vempuma ṉaḷiyaḷ</note>
+  <note xml:lang="ta" target="#koyyavum"><term xml:lang="en">Cf. AN216.8:</term> kaṭaloṭu makaḷir koyta ñālaluṅ |</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV17poem2" source="alignments/TNV17poem2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>

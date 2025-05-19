@@ -5779,8 +5779,10 @@
     <rdg wit="#TNVmsac">talaimakaṉeñcoṭu<gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV18poem1"><note xml:lang="ta" target="#nence"><term xml:lang="en">Cf. PK145 (IAC18, p.106):</term> perumā maṇimuṭi maṉṉaraip pūlantaip pūvaḻitta | kurumā maṇivaṇṇaṉ kōṉeṭu māṟaṉ kumarimunnīr | arumā maṇitikaḻ kāṉalaliṉ vāyvan takaṉṟakoṇkaṉ | tirumā maṇineṭun tēroṭuñ ceṉṟateṉ cintaṉaiyē||</note></standOff>
-<standOff type="apparatus" corresp="#TNV18poem1" source="alignments/TNV18poem1.xml"><interp type="normalization">
+<standOff type="notes1" corresp="#TNV18poem1"><note xml:lang="ta" target="#nence"><term xml:lang="en">Cf. PK145 (IAC18, p.106):</term> perumā maṇimuṭi maṉṉaraip pūlantaip pūvaḻitta | kurumā maṇivaṇṇaṉ kōṉeṭu māṟaṉ kumarimunnīr | arumā maṇitikaḻ kāṉalaliṉ vāyvan takaṉṟakoṇkaṉ | tirumā maṇineṭun tēroṭuñ ceṉṟateṉ cintaṉaiyē||</note>
+<note xml:lang="ta" target="#nence"><term xml:lang="en">Cf. AN80.8-10:</term>...oṇpaṇ malarak kavaṭṭilai yaṭumpiṉ | ceṅkeḻu meṉkoṭi yāḻi yaṟuppa | viṉamaṇip paravi neṭuntēr kaṭaii |</note>
+</standOff>
+  <standOff type="apparatus" corresp="#TNV18poem1" source="alignments/TNV18poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>

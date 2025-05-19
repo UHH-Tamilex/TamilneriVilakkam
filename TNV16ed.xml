@@ -301,7 +301,7 @@ sending [her] off to the old ones (i.e. her family) - these are 'the union [by m
 <div type="citation" rend="parallel">
         <lg xml:id="TNV16poem10">
 <l>āytaḷir potuḷiya vītatai taṇciṉaik</l>
-<l>kāykatir nuḻaiyāk kaṭipoḻil</l>
+<l>kāykatir nuḻaiyāk kaṭipoḻil<anchor xml:id="katipolil"/></l>
 <l>yāvayi ṉōrum viḻaivuṟun takaittē<anchor xml:id="takaitte"/></l>    
 </lg>
 </div>
@@ -4112,6 +4112,7 @@ sending [her] off to the old ones (i.e. her family) - these are 'the union [by m
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV16poem10">
+  <note xml:lang="ta" target="#katipolil"><term xml:lang="en">Cf. PN21.5:</term> katirnuḻai kallā marampayil kaṭimiḷai |</note>
   <note xml:lang="ta" target="#takaitte"><term xml:lang="en">Cf. IAC3, p.55:</term> iravō raṉṉa koḻuniḻal tāay | nilavō raṉṉa veṇmaṇa loḻuki | vaṇṭun tēṉum varikkaṭaip piracamuṅ | koṇṭu puṇarnaram peṉṟu muraṉṟu | viḻaivu viṭutta viḻumi yōraiyum | viḻaivu tōṟṟu nikkum paṇpiṟṟu ||</note>
   </standOff>
 <standOff type="apparatus" corresp="#TNV16poem10" source="alignments/TNV16poem10.xml"><interp type="normalization">
