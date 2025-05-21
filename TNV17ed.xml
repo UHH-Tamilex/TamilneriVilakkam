@@ -9891,11 +9891,12 @@ talaimakaḷum uṭaṉ āya vaḻit talaimakaṉ viṉāyatu.<anchor xml:id="vi
   <app loc="88,103">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">tōḻiyiv vēntiḻai</lem>
     <rdg wit="#KKms #KKedac #AVed">tōḻi yēntiḻai</rdg>
-  </app>
+  </app> 
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV17poem2">
   <note xml:lang="ta" target="#eriyavum"><term xml:lang="en">Cf. AN153.2-4:</term>...ayamoṭu keḻīip | pantuvaḻip paṭākavu ḷāyiṉu nontunaṉi | vempuma ṉaḷiyaḷ</note>
-  <note xml:lang="ta" target="#koyyavum"><term xml:lang="en">Cf. AN216.8:</term> kaṭaloṭu makaḷir koyta ñālaluṅ |</note>
+  <note xml:lang="ta" target="#koyyavum"><term xml:lang="en">Cf. AN216.8:</term> kaṭaloṭu makaḷir koyta ñālaluṅ</note>
+
 </standOff>
 <standOff type="apparatus" corresp="#TNV17poem2" source="alignments/TNV17poem2.xml"><interp type="normalization">
   <desc type="tagfilters">
