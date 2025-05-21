@@ -165,8 +165,9 @@
 <l>mātaraik kāṇṭalu maṉṉiya vakuttaluṅ</l>
 <l>kiḻavōṟ kicaittalu māṟṟāṉ kiḷattalum</l>
 <l>paḻavarai viṭuttalum pāṅkaṟ kūṭṭam<anchor xml:id="kuttam"/></l></lg>
-<p xml:lang="en">[The friend] questioning [the hero], [the hero] letting out [the secret]; [the hero's friend] reproaching [the hero], [the hero] refuting [that reproach],
-[the friend’s] suffering; [when asked by the friend], "Where?", [the hero] saying, "In such a place"; [the friend] seeing the woman, 
+<p xml:lang="en">
+  [The friend] questioning [the hero], [the hero] letting out [the secret]; [the hero's friend] reproaching [the hero], [the hero] refuting [that reproach],
+[the friend’s] suffering; [when asked by the friend], “Where?”, [the hero] saying, “In such a place”; [the friend] seeing the woman, 
 [the friend] classifying [her as] agreeable, [the friend] speaking to the hero, [the hero] making it clear that he cannot bear, and 
 sending [her] off to the old ones (i.e. her family) - these are 'the union [by means of] his friend'.
 </p>
@@ -1049,7 +1050,7 @@ sending [her] off to the old ones (i.e. her family) - these are 'the union [by m
 <form>paṉuvaliṉ</form>
 <def>composition</def>
 <gramGrp>
-  <gram type="role">comparative</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1172,8 +1173,6 @@ sending [her] off to the old ones (i.e. her family) - these are 'the union [by m
 <entry>
 <form>kāṉa</form>
 <def>forest</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>yāṉai</form>
@@ -1183,17 +1182,12 @@ sending [her] off to the old ones (i.e. her family) - these are 'the union [by m
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>aṇaṅki</form>
+<form><c type="glide">y</c>aṇaṅkiyāaṅk<c type="elided">u</c></form>
 <def>tormented</def>
+<form type="sandhi"><c type="glide">y</c>aṇaṅkiyāaṅk</form>
 <gramGrp>
+  <gram type="role">comparative</gram>
   <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>āaṅk<c type="elided">u</c></form>
-<def>there</def>
-<form type="sandhi"><c type="glide">y</c>āaṅk</form>
-<gramGrp>
 </gramGrp>
 </entry>
 <entry>
@@ -4178,8 +4172,8 @@ sending [her] off to the old ones (i.e. her family) - these are 'the union [by m
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV16poem12">
   <note xml:lang="ta" target="#arite"><term xml:lang="en">Cf. IAC3, p.55:</term> 'niṉṉai yāṉ ip poḻiluṟu teyvam eṉa aiyuṟuval, allai yāyiṉ vāytiṟavāy, āvi ceṉṟāl peyarppatu ariteṉrō'</note>
-  <note xml:lang="ta" target="#arite"><term xml:lang="en">Cf. PK44 (IAC3, p.56):</term> mēviyoṉ ṉāraiveṇ māttuveṉ ṟāṉkaṉṉi vīḻtuṟaivāyt | tēviyeṉ ṟāniṉṉai yāṉiṉaik kiṉṟatu cēyaripāy | kāviveṉ ṟāyakaṇ ṇāyallai yēloṉṟu kaṭṭuraiyāy | āviceṉ ṟāṟpeyarp pariṉi yāriv vakaliṭattē ||</note>
-  <note xml:lang="ta" target="#arite"><term xml:lang="en">Cf. PK45 (IAC3, p.56):</term> tiraiyuṟai vārpuṉaṟ cēvūrc cerumaṉṉar cīraḻitta | uraiyuṟai tīntamiḻ vēntaṉ ucitaṉāṇ pūmpotilyil | varaiyuṟai teyvameṉ ṟēṟkallai yēluṉṟaṉ vāytiṟavāy | viraiyuṟai kōtai uyircelliṉ yārpiṟar mīṭpavarē ||</note>
+  <note xml:lang="ta" target="#arite"><term xml:lang="en">Cf. PK45 (IAC3, p.56):</term> mēviyoṉ ṉāraiveṇ māttuveṉ ṟāṉkaṉṉi vīḻtuṟaivāyt | tēviyeṉ ṟāniṉṉai yāṉiṉaik kiṉṟatu cēyaripāy | kāviveṉ ṟāyakaṇ ṇāyallai yēloṉṟu kaṭṭuraiyāy | āviceṉ ṟāṟpeyarp pariṉi yāriv vakaliṭattē ||</note>
+  <note xml:lang="ta" target="#arite"><term xml:lang="en">Cf. PK46 (IAC3, p.56):</term> tiraiyuṟai vārpuṉaṟ cēvūrc cerumaṉṉar cīraḻitta | uraiyuṟai tīntamiḻ vēntaṉ ucitaṉāṇ pūmpotilyil | varaiyuṟai teyvameṉ ṟēṟkallai yēluṉṟaṉ vāytiṟavāy | viraiyuṟai kōtai uyircelliṉ yārpiṟar mīṭpavarē ||</note>
   </standOff>
 <standOff type="apparatus" corresp="#TNV16poem12" source="alignments/TNV16poem12.xml"><interp type="normalization">
   <desc type="tagfilters">
