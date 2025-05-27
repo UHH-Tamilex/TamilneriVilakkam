@@ -113,11 +113,11 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          </witness>          
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
           <witness xml:id="TKn" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          </witness>
+          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
           <witness xml:id="TKp" source="witnesses/TolNa.xml">
             <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
@@ -351,7 +351,7 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV18poem13">
-        <l>tērā ṉallaṉ pēruṇar viṉṉē</l>
+        <l>tērā ṉallaṉ pēruṇar viṉaṉē</l>
         <l>yikantō ṉalla ṉaṉpuperi tuṭaiya</l>
         <l>ṉiṉaiyō ṉiṉaiya ṉākutaṉ</l>
         <l>maṉaṉiṟai kuṉṟa vāṟṟā māṟē</l>
@@ -2288,7 +2288,7 @@
 </entry>
 <entry>
 <form>niṉ</form>
-<def>your</def>
+<def>you</def>
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">oblique</gram>
@@ -2297,9 +2297,10 @@
 </entry>
 <entry>
 <form>vāy</form>
-<def>mouth</def>
+<def>area</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">postposition</gram>
+  <gram type="role">locative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2328,8 +2329,6 @@
 <form>yār-ō</form>
 <def>who</def>
 <form type="simple">yār</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
@@ -2814,7 +2813,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV18poem11" type="wordsplit">
-<interp type="alignment" select="0">50MG17MG6M2G15MG7MG2ML5M2GM,112M</interp>
+<interp type="alignment" select="0">50MG17MG6M2G16MG7MG2ML5M2GM,113M</interp>
 <entry>
 <form>vari</form>
 <def>line</def>
@@ -2841,8 +2840,6 @@
 <entry>
 <form><c type="glide">y</c>oru</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>taṉi</form>
@@ -2930,7 +2927,7 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>iruḷ</form>
+<form><c type="glide">y</c>iruḷ</form>
 <def>darkness</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -2955,7 +2952,7 @@
 </entry>
 <entry>
 <form>eytum-āl</form>
-<def>reaching</def>
+<def>be suitable</def>
 <form type="simple">eytum</form>
 <gramGrp>
   <gram type="role">habitual future</gram>
@@ -3165,7 +3162,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV18poem13" type="wordsplit">
-<interp type="alignment" select="0">18MG26MG14ML18ML17M2GM,100M</interp>
+<interp type="alignment" select="0">45MG14ML18ML17M2GM,100M</interp>
 <entry>
 <form>tērāṉ</form>
 <def>not understand</def>
@@ -3191,17 +3188,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uṇarv<c type="elided">u</c></form>
+<form>uṇarviṉaṉē</form>
 <def>understanding</def>
-<form type="sandhi">uṇarv</form>
 <gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>iṉṉē</form>
-<def>now</def>
-<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -3294,21 +3285,20 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>āṟṟām</form>
+<form><c type="glide">v</c>āṟṟā</form>
 <def>not able</def>
 <gramGrp>
-  <gram type="role">plural</gram>
-  <gram type="role">first person</gram>
   <gram type="role">negative</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>āṟ<c type="elided">u</c>-ē</form>
-<def>way</def>
-<form type="simple">āṟu</form>
-<form type="sandhi">āṟ</form>
+<form>māṟ<c type="elided">u</c>-ē</form>
+<def>because</def>
+<form type="simple">māṟu</form>
+<form type="sandhi">māṟ</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -3577,7 +3567,7 @@
 <def>drum</def>
 <form type="sandhi">muḻaviṟ</form>
 <gramGrp>
-  <gram type="role">oblique</gram>
+  <gram type="role">comparative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -3651,7 +3641,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>arukiṉaṉ</form>
-<def>approached</def>
+<def>indicate intention</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">perfective aspect</gram>
@@ -4161,7 +4151,7 @@
 </entry>
 <entry>
 <form>peyarntaṉa</form>
-<def>return</def>
+<def>departed</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">plural</gram>
@@ -4900,8 +4890,6 @@
 <entry>
 <form><c type="glide">y</c>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pāl</form>
@@ -4935,14 +4923,14 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>aṇai</form>
-<def>bed</def>
+<def>join</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root as peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>tiṟam</form>
-<def>issue</def>
+<def>manner</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -4961,8 +4949,6 @@
 <def>anything</def>
 <form type="simple">yāvatu</form>
 <form type="sandhi">yāvat</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -6100,7 +6086,7 @@
   </desc>
 </interp></standOff>
 <standOff type="notes1" corresp="#TNV18poem10">
-  <note xml:lang="ta" target="#katinte"><term xml:lang="en">Cf. PK152 (IAC18, p.108):</term> tiraiyār karuti puaṉalmūḻkac cennilat taṉṟuveṉṟa | uraiyār perumpukaḻc ceṅkōl ucitaṉoṇ pūmpotiyil | varaiyār ti+naippuṉaṅ kālkoyya naṉṉāḷ varaintu niṉṟa | viraiyār malariḷa vēṅkāy niṉakku viṭaiyillaiyē||</note></standOff> 
+  <note xml:lang="ta" target="#katinte"><term xml:lang="en">Cf. PK153 (IAC18, p.108):</term> tiraiyār karuti puaṉalmūḻkac cennilat taṉṟuveṉṟa | uraiyār perumpukaḻc ceṅkōl ucitaṉoṇ pūmpotiyil | varaiyār ti+naippuṉaṅ kālkoyya naṉṉāḷ varaintu niṉṟa | viraiyār malariḷa vēṅkāy niṉakku viṭaiyillaiyē||</note></standOff> 
 <standOff type="apparatus" corresp="#TNV18poem10" source="alignments/TNV18poem10.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
