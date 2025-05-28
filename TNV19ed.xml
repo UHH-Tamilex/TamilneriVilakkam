@@ -192,7 +192,7 @@
 <l>ṭuriyaṉa kiḷanta piṟavun tokaii</l>
 <l>varaivu kaṭāta lāku meṉmaṉār.</l></lg>
 <p xml:lang="en">[The heroine] thinking of the path by which [the hero comes] comes and saying , "Do
-          not come!"; the desolate speech [of the heroine] on account of her imprisonment; [the
+          not come!"; the desolate speech [of the confidante] on account of [the heroine's] imprisonment; [the
           heroine] saying, "[You] ought to come."; [the heroine] saying, "Do not come!"; [the
           confidante] speaking fabrications; [the confidant] speaking of the excellence of [the
           hero's] family; [the confidante] saying, "Now, I know [the heroine]" - they say that
@@ -249,7 +249,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV19koḷu3">eṉpatu kāppiṉ iraṅkik kaiyaṟu kiḷavi.</p>
-<p xml:lang="en">[The heroine's] speech about [her] overwhelming sadnes, weeping because [she is under] guard.</p>
+<p xml:lang="en">[The confidante's] speech about [the heroine's] overwhelming sadnes, weeping because [she is under] guard.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV19poem4"> 
@@ -1314,8 +1314,6 @@
 <entry>
 <form>yāyē</form>
 <def>mother</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>tuyil</form>
@@ -1337,11 +1335,10 @@
 </entry>
 <entry>
 <form>yāyiṉ-um</form>
-<def>even if</def>
+<def>mother</def>
 <form type="simple">yāyiṉ</form>
 <gramGrp>
-  <gram type="role">concessive</gram>
-  <gram type="role">conditional</gram>
+  <gram type="role">comparative</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -1366,8 +1363,6 @@
 <entry>
 <form>naṉi</form>
 <def>very</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>tuñcala-<c type="glide">v</c>ē</form>
@@ -1398,7 +1393,7 @@
 <def>that</def>
 <form type="simple">ataṉiṉ</form>
 <gramGrp>
-  <gram type="role">oblique</gram>
+  <gram type="role">comparative</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -1451,8 +1446,6 @@
 <form>yāvat<c type="elided">u</c></form>
 <def>what</def>
 <form type="sandhi">yāvat</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ām-kol</form>
@@ -1711,7 +1704,7 @@
 </entry>
 <entry>
 <form>cevviyoṭu</form>
-<def>redness</def>
+<def>beauty</def>
 <gramGrp>
   <gram type="role">sociative</gram>
 </gramGrp>
@@ -1733,8 +1726,6 @@
 <entry>
 <form>i<c type="geminated">v</c></form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vaḻi</form>
@@ -1793,8 +1784,6 @@
 <form>ataṉiṉ-um</form>
 <def>that</def>
 <form type="simple">ataṉiṉ</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
