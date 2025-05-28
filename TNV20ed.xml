@@ -792,14 +792,10 @@
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>veḷ</form>
@@ -892,7 +888,7 @@
 </entry>
 <entry>
 <form><c type="geminated">ṉ</c>aruḷ-ē</form>
-<def>consideration</def>
+<def>grace</def>
 <form type="simple">aruḷ</form>
 <form type="sandhi"><c type="geminated">ṉ</c>aruḷ</form>
 <gramGrp>
@@ -1485,7 +1481,7 @@
 <interp type="alignment" select="0">27M2G38MGM,69M</interp>
 <entry>
 <form>tīya</form>
-<def>bad</def>
+<def>fire</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -1518,8 +1514,6 @@
 <def>anything</def>
 <form type="simple">yāvatu</form>
 <form type="sandhi">yāvat</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -1555,10 +1549,11 @@
 </entry>
 <entry>
 <form>cilampa</form>
-<def>slope(pron.n.m.sg.voc.)</def>
+<def>slope</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
+  <gram type="role">vocative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1860,19 +1855,12 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṉai</form>
+<form>maṉaiyāṉ-ē</form>
 <def>house</def>
+<form type="simple">maṉaiyāṉ</form>
 <gramGrp>
+  <gram type="role">locative</gram>
   <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>yāṉ-ē</form>
-<def>I</def>
-<form type="simple">yāṉ</form>
-<gramGrp>
-  <gram type="role">singular</gram>
-  <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -1929,19 +1917,17 @@
 </entry>
 <entry>
 <form>purintaṉaṉ</form>
-<def>undertaken</def>
+<def>desire</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">singular</gram>
-  <gram type="role">first person</gram>
+  <gram type="role">masculine</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>iṉi-<c type="glide">y</c>ē</form>
 <def>now</def>
 <form type="simple">iṉi</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV20koḷu7" type="wordsplit">
