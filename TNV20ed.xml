@@ -2202,8 +2202,6 @@
 <entry>
 <form>naṉi</form>
 <def>very</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nīṭ<c type="elided">u</c></form>
@@ -2215,7 +2213,7 @@
 </entry>
 <entry>
 <form>uḻantaṉṟu-maṉṉē</form>
-<def>bore</def>
+<def>endured</def>
 <form type="simple">uḻantaṉṟu</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
@@ -2228,13 +2226,11 @@
 <def>now</def>
 <form type="simple">iṉi</form>
 <form type="sandhi"><c type="glide">y</c>iṉi</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>vāl</form>
-<def>purity</def>
+<def>white</def>
 <form type="sandhi">vāṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -2279,7 +2275,7 @@
 </entry>
 <entry>
 <form>ciṟai<c type="geminated">t</c></form>
-<def>wing</def>
+<def>bank</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
