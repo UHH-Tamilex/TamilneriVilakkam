@@ -215,7 +215,7 @@
             <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
                 Vēḷātattaṉ </persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan>
           </witness>
-        </listWit>
+        <witness xml:id="IA" source="IAprint.xml"><abbr type="siglum">IA</abbr><expan>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ)</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -314,7 +314,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV22koḷu5">eṉpatu cevili veṟi kālkoḷḷat talaimakaḷ iraṅkiyatu.<anchor xml:id="irakiyatu"/></p>
-    <p xml:lang="en">When the foster mother initaites the <term xml:lang="ta-Latn">veṟi</term> dance, the heroine weeps.</p>
+    <p xml:lang="en">When the foster mother initaites the <term xml:lang="ta-Latn"><hi rend="italic">veṟi</hi></term> dance, the heroine weeps.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem6"> 
@@ -341,7 +341,7 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV22poem8"> 
-        <l>aṉṉaik kimmaṟai yuṇartti nilamicai</l>
+        <l>aṉṉaik kimmuṟai yuṇartti nilamicai</l>
         <l>maṉṉiya vāḻkkaiya mātali ṉuṇarttā</l>
         <l>tiṉṉuyi riṉṉē viṭukēṉ</l>
         <l>poṉṉēr mēṉi miṉṉiḻai yāṉē</l>
@@ -1287,8 +1287,6 @@
 <form>mēl</form>
 <def>before</def>
 <form type="sandhi">mēṉ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nāḷ</form>
@@ -1308,7 +1306,7 @@
 </entry>
 <entry>
 <form>āḻ</form>
-<def>sink</def>
+<def>be deep</def>
 <gramGrp>
   <gram type="role">verbal root as adjective</gram>
 </gramGrp>
@@ -2371,12 +2369,10 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>tiṟaṉ</form>
-<def>reason</def>
+<def>way</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2415,8 +2411,6 @@
 <def>what</def>
 <form type="simple">evaṉ</form>
 <form type="sandhi"><c type="geminated">ṉ</c>evaṉ</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
@@ -2470,10 +2464,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaiyikantaṉṟ<c type="elided">u</c>-ē</form>
+<form>kai</form>
+<def>hand</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ikantaṉṟ<c type="elided">u</c>-ē</form>
 <def>goes beyond</def>
-<form type="simple">kaiyikantaṉṟu</form>
-<form type="sandhi">kaiyikantaṉṟ</form>
+<form type="simple">ikantaṉṟu</form>
+<form type="sandhi"><c type="glide">y</c>ikantaṉṟ</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">perfective aspect</gram>
@@ -2756,20 +2757,19 @@
 <entry>
 <form>i<c type="geminated">m</c></form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
-<form>maṟai</form>
-<def>secret</def>
+<form>muṟai</form>
+<def>issue</def>
 <gramGrp>
-  <gram type="role">root noun</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>uṇartti</form>
-<def>tell(sub.2.sg.)</def>
+<def>tell</def>
 <gramGrp>
+  <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -2826,8 +2826,6 @@
 <entry>
 <form>i<c type="geminated">ṉ</c></form>
 <def>this-</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="geminated">ṉ</c>uyir</form>
@@ -2839,8 +2837,6 @@
 <entry>
 <form>iṉṉē</form>
 <def>now</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>viṭukēṉ</form>
@@ -3800,6 +3796,7 @@
 <form>muyaṅkiṉaṉ</form>
 <def>embraced</def>
 <gramGrp>
+  <gram type="role">muṟṟeccam</gram>
   <gram type="role">singular</gram>
   <gram type="role">masculine</gram>
   <gram type="role">perfective aspect</gram>
@@ -3878,19 +3875,11 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV22poem14" type="wordsplit">
-<interp type="alignment" select="0">6MG10MG7MG10MG24MG14MG10MGM,89M</interp>
+<interp type="alignment" select="0">16MG17MG24MG24MGM,86M</interp>
 <entry>
-<form>mutukk’</form>
-<def>maturity</def>
-<form type="sandhi">mutukk</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>uṟaintaṉaḷ-ē</form>
-<def>reside</def>
-<form type="simple">uṟaintaṉaḷ</form>
+<form>mutukkuṟaintaṉaḷ-ē</form>
+<def>be ripe in wisdom</def>
+<form type="simple">mutukkuṟaintaṉaḷ</form>
 <gramGrp>
   <gram type="role">feminine singular</gram>
   <gram type="role">perfective aspect</gram>
@@ -3898,17 +3887,9 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>mutukk’</form>
-<def>maturity</def>
-<form type="sandhi">mutukk</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>uṟaintaṉaḷ-ē</form>
-<def>reside</def>
-<form type="simple">uṟaintaṉaḷ</form>
+<form>mutukkuṟaintaṉaḷ-ē</form>
+<def>be ripe in wisdom</def>
+<form type="simple">mutukkuṟaintaṉaḷ</form>
 <gramGrp>
   <gram type="role">feminine singular</gram>
   <gram type="role">perfective aspect</gram>
@@ -3965,17 +3946,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mutukk’</form>
-<def>maturity</def>
-<form type="sandhi">mutukk</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>uṟaintaṉaḷ-ē</form>
-<def>reside</def>
-<form type="simple">uṟaintaṉaḷ</form>
+<form>mutukkuṟaintaṉaḷ-ē</form>
+<def>be ripe in wisdom</def>
+<form type="simple">mutukkuṟaintaṉaḷ</form>
 <gramGrp>
   <gram type="role">feminine singular</gram>
   <gram type="role">perfective aspect</gram>
@@ -4699,7 +4672,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV22poem19" type="wordsplit">
-<interp type="alignment" select="0">18M2G45MG9ML3MG9MG2ML6M2G5M2GM,109M</interp>
+<interp type="alignment" select="0">18M2G24MG2MR19MG9ML3MG9MG2ML6M2G5M2GM,111M</interp>
 <entry>
 <form>vāṉ</form>
 <def>sky</def>
@@ -4742,8 +4715,6 @@
 <entry>
 <form>i<c type="geminated">v</c></form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vaḻi<c type="geminated">c</c></form>
@@ -4769,11 +4740,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>varavu</form>
+<form>vara-<c type="glide">v</c>um</form>
 <def>coming</def>
+<form type="simple">vara</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>nōkki</form>
@@ -4795,14 +4768,10 @@
 <form>allat<c type="elided">u</c></form>
 <def>besides</def>
 <form type="sandhi">allat</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>i<c type="geminated">v</c></form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>ulakam</form>
@@ -4815,14 +4784,10 @@
 <form>mūṉṟ<c type="elided">u</c></form>
 <def>three</def>
 <form type="sandhi">mūṉṟ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>uṭaṉ</form>
 <def>together</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>peṟiṉ-um</form>
@@ -5743,15 +5708,14 @@
   </desc>
 </interp><listApp>
   <app loc="6,14">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">kimmaṟai</lem>
-    <rdg wit="#TNVms #TNVcac">kimmuṟai</rdg>
-  </app>
-  <app loc="14,22">
-    <lem wit="#TNVc #TNV1937 #TNV1947">yuṇartti</lem>
-    <rdg wit="#TNVms">yuṇa<lb n="6"/>tti</rdg>
+    <lem wit="#TNVms #TNVcac">kimmuṟai</lem>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947">kimmaṟai</rdg>
   </app>
   <app loc="73,80">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">viṭukēṉ</lem>
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947">
+      <lem>viṭukēṉ</lem>
+      <rdg type="minor" wit="#TNVcpc">viṭukēṉ,</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">viṭukē<unclear>ṭu</unclear><sic>ṉi</sic></rdg>
     <rdgGrp select="#TNVmspc #TNVcac">
       <rdg type="main">viṭukēṉi</rdg>
@@ -5759,7 +5723,11 @@
     </rdgGrp>
   </app>
   <app loc="98,102">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">yāṉē</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVcpc #TNV1937 #TNV1947">
+      <lem>yāṉē</lem>
+      <rdg type="minor" wit="#TNVms">yā<lb n="7"/><unclear>ṉ</unclear>ē.</rdg>
+      <rdg type="minor" wit="#TNVcpc">yāṉē.</rdg>
+    </rdgGrp>
     <rdg wit="#TNVcac">yāḷē.</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV22poem9" source="alignments/TNV22poem9.xml"><interp type="normalization">

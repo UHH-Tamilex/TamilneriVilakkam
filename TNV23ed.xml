@@ -382,7 +382,7 @@
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem11" corresp="#Aink391"> 
     <l>maṟuvi ṟūvic ciṟukaruṅ kākkai</l>
-    <l>yaṉpuṭai marapi ṉaṉkiḷai vaḷarppap</l>
+    <l>yaṉpuṭai marapi ṉiṉkiḷai vaḷarppap</l>
     <l>paccūṉ peyta pacuntiṉaip puṉkam</l>
     <l>polampuṉai kalattiṟ ṟarukuvaṉ mātō</l>
     <l>veñciṉa viṟalvēṟ kāḷaiyo</l>
@@ -1132,8 +1132,6 @@
 <form><c type="geminated">ṉ</c>alat<c type="elided">u</c></form>
 <def>without</def>
 <form type="sandhi"><c type="geminated">ṉ</c>alat</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ilaḷ-ē</form>
@@ -1187,8 +1185,6 @@
 <form>alat<c type="elided">u</c></form>
 <def>without</def>
 <form type="sandhi">alat</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ilaḷ-ē</form>
@@ -1219,7 +1215,7 @@
 </entry>
 <entry>
 <form>iṭaiyēṉ-ē</form>
-<def>middle</def>
+<def>place</def>
 <form type="simple">iṭaiyēṉ</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
@@ -1440,6 +1436,7 @@
 <form>uvantaṉai</form>
 <def>rejoice</def>
 <gramGrp>
+  <gram type="role">muṟṟeccam</gram>
   <gram type="role">perfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
@@ -1470,8 +1467,6 @@
 <form>mēl</form>
 <def>before</def>
 <form type="sandhi">mēṉ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ṉāḷ</form>
@@ -1484,6 +1479,7 @@
 <form>ivarntaṉai</form>
 <def>climbed</def>
 <gramGrp>
+  <gram type="role">muṟṟeccam</gram>
   <gram type="role">perfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
@@ -1721,7 +1717,7 @@
 </entry>
 <entry>
 <form>otuṅka</form>
-<def>retreat</def>
+<def>be-hidden</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -2109,7 +2105,7 @@
 </entry>
 <entry>
 <form>cēntaṉaṉ</form>
-<def>get angry</def>
+<def>lay down</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">perfective aspect</gram>
@@ -2119,8 +2115,6 @@
 <form>koṅk<c type="elided">u</c></form>
 <def>pollen</def>
 <form type="sandhi">koṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ivar</form>
@@ -2140,8 +2134,6 @@
 <entry>
 <form>i<c type="geminated">v</c></form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vaḻi<c type="geminated">t</c></form>
@@ -2154,6 +2146,7 @@
 <form>taṅkiṉai</form>
 <def>stayed</def>
 <gramGrp>
+  <gram type="role">muṟṟeccam</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
   <gram type="role">perfective aspect</gram>
@@ -2198,7 +2191,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem7" type="wordsplit">
-<interp type="alignment" select="0">17MG5MG17MG3MG40ML2MG28MG6MG15MG2M,144M</interp>
+<interp type="alignment" select="0">17MG5MG17MG3MG40ML2MG6MG22MG6MG15MG2M,145M</interp>
 <entry>
 <form>neṭum</form>
 <def>tall</def>
@@ -2225,8 +2218,6 @@
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>āṅk<c type="elided">u</c></form>
@@ -2272,8 +2263,6 @@
 <form>iṉṟ<c type="elided">u</c></form>
 <def>without</def>
 <form type="sandhi">iṉṟ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>iṟantaṉaḷ</form>
@@ -2337,10 +2326,18 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>tēyvuṟu</form>
-<def>decline</def>
+<form>tēyv<c type="elided">u</c></form>
+<def>declining</def>
+<form type="sandhi">tēyv</form>
 <gramGrp>
-  <gram type="role">verbal root as adjective</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟu</form>
+<def>experience</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2989,19 +2986,20 @@
 <form>uṭai</form>
 <def>possess</def>
 <gramGrp>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>marapiṉaṉ</form>
-<def>chest</def>
+<form>marapiṉiṉ</form>
+<def>customs</def>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">masculine singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kiḷai</form>
-<def>relastions</def>
+<def>relations</def>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
@@ -3046,7 +3044,7 @@
 </entry>
 <entry>
 <form>tiṉai<c type="geminated">p</c></form>
-<def>millet</def>
+<def>grain</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3139,9 +3137,9 @@
 </entry>
 <entry>
 <form>cil</form>
-<def>few</def>
+<def>fine</def>
 <gramGrp>
-  <gram type="role">pronoun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -3160,7 +3158,7 @@
 </entry>
 <entry>
 <form>karaintīm-ē</form>
-<def>cry</def>
+<def>call</def>
 <form type="simple">karaintīm</form>
 <gramGrp>
   <gram type="role">imperative</gram>
@@ -3475,8 +3473,6 @@
 <entry>
 <form><c type="glide">v</c>i<c type="geminated">k</c></form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>kaḷiṟ<c type="elided">u</c>-ē</form>
@@ -3497,8 +3493,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>iṭu</form>
-<def>put</def>
+<form>viṭu</form>
+<def>left behind</def>
 <gramGrp>
   <gram type="role">verbal root as adjective</gram>
 </gramGrp>
@@ -3560,8 +3556,6 @@
 <def>this</def>
 <form type="simple">itu</form>
 <form type="sandhi"><c type="geminated">ṉ</c>itu</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23koḷu13" type="wordsplit">
@@ -7400,18 +7394,18 @@
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">muṉcela</lem>
     <rdg wit="#TNVmsac">muṉ<gap reason="illegible" unit="character" quantity="1"/>la</rdg>
   </app>
-  <app loc="79,85">
-    <lem wit="#TNVms #TNVc">piṉpiṉ</lem>
-    <rdg wit="#TNV1937 #TNV1947">piṉpiṉ</rdg>
-  </app>
   <app loc="105,113">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tāḻtaliṉ</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>tāḻtaliṉ</lem>
+      <rdg type="minor" wit="#TNVcac">tāḻ<lb n="26"/>taliṉ</rdg>
+      <rdg type="minor" wit="#TNVcpc">tāḻ<lb n="26"/>taliṉ,</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">tā<gap reason="illegible" unit="character" quantity="1"/>taliṉ</rdg>
   </app>
   <app loc="145,152">
-    <lem wit="#TNV1937 #TNV1947">paḻuvat</lem>
+    <lem wit="#TNVms">paruvat</lem>
     <rdg wit="#TNVc"><lb n="27"/>paḻuvan</rdg>
-    <rdg wit="#TNVms">paruvat</rdg>
+    <rdg wit="#TNV1937 #TNV1947">paḻuvat</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV23poem5" source="alignments/TNV23poem5.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7452,7 +7446,6 @@
 <standOff type="notes1" corresp="#TNV23poem6">
   <note xml:lang="ta" target="#yone"><term xml:lang="en">Cf. PK182.3-4 (IAC23, p.125):</term> malaimaṉṉum veyyōṉ maṟaintaṉaṉ mātumey vāṭinaintāḷ | cilaimaṉṉu tōḷaṇṇal cērntaṉai celleñ ciṟukuṭikkē ||</note>
   <note xml:lang="ta" target="#yone"><term xml:lang="en">Cf. PK183.2-4 (IAC23, p.125):</term>...mikamelintāḷ | kuṉṟār cuṭarōṉ maṟaintaṉaṉ kūrvēl viṭalaitaṅkic | ceṉṟāl aḻivatuṇ ṭōvaṇit toleñ ciṟukuṭiyē ||</note>
-  <note xml:lang="ta" target="#yone"><term xml:lang="en">Cf. Aiṅk. Iṇaippu 5 (IAC23, p.125):</term> emmūr alla tūrnaṇit tillai | vemmuraṭ celvaṉ katirum ūḻttaṉaṉ | cērntaṉai ceṉmō pūntār mārpa | iḷaiyaḷ melliyaḷ maṭantai | ariya cēy peruṇkal āṟē ||</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV23poem6" source="alignments/TNV23poem6.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7625,38 +7618,52 @@
   </desc>
 </interp><listApp>
   <app loc="26,34">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #Aink391">yaṉpuṭai</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947 #Aink391">
+      <lem>yaṉpuṭai</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">aṉpuṭai</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">yaṉpuṭaiyu<gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
   <app loc="40,48">
-    <lem wit="#TNVms #TNVcac">ṉaṉkiḷai</lem>
-    <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #Aink391">
-      <rdg type="main">ṉiṉkiḷai</rdg>
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947 #Aink391">
+      <lem>ṉiṉkiḷai</lem>
       <rdg type="minor" wit="#Aink391">ṉiṉ kiḷai</rdg>
     </rdgGrp>
+    <rdg wit="#TNVms #TNVcac">ṉaṉkiḷai</rdg>
   </app>
   <app loc="48,57">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">vaḷarppap</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
+      <lem>vaḷarppap</lem>
+      <rdg type="minor" wit="#TNVc">vaḷarppap,</rdg>
+    </rdgGrp>
     <rdg wit="#Aink391">yō ṭārap</rdg>
   </app>
   <app loc="68,79">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">pacuntiṉaip</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
+      <lem>pacuntiṉaip</lem>
+      <rdg type="minor" wit="#TNVc">pacuntiṉaip,</rdg>
+    </rdgGrp>
     <rdg wit="#Aink391">painniṇa</rdg>
   </app>
   <app loc="79,85">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">puṉkam</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
+      <lem>puṉkam</lem>
+      <rdg type="minor" wit="#TNVcpc">puṉkam,</rdg>
+    </rdgGrp>
     <rdg wit="#Aink391">valci</rdg>
   </app>
   <app loc="85,95">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #Aink391">polampuṉai</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947 #Aink391">
+      <lem>polampuṉai</lem>
+      <rdg type="minor" wit="#TNVcac">pōlampuṉai</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">polam<unclear>upu</unclear>ṉai</rdg>
   </app>
   <app loc="103,112">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">ṟarukuvaṉ</lem>
     <rdg wit="#Aink391">ṟarukuveṉ</rdg>
   </app>
-</listApp>
-</standOff><standOff corresp="#TNV23poem12" type="notes2"><note xml:lang="en" target="#vana">I cannot make sense of the variants and they are not reported in the apparatus in <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">Wilden 2010</ref>, which leads me to think this is corrupt. The <hi rend="italic">eḻuttu</hi> <term xml:lang="ta"><hi rend="italic">'vu'</hi></term> looks similar to <term xml:lang="ta"><hi rend="italic">'ā'</hi></term> and <term xml:lang="ta"><hi rend="italic">'ḷa'</hi></term> closely resembles <term xml:lang="ta"><hi rend="italic">'ṉa'</hi></term>. This seems like a simple copying error.</note></standOff>
+</listApp></standOff><standOff corresp="#TNV23poem12" type="notes2"><note xml:lang="en" target="#vana">I cannot make sense of the variants and they are not reported in the apparatus in <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">Wilden 2010</ref>, which leads me to think this is corrupt. The <hi rend="italic">eḻuttu</hi> <term xml:lang="ta"><hi rend="italic">'vu'</hi></term> looks similar to <term xml:lang="ta"><hi rend="italic">'ā'</hi></term> and <term xml:lang="ta"><hi rend="italic">'ḷa'</hi></term> closely resembles <term xml:lang="ta"><hi rend="italic">'ṉa'</hi></term>. This seems like a simple copying error.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem12" source="alignments/TNV23poem12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
