@@ -214,7 +214,7 @@
               <abbr type="siglum">Aink399</abbr>
               <expan>Aink399</expan>
           </witness>
-          <witness xml:id="Aink382" source="Aink372.xml"><abbr type="siglum">Aink382</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness></listWit>
+          <witness xml:id="Aink382" source="Aink372.xml"><abbr type="siglum">Aink382</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness><witness xml:id="IA" source="IAprint.xml"><abbr type="siglum">IA</abbr><expan>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ)</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -433,7 +433,7 @@
         <l>eḻutaru matiyaṅ kaṭaṟkaṇ ṭāaṅ</l>
         <l>koḻukuveḷ ḷaruvi yōṅkumalai nāṭaṉ</l>
         <l>ñāyiṟ ṟaṉaiyaṉ ṟōḻi</l>
-        <l>neruñci yaṉaiyaveṉ perumpaṇait tōḷē</l>
+        <l>neriñci yaṉaiyaveṉ perumpaṇait tōḷē</l>
       <trailer><note>kuṟun. 315</note></trailer>
     </lg>
 </div>
@@ -1609,7 +1609,7 @@
 </entry>
 <entry>
 <form>vāṉam</form>
-<def>sky</def>
+<def>cloud</def>
 <form type="sandhi">vāṉan</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1700,8 +1700,6 @@
 <entry>
 <form>a<c type="geminated">v</c></form>
 <def>that</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>viṉaikk<c type="elided">u</c></form>
@@ -1746,7 +1744,7 @@
 </entry>
 <entry>
 <form>naṭai-<c type="glide">y</c>ē</form>
-<def>conduct</def>
+<def>course</def>
 <form type="simple">naṭai</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -2423,7 +2421,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV24poem7" type="wordsplit">
-<interp type="alignment" select="0">26MG3MG40MG41M2GM,116M</interp>
+<interp type="alignment" select="0">29MG40MG41M2GM,115M</interp>
 <entry>
 <form>aṟiyēṉ</form>
 <def>not know</def>
@@ -2456,19 +2454,12 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kuṟitt<c type="elided">u</c></form>
+<form>kuṟittatu-<c type="glide">v</c>ē</form>
 <def>intended</def>
-<form type="sandhi">kuṟitt</form>
+<form type="simple">kuṟittatu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>atu-<c type="glide">v</c>ē</form>
-<def>that</def>
-<form type="simple">atu</form>
-<gramGrp>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -2548,8 +2539,6 @@
 <entry>
 <form><c type="glide">y</c>oru</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>muṟai</form>
@@ -2561,8 +2550,6 @@
 <entry>
 <form><c type="glide">y</c>aṉṟi</form>
 <def>besides</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nōkkiṉar</form>
@@ -3247,11 +3234,11 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>aḻuṅkal-ō</form>
-<def>affliction</def>
+<def>suffering</def>
 <form type="simple">aḻuṅkal</form>
 <form type="sandhi"><c type="glide">y</c>aḻuṅkal</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
@@ -4280,7 +4267,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>neruñci</form>
+<form>neriñci</form>
 <def>Neruñci plant</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -4368,7 +4355,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV24poem17" type="wordsplit">
-<interp type="alignment" select="0">16MG9MG22MG2MR30MGM,85M</interp>
+<interp type="alignment" select="0">16MG31MG2MR30MGM,84M</interp>
 <entry>
 <form>arum</form>
 <def>difficult</def>
@@ -4395,18 +4382,11 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>pirint<c type="elided">u</c></form>
+<form>pirinteṉa</form>
 <def>separated</def>
-<form type="sandhi">pirint</form>
 <gramGrp>
+  <gram type="role">comparative</gram>
   <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>eṉa</form>
-<def>say</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -4583,7 +4563,7 @@
 </entry>
 <entry>
 <form>kaṭaii<c type="geminated">p</c></form>
-<def>urged</def>
+<def>ride</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -4627,8 +4607,6 @@
 <entry>
 <form>iṉṉē</form>
 <def>now</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>varuka</form>
@@ -4678,8 +4656,6 @@
 <entry>
 <form>tava<c type="geminated">p</c></form>
 <def>very</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>perit<c type="elided">u</c>-ē</form>
@@ -4755,14 +4731,10 @@
 <form>āṇṭ<c type="elided">u</c></form>
 <def>there</def>
 <form type="sandhi">āṇṭ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>avaṇ</form>
 <def>there</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>oḻintaṉṟ<c type="elided">u</c>-um</form>
@@ -4789,14 +4761,10 @@
 <form><c type="glide">y</c>īṇṭ<c type="elided">u</c></form>
 <def>here</def>
 <form type="sandhi"><c type="glide">y</c>īṇṭ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ivaṇ</form>
 <def>here</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>eḻu</form>
@@ -4808,8 +4776,6 @@
 <entry>
 <form><c type="glide">v</c>iṉi</form>
 <def>now</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vāḻiya</form>
@@ -4881,7 +4847,7 @@
 <form>ceyvatu</form>
 <def>make</def>
 <gramGrp>
-  <gram type="role">participial noun</gram>
+  <gram type="role">verbal noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
@@ -8869,27 +8835,23 @@
   </desc>
 </interp><listApp>
   <app loc="26,35">
-    <lem wit="#TNVms #TNVc #TNV1937 #KT315">koḻukuveḷ</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #KT315">
+      <lem>koḻukuveḷ</lem>
+      <rdg type="minor" wit="#TNVc">ko<lb n="35"/>ḻukuveḷ</rdg>
+    </rdgGrp>
     <rdg wit="#TNV1947">koḻuveḷ</rdg>
   </app>
-  <app loc="56,61">
-    <lem wit="#TNVms">ñāyiṟ</lem>
-    <rdg wit="#TNVc #TNV1937 #TNV1947 #KT315">ñāyi</rdg>
-  </app>
-  <app loc="61,69">
-    <lem wit="#TNVms">ṟaṉaiyaṉ</lem>
+  <app loc="56,69">
+    <lem wit="#TNVmspc">ñāyiṟ ṟaṉaiyaṉ</lem>
     <rdgGrp select="#TNVc #TNV1937 #TNV1947 #KT315">
-      <rdg type="main">ṟaṉaiya<pb n="24" facs="25" type="folio"/><lb n="1"/>ṉeṉ</rdg>
-      <rdg type="minor" wit="#TNV1937 #TNV1947 #KT315">ṟaṉaiyaṉeṉ</rdg>
+      <rdg type="main">ñāyi ṟaṉaiyaṉeṉ</rdg>
+      <rdg type="minor" wit="#TNVc">ñāyi ṟaṉaiya<pb n="25" facs="27" type="folio"/><lb n="1"/>ṉeṉ</rdg>
     </rdgGrp>
-  </app>
-  <app loc="69,73">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KT315">ṟōḻi</lem>
-    <rdg wit="#TNVmsac">ṟēṟōḻi</rdg>
+    <rdg wit="#TNVmsac">ñāyiṟ ṟaṉaiyaṉ ṟē</rdg>
   </app>
   <app loc="73,80">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KT315">neruñci</lem>
-    <rdg wit="#TNVms #TNVcac">neriñci</rdg>
+    <lem wit="#TNVms #TNVcac">neriñci</lem>
+    <rdg wit="#TNVcpc #TNV1937 #TNV1947 #KT315">neruñci</rdg>
   </app>
   <app loc="80,90">
     <lem wit="#TNV1937 #TNV1947 #KT315">yaṉaiyaveṉ</lem>
