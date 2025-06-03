@@ -275,8 +275,8 @@
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV25koḷu2">eṉpatu vāyiṉ maṟuttatu.</p>
-    <p xml:lang="en"></p>
+    <p xml:id="TNV25koḷu2">eṉpatu vāyiṉ maṟukkappaṭṭa pāṇaṉ kūṟiyatu.</p>
+    <p xml:lang="en">The bard, who had been refused at the door, speaks.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem3"> 
@@ -288,6 +288,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV25koḷu3">eṉpatu viṟali vāyiṉ maṟuttatu.</p>
+    <p xml:lang="en">The dancing-girl refuses [the bard] at the door.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem4">
@@ -299,6 +300,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV25koḷu4">eṉpatu tōḻikku vāyiṉ maṟuttatu.</p>
+    <p xml:lang="en">[The bard] refutes the confidante at the door.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem5"> 
@@ -309,6 +311,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV25koḷu5">eṉpatu vāyiṉ maṟuttamai tōḻi talaimakaṟkuc colliyatu.</p>
+    <p xml:lang="en">The confidante speaks to the hero about the [the bard's] refusal at the door.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem6"> 
@@ -319,6 +322,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV25koḷu6">eṉpatu vāyil peṟāta talaimakaṉ vāṭiyatu.</p>
+    <p xml:lang="en">The hero, who had not obtained [entry] at the door, grieves.</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem7"> 
@@ -330,6 +334,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV25koḷu7">eṉpatu talaimakaḷ āṟṟāmai kaṇṭūṭal uṇarttac cellun tōḻi colliyatu.</p>
+    <p xml:lang="en">After seeing the heroine unable to bear [the situation], the conifdante, who had gone to resolve [the lovers'] quarrel, speaks [to the hero].</p>
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem8"> 
@@ -340,6 +345,7 @@
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV25koḷu8">eṉpatu tōḻi...</p>
+    
 </div>
 </body>
 </text>
@@ -1436,8 +1442,6 @@
 <form>īṅk<c type="elided">u</c></form>
 <def>here</def>
 <form type="sandhi">īṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>eṉa<c type="geminated">k</c></form>
@@ -1521,7 +1525,7 @@
 </entry>
 <entry>
 <form>aṉṟ<c type="elided">u</c>-ē</form>
-<def>that day</def>
+<def>is not so</def>
 <form type="simple">aṉṟu</form>
 <form type="sandhi">aṉṟ</form>
 <gramGrp>

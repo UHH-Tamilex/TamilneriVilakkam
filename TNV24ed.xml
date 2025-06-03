@@ -582,7 +582,7 @@
         <l>kārē ceyta kāṉaṅ kaṉaipeyaṟ</l>
         <l>kōpa mūrnta koṅkucēr neṭuneṟi</l>
         <l>yuḷḷiṉu muḷḷa muvappap</l>
-        <l>puḷḷeḻa vantaṉṟu neṭuntakai tērē</l>
+        <l>puḷḷeḻa vantaṉṟu neṭuntakai tērē<anchor xml:id="ter"/></l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -591,10 +591,10 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV24poem29"> 
-        <l>illoṭu miṭainta kollai mullai</l>
+        <l>illoṭu miṭainta<anchor xml:id="lol"/> kollai mullai</l>
         <l>pallāṉ kōvalar paiyu ḷāmpaṉ</l>
         <l>mayaṅkiruṇ mālai kēṭṭoṟuṅ</l>
-        <l>kalaṅkuṅko laḷiyaṇaṅ kāta lōḷē<anchor xml:id="lol"/></l>
+        <l>kalaṅkuṅko laḷiyaṇaṅ kāta lōḷē</l>
     </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -6278,7 +6278,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV24poem26" type="wordsplit">
-<interp type="alignment" select="0">10MG35MG24MG12ML13M2G6MG9MG14M2G6MGM,113MG27M</interp>
+<interp type="alignment" select="0">10MG35MG24MG12ML13M2G6MG6MG17M2G6MGM,116MG24M</interp>
 <entry>
 <form>toṭi</form>
 <def>bangle</def>
@@ -6419,7 +6419,8 @@
 <form type="simple">pirintatu</form>
 <form type="sandhi">pirintat</form>
 <gramGrp>
-  <gram type="role">participial noun</gram>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">perfective aspect</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
@@ -6441,9 +6442,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kuṟai</form>
-<def>request</def>
-<form type="sandhi">kuṉṟa</form>
+<form>kuṉṟa</form>
+<def>hill</def>
+<form type="sandhi">kuṟai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -6605,7 +6606,8 @@
 <form>uṇarāḷ</form>
 <def>not understand</def>
 <gramGrp>
-  <gram type="role">participial noun</gram>
+  <gram type="role">muṟṟeccam</gram>
+  <gram type="role">perfective aspect</gram>
   <gram type="role">feminine singular</gram>
   <gram type="role">negative</gram>
 </gramGrp>
@@ -6686,7 +6688,7 @@
 <form><c type="glide">y</c>eyiṟṟiṉ</form>
 <def>teeth</def>
 <gramGrp>
-  <gram type="role">oblique</gram>
+  <gram type="role">comparative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -6998,7 +7000,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV24poem29" type="wordsplit">
-<interp type="alignment" select="0">56MG15MG10MG9ML9MGM,105M</interp>
+<interp type="alignment" select="0">56MG25MG9ML9MGM,104M</interp>
 <entry>
 <form>illoṭu</form>
 <def>house</def>
@@ -7088,14 +7090,20 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kēṭṭoṟ-um</form>
+<form>kēḷ</form>
 <def>hear</def>
-<form type="simple">kēṭṭoṟ</form>
+<form type="sandhi">kēṭ</form>
 <gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<form type="sandhi">ṭoṟuṅ</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kalaṅkum-kol</form>
@@ -9260,8 +9268,8 @@
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV24poem28">
-  <note xml:lang="ta" target="#lol"><term xml:lang="en">Cf. PK305.3-4 (IAC53, p.194):</term>... varuntal pirinta tuḷaṅkoḷiyār | aṭiyār kaḻalār aṇukavan tārtta takalvicumpē ||</note>
-  <note xml:lang="ta" target="#lol"><term xml:lang="en">Cf. PK307.3-4 (IAC53, p.195):</term> varuntal maṭantai varuvarnam kātalar vāṉatirak | kuruntam poruntiveṇ mullaikaḷ īṉṟaṉa kūreyiṟē ||</note>
+  <note xml:lang="ta" target="#ter"><term xml:lang="en">Cf. PK305.3-4 (IAC53, p.194):</term>... varuntal pirinta tuḷaṅkoḷiyār | aṭiyār kaḻalār aṇukavan tārtta takalvicumpē ||</note>
+  <note xml:lang="ta" target="#ter"><term xml:lang="en">Cf. PK307.3-4 (IAC53, p.195):</term> varuntal maṭantai varuvarnam kātalar vāṉatirak | kuruntam poruntiveṇ mullaikaḷ īṉṟaṉa kūreyiṟē ||</note>
   </standOff>
 <standOff type="apparatus" corresp="#TNV24poem28" source="alignments/TNV24poem28.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -9288,7 +9296,7 @@
     </rdgGrp>
   </app>
 </listApp></standOff>
-<standOff corresp="#TNV24poem29" type="notes2"><note xml:lang="en">I assume UVC was influenced by the phrase <term xml:lang="ta"><hi rend="italic">illamoṭu miṭainta</hi></term> in <ref target="https://uhh-tamilex.github.io/Narrinai/NA376.xml">NA376</ref> though he does not provide a footnote so it is difficult to know for sure. <term xml:lang="ta"><hi rend="italic">illoṭu</hi></term> sill makes sense, so I have retained the MS reading.</note></standOff>
+<standOff corresp="#TNV24poem29" type="notes4"><note xml:lang="en" target="#lol">I assume UVC was influenced by the phrase <term xml:lang="ta"><hi rend="italic">illamoṭu miṭainta</hi></term> in <ref target="https://uhh-tamilex.github.io/Narrinai/NA376.xml">NA376</ref> though he does not provide a footnote so it is difficult to know for sure. <term xml:lang="ta"><hi rend="italic">illoṭu</hi></term> sill makes sense, so I have retained the MS reading.</note></standOff>
 <standOff type="apparatus" corresp="#TNV24poem29" source="alignments/TNV24poem29.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -9513,4 +9521,161 @@
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">ṉakaiyē</lem>
     <rdg wit="#TNVcac">ṇakaiyē.</rdg>
   </app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff corresp="#TNV24poem32" type="wordsplit">
+<interp type="alignment" select="0">46ML27MG9M2GM,87M</interp>
+<entry>
+<form>kātalar</form>
+<def>lover</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varavu</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṭṭiṉai</form>
+<def>showed</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ākaliṉ</form>
+<def>because</def>
+<form type="sandhi"><c type="glide">y</c>ākaliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cūḻ</form>
+<def>surround</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>katir<c type="geminated">c</c></form>
+<def>ray</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>curi</form>
+<def>wind</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mukam</form>
+<def>face</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>matiyam</form>
+<def>moon</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻiya</form>
+<def>live</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talai</form>
+<def>area</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ulak<c type="elided">u</c></form>
+<def>world</def>
+<form type="sandhi"><c type="glide">y</c>ulak</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻai</form>
+<def>promximity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭit<c type="elided">u</c>-ē</form>
+<def>long</def>
+<form type="simple">neṭitu</form>
+<form type="sandhi">neṭit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TNV24poem33" type="wordsplit">
+<interp type="alignment" select="0">41MG31M,73M</interp>
+<entry>
+<form>puri</form>
+</entry>
+<entry>
+<form>kuḻaḻ</form>
+<form type="sandhi">kuḻaṉ</form>
+</entry>
+<entry>
+<form>maṭantai</form>
+</entry>
+<entry>
+<form>polivoṭum</form>
+</entry>
+<entry>
+<form>aṉpar</form>
+</entry>
+<entry>
+<form>varaviṉukk<c type="elided">u</c></form>
+<form type="sandhi">varaviṉukk</form>
+</entry>
+<entry>
+<form>etirnta</form>
+</entry>
+<entry>
+<form>nam</form>
+</entry>
+<entry>
+<form>maka</form>
+</entry>
+<entry>
+<form>viṉviḻa</form>
+</entry>
+<entry>
+<form>tuya</form>
+</entry>
+<entry>
+<form>payaṉē</form>
+</entry>
+</standOff></TEI>
