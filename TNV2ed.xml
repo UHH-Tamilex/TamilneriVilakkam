@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 2. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 2.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -111,38 +110,31 @@
             </listWit>
           </witness>
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
-            <abbr type="siglum">AVed</abbr>
-            <expan>AVprint</expan>
-          </witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+            <abbr type="siglum">AV</abbr>
+            <expan>Critical Edition and Study of Akapporuḷ Viḷakkam. Edited by T. Rajarethinam. 2006.</expan>
+          </witness>             
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
           </witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
         </listWit>
@@ -156,8 +148,10 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV2">
-      <l>mutalkaru vaṇainta vuripporu ḷakamē</l></lg>
-<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">akam</hi></term> is the suitable poetic content<note xml:lang="en" place="foot"><term xml:lang="ta"><hi rend="italic">uripporuḷ</hi></term> is a difficult term to translate. I have intentionally provided a literal and broad translation, in keeping with how I have translated <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term> in other places. In practice, it refers to the dominant emotional theme in each landscape. These are enumerated in <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term> 13.</note> related to the basic elements and the contituent elements.<note xml:lang="en" place="foot"><term xml:lang="ta"><hi rend="italic">aṇainta</hi></term> can be interpreted in a number of different ways here, both syntactically an semantically. I have chosen this translation as I believe it most closely mirrors the definition given in the TP, upon which I think this is based, where the phrase <q xml:lang="ta"><hi rend="italic">muṟai ciṟantaṉavē</hi></q> implies <term xml:lang="ta"><hi rend="italic">uripporuḷ</hi></term> has a greater level importance. Thus here I have centered it in my translation.</note></p>
+      <l>mutalkaru vaṇainta vuripporu ḷakamē.<anchor xml:id="akam"/></l></lg>
+<lg xml:lang="en">
+  <l><foreign xml:lang="ta-Latn">akam</foreign> is the suitable poetic content<note xml:lang="en" place="foot"><term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> is a difficult term to translate. I have intentionally provided a literal and broad translation, in keeping with how I have translated <term xml:lang="ta-Latn"><hi rend="italic">poruḷ</hi></term> in other places. In practice, it refers to the dominant emotional theme in each setting. These are enumerated in <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> 13.</note> that is joined<note xml:lang="en" place="foot"><term xml:lang="ta-Latn"><hi rend="italic">aṇainta</hi></term> can be interpreted in a number of different ways here, both syntactically and semantically. I have chosen this translation as I believe it most closely mirrors the definition given in the TP, upon which I think this is based, where the phrase <q xml:lang="ta-Latn"><hi rend="italic">muṟai ciṟantaṉavē</hi></q> implies <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> has a greater level of importance. Thus here I have centred it in my translation.</note> to the basic elements<note xml:lang="en" place="foot">There are other ways to translate <q xml:lang="ta-Latn"><hi rend="italic">mutal</hi></q>. Here, it is understood as a basis in which the other elements exist, hence ‘basic’. The other way to translate would be ‘first’. The justification for this is found in an interpretation of TP 3i (cited in the apparatus to this <foreign xml:lang="ta-Latn">cūttiram</foreign>), where <q xml:lang="ta-Latn"><hi rend="italic">mutal</hi></q> is so called because it is the first way one can identify the poetic setting when <term xml:lang="ta-Latn"><hi rend="italic">mutal</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">karu</hi></term>, and <term xml:lang="ta-Latn"><hi rend="italic">uri</hi></term> are present, at least according to Iḷampūraṇar.</note> and the constituent elements.<note xml:lang="en" place="foot"><term xml:lang="ta-Latn"><hi rend="italic">karu</hi></term> has the literal sense of an ‘embryo’ or ‘germ’. The <term xml:lang="ta-Latn"><hi rend="italic">karupporuḷ</hi></term> are the gods, people, flora, and fauna proper to each <term xml:lang="ta-Latn"><hi rend="italic">tiṇai</hi></term>. As with my renderings of <term xml:lang="ta-Latn"><hi rend="italic">mutal</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">uri</hi></term>, I have prioritised a functional translation over an etymologically faithful one. ‘Embryonic elements’ would render <term xml:lang="ta-Latn"><hi rend="italic">karu</hi></term> literally, but in English ‘embryonic’ connotes something is undeveloped. ‘Germinal’ (favoured by Selby) is perhaps the most accurate single rendering, but it has a similar problem to ‘embryonic’. ‘Native elements’ (preferred by Zvelebil) captures that the <term xml:lang="ta-Latn"><hi rend="italic">karu</hi></term> belong to and arise within the setting, but it describes their origin rather than their function within the poetic system, and is not etymologically exact. Buck and Paramasivan’s ‘Matrix Aspect’ preserves something of the generative sense of <foreign xml:lang="ta-Latn">karu</foreign>, but emphasises the creative aspect, which, if anything, seems more appropriate for <foreign xml:lang="ta-Latn">mutal</foreign>. Without a satisfactory rendering that is also etymologically close, I have gone with ‘constituent elements’, which I think at least conveys something of their functionality.</note></l>
+</lg>
       </div>
 </body>
 </text>
@@ -165,29 +159,28 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-<p xml:id="TNV2comm1">e – tu. collap paṭṭaṉa vuḷ akap poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
-<p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> occurs amongst those which have been mentioned.<note xml:lang="en" place="foot">This is referring back to the three categories mentioned in <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term> 1 — <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term>, <term xml:lang="ta"><hi rend="italic">puṟapporuḷ</hi></term> and what the commentator identifies as <term xml:lang="ta"><hi rend="italic">akappuṟapporuḷ</hi></term>.</note></p>
+<p xml:id="TNV2comm1">eṉpatu collap paṭṭaṉa vuḷ akap poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the poetic content of the interior genre<note xml:lang="en" place="foot">This is an awkward idea to render in English. It refers to the genre of poetry that relates to the interior emotional world. In practice, this refers to poetry that concerns different facets of romantic relationships.</note> occurs amongst those that have been mentioned.<note xml:lang="en" place="foot">This is referring back to the three categories mentioned in <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> 1 – <term xml:lang="ta-Latn"><hi rend="italic">akapporuḷ</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">puṟapporuḷ</hi></term>, and what the commentary identifies as <term xml:lang="ta-Latn"><hi rend="italic">akappuṟapporuḷ</hi></term>.</note></p>
 </div>
 <div type="commentary" rend="parallel">
-<p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta urip poruḷ akap poruḷ ām eṉṟa vāṟu.</p>  
-<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> is the suitable poetic content which is attached to the basic elements and the constituent elements.</p>
+<p xml:id="TNV2comm2">mutaluṅ karuvuñ cārnta vurip poruḷ akap poruḷ ām eṉṟa vāṟu.</p>  
+<p xml:lang="en"><term xml:lang="ta-Latn"><hi rend="italic">akapporuḷ</hi></term> is the suitable poetic content that is attached to the basic elements and the constituent elements.</p>
 </div>
 <div type="commentary" rend="parallel">
-<p xml:id="TNV2comm3">mutal eṉap paṭṭatiṭamum kālamum eṉṟuṇarvatu<anchor xml:id="mutal"/>. karu veṉap paṭṭa poruṭ ceykai yoḻittuk koḷka. 
-vatuvum uriyum paṇpeṉap paṭum; innāṉkiṉ kūṭṭamun tiṇai yeṉap paṭum eṉpatu. <note>2.</note></p>
-<p xml:lang="en">The thing called <term xml:lang="ta"><hi rend="italic">mutal</hi></term> is understood as 
-place and time. Understand that the things called <term xml:lang="ta"><hi rend="italic">karu</hi></term> are 
-the things excluding the action.<note place="foot">This is slightly ambiguous to me. My best guess is that 
-<q xml:lang="ta"><hi rend="italic">ceykai</hi></q> here refers to the action taking place in the poem - the hero 
-going off to work, for example - and that the 'things' being referred to are the other components of the poetic 
-landscape.</note> That and <term xml:lang="ta"><hi rend="italic">uri</hi></term> are called 
-<term xml:lang="ta"><hi rend="italic">panpu</hi></term><note xml:lang="en" place="foot">I understand this as 
-'natural property' and the the referent of <q xml:lang="ta"><hi rend="italic">atu</hi></q> is 
-<term xml:lang="ta"><hi rend="italic">karu</hi></term>. This then would be saying that the constituant elements 
-and emotional themes in a poem are natural to the basic elements - the time and place. In other words certain 
-poetic landscapes have specific properties and themes in their nature.</note> and the group of those 
-four<note xml:lang="en" place="foot">Presumably this is referring to <q xml:lang="ta"><hi rend="italic">itam, 
-kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi rend="italic">tiṇai</hi></term>.</p>
+<p xml:id="TNV2comm3">mutal eṉap paṭṭatiṭamum kālamum eṉṟuṇarvatu.<anchor xml:id="mutal"/> karu veṉap paṭṭa poruṭ ceykai yoḻittuk koḷka. 
+vatuvum uriyum paṇpeṉap paṭum. innāṉkiṉ kūṭṭamun tiṇai yeṉap paṭum eṉpatu. <num>2.</num></p>
+<p xml:lang="en">The thing called <term xml:lang="ta-Latn"><hi rend="italic">mutal</hi></term> is understood as 
+place and time. Understand the poetic content called <term xml:lang="ta-Latn"><hi rend="italic">karu</hi></term> excludes the [human] action.<note xml:lang="en" place="foot">This is slightly ambiguous to me. My best guess is that 
+<q xml:lang="ta-Latn"><hi rend="italic">ceykai</hi></q> here refers to the human action taking place in the poem – the hero 
+going off to work, for example – and that the content being referred to is the material components of the poetic 
+setting, i.e., the flora and fauna.</note> That and <term xml:lang="ta-Latn"><hi rend="italic">uri</hi></term> are called 
+<term xml:lang="ta-Latn"><hi rend="italic">paṇpu</hi></term><note xml:lang="en" place="foot">I understand this as 
+‘natural property’ and the referent of <q xml:lang="ta-Latn"><hi rend="italic">atu</hi></q> is 
+<term xml:lang="ta-Latn"><hi rend="italic">karu</hi></term>. This then would be saying that the constituent elements 
+and emotional themes in a poem are natural to the basic elements – the time and place. In other words, certain 
+poetic settings have specific properties and themes in their nature.</note> and the group of those 
+four<note xml:lang="en" place="foot">Presumably this is referring to <term xml:lang="ta-Latn"><hi rend="italic">iṭam</hi></term>, 
+<term xml:lang="ta-Latn"><hi rend="italic">kālam</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">karu</hi></term>, and <term xml:lang="ta-Latn"><hi rend="italic">uri</hi></term>.</note> is called <term xml:lang="ta-Latn"><hi rend="italic">tiṇai</hi></term>.</p>
 </div>
 </body></text><standOff corresp="#TNV2" type="wordsplit">
 <interp type="alignment" select="0">31MGM,33M</interp>
@@ -229,7 +222,7 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </entry>
 <entry>
 <form>akam-ē</form>
-<def>inside</def>
+<def>interior</def>
 <form type="simple">akam</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -237,11 +230,10 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV2comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G32MG10ML9M,6MG49MG</interp>
+<interp type="alignment" select="0">35MG10ML9M,55MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
-<form type="sandhi">e–tu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -288,7 +280,7 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </entry>
 <entry>
 <form>ām</form>
-<def>is</def>
+<def>becomes</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
@@ -319,7 +311,8 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </gramGrp>
 </entry>
 </standOff>
-<standOff type="notes1" corresp="#TNV2"><note xml:lang="ta"><term xml:lang="en">Cf. TP3i.1-2:</term> mutalkaru vuripporu ḷeṉṟa mūṉṟē / nuvaluṅ kālai muṟaiciṟan taṉavē</note></standOff>
+<standOff type="notes1" corresp="#TNV2"><note xml:lang="ta" target="#akam"><term xml:lang="en">Cf. TP3n.1–2:</term> mutalkaru vuripporu ḷeṉṟa mūṉṟē | nuvaluṅ kālai muṟaiciṟan taṉavē</note></standOff>
+<standOff type="notes4" corresp="#TNV2"><note xml:lang="en" target="#akam">Every <foreign xml:lang="ta-Latn">cūttiram</foreign> in the TNV, except for TNV 7, explicitly states the <foreign xml:lang="la">definiendum</foreign>. I see no reason why that should not be the case here. There is no sensible option for a term to be supplied from the previous <foreign xml:lang="ta-Latn">cūttiram</foreign>, and the commentary clearly states that the topic of the <foreign xml:lang="ta-Latn">cūttiram</foreign> is defining <foreign xml:lang="ta-Latn">akapporuḷ</foreign>, strongly suggesting that the correct reading is indeed <q xml:lang="ta-Latn"><hi rend="italic">akamē</hi></q>. The <foreign xml:lang="ta-Latn">cūttiram</foreign>-s of the TNV do not consistently end in the particle <foreign xml:lang="ta-Latn">-ē</foreign>, so one could argue it is unnecessary, but all of the surrounding <foreign xml:lang="ta-Latn">cūttiram</foreign>-s have it, and all but one of the first fourteen do as well (the point at which the TNV moves on from describing the <foreign xml:lang="ta-Latn">tiṇai</foreign> system to poetic situations). In the case of TNV 7, I speculate that it was unnecessary to name the <foreign xml:lang="la">definiendum</foreign> as it was already established that the different <foreign xml:lang="ta-Latn">karu</foreign> were being enumerated, and it would have been obvious that it was naming the gods.</note></standOff>
 <standOff type="apparatus" corresp="#TNV2comm1" source="alignments/TNV2comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -330,22 +323,39 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="0,5">
-    <lem wit="#TNVc #TNV1937 #TNV1947">e – tu.</lem>
-    <rdg wit="#TNVms">e</rdg>
+</interp>
+<listApp>
+  <app loc="0,6">
+    <lem>eṉpatu</lem>
+    <rdg wit="#TNVms">e<gap reason="lost" unit="character" quantity="4"/><lb n="8"/><gap reason="lost" unit="character" quantity="2"/></rdg>
+    <rdgGrp select="#TNVc #TNV1937 #TNV1947">
+      <rdg type="main">etu</rdg>
+      <rdg type="minor" wit="#TNVc">e-tu</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">e – tu</rdg>
+    </rdgGrp>
   </app>
-  <app loc="5,21">
-    <lem wit="#TNVc">collap paṭṭaṉa vuḷ</lem>
+  <app loc="6,22">
+    <rdgGrp type="lemma" select="#TNVc">
+      <lem>collap paṭṭaṉa vuḷ</lem>
+      <rdg type="minor" wit="#TNVc">collappaṭṭaṉavuḷ</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="2"/>ṭṭaṉavuḷ</rdg>
     <rdg wit="#TNV1937 #TNV1947">collappaṭṭaṉavaṟṟuḷ</rdg>
-    <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="8"/><gap reason="lost" unit="character" quantity="3"/>ṭṭaṉavuḷ</rdg>
   </app>
-  
+  <app loc="33,53">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNVc">āṟuṇarttu<lb n="18"/>taṉutaliṟṟu</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu</rdg>
+  </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV2comm2" source="alignments/TNV2comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -356,23 +366,29 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<listApp>
   <app loc="14,20">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cārnta</lem>
     <rdg wit="#TNVmsac">cānta</rdg>
   </app>
-  <app loc="29,49">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">akap poruḷ ām eṉṟa vāṟu.</lem>
-    <rdg wit="#TNVcac">akappo<lb n="19"/>ruḷāra<gap reason="illegible" unit="character" quantity="1"/>ṟaṉṟavāṟu.</rdg>
-    <rdg wit="#TNVms">akapporuḷā</rdg>
+  <app loc="39,49">
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947">
+      <lem>ām eṉṟa vāṟu</lem>
+      <rdg type="minor" wit="#TNVcpc #TNV1937">āmeṉṟavāṟu</rdg>
+      <rdg type="minor" wit="#TNV1947">ā meṉṟavāṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">ām e<gap reason="lost" unit="character" quantity="2"/></rdg>
+    <rdg wit="#TNVcac">āra<gap reason="illegible" unit="character" quantity="1"/>ṟaṉṟavāṟu</rdg>
   </app>
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV2comm3"><note xml:lang="ta" target="#mutal"><term xml:lang="en">Cf. TP4iː</term> mutaleṉap paṭuvatu nilampoḻu tiraṇṭi / ṉiyalpeṉa moḻipa viyalpuṇarn tōrē//</note></standOff>
+<standOff type="notes1" corresp="#TNV2comm3"><note xml:lang="ta" target="#mutal"><term xml:lang="en">Cf. TP4n:</term> mutaleṉap paṭuvatu nilampoḻu tiraṇṭi | ṉiyalpeṉa moḻipa viyalpuṇarn tōrē ||</note></standOff>
 <standOff type="apparatus" corresp="#TNV2comm3" source="alignments/TNV2comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -412,17 +428,21 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<!--Warnings
+TNV2: Ed doesn't match alignment.
+-->
+<listApp>
   <app loc="9,17">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vaṇainta</lem>
     <rdg wit="#TNVmsac">paṇainta</rdg>
   </app>
   <app loc="26,32">
-    <lem wit="#TNVc #TNV1937 #TNV1947">ḷakamē</lem>
-    <rdg wit="#TNVms">ḷākum.</rdg>
+    <lem wit="#TNV1937 #TNV1947">ḷakamē</lem>
+    <rdg wit="#TNVms #TNVc">ḷākum</rdg>
   </app>
 </listApp></standOff><standOff corresp="#TNV2comm2" type="wordsplit">
-<interp type="alignment" select="0">5MG6MG38M,50MG</interp>
+<interp type="alignment" select="0">5MG6MG39M,51MG</interp>
 <entry>
 <form>mutal-um</form>
 <def>base</def>
@@ -434,7 +454,7 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </entry>
 <entry>
 <form>karu-<c type="glide">v</c>um</form>
-<def>constituent elements</def>
+<def>constituent element</def>
 <form type="simple">karu</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -450,7 +470,7 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </gramGrp>
 </entry>
 <entry>
-<form>uri<c type="geminated">p</c></form>
+<form><c type="glide">v</c>uri<c type="geminated">p</c></form>
 <def>suitability</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -501,7 +521,7 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV2comm3" type="wordsplit">
-<interp type="alignment" select="0">15MG4MG7MG5MG52MG6MG7MG24MG24M,43MG38M2G28MG38MG</interp>
+<interp type="alignment" select="0">15MG4MG7MG5MG52MG6MG7MG24MG24M,43MG38MG29MG38MG</interp>
 <entry>
 <form>mutal</form>
 <def>base</def>
@@ -553,15 +573,14 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </entry>
 <entry>
 <form>uṇarvatu</form>
-<def>is known</def>
+<def>be known</def>
 <gramGrp>
   <gram type="role">neuter singular</gram>
-  <gram type="role">imperfect aspect</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>karu</form>
-<def>contituent elements</def>
+<def>constituent element</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -608,9 +627,10 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </gramGrp>
 </entry>
 <entry>
-<form>atu-<c type="glide">v</c>um</form>
+<form><c type="glide">v</c>atu-<c type="glide">v</c>um</form>
 <def>that</def>
 <form type="simple">atu</form>
+<form type="sandhi"><c type="glide">v</c>atu</form>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -666,7 +686,7 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </entry>
 <entry>
 <form>tiṇai</form>
-<def>landscape</def>
+<def>poetic setting</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -687,7 +707,7 @@ kālam, poruḷ and ceykai</hi></q>.</note> is called <term xml:lang="ta"><hi re
 </entry>
 <entry>
 <form>eṉpatu</form>
-<def>say-it</def>
+<def>say</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>

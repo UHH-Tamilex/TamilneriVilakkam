@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 6. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 6.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -110,39 +109,32 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="AVed" source="witnesses/AVprint.xml">
-            <abbr type="siglum">AVed</abbr>
-            <expan>AVprint</expan>
-          </witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+           <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AV</abbr>
+            <expan>Critical Edition and Study of Akapporuḷ Viḷakkam. Edited by T. Rajarethinam. 2006.</expan>
+          </witness>   
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
           </witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
         </listWit>
@@ -158,12 +150,15 @@
       <lg xml:id="TNV6">
       <l>teyva māṉiṭañ ceyti yuṇavō</l>
 <l>ṭeytiya vicaivilaṅ kiṉaiyaṉa piṟavum</l>
-<l>poytīr karuveṉap pukaṉṟaṉar koḷalē<anchor xml:id="kolale"/></l></lg>
-<p xml:lang="en">The gods, the people, the occupations, the food, the suitable music, the animals
-        and other such things - [let there be an] understanding that they have said that [these] are
-        the true<note place="foot" xml:lang='en'><q xml:lang="ta"><hi rend="italic">poy tīr</hi></q> is a kind of formula.
-        Literally it means '(x) in which falsity has ended.' In practice, this means that something
-        is true.</note> constituent elements.</p>
+<l>poytīr karuveṉap pukaṉṟaṉar koḷalē.<anchor xml:id="kolale"/></l></lg>
+<lg xml:lang="en">
+  <l>The gods, the people, the occupations, the food,</l> 
+  <l>the suitable music, the animals,
+        and other such things</l>
+        <l> – [let there be an] understanding<note xml:lang="en" place="foot">Alternatively, one can translate this as a kind of polite command – ‘Please understand…’. In other places, similar forms are glossed by commentators using an optative form (see Cēṉāvaraiyar's <foreign xml:lang="ta-Latn">itaṉ porul</foreign> for TC 296c and 297c; see also Nacciṉārkkiṉiyar's <foreign xml:lang="ta-Latn">itaṉ porul</foreign> on the same <foreign xml:lang="ta-Latn">cūttiram</foreign>-s, numbered 297 and 298 in his count, for example).</note> that they have said that [these] are
+        the true<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">poy tīr</hi></q> is a kind of formula.
+        Literally it means: ‘(x) in which falsity has ended’. In practice, this means that something
+        is true.</note> constituent elements.</l></lg>
 </div>
 </body>
 </text>
@@ -171,21 +166,24 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV6comm1">e-tu. karup poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the
+      <p xml:id="TNV6comm1">eṉpatu karup poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the
         poetic matter of the constituent elements occurs.</p></div>
         <div type="commentary" rend="parallel">
-      <p xml:id="TNV6comm2">collap paṭṭa mutaṟ poruṭ kuriya teyvamum avvaḻi vāḻumakkaḷum 
+      <p xml:id="TNV6comm2">collap paṭṭa mutaṟ poruṭ kuriya teyvamum vaḻi<anchor xml:id="vali"/> vāḻumakkaḷum 
       avarkaḷ toḻilkaḷum uṇpārkkut tuppākiya vuṇavum icaiyum āṅkaṇ vāḻum vilaṅkukaḷum 
-      piṟavum ain tiṇaikkup peṟṟa karup poruḷ ām eṉṟa vāṟu. <note>6.</note></p>
-      <p xml:lang="en">The things that are suitable for the poetic matter of the aforementioned basic
-        elements are the gods, the people who exist along that way, their occupations, the food which
-        is the sustenance for those who eat it, the music, the animals which live there and other
-        things - so the poetic matter of the constituent elements related to the five poetic
-        landscapes occurs.</p>
+      piṟavum ain tiṇaikkup peṟṟa karup poruḷ ām eṉṟa vāṟu. <num>6.</num></p>
+      <p xml:lang="en">The things suitable for the poetic matter in the aforementioned basic
+        elements – the gods, the people who exist on the paths,<note xml:lang="en" place="foot">In the sense of ‘in those places’ or ‘there’.</note> their occupations, the food that
+        is the nourishment for those who eat it, the music, the animals that live there, and other
+        things – are the poetic matter of the constituent elements related to the five poetic
+        settings.</p>
         </div>
       </body>
       </text>
+      <standOff type="notes4" corresp="#TNV6comm2">
+        <note xml:lang="en" target="#vali">This can also be read as <q xml:lang="ta-Latn"><hi rend="italic">teyvamum avaḻi</hi></q>, which in itself makes no sense, but UVC may have thought the scribe had simply missed the gemination that comes along with the deictic prefix <term xml:lang="ta-Latn"><hi rend="italic">a-</hi></term>, or miscopied and left out one <hi rend="italic">v</hi>, and then made the minor emendation to <term xml:lang="ta-Latn"><hi rend="italic">avvaḻi</hi></term>. The chosen reading – <q xml:lang="ta-Latn"><hi rend="italic">vaḻi</hi></q> – retains a similar sense and is found in C1.</note>
+      </standOff>
       <standOff type="apparatus" corresp="#TNV6comm2" source="alignments/TNV6comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -201,27 +199,26 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="35,41">
-    <lem wit="#TNVc #TNV1937 #TNV1947">avvaḻi</lem>
-    <rdg wit="#TNVms"/>
+</interp>
+<listApp>
+  <app loc="35,39">
+    <lem wit="#TNVms #TNVc"> vaḻi</lem>
+    <rdg wit="#TNV1937 #TNV1947">avvaḻi</rdg>
   </app>
-  <app loc="70,79">
+  <app loc="68,77">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uṇpārkkut</lem>
     <rdg wit="#TNVmsac">uṇarvārkkut</rdg>
   </app>
-  <app loc="88,95">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vuṇavum</lem>
-    <rdg wit="#TNVmsac"/>
-  </app>
-  <app loc="95,102">
-    <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947">icaiyum</lem>
-    <rdgGrp select="#TNVmsac #TNVcac">
-      <rdg type="main"><lb n="18"/> vicaiyum</rdg>
-      <rdg type="minor" wit="#TNVmsac">vicaiyum</rdg>
+  <app loc="86,100">
+    <rdgGrp type="lemma" select="#TNVmspc #TNVcpc #TNV1937 #TNV1947">
+      <lem>vuṇavum icaiyum</lem>
+      <rdg type="minor" wit="#TNVcpc">vuṇavum<lb n="18"/> icaiyum</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">uṇavum, icaiyum</rdg>
     </rdgGrp>
+    <rdg wit="#TNVmsac">vicaiyum</rdg>
+    <rdg wit="#TNVcac">vuṇavum<lb n="18"/> vicaiyum</rdg>
   </app>
-  <app loc="112,124">
+  <app loc="110,122">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">vilaṅkukaḷum</lem>
     <rdg wit="#TNVcac">vilaṅkaḷum</rdg>
   </app>
@@ -241,8 +238,17 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp>
-</standOff>
-<standOff type="notes1" corresp="#TNV6"><note xml:lang="ta" target="#kolale"><term xml:lang="en">Cf. TP20iː</term> teyva muṇāvē māmaram puṭpaṟai / ceyati yāḻiṉ pakutiyoṭu tokaii / yavvakai piṟavuṅ karuveṉa moḻipa//</note></standOff> 
+<listApp>
+  
+  <app loc="18,38">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu</rdg>
+  </app>
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV6"><note xml:lang="ta" target="#kolale"><term xml:lang="en">Cf. TP18n:</term> teyva muṇāvē māmaram puṭpaṟai | ceyti yāḻiṉ pakutiyoṭu tokaii | yavvakai piṟavuṅ karuveṉa moḻipa ||</note></standOff> 
 <standOff type="apparatus" corresp="#TNV6" source="alignments/TNV6.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -272,6 +278,7 @@
 <entry>
 <form>teyvam</form>
 <def>god</def>
+<form type="sandhi">teyva</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -355,7 +362,8 @@
 </entry>
 <entry>
 <form>karu</form>
-<def>constituent elements</def>
+<def>constituent element
+</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -385,11 +393,10 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV6comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G17MG10ML9M,6MG34MG</interp>
+<interp type="alignment" select="0">20MG10ML9M,40MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
-<form type="sandhi">e-tu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -397,7 +404,7 @@
 </entry>
 <entry>
 <form>karu<c type="geminated">p</c></form>
-<def>contituent elements</def>
+<def>constituent element</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -442,7 +449,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV6comm2" type="wordsplit">
-<interp type="alignment" select="0">22MG11MG13ML5MG17MG15MG10M2G6MG23MG6MG41M,179MG</interp>
+<interp type="alignment" select="0">22MG11MG11ML5MG17MG15MG10M2G6MG23MG6MG41M,177MG</interp>
 <entry>
 <form>colla<c type="geminated">p</c></form>
 <def>speak</def>
@@ -493,12 +500,9 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>a<c type="geminated">v</c></form>
-<def>that</def>
-</entry>
-<entry>
 <form>vaḻi</form>
 <def>way</def>
+<form type="sandhi">vaḻi</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -507,7 +511,7 @@
 <form>vāḻum</form>
 <def>living</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -546,7 +550,7 @@
 </entry>
 <entry>
 <form>tupp<c type="elided">u</c></form>
-<def>strength</def>
+<def>nourishment</def>
 <form type="sandhi">tupp</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -565,6 +569,9 @@
 <def>food</def>
 <form type="simple">uṇavu</form>
 <form type="sandhi"><c type="glide">v</c>uṇav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -584,7 +591,7 @@
 <form>vāḻum</form>
 <def>living</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -614,7 +621,7 @@
 </entry>
 <entry>
 <form>tiṇaikku<c type="geminated">p</c></form>
-<def>lanscapes</def>
+<def>poetic setting</def>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
@@ -629,7 +636,7 @@
 </entry>
 <entry>
 <form>karu<c type="geminated">p</c></form>
-<def>contituent elemnets</def>
+<def>constituent element</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>

@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>YV1960</title>
+            <title>YV1916</title>
             
          <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
@@ -15,13 +15,13 @@
                   <repository>
                      <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
                   </repository>
-                  <idno type="shelfmark">YV1960</idno>
+                  <idno type="shelfmark">YV1916</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
                   <summary>Book</summary>
                   
-               <msItem xml:id="YV1960a" defective="false"><title>YV</title></msItem><msItem xml:id="YV1960b" defective="false"><title>YV1960b</title></msItem></msContents>
+               <msItem xml:id="YV1916a" defective="false"><title>YV</title></msItem><msItem xml:id="YV1916b" defective="false"><title>YV1960b</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -85,15 +85,25 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    </facsimile>
-<text corresp="#YV1960a"><body xml:lang="ta">
-  <pb n="103"/>
+<text corresp="#YV1916a"><body xml:lang="ta">
+   <lg corresp="#TNV16poem13">
+      <l>kaviyaṅ karuṇkaṭ ceyyavāyp paintoṭi</l>
+<l>pūviri naṟumeṉ kūntalum</l>
+<l>vēypurai tōḷu maṇaṅkumā lemmē</l>
+   </lg> 
+
+   <lg corresp="#TNV17poem8">
+<l>pūtta veṅkai viyaṉciṉai yēṟi</l>
+<l>mayiliṉa makavu nāṭa</l>
+<l>ṉaṉṉutaṟ koṭicci maṉattakat tōṉē</l>
+   </lg>
+
   <lg corresp="#TNV22poem14">
 <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiyaṉ oḷvēṟ kaṇṇi</l>
 <l>mulaiyum vārāḷ mutukkuṟain taṉaḷē</l></lg>
 
-  </body></text><text corresp="#YV1960b"><body xml:lang="ta">
-  <pb n="214"/>
+  </body></text><text corresp="#YV1916b"><body xml:lang="ta">
  <lg corresp="#TNV22poem14"> 
  <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiyaṉ oḷvēṟ kaṇṇi</l>

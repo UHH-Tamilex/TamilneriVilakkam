@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 3. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 3.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -110,42 +109,82 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="AVed" source="witnesses/AVprint.xml">
-            <abbr type="siglum">AVed</abbr>
-            <expan>AVprint</expan>
-          </witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+           <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AV</abbr>
+            <expan>Critical Edition and Study of Akapporuḷ Viḷakkam. Edited by T. Rajarethinam. 2006.</expan>
+          
+<listWit>
+<witness xml:id="AVedac" n="ac">
+<abbr type="siglum">AVed<hi rend="subscript">ac</hi></abbr>
+<expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan>
+</witness>
+<witness xml:id="AVedpc" n="pc">
+<abbr type="siglum">AVed<hi rend="subscript">pc</hi></abbr>
+<expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan>
+</witness></listWit></witness>   
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          </witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          
+<listWit>
+<witness xml:id="TPnac" n="ac">
+<abbr type="siglum">TPn<hi rend="subscript">ac</hi></abbr>
+<expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan>
+</witness>
+<witness xml:id="TPnpc" n="pc">
+<abbr type="siglum">TPn<hi rend="subscript">pc</hi></abbr>
+<expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan>
+</witness></listWit></witness>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
-          </witness>
+          
+<listWit>
+<witness xml:id="KT2-C2" select="#C2" source="witnesses/KT2.xml"><abbr type="siglum">KT2-C2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">Iṟaiyaṉār</persName>: <i>HE</i> [witness C2]</expan></witness></listWit></witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
-        </listWit>
+        
+<witness xml:id="Aink372" source="witnesses/Aink372.xml">
+<abbr type="siglum">AiN</abbr>
+<expan><title xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xml:lang="ta">Ōtalāntaiyār</persName></expan>
+</witness>
+<witness xml:id="Aink391" source="witnesses/Aink391.xml">
+<abbr type="siglum">AiN</abbr>
+<expan><title xml:lang="ta">Aiṅkuṟunūṟu</title> 391. <persName xml:lang="ta">Ōtalāntaiyār</persName></expan>
+</witness>
+<witness xml:id="Aink393" source="witnesses/Aink393.xml">
+<abbr type="siglum">AiN</abbr>
+<expan><title xml:lang="ta">Aiṅkuṟunūṟu</title> 393. <persName xml:lang="ta">Ōtalāntaiyār</persName></expan>
+</witness>
+<witness xml:id="Aink399" source="witnesses/Aink399.xml">
+<abbr type="siglum">AiN</abbr>
+<expan><title xml:lang="ta">Aiṅkuṟunūṟu</title> 399. <persName xml:lang="ta">Ōtalāntaiyār</persName></expan>
+</witness>
+<witness xml:id="IA" source="witnesses/IAprint.xml">
+<abbr>IA</abbr>
+<expan>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ)</expan>
+</witness>
+<witness xml:id="KT1" source="witnesses/KT1.xml">
+<abbr type="siglum">KT</abbr>
+<expan><title xml:lang="ta">Kuṟuntokai</title> 1. <persName xml:lang="ta">Tīpputtōḷār</persName></expan>
+</witness>
+
+<witness xml:id="TKn" source="witnesses/TolNa.xml"><abbr type="siglum">TKn</abbr><expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan></witness>
+<witness xml:id="TKp" source="TolPe.xml"><abbr type="siglum">TKp</abbr><expan>Tolkāppiyam Pērāciriyar</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -157,9 +196,11 @@
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV3">
       <l>poruppē vemparal puṟavoṭu paḻaṉam</l>
-<l>parappamai vāri kuṟuñcimutaṟ pākē<anchor xml:id="pake"/></l></lg>
-<p xml:lang="en">Beginning with <hi rend="italic">kuṟuñci</hi>, the division [of the <hi rend="italic">tiṇai</hi> landscapes] is: 
-mountain, hot gravel, forest, farmland, and water joined to the sea.<note place="foot" xml:lang="en"><q xml:lang="ta"><hi rend="italic">parappu</hi></q> literally means 'expanse' but I understand it here as an elliptical refernce to the sea or ocean and translate it as such. As with the commentator, I understand this basic place-element to refer to the area around the backwaters, river mouths and the sea</note></p>
+<l>parappamai vāri kuṟuñcimutaṟ pākē.<anchor xml:id="pake"/></l></lg>
+<lg xml:lang="en">
+<l>Mountains, hot stones, forest, farmland, and waters joined to the expanse<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">parappu</hi></q> literally means ‘expanse’ but I understand it here as an elliptical reference to the sea or ocean. Following the commentary, I understand that this basic place-element refers to the area around the backwaters, river-mouths, and the sea. Theoretically, there is another way to construe <q xml:lang="ta-Latn"><hi rend="italic">parappu amai vāri</hi></q>. If one assumes the second layer of the commentary is not supplying anything in its gloss, then one would expect <q xml:lang="ta-Latn"><hi rend="italic">parappu amai</hi></q> to mean ‘great sand dunes’ (<q xml:lang="ta-Latn"><hi rend="italic">peru maṇal ekkar</hi></q>), which would also mirror the description found in the TP (cited in the apparatus). This would require <foreign xml:lang="ta-Latn">amai-ttal</foreign> (‘to produce’), instead of the weak root. Quite how one gets from there to ‘products of the sea’, i.e., sand dunes, is not so obvious.</note></l>
+<l>are the allotments [of the five poetic settings], beginning with <term xml:lang="ta-Latn"><hi rend="italic">kuṟuñci</hi></term>.<note xml:lang="en" place="foot">This non-standard spelling has been retained as it seems to be part of a wider pattern in this manuscript where words commonly spelled with an ‘i’ are written with a ‘u’. This may reflect the local dialect of the place where this text was composed or where the manuscripts were copied.</note></l></lg>
+
 </div>
 </body>
 </text>
@@ -167,29 +208,26 @@ mountain, hot gravel, forest, farmland, and water joined to the sea.<note place=
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-<p xml:id="TNV3comm1">e-tu. ain tiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
-<p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make 
-known the way in which the basic place-element<note place="foot" xml:lang="en">As one can see from the <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>, what this refers to is the domaniant feature of each landscape.</note> of all of the five 
-poetic landcapes occur.</p></div>
+<p xml:id="TNV3comm1">eṉpatu vain tiṇaikkum iṭamutal ām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make 
+known the way in which the basic place-element<note place="foot" xml:lang="en">The <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> shows that this refers to the dominant geographical feature of each poetic setting.</note> of all of the five 
+poetic settings occurs.</p></div>
 <div type="commentary" rend="parallel">
 <p xml:id="TNV3comm2">malaic cāralum vem paral attamum ciṟu tūṟuṭaip puṟavumalar kañaliya 
 paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekkaruṅ kuṟuñci pālai 
- mullai marutaneytal eṉa vaim perun tiṇaiyunilamutal eṉṟa vāṟu. <note>3.</note></p>
-<p xml:lang="en">The moutain-slope, the road with hot gravel, the forest with small bushes, the paddy-fields
- amongst the water tanks full of blossoms<note place="foot" xml:lang="en">I understand the <q xml:lang="ta"><hi rend="italic">-um</hi></q> 
- particle on <q xml:lang="ta"><hi rend="italic">paḻaṉam-um</hi></q> to have a distributive function, however 
- one could also make sense of this as a co-ordinative paricle. In that case this phrase would read 'the water-tanks 
- full of blossoms and the surrounding paddy-fields'.</note> and the large sand dunes joined to the the backwaters and the sea 
- - these are the basic place-elements<note place="foot" xml:lang="en">Note that the commentator here uses different
-  terminology than in the verse - <q xml:lang="ta">nilamutal (nilam mutal)</q>. This is the same as what we find 
-  in TP4i.</note> of the five great lanscapes<note place="foot" xml:lang="en">The designation 
-  <q xml:lang="ta">aim perun tiṇai</q> 'five great landscapes' is odd. I think the commentator supplied 
-  the qualifier <q xml:lang="ta">perum</q> to make clear the difference between the five meantioned here and 
-  the other two <term xml:lang="ta">tiṇais</term> - <term xml:lang="ta">kaikkiḷai</term> and 
-  <term xml:lang="ta">peruntiṇai</term> - the landscapes in which poetry about unsuitable love occur. 
-  Cf. TP1i for mention of seven <term xml:lang="ta"><hi rend="italic">akattiṇai</hi></term>.</note> called 
-  <term xml:lang="ta"><hi rend="italic">kuṟuñci, 
- pālai, mullai, marutam</hi></term> and <term xml:lang="ta"><hi rend="italic">neytal</hi></term>.</p>
+ mullai marutaneytal eṉa vaim perun tiṇaiyunilamutal eṉṟa vāṟu. <num>3.</num></p>
+<p xml:lang="en">The mountainside, the road with hot stones, the forest with small bushes, the paddy-fields
+ surrounded by water-tanks dense with blossoms,<note place="foot" xml:lang="en">I understand the <q xml:lang="ta-Latn"><hi rend="italic">-um</hi></q> 
+ particle on <q xml:lang="ta-Latn"><hi rend="italic">paḻaṉam-um</hi></q> to have a distributive function. One could, however, also make sense of this as a co-ordinative particle. In that case this phrase would read: ‘the water-tanks 
+ full of blossoms and the surrounding paddy-fields’.</note> and the great sand dunes joined to the backwaters and the sea are the basic place-elements<note place="foot" xml:lang="en">Note that the commentary here uses different
+  terminology from that in the verse – <q xml:lang="ta-Latn"><hi rend="italic">nilamutal (nilam mutal)</hi></q>. This is the same as what we find 
+  in TP 4n.</note> of all the five great poetic settings<note place="foot" xml:lang="en">The designation 
+  <q xml:lang="ta-Latn"><hi rend="italic">aim perun tiṇai</hi></q> (‘five great poetic settings’) is odd. I think the author supplied 
+  the qualifier <q xml:lang="ta-Latn"><hi rend="italic">perum</hi></q> to make clear the difference between the five mentioned here and 
+  the other two <term xml:lang="ta-Latn"><hi rend="italic">tiṇai</hi></term>-s – <term xml:lang="ta-Latn"><hi rend="italic">kaikkiḷai</hi></term> and 
+  <term xml:lang="ta-Latn"><hi rend="italic">peruntiṇai</hi></term> – the settings in which poetry about unsuitable love occurs. 
+  Cf. TP 1n for mention of seven <term xml:lang="ta-Latn"><hi rend="italic">akattiṇai</hi></term>.</note> called 
+  <term xml:lang="ta-Latn"><hi rend="italic">kuṟuñci</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">pālai</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>, and <term xml:lang="ta-Latn"><hi rend="italic">neytal</hi></term>.</p>
  </div>
  </body>
 </text><standOff corresp="#TNV3" type="wordsplit">
@@ -294,11 +332,17 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="27,48">
-    <lem wit="#TNVc">āṟuṇarttutaṉutaliṟṟu.</lem>
-    
-    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu.</rdg>
+</interp>
+<!--Warnings
+TNV3comm1: Ed doesn't match alignment.
+-->
+<listApp>
+  <app loc="27,47">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu</rdg>
   </app>
 </listApp></standOff>
 <standOff type="apparatus" corresp="#TNV3comm2" source="alignments/TNV3comm2.xml"><interp type="normalization">
@@ -312,14 +356,16 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="28,51">
-    <lem wit="#TNVc #TNV1937 #TNV1947">ciṟu tūṟuṭaip puṟavumalar</lem>
-    <rdg wit="#TNVms">ciṟutūṟ u<gap reason="lost" unit="character" quantity="4"/><lb n="4"/><gap reason="lost" unit="character" quantity="1"/>vumalar</rdg>
+  <app loc="32,46">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>tūṟuṭaip puṟavu</lem>
+      
+    </rdgGrp>
+    <rdg wit="#TNVms">tūṟu<gap reason="lost" unit="character" quantity="4"/><lb n="4"/><gap reason="lost" unit="character" quantity="1"/>vu</rdg>
   </app>
   <app loc="59,68">
     <lem wit="#TNVms #TNVcac">paḻaṉamuñ</lem>
@@ -329,17 +375,20 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kaṭaloṭu</lem>
     <rdg wit="#TNVmsac">kaṭalo<gap reason="illegible" unit="character" quantity="1"/>ṭu</rdg>
   </app>
-  <app loc="127,145">
-    <lem wit="#TNVc #TNV1937 #TNV1947">mullai marutaneytal</lem>
-    <rdg wit="#TNVms">mu<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>rutaneytal</rdg>
+  <app loc="127,139">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>mullai maruta</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">mullai, maruta</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">mu<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>ruta</rdg>
   </app>
-  <app loc="152,173">
-    <lem wit="#TNVms #TNVc">perun tiṇaiyunilamutal</lem>
-    <rdg wit="#TNV1937 #TNV1947">peruntiṇaiyiṉ nilamutal</rdg>
+  <app loc="157,173">
+    <lem wit="#TNVms #TNVc">tiṇaiyunilamutal</lem>
+    <rdg wit="#TNV1937 #TNV1947">tiṇaiyiṉ nilamutal</rdg>
   </app>
 </listApp></standOff>
-<standOff type="notes4" corresp="#TNV3"><note xml:lang="en" target="#pake">Toklkāppiyaṉār provides these as the defining geographic characterstics of the landscapes, omitting pālai which is a 'situational desert' as mountains and forests can turn into desert in summer (Takanobu 1995:55), in TP4i (see the apparatus notes to TNV7 for the full <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>): <q xml:lang="ta"><hi rend="italic">kaṭuṟai ulakam</hi></q> ('the region with forests') for <term xml:lang="ta"><hi rend="italic">mullai</hi></term>; <q xml:lang="ta"><hi rend="italic">maivarai ulakam</hi></q> ('the region with dark mountains') for <term xml:lang="ta"><hi rend="italic">kuṟiñci</hi></term>; <q xml:lang="ta"><hi rend="italic">tīmpuṉal ulakam</hi></q> ('the region with sweet floods') or <term xml:lang="ta"><hi rend="italic">marutam</hi></term> and <q xml:lang="ta"><hi rend="italic">perumaṇal ulakam</hi></q> ('the region with great sand [dunes]') for <term xml:lang="ta"><hi rend="italic">neytal</hi></term>.</note></standOff>
-<standOff type="notes4" corresp="#TNV3"><note xml:lang="en" target="#pake">Likewise Nakkīraṉār also provides a different list of characteristcs (IAC1, p.23-24): <q xml:lang="ta"><hi rend="italic">malai malaicārnta itam</hi></q> ('mountains and their adjoining area') for <term xml:lang="ta"><hi rend="italic">kuṟiñci</hi></term>, <q xml:lang="ta"><hi rend="italic">kaṭal kaṭalcārnta itam</hi></q> ('the sea and its adjoining area') for <term xml:lang="ta"><hi rend="italic">neytal</hi></term>; <q xml:lang="ta"><hi rend="italic">kāṭuṅ kāṭucārnta itam</hi></q> ('forests and their adjoining area') for <term xml:lang="ta"><hi rend="italic">mullai</hi></term> and <q xml:lang="ta"><hi rend="italic">paḻaṉamum paḻaṉañ cārnta itam</hi></q> ('farmland and its adjoining area') for <term xml:lang="ta"><hi rend="italic">marutam</hi></term>.</note></standOff>
+<standOff type="notes4" corresp="#TNV3"><note xml:lang="en" target="#pake">Tolkāppiyar provides these as the defining geographic characteristics of the poetic settings, omitting <term xml:lang="ta-Latn"><hi rend="italic">pālai</hi></term>, which is a ‘situational desert’ (as mountains and forests can turn into desert in summer; Takahashi 1995, 55), in TP 5n (see the apparatus notes to TNV 7 for the full <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>): <q xml:lang="ta-Latn"><hi rend="italic">kaṭuṟai yulakam</hi></q> (‘the region with forests’) for <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term>; <q xml:lang="ta-Latn"><hi rend="italic">maivarai yulakam</hi></q> (‘the region with dark mountains’) for <term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term>; <q xml:lang="ta-Latn"><hi rend="italic">tīmpuṉal ulakam</hi></q> (‘the region with sweet floods’) for <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>; and <q xml:lang="ta-Latn"><hi rend="italic">perumaṇal ulakam</hi></q> (‘the region with great sand [dunes]’) for <term xml:lang="ta-Latn"><hi rend="italic">neytal</hi></term>.</note></standOff>
+<standOff type="notes4" corresp="#TNV3"><note xml:lang="en" target="#pake">Likewise, Nakkīrar provides a different list of characteristics (IAC 1, p. 23–24): <q xml:lang="ta-Latn"><hi rend="italic">malaiyum malaicārnta iṭamum</hi></q> (‘mountains and their adjoining area’) for <term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term>; <q xml:lang="ta-Latn"><hi rend="italic">kaṭalum kaṭalcārnta iṭamum</hi></q> (‘the sea and its adjoining area’) for <term xml:lang="ta-Latn"><hi rend="italic">neytal</hi></term>; <q xml:lang="ta-Latn"><hi rend="italic">kāṭum kāṭucārnta iṭamum</hi></q> (‘forests and their adjoining area’) for <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term>; and <q xml:lang="ta-Latn"><hi rend="italic">paḻaṉamum paḻaṉañ cārnta iṭamum</hi></q> (‘farmland and its adjoining area’) for <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>.</note></standOff>
 <standOff type="apparatus" corresp="#TNV3" source="alignments/TNV3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -361,27 +410,26 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
     <rdg wit="#TNVms">paḻa<gap reason="lost" unit="character" quantity="4"/><lb n="3"/> pamai</rdg>
   </app>
 </listApp></standOff><standOff corresp="#TNV3comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G19ML8MG10ML9M,6MG45MG</interp>
+<interp type="alignment" select="0">23ML8MG10ML9M,52MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
-<form type="sandhi">e-tu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>aim</form>
+<form><c type="glide">v</c>aim</form>
 <def>five</def>
-<form type="sandhi">ain</form>
+<form type="sandhi"><c type="glide">v</c>ain</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>tiṇaikkum</form>
-<def>landcape</def>
+<def>poetic setting</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -459,7 +507,7 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
 </entry>
 <entry>
 <form>paral</form>
-<def>pebble</def>
+<def>gravel</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -619,7 +667,7 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
 </entry>
 <entry>
 <form>neytal</form>
-<def>blue waterlily</def>
+<def>blue water lily</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -645,7 +693,7 @@ paḻaṉamuñ cūḻnta vayaluṅ kaṭaloṭu kaḻi cārnta peru maṇal ekka
 </entry>
 <entry>
 <form>tiṇai-<c type="glide">y</c>um</form>
-<def>landscape</def>
+<def>poetic setting</def>
 <form type="simple">tiṇai</form>
 <gramGrp>
   <gram type="role">noun</gram>

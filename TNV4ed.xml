@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 4. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 4.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -110,42 +109,39 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="AVed" source="witnesses/AVprint.xml">
-            <abbr type="siglum">AVed</abbr>
-            <expan>AVprint</expan>
-          </witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+           <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AV</abbr>
+            <expan>Critical Edition and Study of Akapporuḷ Viḷakkam. Edited by T. Rajarethinam. 2006.</expan>
+          </witness>   
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
-          </witness>
+          
+<listWit>
+<witness xml:id="KT2-C2" select="#C2" source="witnesses/KT2.xml"><abbr type="siglum">KT2-C2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">Iṟaiyaṉār</persName>: <i>HE</i> [witness C2]</expan></witness></listWit></witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
-        </listWit>
+        
+<witness xml:id="TKn" source="witnesses/TolNa.xml"><abbr type="siglum">TKn</abbr><expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan></witness>
+<witness xml:id="TKp" source="TolPe.xml"><abbr type="siglum">TKp</abbr><expan>Tolkāppiyam Pērāciriyar</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -157,11 +153,13 @@
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV4">
 <l>kūtir<anchor xml:id="kutir"/> vēṉil<anchor xml:id="venil"/> koḻuṅkā<anchor xml:id="kar"/> roḻipaṉi<anchor xml:id="pani"/></l>
-<l>vēṉil muṉpaṉi<anchor xml:id="munpani"/> meyyuyar poḻutē<anchor xml:id="polute"/></l></lg>
-<p xml:lang="en">The actual<note place="foot" xml:lang="en"><q xml:lang="ta">mey</q> literally meants 'truth', 
-and I have taken it here to mean something like 'in reality', or as I have translated here 'actual'.</note> 
-major times are the cold season, the hot season, the full rainy season, the season of ceasing dew, 
-the hot season, and the early dew season.</p>
+<l>vēṉil muṉpaṉi<anchor xml:id="munpani"/> meyyuyar poḻutē.<anchor xml:id="polute"/></l></lg>
+<lg xml:lang="en">
+   
+<l>The cold season, the hot season, the season of heavy rain,<note xml:lang="en" place="foot">Alternatively: ‘the season of full clouds’.</note> the season of ceasing dew,</l>
+<l>the hot season,<note xml:lang="en" place="foot">If one follows the order of the seasons presented in the commentary, then this refers to <term xml:lang="ta-Latn"><hi rend="italic">iḷa vēṉil</hi></term> (‘young hot season’). It is rather confusing that in this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, the two hot seasons are not given different designations. This list of seasons may have been well-known enough for no specification to be necessary.</note> and the early dew season are the true<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">mey</hi></q> literally means ‘truth’, 
+  and I have taken it here to mean something like ‘in reality’. It is not entirely clear why its inclusion is necessary. To the best of my knowledge, <foreign xml:lang="ta-Latn">uyar</foreign> would make an acceptable <foreign xml:lang="ta-Latn">cīr</foreign> on its own, so not for metrical reasons. A similar idea appears in TNV 6.3: <q xml:lang="ta-Latn"><hi rend="italic">pōy tīr karu</hi></q> (‘constituent elements without falsehood’, i.e., ‘true constituent elements’). These phrases appear to function as fillers, without any particular semantic weight. If <q xml:lang="ta-Latn"><hi rend="italic">mey</hi></q> is included to mark an assertion made to counteract some perceived misinformation, then there is no evidence of what the ‘incorrect’ school thought.</note> 
+  major times.</l></lg>
  </div>
  </body>
  </text>
@@ -169,34 +167,33 @@ the hot season, and the early dew season.</p>
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-<p xml:id="TNV4comm1">e-tu. ain tiṇaikkuṅ kālamutal uṭ perum poḻutām āṟuṇarttutaṉutaliṟṟu.</p>
-<p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the large time-periods (i.e. seasons) occur amongst the basic time-elements.</p>
+<p xml:id="TNV4comm1">eṉpatu vain tiṇaikkuṅ kālamutal uṭ perum poḻutām āṟuṇarttutaṉutaliṟṟu.</p>
+<p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the great time-periods (i.e., seasons) occur amongst the basic time-elements.</p>
 </div>
 <div type="commentary" rend="parallel">
 <p xml:id="TNV4comm2"> 
 aippaciyuṅ kārttikaiyum ākiya kūtirk kālamum āṉiyum āṭiyum ākiya vēṉiṟ kālamum 
 āvaṇiyum puraṭṭātiyum ākiya kār kālamumāciyum paṅkuṉiyum ākiya piṉ paṉik kālamuñ 
-cittiraiyum vaikāciyum ākiya viḷa vēṉiṟ kālamumārkaḻiyun taiyum ākiya muṉ paṉik kālamumuṟaiyāṉē ain tiṇaikkum 
-uyar kālamutal ām eṉṟa vāṟu<anchor xml:id="varu"/>. <note>4.</note></p>
-<p xml:lang="en">The cold season comprises of [the months] <term xml:lang="ta"><hi rend="italic">aippaci</hi></term> 
-and <term xml:lang="ta"><hi rend="italic">kārttikai</hi></term>; the hot season comprises of [the months] 
-<term xml:lang="ta"><hi rend="italic">āṉi</hi></term> and <term xml:lang="ta"><hi rend="italic">āṭi</hi></term>; 
-the rainy season comprises of [the months] <term xml:lang="ta"><hi rend="italic">āvaṇi</hi></term> and 
-<term xml:lang="ta"><hi rend="italic">puraṭṭāti</hi></term>; the season of ceasing dew comprises of [the months] 
-<term xml:lang="ta"><hi rend="italic">māci</hi></term> and <term xml:lang="ta"><hi rend="italic">paṅkuṉi</hi></term>; 
-the young hot season comprises of [the months] <term xml:lang="ta"><hi rend="italic">cittirai</hi></term> and 
-<term xml:lang="ta"><hi rend="italic">vaikāci</hi></term> and the early dew season comprises of [the months] 
-<term xml:lang="ta"><hi rend="italic">mārkaḻi</hi></term> and <term xml:lang="ta"><hi rend="italic">tai</hi></term> 
-- so the basic major time element occurs for the five poetic landscapes in order (i.e. respectively).
-<note place="foot"><q xml:lang="ta"><hi rend="italic">muṟaiyāṉē</hi></q> is a common term in commentarial 
-literature and will appear other times in this text. It means either 'in accordance with tradition' or 'in order'. 
-These get at similar things - the author is stating that the order of the listed items is the same as that of the 
-aforementioned landscapes (See TNV3 and its commentary). Theoreteically, it could also refer to a widely accepted 
+cittiraiyum vaikāciyum ākiya viḷa vēṉiṟ kālamumārkaḻiyun taiyum ākiya muṉ paṉik kālamumuṟaiyāṉē yain tiṇaikkum 
+uyar kālamutal ām eṉṟa vāṟu.<anchor xml:id="varu"/> <num>4.</num></p>
+<p xml:lang="en">The cold season comprising [the months] <term xml:lang="ta-Latn"><hi rend="italic">Aippaci</hi></term> 
+and <term xml:lang="ta-Latn"><hi rend="italic">Kārttikai</hi></term>; the hot season comprising [the months] 
+<term xml:lang="ta-Latn"><hi rend="italic">Āṉi</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">Āṭi</hi></term>; 
+the rainy season comprising [the months] <term xml:lang="ta-Latn"><hi rend="italic">Āvaṇi</hi></term> and 
+<term xml:lang="ta-Latn"><hi rend="italic">Puraṭṭāti</hi></term>; the late dew season<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">piṉ paṉi</hi></q> is the more common designation for <q xml:lang="ta-Latn"><hi rend="italic">oḻi paṉi</hi></q> (‘the season of ceasing dew’) from the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>.</note> comprising [the months] 
+<term xml:lang="ta-Latn"><hi rend="italic">Māci</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">Paṅkuṉi</hi></term>; 
+the young hot season comprising [the months] <term xml:lang="ta-Latn"><hi rend="italic">Cittirai</hi></term> and 
+<term xml:lang="ta-Latn"><hi rend="italic">Vaikāci</hi></term>; and the early dew season comprising [the months] 
+<term xml:lang="ta-Latn"><hi rend="italic">Mārkaḻi</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">Tai</hi></term><note xml:lang="en" place="foot">In the Gregorian calendar, the cold season runs from mid-October to mid-December, the hot season from mid-June to mid-August, the rainy season from mid-August to mid-October, the late dew season from mid-February to mid-April, the young hot season from mid-April to mid-June, and the early dew season from mid-December to mid-February.</note> are the basic major time-elements of the five poetic settings<note xml:lang="en" place="foot">There are six seasons and five poetic settings. Purely based on the information provided so far in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term> and the commentary, it is not clear how this difference is accounted for.</note> in order (i.e., respectively).
+<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">muṟaiyāṉē</hi></q> is a common term in commentarial 
+literature and will appear elsewhere in this text. It means either ‘in accordance with tradition’ or ‘in order’. 
+These get at similar things – the author is stating that the order of the listed items is the same as that of the 
+aforementioned poetic settings (see TNV 3 and its commentary). Theoretically, it could also refer to a widely accepted 
 enumeration given elsewhere, but since the order is the same as what we find in the preceding 
-<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term> and that is not always the case (see TP16i, where 
-the implied order is the same; see TP6-12i, where the implied list is different), I think the
- commentator is referring back to his own list. This is why I have translated this as 'order' rather than 
- 'tradition'.</note></p>
+<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> and that is not always the case (see TP 16i, where 
+the implied order is the same; see TP 6–12i, where the implied order is different), I think the
+ author is referring back to their own list. Hence the translation ‘order’ rather than 
+ ‘tradition’.</note></p>
  </div>
       </body></text>
       <standOff type="apparatus" corresp="#TNV4comm1" source="alignments/TNV4comm1.xml"><interp type="normalization">
@@ -214,16 +211,19 @@ the implied order is the same; see TP6-12i, where the implied list is different)
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<listApp>
   
-  <app loc="40,61">
-    <lem wit="#TNVc #TNV1937 #TNV1947">āṟuṇarttutaṉutaliṟṟu.</lem>
-  
-    <rdg wit="#TNVms">āṟuṇarttutanu</rdg>
+  <app loc="42,62">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNVc">āṟu<lb n="33"/>ṇarttutaṉutaliṟṟu</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āṟuṇarttutanu<gap reason="lost" unit="character" quantity="4"/></rdg>
   </app>
-</listApp>
-</standOff>
-<standOff type="notes4" corresp="#TNV4comm2"><note xml:lang="en" target="varu">There is no list of the months in either the TP, IA or IAC. This may be the earliest such list still extant.</note></standOff>
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV4comm2"><note xml:lang="en" target="#varu">There is no list of the months in any of the TP, IA, or IAC. This may be the earliest such list extant.</note></standOff>
 <standOff type="apparatus" corresp="#TNV4comm2" source="alignments/TNV4comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -235,44 +235,52 @@ the implied order is the same; see TP6-12i, where the implied list is different)
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="89,110">
-    <lem wit="#TNVc #TNV1937 #TNV1947">ākiya kār kālamumāciyum</lem>
-    <rdg wit="#TNVms">āki<gap reason="lost" unit="character" quantity="4"/><lb n="8"/>lamumāciyum</rdg>
+</interp>
+<listApp>
+  <app loc="89,104">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>ākiya kār kālamum</lem>
+      <rdg type="minor" wit="#TNVc">ākiya kārkālamum</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">ākiya kārkālamum, m</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āki<gap reason="lost" unit="character" quantity="4"/><lb n="8"/>lamum</rdg>
   </app>
   <app loc="125,133">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">piṉ paṉik</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>piṉ paṉik</lem>
+      <rdg type="minor" wit="#TNVmspc #TNVc #TNV1937 #TNV1947">piṉpaṉik</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">piṉipaṉik</rdg>
   </app>
   <app loc="140,151">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cittiraiyum</lem>
     <rdg wit="#TNVmsac">cittairaiyum</rdg>
   </app>
-  <app loc="161,175">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ākiya viḷa vēṉiṟ</lem>
-    <rdg wit="#TNVmsac">ākiyuyu<gap reason="illegible" unit="character" quantity="1"/>viḷavēṉiṟ</rdg>
+  <app loc="161,166">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ākiya</lem>
+    <rdg wit="#TNVmsac">ākiyuyu<gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
   <app loc="175,191">
-    <lem wit="#TNVc #TNV1937 #TNV1947">kālamumārkaḻiyun</lem>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>kālamumārkaḻiyun</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">kālamum, mārkaḻiyum</rdg>
+    </rdgGrp>
     <rdg wit="#TNVms">kālamumār<gap reason="lost" unit="character" quantity="4"/><lb n="9"/></rdg>
   </app>
-  
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV4"><note xml:lang="ta" target="#kar"><term xml:lang="en">Cf. TP6i:</term> kāru mālaiyu mullai//</note>
-<note xml:lang="ta" target="#kutir"><term xml:lang="en">Cf. TP7i:</term> kuṟiñci / kūtir yāma meṉmaṉār pulavar//</note>
-<note xml:lang="ta" target="#munpani"><term xml:lang="en">Cf. TP8i:</term> paṉiyetir paruvamu muritteṉa moḻipa//</note>
-<note xml:lang="ta" target="#venil"><term xml:lang="en">Cf. TP11i:</term> naṭuvunilait tiṇaiyē naṇpakala vēṉiloṭu / muṭivunilai maruṅkiṉ muṉṉiya neṟittē//</note>
-<note xml:lang="ta" target="#pani"><term xml:lang="en">Cf. TP12i:</term> piṉpaṉi tāṉu muritteṉa moḻipa//</note>
-<note xml:lang="ta" target="#kar"><term xml:lang="en">Cf. IAC1, p.24:</term> mullaikku... poḻutu kārum mālaiyum</note>
-<note xml:lang="ta" target="#kutir"><term xml:lang="en">Cf. IAC1, p.23:</term> kuṟiñcikku... poḻutu kūtirum yāmamum muṉpaṉiyum</note>
-<note xml:lang="ta" target="#venil"><term xml:lang="en">Cf. IAC1, p.23:</term> pālaikku... poḻutu naṇpakalum vēṉilum piṉpaṉiyum urittu</note>
+<standOff type="notes1" corresp="#TNV4"><note xml:lang="ta" target="#kar"><term xml:lang="en">Cf. TP6n:</term> kāru mālaiyu mullai kuṟiñci | kūtir yāma meṉmaṉār pulavar ||</note>
+<note xml:lang="ta" target="#munpani"><term xml:lang="en">Cf. TP7n:</term> paṉiyetir paruvamu muritteṉa moḻipa ||</note>
+<note xml:lang="ta" target="#venil"><term xml:lang="en">Cf. TP9n:</term> naṭuvunilait tiṇaiyē naṇpakala vēṉiloṭu | muṭivunilai maruṅkiṉ muṉṉiya neṟittē ||</note>
+<note xml:lang="ta" target="#pani"><term xml:lang="en">Cf. TP10n:</term> piṉpaṉi tāṉu muritteṉa moḻipa ||</note>
+<note xml:lang="ta" target="#kutir"><term xml:lang="en">Cf. IAC1, p. 23:</term> kuṟiñcikku… poḻutu kūtirum yāmamum muṉpaṉiyum.</note>
+<note xml:lang="ta" target="#venil"><term xml:lang="en">Cf. IAC1, p. 23:</term> pālaikku… poḻutu naṇpakalum vēṉilum piṉpaṉiyum.</note>
+<note xml:lang="ta" target="#kar"><term xml:lang="en">Cf. IAC1, p. 24:</term> mullaikku… poḻutu kārum mālaiyum.</note>
 </standOff>
-<standOff type="notes4" corresp="#TNV4"><note xml:lang="en" target="#polute">Nakkīraṉār states that since Tolkāppiyaṉār does not assign seasons to <term xml:lang="ta"><hi rend="italic">marutam</hi></term> and <term xml:lang="ta"><hi rend="italic">neytal</hi></term>, all six are approprite - IAC1, p.25: <q xml:lang="ta"><hi rend="italic">maruttatiṟkum neytaṟkum perumpoḻutu colliṟṟiṉmaiyiṉ aṟuvakai yirutuvum uriyaveṉakkoḷka</hi></q></note>
-<note xml:lang="en" target="#polute">The Tolkāppiyam treats these slightly differently. Landscapes and their appropriate season and time of day are listed in separate <term xml:lang="ta"><hi rend="italic">cūttirams</hi></term>. This is also why there is significant overlap with the list of sources for the next <term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>. The TP also has a different list to that found here. Only <term xml:lang="ta"><hi rend="italic">kuṟiñci</hi></term>, <term xml:lang="ta"><hi rend="italic">pālai</hi></term> and <term xml:lang="ta"><hi rend="italic">mullai</hi></term> have prescribed seasons and only 5 seasons are listed - <term xml:lang="ta"><hi rend="italic">kūtir</hi></term> and <term xml:lang="ta"><hi rend="italic">[muṉ]paṉi</hi></term> (<term xml:lang="ta"><hi rend="italic">kuṟiñci</hi></term>); <term xml:lang="ta"><hi rend="italic">vēṉil</hi></term> and <term xml:lang="ta"><hi rend="italic">piṉpaṉi</hi></term> (<term xml:lang="ta"><hi rend="italic">pālai</hi></term>); and <term xml:lang="ta"><hi rend="italic">kār</hi></term> (<term xml:lang="ta"><hi rend="italic">mullai</hi></term>).</note></standOff>
+<standOff type="notes4" corresp="#TNV4"><note xml:lang="en" target="#polute">Nakkīrar states that since Tolkāppiyar does not assign seasons to <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">neytal</hi></term>, all six are appropriate – IAC 1, p. 25: <q xml:lang="ta-Latn"><hi rend="italic">maruttatiṟkum neytaṟkum perumpoḻutu colliṟṟiṉmaiyiṉ aṟuvakai yirutuvum uriyaveṉakkoḷka</hi></q>.</note>
+<note xml:lang="en" target="#polute">The <foreign xml:lang="ta-Latn">Tolkāppiyam</foreign> treats these slightly differently. Poetic settings and their appropriate season and time of day are listed in separate <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>-s. This is also why there is significant overlap with the list of sources for the next <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>. The TP also has a different list from that found here. Only <term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term>, <term xml:lang="ta-Latn"><hi rend="italic">pālai</hi></term>, and <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term> have prescribed seasons, and only five seasons are listed – <term xml:lang="ta-Latn"><hi rend="italic">kūtir</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">[muṉ]paṉi</hi></term> (<term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term>); <term xml:lang="ta-Latn"><hi rend="italic">vēṉil</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">piṉpaṉi</hi></term> (<term xml:lang="ta-Latn"><hi rend="italic">pālai</hi></term>); and <term xml:lang="ta-Latn"><hi rend="italic">kār</hi></term> (<term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term>).</note></standOff>
 <standOff type="apparatus" corresp="#TNV4" source="alignments/TNV4.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -291,7 +299,7 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 </interp><listApp>
   <app loc="10,17">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">koḻuṅkā</lem>
-    <rdg wit="#TNVmsac">k<gap reason="illegible" unit="character" quantity="1"/>oḻuṅkā</rdg>
+    <rdg wit="#TNVmsac">ko<gap reason="illegible" unit="character" quantity="1"/>ḻuṅkā</rdg>
   </app>
   <app loc="17,25">
     <lem wit="#TNVc #TNV1937 #TNV1947">roḻipaṉi</lem>
@@ -308,7 +316,7 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 </entry>
 <entry>
 <form>vēṉil</form>
-<def>summer</def>
+<def>hot season</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -323,7 +331,7 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 </entry>
 <entry>
 <form>kār</form>
-<def>rainy season</def>
+<def>rain</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -344,7 +352,7 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 </entry>
 <entry>
 <form>vēṉil</form>
-<def>summer</def>
+<def>hot season</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -352,8 +360,6 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 <entry>
 <form>muṉ</form>
 <def>early</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>paṉi</form>
@@ -387,26 +393,23 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV4comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G13M2G7ML16MG4MG10ML9M,6MG61MG</interp>
+<interp type="alignment" select="0">17M2G7ML16MG4MG10ML9M,68MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
-<form type="sandhi">e-tu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>aim</form>
+<form><c type="glide">v</c>aim</form>
 <def>five</def>
-<form type="sandhi">ain</form>
-<gramGrp>
-</gramGrp>
+<form type="sandhi"><c type="glide">v</c>ain</form>
 </entry>
 <entry>
 <form>tiṇaikk<c type="elided">u</c>-um</form>
-<def>landscape</def>
+<def>poetic setting</def>
 <form type="simple">tiṇaikku</form>
 <form type="sandhi">tiṇaikk</form>
 <gramGrp>
@@ -556,7 +559,7 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 </entry>
 <entry>
 <form>vēṉil</form>
-<def>summer</def>
+<def>hot season</def>
 <form type="sandhi">vēṉiṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -696,7 +699,7 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 </entry>
 <entry>
 <form>vēṉil</form>
-<def>summer</def>
+<def>hot season</def>
 <form type="sandhi">vēṉiṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -712,12 +715,13 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>mārkaḻi-<c type="glide">y</c>un</form>
+<form>mārkaḻi-<c type="glide">y</c>um</form>
 <def>Mārkaḻi</def>
-<form type="sandhi">mārkaḻi<c type="glide">y</c>un</form>
+<form type="simple">mārkaḻi</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tai-<c type="glide">y</c>um</form>
@@ -776,7 +780,7 @@ the implied order is the same; see TP6-12i, where the implied list is different)
 </entry>
 <entry>
 <form>tiṇaikk<c type="elided">u</c>-um</form>
-<def>landscape</def>
+<def>poetic setting</def>
 <form type="simple">tiṇaikku</form>
 <form type="sandhi">tiṇaikk</form>
 <gramGrp>

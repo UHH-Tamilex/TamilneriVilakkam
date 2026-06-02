@@ -2513,7 +2513,7 @@
       <def>languishing</def>
       <form type="sandhi">cōrun</form>
       <gramGrp>
-        <gram type="role">imperfect aspect</gram>
+        <gram type="role">imperfective aspect</gram>
         <gram type="role">peyareccam</gram>
       </gramGrp>
     </entry>
@@ -2556,7 +2556,7 @@
       <form>varūum</form>
       <def>comes</def>
       <gramGrp>
-        <gram type="role">imperfect aspect</gram>
+        <gram type="role">imperfective aspect</gram>
         <gram type="role">peyareccam</gram>
       </gramGrp>
     </entry>
@@ -3335,7 +3335,7 @@
       <form><c type="glide">v</c>eṉkuvai</form>
       <def>say</def>
       <gramGrp>
-        <gram type="role">imperfect aspect</gram>
+        <gram type="role">imperfective aspect</gram>
         <gram type="role">singular</gram>
         <gram type="role">second person</gram>
       </gramGrp>
@@ -4713,7 +4713,7 @@
 <form>akalvar</form>
 <def>departs</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>

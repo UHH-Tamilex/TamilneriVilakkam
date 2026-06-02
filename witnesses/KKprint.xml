@@ -154,7 +154,7 @@
          <lg corresp="#TNV16poem9">
             <note place="margin" xml:lang="ta">pa. 13</note>
             <l>nōtaka vuṭaittē neñca matimicai</l>
-            <l>mātar<add place="margin">k</add> kuvaḷai <add place="margin">malar</add>malarn<sic>ta</sic><subst>
+            <l>mātar<add place="margin">k</add> kuvaḷai <add place="margin">malar</add>malarnta<subst>
             <del rend="implied"><space quantity="3" unit="characters"/></del><add place="in-place"> taṉṉa</add></subst></l>
             <l><subst>
                   <del rend="implied">[aruntakaik]</del>
@@ -340,7 +340,7 @@
 <milestone unit="page" n="82" facs="46"/>
          <pb n="82"/>   <lg corresp="#TNV19poem8">
                    
-<l>varaital vēṭṭaṉi rā<subst><del rend="underline">tali</del><add place="above">yi</add></subst>ṟ pati<subst><del rend="implied">va</del><add place="in-place"><sic>vā</sic></add></subst>yi</l>
+<l>varaital vēṭṭaṉi rā<subst><del rend="underline">tali</del><add place="above">yi</add></subst>ṟ pati<subst><del rend="implied">va</del><add place="in-place">vā</add></subst>yi</l>
 <l>ṉetirkoṭ cevviya remarē <subst><del rend="underline">(?)vaviyi</del><add place="right">yivvayi</add></subst></l>
 <l>ṉaṟunutaṟ peruntōṭ pētaiyuñ</l>
 <l>ciṟukuṭik kāṉavaṉ perumaṭa makaḷē.</l></lg>   

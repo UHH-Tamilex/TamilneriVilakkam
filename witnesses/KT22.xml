@@ -379,8 +379,8 @@
           <l rend="indent">which is fragrant with twigs lovely in the hot season</l>
           <l rend="indent">of the mightily twisted Marām tree,</l>
           <l rend="indent2">adornment of the mountain-side.(?)<note place="foot"><term xml:lang="ta">cilampu
-            aṇi koṇṭa</term>: literally "which the mountain side has taken as an adornment" or
-            "which [one] observes as an adornment of the mountain side" (cf. KT 341.2).</note></l>
+            aṇi koṇṭa</term>: literally "which the mountainside has taken as an adornment" or
+            "which [one] observes as an adornment of the mountainside" (cf. KT 341.2).</note></l>
 
         </lg>
       </div>
@@ -451,7 +451,7 @@
 <def>able-he</def>
 <form type="simple">kiṟpavar</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -611,15 +611,15 @@
         </app>
 <app loc="60,69">
         <lem wit="#L1 #C1 #C2 #C3 #G1v #G2 #EA #Cam">valañcuri</lem>
-        <rdg wit="#C3v #G1 #G2v #Camv">valañcuḻi</rdg>
+        <rdg wit="#C3v #KKms #G2v #Camv">valañcuḻi</rdg>
         </app>
 <app loc="96,100">
-        <lem wit="#L1 #C1 #C2v #C3 #G1 #G2 #EA #Cam">tēmū</lem>
+        <lem wit="#L1 #C1 #C2v #C3 #KKms #G2 #EA #Cam">tēmū</lem>
         <rdg wit="#C2 #C3v #Camv">tēṉū</rdg>
         </app>
 <app loc="100,107">
         <lem wit="#C1 #C2v #C3v #EA #Cam">roṇṇuta</lem>
-        <rdg wit="#L1 #C2 #C3 #G1 #G2">reṇṇuta</rdg>
+        <rdg wit="#L1 #C2 #C3 #KKms #G2">reṇṇuta</rdg>
 <rdg wit="#TV">coṇṇuta</rdg>
         </app>
 </listApp>

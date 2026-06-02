@@ -1,0 +1,139 @@
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Tolkāppiyam Poruḷatikāram Iḷampūraṇam ed. Citambaram Piḷḷai. 1928  </title>
+            
+         <editor><persName>Leo Nelson-Jones</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                  </repository>
+                  <idno type="shelfmark">TPi</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> Tolkāppiyam Poruḷatikāram Iḷampūraṇam ed. Citambaram Piḷḷai. 1928  </summary>
+                  
+               <msItem xml:id="TPi" defective="false"><title xml:lang="ta"> Tolkāppiyam Poruḷatikāram Iḷampūraṇam ed. Citambaram Piḷḷai. 1928  </title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="600"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Madras Tamil Lexicon conventions</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+<text corresp="#TPi" xml:lang="ta"><body xml:lang="ta"> 
+  <milestone unit="page" n="16"/>
+  <lg corresp="#TNV22poem14">
+  <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
+<l>malaiya ṉoḷvēṟ kaṇṇi</l>
+<l>mulaiyum vārā mutukkuṟain taṉaḷē.</l></lg>
+    <milestone unit="page" n="50"/>
+  <lg corresp="#TNV23poem24">
+<l>māṉatar mayaṅkiya malaimutaṟ ciṟuneṟi</l>
+<l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
+<l>añciṉa ḷañciṉa ḷotuṅkip</l>
+<l>pañci mellaṭi paralvaṭuk koḷavē.</l></lg>    
+             <milestone unit="page" n="290"/>  
+  <lg corresp="#TNV23poem1">
+ <l>ivaḷē niṉṉala tilaḷē yāyuṅ</l>
+    <l>kuvaḷai yuṇka ṇivaḷala tilaḷē</l>
+    <l>yāṉu māyiṭai yēṉē</l>
+    <l>māmalai nāṭa maṟavā tīmē</l></lg>
+      <lg corresp="#TNV17poem8">
+           <milestone unit="page" n="430"/>
+<l>pūtta veṅkai viyaṉciṉai yēṟi</l>
+<l>mayiliṉa makavu nāṭa</l>
+<l>ṉaṉṉitaṟ koṭicci maṉattakat tōṉē</l>
+      </lg>
+      <lg corresp="#TNV24poem1">
+         <milestone unit="page" n="41"/>     
+         <l>aṟaṉu mīkaiyu maṉpuṅ kiḷaiyum</l>
+            <l>pukaḻu miṉpun tarutaliṟ puṟampeyarntu</l>
+            <l>taruvatu tuṇintamai peritē</l>
+            <l>viripūṅ kōtai viḷaṅkiḻai poruḷē</l>
+      </lg>  
+      <lg corresp="#TNV24poem4">
+         <milestone unit="page" n="39"/>
+<l>āṟucel varuttañ cīṟaṭi civappavuñ</l>
+<l>ciṉainīṅku taḷiriṉ vaṇṇam vāṭavun</l>
+<l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷuṭaṉ</l>
+<l>vēypayi laḻuva muvakkum</l>
+<l>pētai neñcam peruntaka vuṭaittē</l>
+      </lg>
+      <lg corresp="#TNV24poem29">
+         <milestone unit="page" n="35"/>
+         <l>illoṭu miṭainta kollai mullaip</l>
+         <l>pallāṉ kōvalar paiyu ḷāmpal</l>
+         <l>pulampukōṇ mālai kēṭṭoṟuṅ</l>
+         <l>kalaṅkuṅko laḷiyaṇaṅ kāta lōḷē</l></lg>
+         <lg corresp="#TNV25poem1">
+            <milestone unit="page" n="256"/>
+            <l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
+            <l>nillal pāṇa celliṉip pariyal</l>
+            <l>pakaleñ cērik kāṇi</l>
+            <l>ṉakalvaya lūra ṉāṇavum peṟumē</l></lg>
+  </body></text></TEI>

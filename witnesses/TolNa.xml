@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār</title>
+            <title>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār (and Pērāciriyar)</title>
             
          <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
@@ -21,7 +21,7 @@
                <msContents class="#STM">
                   <summary>1885 first edition of Tolkāppiyam Poruḷatikāram with Nacciṉārkkiṉiyār's commentary edited by Tāmōtarampiḷḷai. Some blank pages with annotations are included.</summary>
                   
-               <msItem xml:id="TKn" defective="false"><title xml:lang="ta">Tolkāppiyam Nacciṉārkkiṉiyarṉārkkiṉiyār</title><textLang mainLang="tam"/></msItem><msItem xml:id="TKp" defective="true"><title xml:lang="ta">Tolkāppiyam Pērāciriyarāciriyar</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="TPn" defective="false"><title xml:lang="ta">Tolkāppiyam Nacciṉārkkiṉiyar</title><textLang mainLang="tam"/></msItem><msItem xml:id="TPp" defective="true"><title xml:lang="ta">Tolkāppiyam Pērāciriyar</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -85,12 +85,18 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://iiif.archive.org/iiif/Tamil-Tholkaappiyam-Porul-Nachi-1885/manifest.json" facs="1"/></facsimile>
-<text corresp="#TKn" xml:lang="ta"> <body xml:lang="ta">
+<text corresp="#TPn" xml:lang="ta"> <body xml:lang="ta">
    <lg corresp="#TNV22poem14">
            <pb n="8" facs="42"/>
 <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiya ṉoḷvēṟ kaṇṇi</l>
 <l>mulaiyum vārā mutukkuṟain taṉaḷē</l></lg>
+<lg corresp="#TNV24poem12">
+   <pb n="9" facs="43"/>
+<l>nāḷu nāḷu māḷviṉai yaḻuṅka</l>
+   <l>villiruntu makiḻvōrk killaiyāṟ pukaḻeṉa</l>
+   <l>voṇporuṭ kakalvarnaṅ kātalar</l>
+   <l>kaṇpaṉi tuṭaiyiṉit tōḻi nīyē</l></lg>
  <lg corresp="#TNV23poem1">
         <pb n="65" facs="115"/>
 <l>ivaḷē niṉṉala tilaḷē yāyuṅ</l>
@@ -109,11 +115,18 @@
 <l>ciṉainīṅku taḷiriṉ vaṇṇam vāṭavun</l>
 <l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷuṭaṉ</l>
 <l>vēypayi laḻuva muvakkum</l>
-<l>pētai neñcam peruntaka vuṭaittē</l></lg>    
+<l>pētai neñcam peruntaka vuṭaittē</l></lg> 
+<lg corresp="#TNV24poem22">
+   <pb n="289" facs="344"/>
+   <l>amma vāḻi tōḻi yavarpō</l>
+   <l>ṉammuṭai vāḻkkai maṟantaṉṟu kollō</l>
+   <l>maṉaiyeṟi yulakkaiyiṟ ṟiṉaikiḷi kaṭiyuṅ</l>
+   <l>kāṉa nāṭaṉ pirinteṉat</l>
+   <l>tāṉum pirintaṉṟeṉ māmaik kaviṉē</l></lg>    
 <lg corresp="#TNV24poem23">
   <pb n="289" facs="344"/>
 <l>ciṟupuṉ mālai ciṟu<pb n="290" facs="344"/>puṉ mālai</l>
-<l>tīppaṉi paṉṉa taṇvaḷi yacaiic</l>
+<l>tīppaṉip paṉṉa taṇvaḷi yacaiic</l>
 <l>cekkar koṇṭa ciṟupuṉ mālai</l>
 <l>vaikalum varutiyā lemakkē</l>
 <l>yoṉṟuñ collāyavar kuṉṟukeḻu nāṭṭē</l></lg>
@@ -121,9 +134,9 @@
   <pb n="310" facs="365"/>
 <l>keḷavaiyam perumpaḻi tūṟṟa nalaṉaḻintu</l>
 <l>paitalañ ciṟunutal pacalai pāya</l>
-<l>nammitaṟ paṭutta vavariṉum avarnāṭṭuk</l>
+<l>nammitaṟ paṭutta vavariṉu mavarnāṭṭuk</l>
 <l>kuṉṟaṅ koṭiyako ṟōḻi</l>
-<l>oṉṟun tōṉṟā maḻaimaṟain taṉavē</l></lg>
+<l>yoṉṟun tōṉṟā maḻaimaṟain taṉavē</l></lg>
 <lg corresp="#TNV24poem26">
   <pb n="284" facs="339"/>
   <l>toṭinaṭan tiḻiyac cāayt tōḷavar</l>
@@ -136,10 +149,19 @@
 <pb n="394" facs="454"/>
 <l>pulaimaka ṉātaliṟ poynniṉ vāḻi</l>
 <l>nillal pāṇa celliṉip pariyal</l>
-<l>pakaleñ cēri kāṇiṉ</l>
-<l>akalvaya lūran nāṇavum peṟumē</l></lg>
-   </body></text><text corresp="#TKp" xml:lang="ta"><body xml:lang="ta">  
-  <lg corresp="#TNV24poem26">
+<l>pakaleñ cēri kāṇi</l>
+<l>ṉakalvaya lūra ṉāṇavum peṟumē</l></lg>
+   </body></text>
+   
+   <text corresp="#TPp" xml:lang="ta"><body xml:lang="ta">  
+      <lg corresp="#TNV17poem8">
+         <pb n="663" facs="727"/>
+<l>pūtta veṅkai viyaṉciṉai yēṟi</l>
+<l>mayiliṉa makavu nāṭa</l>
+<l>ṉaṉṉutaṟ koṭicci maṉattakat tōṉē</l>
+      </lg>
+  
+      <lg corresp="#TNV24poem26">
       <pb n="504" facs="565"/>
   <l>toṭinilai nekiḻac cāayt tōḷavar</l>
   <l>koṭumai kūṟiya vāyiṉuṅ koṭumai</l>

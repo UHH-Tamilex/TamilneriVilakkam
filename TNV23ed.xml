@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 23. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 23.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -113,69 +112,58 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
-            <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
-            <expan>Tolkāppiyam Pērāciriyar</expan>
-          </witness>
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVed<hi rend="subscript">ac</hi></abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVed<hi rend="subscript">pc</hi></abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
+
+
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
-          </witness>
+          
+<listWit>
+<witness xml:id="KT2-C2" select="#C2" source="witnesses/KT2.xml"><abbr type="siglum">KT2-C2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">Iṟaiyaṉār</persName>: <i>HE</i> [witness C2]</expan></witness></listWit></witness>
            <witness xml:id="KT1" source="https://uhh-tamilex.github.io/Kuruntokai/KT1.xml">
-              <abbr type="siglum">KT1</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT1</expan>
               </witness>
                <witness xml:id="KT7" source="https://uhh-tamilex.github.io/Kuruntokai/KT7.xml">
-              <abbr type="siglum">KT7</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT7</expan>
               </witness>
         
            <witness xml:id="KT17" source="https://uhh-tamilex.github.io/Kuruntokai/KT17.xml">
-              <abbr type="siglum">KT17</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT17</expan>
           </witness>
           <witness xml:id="KT18" source="https://uhh-tamilex.github.io/Kuruntokai/KT18.xml">
-              <abbr type="siglum">KT18</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT18</expan>
           </witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
           <witness xml:id="KT78" source="https://uhh-tamilex.github.io/Kuruntokai/KT78.xml">
-              <abbr type="siglum">KT78</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT78</expan>
           </witness>
-           <witness xml:id="KT88" source="https://uhh-tamilex.github.io/Kuruntokai/KT78.xml">
-              <abbr type="siglum">KT88</abbr>
+           <witness xml:id="KT88" source="https://uhh-tamilex.github.io/Kuruntokai/KT88.xml">
+              <abbr type="siglum">KT</abbr>
               <expan>KT88</expan>
           </witness>
            <witness xml:id="KT119" source="https://uhh-tamilex.github.io/Kuruntokai/KT119.xml">
-              <abbr type="siglum">KT119</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT119</expan>
           </witness>
            <witness xml:id="KT130" source="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">
-              <abbr type="siglum">KT130</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT130</expan>
           </witness>
         <witness xml:id="TNVed" source="TNV1947.xml">
@@ -183,47 +171,90 @@
                 <expan>TNV print</expan>
             </witness>
              <witness xml:id="KT149" source="https://uhh-tamilex.github.io/Kuruntokai/KT149.xml">
-              <abbr type="siglum">KT149</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT149</expan>
           </witness>
           <witness xml:id="Aink372" source="https://uhh-tamilex.github.io/Ainkurunuru/Aink372.xml">
-              <abbr type="siglum">Aink372</abbr>
+              <abbr type="siglum">AiN</abbr>
               <expan>Aink372</expan>
           </witness>
            <witness xml:id="Aink391" source="https://uhh-tamilex.github.io/Ainkurunuru/Aink391.xml">
-              <abbr type="siglum">Aink391</abbr>
+              <abbr type="siglum">AiN</abbr>
               <expan>Aink391</expan>
           </witness>
            <witness xml:id="Aink393" source="https://uhh-tamilex.github.io/Ainkurunuru/Aink393.xml">
-              <abbr type="siglum">Aink393</abbr>
+              <abbr type="siglum">AiN</abbr>
               <expan>Aink393</expan>
           </witness>
           <witness xml:id="Aink399" source="https://uhh-tamilex.github.io/Ainkurunuru/Aink399.xml">
-              <abbr type="siglum">Aink399</abbr>
+              <abbr type="siglum">AiN</abbr>
               <expan>Aink399</expan>
           </witness>
           <witness xml:id="Aink382" source="Aink382.xml">
-            <abbr type="siglum">Aink382</abbr>
+            <abbr type="siglum">AiN</abbr>
             <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan>
           </witness>
           <witness xml:id="KT22" source="KT22.xml">
-            <abbr type="siglum">KT22</abbr>
+            <abbr type="siglum">KT</abbr>
             <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName> : <hi rend="italic">the confidante</hi></expan>
           </witness>
           <witness xml:id="KT71" source="KT71.xml">
-            <abbr type="siglum">KT71</abbr>
+            <abbr type="siglum">KT</abbr>
             <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 71. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <hi rend="italic">HE</hi></expan>
           </witness>
           <witness xml:id="KT315" source="KT315.xml">
-            <abbr type="siglum">KT315</abbr>
+            <abbr type="siglum">KT</abbr>
             <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
-                Vēḷātattaṉ </persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan>
+                Vēḷātattaṉ</persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan>
           </witness>
            <witness xml:id="IA" source="witnesses/IAprint.xml">
             <abbr type="siglum">IA</abbr>
-            <expan>	Iṟaiyaṉār Akapporuḷ 1916</expan>
+            <expan>Iṟaiyaṉār Akapporuḷ 1916</expan>
           </witness>
-        </listWit>
+        
+<witness xml:id="TPi" source="witnesses/TPi.xml">
+<abbr>TPi</abbr>
+<expan>Tolkāppiyam Poruḷatikāram Iḷampūraṇam ed. Citambaram Piḷḷai. 1928</expan>
+</witness>
+<witness xml:id="TPn" source="witnesses/TolNa.xml">
+<abbr>TPn</abbr>
+<expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār (and Pērāciriyar)</expan>
+<listWit>
+<witness xml:id="TPnac" n="ac">
+<abbr type="siglum">TPn<hi rend="subscript">ac</hi></abbr>
+<expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār (and Pērāciriyar) [ante correctionem]</expan>
+</witness>
+<witness xml:id="TPnpc" n="pc">
+<abbr type="siglum">TPn<hi rend="subscript">pc</hi></abbr>
+<expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār (and Pērāciriyar) [post correctionem]</expan>
+</witness>
+</listWit>
+</witness>
+<witness xml:id="TPp" source="TolNa.xml">
+<abbr>TPp</abbr>
+<expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār (and Pērāciriyar)</expan>
+</witness>
+<witness xml:id="TPn2" source="witnesses/TPCna.xml">
+<abbr>TPn2</abbr>
+<expan>Tolkāppiyam Poruṭatikāram Ceyyuḷiyal Nacci</expan>
+</witness>
+<witness xml:id="VC" source="witnesses/VC.xml">
+<abbr>VC</abbr>
+<expan>Vīracōḻiyam</expan>
+</witness>
+<witness xml:id="YV1916a" source="witnesses/YV1960.xml">
+<abbr type="siglum">YVa</abbr>
+<expan>YV1916</expan>
+</witness>
+<witness xml:id="YV1916b" source="YV1960.xml">
+<abbr type="siglum">YVb</abbr>
+<expan>YV1916</expan>
+</witness>
+<witness xml:id="TKn" source="TolNa.xml"><abbr type="siglum">TKn</abbr><expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
+<listWit>
+<witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness>
+<witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
+<witness xml:id="TKp" source="TolPe.xml"><abbr type="siglum">TKp</abbr><expan>Tolkāppiyam Pērāciriyar</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -238,11 +269,19 @@
 <l>naivuṭaic cevili naṟṟāy moḻiyē<anchor xml:id="moli"/></l>
 <l>celcurat tiraṅkal kaṇṭōr teḷitta</l>
 <l>lilvayiṟ peyartta liḷaiyōr celavē</l>
-<l>yaṟintaṉaṉ maṟaita<anchor xml:id="maraital"/><!--note place="foot" xml:lang="en">This reading aligns with the <hi rend="italic">koḷu</hi> in the commentary, so it is presumably the reading known to the commentator. I have also not been able to find <hi rend="italic">malaital</hi> as a sub-situation in other poetic treatises, so I have deviated from the MS reading.</note--> layalōr moḻital</l>
+<l>yaṟintaṉaṉ maṟaita<anchor xml:id="maraital"/> layalōr moḻital</l>
 <l>peyarntaṉaṉ varutal peruṅkiḷai makiḻvē</l>
 <l>tāyar kūṟṟē talaimakaṉ<anchor xml:id="talaimakan"/> moḻiyō</l>
 <l>ṭāyiṉa piṟavu muṭaṉcela vākum.</l></lg>
-<p xml:lang="en">[The confidante] entrusting [the heroine to the hero]; [the hero's] joy; the speech of the onlookers; the speech of the distressed foster-motehr to the birth-mother; [the foster-mother] weeping about [the couple] going through the desert; the onlookers clarifying [the situation]; the young men [of her family] going [after them]; [the hero] knowing [they are coming and] hiding; the nighbours speaking; [the hero] who had left, returning [with her]; the joy of [the heroine's] many relatives; the speech of the mothers; the speech of the hero? and other [speech situations] are 'the elopement'.</p>
+<lg xml:lang="en">
+  <l>[The confidante] entrusting [the heroine to the hero]; [the hero’s] joy; the speech of the onlookers;</l> 
+  <l>the speech of the distressed foster mother to the birth mother;</l> 
+  <l>[the foster mother] weeping about [the couple] going through the desert; the onlookers clarifying [the situation];<note xml:lang="en" place="foot">Alternatively, removing her distress (see TNV 22).</note></l> 
+  <l>[the foster mother] returning to the house; the young men [of her family] going [after them];</l> 
+  <l>[the hero] knowing [they are coming and] hiding; the neighbours speaking;</l> 
+  <l>[the hero] who had left returning [with her]; the joy of [the heroine’s] many relatives;</l> 
+  <l>the speech of the mothers; along with the speech of the hero</l> 
+  <l>and other [speech situations] are the elopement.</l></lg>
 </div>
 </body>
 </text>
@@ -251,41 +290,57 @@
       <head xml:lang="en">Commentary</head>
       <div type="mūlam" rend="parallel">
       <p xml:id="TNV23comm1">eṉpatu uṭaṉ celavām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which 'the elopement' occurs.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the elopement occurs.</p>
       </div>
       <div type="mūlam" rend="parallel">
       <p xml:id="TNV23comm2">kai yaṭai mutal ākat talaimakaṉ kūṟṟīṟākac collap paṭṭaṉa varaivu maṟuttuḻi 
       yākiya vuṭaṉ celavām eṉṟa vāṟu.</p>
-      <p xml:lang="en">Beginning with entrusting and ending with the speech of the hero - those things which have been mentioned are the elopement which takes place after the marriage rejection.</p>
+      <p xml:lang="en">Beginning with entrusting and ending with the speech of the hero, those things that have been mentioned are the elopement that takes place after the marriage rejection.</p>
       </div>
       <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem1"> 
     <l>ivaḷē niṉṉala tilaḷē yāyuṅ</l>
     <l>kuvaḷai yuṇka ṇivaḷala tilaḷē</l>
     <l>yāṉu māyiṭai yēṉē</l>
-    <l>māmalai<!--note xml:lang="en" place="foot">There is a formula adj + <hi rend="italic">malai</hi> + <hi rend="italic">nāṭaṉ</hi>. I cannot find a single instance where <hi rend="italic">malai nāṭan</hi> is not preceded my a qualifier, hence the deviation from the MS even though the reading does make sense.</note--> nāṭa maṟavā tīmē</l>
+    <l>māmalai<anchor xml:id="malai"/> nāṭa maṟavā tīmē.<anchor xml:id="time"/></l>
 </lg>
+<lg xml:lang="en">
+  <l>Without you, she is nothing.<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">ivaḷē niṉ alatu ilaḷē</hi></q> has also been understood as: ‘Without you, she has no one’ (see Buck and Paramasivam 1997).</note></l>
+  <l>And without the one with kajal eyes like water lilies, mother is nothing.</l>
+  <l>I am in that situation as well!<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">āy iṭaiyēṉē</hi></q> is not totally clear. The proposed translation certainly makes sense in the context – the confidante would be lost without her friend and so urges the hero to be safe and thoughtful. I see one other reasonable interpretation. If one takes <foreign xml:lang="ta-Latn">iṭai</foreign> as either ‘middle’ or ‘way’, then the confidante could be referring to the fact that she was the intermediary who facilitated this situation, and thus bears some responsibility for its results, hence the plea for the hero to be thoughtful.</note></l>
+  <l>O man from the land with great mountains, please don’t forget!</l>
+  </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu1">eṉpatu kai yaṭai.</p>
-    <p xml:lang="en">[The confidante] entrusting [the heroine to the hero].</p>
+    <p xml:id="TNV23koḷu1">eṉpatu kai yaṭai.<anchor xml:id="kaiyatai"/></p>
+    <p xml:lang="en">This is [the confidante] entrusting [the heroine to the hero].</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem2"> 
-    <l>mella mellaniṉ ṉaṭai yāṟṟi<anchor xml:id="mella"/></l>
-    <l>varuntā tēkumati maṭavō</l>
-    <l>yiruntaṇ poḻilayāñ cellu māṟē</l>
+    <l>mella mellaniṉ ṉaṭai<anchor xml:id="natai"/> yāṟṟi<anchor xml:id="mella"/></l>
+    <l>varuntā tēkumati<anchor xml:id="tekumati"/> maṭavō</l>
+    <l>yiruntaṇ poḻilayāñ cellu māṟē.</l>
+</lg>
+<lg xml:lang="en">
+<l>Softly, softly, with your gait,<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">niṉ naṭai āṟṟi</hi></q> literally translates to either: ‘carrying/bearing your gait, go…’ or ‘your gait being able to bear it, go…’. The first interpretation requires no subject-change, which makes it preferable, but a literal translation is very unidiomatic in English.</note></l>
+<l>go without suffering, O innocent one,</l>
+<l>on the way we travel to the big<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">irum</hi></q> could just as well mean ‘dark’. In that case, the connotation might be that it is kept in shade, which is also why it is cool.</note> cool grove.<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">poḻila</hi></q> is understood here as an adjectival form qualifying <q xml:lang="ta-Latn"><hi rend="italic">āṟu</hi></q>. Theoretically, this could also be a neuter plural pronominalised noun.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu2">eṉpatu talaimakaṉ makiḻccik kiḷavi.</p>
-    <p xml:lang="en">The speech of the hero's joy.</p>
+    <p xml:id="TNV23koḷu2">eṉpatu talaimakaṉ makiḻccik kiḷavi.<anchor xml:id="makilcci"/></p>
+    <p xml:lang="en">This is the speech of the hero’s joy.</p>
 </div> 
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem3"> 
-    <l>uvantaṉai kāṇṭiyō neñcē mēṉā</l>
+    <l>uvantaṉai kāṇṭiyō<anchor xml:id="kantiyo"/> neñcē mēṉā</l>
     <l>ḷivarntaṉai ceṉṟu meytāk</l>
-    <l>karuṅkuḻaṉ mātar mayiliyaṟ kaviṉē</l>
+    <l>karuṅkuḻaṉ mātar mayiliyaṟ kaviṉē.</l>
+</lg>
+<lg xml:lang="en">
+<l>Do you rejoice when you see,<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">kāṇṭiyō</hi></q>: this subjunctive + <term xml:lang="ta-Latn"><hi rend="italic">-ō</hi></term> formulation is a late-Caṅkam development found first in the <term xml:lang="ta-Latn"><hi rend="italic">Kalittokai</hi></term>. I understand it as a conditional question (‘Would/will you x if/when y’), but it is not widely attested and I am not totally convinced of this interpretation, though I do think it makes sense here. For a discussion on the variant reading, see the critical notes in the apparatus.</note> O heart,</l>
+<l>the peacock-natured beauty of the woman with dark hair</l>
+<l>who [you] did not reach even though you climbed<note xml:lang="en" place="foot">It is not clear what this refers to. Did they have to physically climb over a barrier to try and meet the heroine, or is this metaphorical, referring to one’s spirits being raised? <q xml:lang="ta-Latn"><hi rend="italic">ivarntaṉai</hi></q> could also be translated as ‘you desired’ according to the TL, but this is not a meaning attested in the Caṅkam corpus.</note> and went after her yesterday?</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -299,7 +354,15 @@
     <l>muṉcela viṭuppa nāṇip piṉpiṉ</l>
     <l>ṟāḻntaṉa ḷotuṅka yāṉun tāḻtaliṉ</l>
     <l>vaikiṉa mātō neñcē</l>
-    <l>paiviri yalkuloṭu paruvat tāṉē<anchor xml:id="tane"/><!--note place="foot" xml:lang="en">Both readign make good sense here - the couple are delayed with regard to their return in the MS reading and delayed in the wilderness in the others. <p xml:lang="ta">ṟ</p> and <p xml:lang="ta">ḻ</p> sound similar and so I find it plausible that a scribe may have sonfused the two at some point if copying from dictation, but without anything more than speculation to back this up, I am choosing the MS reading.<note--></l>
+    <l>paiviri yalkuloṭu paḻuvat tāṉē.<anchor xml:id="tane"/></l>
+</lg>
+<lg xml:lang="en">
+<l>‘Having adorned [you] with fresh flower garlands</l>
+<l>and stroked [your] beautiful body<note xml:lang="en" place="foot">One could either take her body as the locus of the adornment (‘having adorned her body with garlands’), or the object of stroking, as in the translation. I prefer the latter due to the word order, but word order is flexible in this poetry, so one could easily argue in favour of the other reading if they thought it made better sense.</note> and hair, I shall see your little back.’</l>
+<l>When I sent her ahead saying this,</l>
+<l>becoming shy, she hung back to hide and because I also hung back,</l>
+<l>won’t we be delayed in the wilderness</l>
+<l>along with [her] mound with an open hood?<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">pai viri alkul</hi></q> is unambiguously referring to the heroine’s vulva and clitoral hood. Whether or not one ought to translate <q xml:lang="ta-Latn"><hi rend="italic">alkul</hi></q> as ‘vulva’ is up for debate. At this stage of the language, it had come to regularly refer to the waist or hips.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -308,24 +371,37 @@
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem5" corresp="#KT7"> 
-    <l>villōṉ kāval kaḻalē toṭiyōṇ</l>
+    <l>villōṉ kālaṉa<anchor xml:id="kaval"/> kaḻalē toṭiyōṇ</l>
     <l>mellaṭi mēlavuñ cilampē nallōr</l>
-    <l>yārko laḷiya tāmē yāriyar</l>
+    <l>yārko laḷiyar tāmē yāriyar</l>
     <l>kayiṟāṭu paṟaiyiṟ kālporak kalaṅki</l>
     <l>vākai veṇṇeṟ ṟolikkum</l>
-    <l>vēypayi laḻuva muṉṉi yōrē</l>
-      <trailer><note>kuṟun. 7</note></trailer>
+    <l>vēypayi laḻuva muṉṉi yōrē.</l>
+      <trailer><note>Kuṟuntokai 7</note></trailer>
+</lg>
+<lg xml:lang="en">
+<l>The man with the bow has anklets on his legs</l>
+<l>and the girl with bangles has anklets above her soft feet.</l>
+<l>Who are [those] good ones? They are pitiable indeed!</l>
+<l>These people who are approaching the thickets of dense<note xml:lang="en" place="foot">Or ‘rustling bamboo’, if one takes <q xml:lang="ta-Latn"><hi rend="italic">olikkum</hi></q> differently.</note> bamboo</l>
+<l>where the white sirissa tree nuts sound out after the wind hits them</l>
+<l>so they beat like the drums of the rope dancing <term xml:lang="ta-Latn"><hi rend="italic">Āriyar</hi></term>.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu5">eṉpatu curattetirp paṭṭār colliyatu.</p>
-    <p xml:lang="en">Those who encounter [the couple] in the desert speak.</p>
+    <p xml:id="TNV23koḷu5">eṉpatu curattetirp paṭṭār colliyatu.<anchor xml:id="pattar"/></p>
+    <p xml:lang="en">This is those who encounter [the couple] in the desert having spoken.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem6"> 
-    <l>ceṅkatirc celvaṉu mattañ cēntaṉaṉ</l>
+    <l>ceṅkatirc celvaṉu mattañ cērntaṉaṉ<anchor xml:id="cerntanan"/></l>
     <l>koṅkivar kuḻalō ṭivvaḻit</l>
-    <l>taṅkiṉai ceṉmō takaivey yōṉē<anchor xml:id="yone"/></l>
+    <l>taṅkiṉai ceṉmō takaivey yōṉē.<anchor xml:id="yone"/></l>
+</lg>
+<lg xml:lang="en">
+<l>The lord with red rays has also joined with the road.<note xml:lang="en" place="foot">See note to TNV 18, poem 3.</note></l>
+<l>Stay here<note xml:lang="en" place="foot">My impression is that the poet regularly uses <q xml:lang="ta-Latn"><hi rend="italic">ivvaḻi</hi></q> to mean ‘here’. One could translate it more literally, as has been done in other translations presented in this edition, as: ‘along this way’.</note> [for the night] with the girl whose hair is full of pollen,</l>
+<l>and [then] leave, O man keen on<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">veyyōṉ</hi></q> is often a designation for the sun, and indeed one can see this in PK 186.3 cited as a source in the apparatus. Here, however, as we already have a standard euphemism for the sun in line one – <q xml:lang="ta-Latn"><hi rend="italic">cem katir celvaṉ</hi></q> – this should be taken differently. <foreign xml:lang="ta-Latn">vemmai</foreign>, the abstract noun from which this form is derived, has a less well-attested meaning of ‘desire’. One finds a parallel for this in the Caṅkam corpus in PN 369.28. There it is also found directly preceded by <foreign xml:lang="ta-Latn">takai</foreign>, and the phrase means someone ‘who is keen on what is befitting’ (i.e., ‘keen on what is right’).</note> right!<note xml:lang="en" place="foot">The point of the poem is that the onlookers are warning the hero against continuing along this dangerous road through the wilderness. They point out that even the sun has retired for the night, implying that the hero ought to do the same and spend the night with them before returning home. The <term xml:lang="ta-Latn"><hi rend="italic">muṟṟeccam</hi></term> phrase, <q xml:lang="ta-Latn"><hi rend="italic">taṅkiṉai ceṉmō</hi></q>, has been translated here similarly to if <term xml:lang="ta-Latn"><hi rend="italic">taṅku-tal</hi></term> were an absolutive. More literally one could translate: ‘Leave as one who has stayed here’. This interpretation is guided by the PK sources. Alternatively, if one took <foreign xml:lang="ta-Latn">taṅku-tal</foreign> differently as ‘to delay/wait’, the speech of the onlookers could be read as a piece of advice to the couple, telling them to hurry up: ‘You who have delayed [yourself] on this road… go!’</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -336,58 +412,89 @@
 <lg xml:id="TNV23poem7"> 
     <l>neṭuntērk kāḷaiyo ṭōrāṅ kēkik</l>
     <l>kaṭuñcuran tītiṉ ṟiṟantaṉa ḷavaḷeṉak</l>
-    <l>kūṟumi ṉantaṇir<!--note place="foot" xml:lang="en">This is a rare occassion where I have taken the reading of the print edition. I cannot make sense of the gemination found in both manuscripts.</note--> toḻutaṉa ṉummē</l>
+    <l>kūṟumi ṉantaṇir<anchor xml:id="anta"/> toḻutaṉa ṉummē</l>
     <l>tēyvuṟu matiyoṭu kalaṅkum</l>
-    <l>yāyu māyamu miruntuyar keṭavē<anchor xml:id="ketave"/></l>
+    <l>yāyu māyamu miruntuyar keṭavē.<anchor xml:id="ketave"/></l>
+</lg>
+<lg xml:lang="en">
+  <l>O brahmin, I worship you! Tell them,</l>
+  <l>‘Having gone as one with the young man with the tall chariot,</l>
+  <l>she crossed the harsh desert without harm,’</l>
+  <l>so that the great sorrow of the mother and [my] friends perishes</l>
+  <l>when they become agitated with waning minds.<note xml:lang="en" place="foot"><foreign xml:lang="ta-Latn">mati</foreign> could also mean ‘moon’, but if so, it is not clear what specific importance the waning moon would have.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV23koḷu7">eṉpatu etirkaṇṭārkkut talaimakaḷ colliyatu.</p>
-    <p xml:lang="en">The heorine speaks to an onlooker.</p>
+    <p xml:lang="en">This is the heroine having spoken to an onlooker.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem8"> 
-    <l>vaṇṭār kōtai vārvaḷait<!--note place="foot" xml:lang="en">There is no question that <p xml:lang="ta"><hi rend="italic">varivaḷai tōḷi</hi></p>  is a common formula, and I imagine this is why the scribe who copied the paper MS changed this reading, however that in itself is not good enough reason to discount this semantically and metrically sound version. One can also find this phrase, or something almost identical, twice in the <term xml:lang="ta"><hi rend="italic">Peruṅkaṭai</hi></term>. See 3:10:24 and 5:3:125.</note--> tōḷiyaip</l>
+    <l>vaṇṭār kōtai vārvaḷait<anchor xml:id="varivalai"/> tōḷiyaip</l>
     <l>paṇṭā ṭiṭaṅkaḷuṭ kāṇā tiṉṉu</l>
     <l>nillā vuṭampoṭu keḻīi</l>
-    <l>niṉṟaṉai kollō vāḻiya neñcē</l>
+    <l>niṉṟaṉai kollō vāḻiya neñcē.<anchor xml:id="nencu"/></l>
 </lg>
+<lg xml:lang="en">
+<l>And now, without seeing the girl with arms</l>
+<l>spread with bangles<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">vār</hi></q> is very polysemous. <q xml:lang="ta-Latn"><hi rend="italic">vār vaḷai tōḷi</hi></q> could also be translated: ‘arms with bangles arranged in order (i.e., regularly)’, ‘arms with bangles that flow down [them]’, ‘arms overflowing with bangles’ etc.</note> and a garland full of bees</l>
+<l>in the places where she used to play, [how] do you exist,<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">niṉṟaṉai-kollō</hi></q> is more literally ‘do you stand’, but it often carries the sense of existence or continuation.</note></l> 
+<l>embracing a body no longer there,<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">nillā vuṭampoṭu</hi></q> could, theoretically, refer to the mother’s body, not the heroine’s. In that case, the final two lines are lamentation about having to continue living, rather than a pointed complaint about the heroine’s absence. Considering the first half, where the focus is on all the places the heroine is no longer found, this seems like a less likely reading.</note> O heart?</l>
+   </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu8">eṉpatu talaimakaḷaik kāṇātu colli yiraṅkiyatu.</p>
-    <p xml:lang="en">[The foster mother] speaks about not seeing the heroine and weeps.</p>
+    <p xml:id="TNV23koḷu8">eṉpatu talaimakaḷaik kāṇātu cevili<anchor xml:id="cevili"/> yiraṅkiyatu.<anchor xml:id="iranki"/></p>
+    <p xml:lang="en">This is [the foster mother] having wept after not seeing the heroine.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem9"> 
-    <l>valiyai maṉṟa nīyē polivaḷai</l>
+    <l>valiyai maṉṟa nīyē polivaḷaik</l>
     <l>kātaṟ ṟōḻi kaiyakaṉ ṟoḻiyavum</l>
-    <l>pētuṟ ṟilaiyā luyiroṭum puṇarntē</l>
+    <l>pētuṟ ṟilaiyā<anchor xml:id="rilaiya"/> luyiroṭum puṇarntē.</l>
+</lg>
+<lg xml:lang="en">
+<l>O, you are strong indeed! Even though</l>
+<l>[your] beloved friend with shining bangles departed,<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">kai-</hi></q> is understood as a verbal prefix here, but one could also take it as a noun, in which case: ‘[your] beloved friend’s hand departed’ or ‘[your] beloved friend departed [from your] hand’.</note> and left [you] behind,<note xml:lang="en" place="foot">This translation keeps the subject-coherence between <foreign xml:lang="ta-Latn">akal-tal</foreign> and <foreign xml:lang="ta-Latn">oḻi-tal</foreign>. Doing this, however, requires not taking <foreign xml:lang="ta-Latn">oḻi-tal</foreign> in its most common meaning ‘to stay behind’. That would require the confidante to be the subject, which is a possibility and would make perfect sense in the context: ‘[your] friend departed, even though you stayed behind’. The presented translation keeps the heroine as the subject of both actions, and understands a meaning attested in the bhakti corpus – ‘to leave (behind)’ (cf. <foreign xml:lang="ta-Latn">Nāṉmukaṉ Tiruvantāti</foreign> 88.1, for example).</note></l>
+<l>having united with life, you feel no distress!</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu9">eṉpatu tōḻiyai nōkkic cevili colliyatu.</p>
-    <p xml:lang="en">The foster mother sees the confidante and speaks [to her].</p>
+    <p xml:id="TNV23koḷu9">eṉpatu tōḻiyai nōkkic cevili colliyatu.<anchor xml:id="nokki"/></p>
+    <p xml:lang="en">This is the foster mother having spoken after seeing the confidante.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem10"> 
     <l>cūṉmutir koṇmū miṉṉupu poḻiyak</l>
     <l>kāṉaṅ kaṭumai nīṅkuka</l>
-    <l>māṉuṇ kaṇṇi pōkiya neṟiyē<anchor xml:id="neriye"/></l>
+    <l>māṉuṇ kaṇṇi pōkiya neṟiyē.<anchor xml:id="neriye"/></l>
+</lg>
+<lg xml:lang="en">
+<l>After the pregnant, mature clouds flash,</l>
+<l>let the harshness of the wilderness leave as it showers on the road</l>
+<l>along which the one with the doe-like kajal eyes goes.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu10">eṉpatu talaimakaḷ celavuṇarntu naṟṟāy iraṅkiyatu.</p>
-    <p xml:lang="en">On realising the heorine has gone, the birth-mother weeps.</p>
+    <p xml:id="TNV23koḷu10">eṉpatu talaimakaḷ celavuṇarntu naṟṟāy iraṅkiyatu.<anchor xml:id="teyvam"/></p>
+    <p xml:lang="en">This is the birth mother having wept after realising the heroine has gone.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem11" corresp="#Aink391"> 
     <l>maṟuvi ṟūvic ciṟukaruṅ kākkai</l>
-    <l>yaṉpuṭai marapi ṉiṉkiḷai vaḷarppap</l>
+    <l>yaṉpuṭai marapi ṉiṉkiḷai<anchor xml:id="nan"/> vaḷarppap</l>
     <l>paccūṉ peyta pacuntiṉaip puṉkam</l>
     <l>polampuṉai kalattiṟ ṟarukuvaṉ mātō</l>
     <l>veñciṉa viṟalvēṟ kāḷaiyo</l>
-    <l>ṭañci lōtiyai varakkarain tīmē</l>
-    <trailer><note>Aiṅk. 391</note></trailer>
+    <l>ṭañci lōtiyai varakkarain tīmē.<anchor xml:id="tim"/></l>
+    <trailer><note>Aiṅkuṟunūṟu 391</note></trailer>
+</lg>
+<lg xml:lang="en">
+<l>O small black crow with faultless feathers!</l>
+<l>In my tradition of kindness, don’t I bring fresh meat</l>
+<l>poured onto freshly boiled rice grains<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">pacum tiṉai puṉkam</hi></q> can also mean: ‘freshly boiled millet and rice…’</note></l>
+<l>in an ornate gold pot so that your family grow?<note xml:lang="en" place="foot">Either this refers to them literally swelling up from the quantity of food they are provided, or that they grow stronger (possibly in number) from her repeated gifts.</note></l>
+<l>Please call out to the girl with pretty fine hair so she comes back</l>
+<l>with the young man of hot anger and a victorious spear!</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -400,31 +507,49 @@
     <l>rilaṅkiru munnīr kāliṟ cellār</l>
     <l>nāṭṭi ṉāṭṭi ṉūri ṉūriṟ</l>
     <l>kuṭimuṟai kuṭimuṟai teriyiṟ</l>
-    <l>keṭunaru muḷarōnaṅ kāta lōrē</l>
-    <trailer><note>kuṟun. 130</note></trailer>
+    <l>keṭunaru muḷarōnaṅ kāta lōrē.</l>
+    <trailer><note>Kuṟuntokai 130</note></trailer>
+</lg>
+<lg xml:lang="en">
+  <l>He did not dig up and enter the ground,</l>
+  <l>he did not rise up into the sky,</l>
+  <l>and he did not go by foot into the dark shining ocean.</l>
+  <l>If we search land by land, village by village, home by home,</l>
+  <l>will he really stay<note xml:lang="en" place="foot">The <q xml:lang="ta-Latn"><hi rend="italic">-um</hi></q> in <q xml:lang="ta-Latn"><hi rend="italic">keṭunarum</hi></q> is not so clear. It is interpreted here as an <term xml:lang="ta-Latn"><hi rend="italic">eccavummai</hi></term>. The co-ordination is with the list of things that he has not done, but in practice, this has a sense that he will not be able to evade them if they search for him, hence it is translated as a rhetorical question.</note> lost, our lover?</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu12">eṉpatu naṟṟāykkuc collic cevili piṉ ceṉṟatu.</p>
-    <p xml:lang="en">The foster mother speaks to the birth-mother then goes [after the couple].</p>
+    <p xml:id="TNV23koḷu12">eṉpatu naṟṟāykkuc collic cevili piṉ ceṉṟatu.<anchor xml:id="chase"/></p>
+    <p xml:lang="en">This is the foster mother having gone [after the couple] after speaking to the birth mother.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem13"> 
     <l>veyyōṉ cāpat teykaṇai kuḷippa</l>
     <l>vīḻntatu maṉṟavik kaḷiṟē tāḻnta</l>
     <l>viṭumut taṇivaṭañ cuṭarat</l>
-    <l>tuṭi yotuṅkiya cūḻaṉmaṉ ṉituvē<anchor xml:id="ituve"/></l>
+    <l>toṭiyō<anchor xml:id="totiyol"/> ḷotuṅkiya cūḻaṉmaṉ ṉituvē.<anchor xml:id="ituve"/></l>
+</lg>
+<lg xml:lang="en">
+<l>As the arrows shot from the bow of the cruel man pierced [it],</l>
+<l>this elephant must have fallen.</l>
+<l>These are the very surroundings where the girl with the bangles took refuge<note xml:lang="en" place="foot">‘To take refuge’ is not the common older definition of <foreign xml:lang="ta-Latn">otuṅku-tal</foreign>. That is rather ‘to step aside’. In this context, though, it seems clear that the heroine was sheltering, so I think that is the nuance of the verb.</note></l>
+<l>as [her] string of ornaments from which pearls were hanging loose<note xml:lang="en" place="foot">There are different ways to split the sandhi here and construe the line. First, one can either read <q xml:lang="ta-Latn"><hi rend="italic">viṭu muttu…</hi></q>, as in the translation presented, or <q xml:lang="ta-Latn"><hi rend="italic">iṭu muttu…</hi></q> – ‘ornamented string with inset pearls’. There is then also the question of what exactly the agent of <q xml:lang="ta-Latn"><hi rend="italic">cuṭara</hi></q> is – the string or the pearls? Syntax suggests the string, common sense the pearls.</note> shone.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu13">eṉpatu curattiṭaic ceṉṟa cevili iraṅkiyatu.</p>
-    <p xml:lang="en">The foster mother, who has gone into the desert, weeps.</p>
+    <p xml:id="TNV23koḷu13">eṉpatu curattiṭaic ceṉṟa cevili yiraṅkiyatu.<anchor xml:id="weep"/></p>
+    <p xml:lang="en">This is the foster mother, who has gone into the desert, having wept.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem14"> 
-    <l>kāynta maṟavai maṉṉō vēntiḻai</l>
+    <l>kāynta<anchor xml:id="kaynta"/> maṟavai maṉṉō vēntiḻai</l>
     <l>yaḻalkeḻu veñcurañ celavu</l>
-    <l>meḻilkeḻu pāvai yēntiya kuravē<anchor xml:id="kurave"/></l>
+    <l>meḻilkeḻu pāvai yēntiya kuravē.<anchor xml:id="kurave"/></l>
+</lg>
+<lg xml:lang="en">
+<l>Surely you are angry and hostile [to me],<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">kāynta maṟavai maṉṉō</hi></q> is mysterious to me. <foreign xml:lang="ta-Latn">maṟavar</foreign> is a standard designation for an enemy fighter in <foreign xml:lang="ta-Latn">puṟam</foreign> poetry, and I believe that same sense is the intention of the poet here – the tree is antagonising the foster mother. Whether it is ‘scorched’ or ‘angry’ (<q xml:lang="ta-Latn"><hi rend="italic">kāynta</hi></q>), I am not sure. Both seem perfectly appropriate, and there is no close parallel to this phrase that I have found in the source poems or the wider corpus. Another option would be to take <q xml:lang="ta-Latn"><hi rend="italic">maṟavai</hi></q> as a participial noun from <foreign xml:lang="ta-Latn">maṟa-ttal</foreign> (‘to forget’). This is not an attested form, however, and I only know one other quasi-parallel in KT 200.4 – <q xml:lang="ta-Latn"><hi rend="italic">maṟavām</hi></q> (‘We don’t forget’). Were this to be a similar form, then the first line would translate to: ‘Surely you, who are scorched/angry, do not forget… the one with…’</note></l>
+<l>O <term xml:lang="ta-Latn"><hi rend="italic">kuravu</hi></term> tree lifting up beautiful dolls,<note xml:lang="en" place="foot">As one can see in the PK sources supplied in the apparatus, the idea here is that the ‘dolls’ (<q xml:lang="ta-Latn"><hi rend="italic">pāvai</hi></q>) are the young flowers of the tree. The point is that the tree also has experience with parenthood, so it should have known to stop the heroine and should also understand the foster mother’s pain.</note></l>
+<l>while the one with the eminent jewels went through the hot, fiery desert as well.<note xml:lang="en" place="foot">I believe the -<foreign xml:lang="ta-Latn">um</foreign> particle on <q xml:lang="ta-Latn"><hi rend="italic">celavum</hi></q> is an <foreign xml:lang="ta-Latn">eccavummai</foreign>, rather than a marker of the concessive, which would also be morphologically possible. In my reading, the co-ordination is between the heroine and the foster mother.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -434,81 +559,123 @@
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem15"> 
     <l>oṇṭiṟa laṇṇalō ṭoḷiyiḻai maṭantaiyai</l>
-    <l>nuṇpuri mārpi ṉantaṇīr</l>
-    <l>kaṇṭaṉir piṟavōr kaṭuñcurañ celavē<anchor xml:id="celave"/></l>
+    <l>nuṇpuri mārpi ṉantaṇīr<anchor xml:id="nanta"/></l>
+    <l>kaṇṭaṉir piṟavōr<anchor xml:id="piravo"/> kaṭuñcurañ celavē.<anchor xml:id="celave"/></l>
+</lg>
+<lg xml:lang="en">
+<l>You brahmins with chests with fine cords,</l>
+<l>did you see a woman with bright jewels going through the harsh desert</l>
+<l>with a lord of shining power, or other people?<note xml:lang="en" place="foot">It is not clear how to construe <q xml:lang="ta-Latn"><hi rend="italic">piṟavōr</hi></q>. In addition to how it is translated above, one could also take it with the journeying couple: ‘did you see them going through the cruel desert with other people?’ As discussed in the critical notes in the apparatus, the Kali parallel might suggest that the chosen interpretation is correct.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu15">eṉpatu cevili iṭaic curattu varuvārai viṉāyiṟṟu.</p>
-    <p xml:lang="en">The foster mother questions those who have come from the desert.</p>
+    <p xml:id="TNV23koḷu15">eṉpatu cevili yiṭaic curattu varuvārai viṉāyiṟṟu.<anchor xml:id="vinayirru"/></p>
+    <p xml:lang="en">This is the foster mother having questioned those who have come from the desert.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem16"> 
     <l>maṭavaral mātarkku varuntā tīmō</l>
     <l>kaṭalvayiṟu payanta nittila</l>
-    <l>muṭaiyōrk kāta lulakiyal vaḻakkē<anchor xml:id="valakke"/></l>
+    <l>muṭaiyōrk kāta lulakiyal vaḻakkē.<anchor xml:id="valakke"/></l>
+</lg>
+<lg xml:lang="en">
+<l>O, please don’t suffer on account of the innocent girl.</l>
+<l>For those who have pearls produced from the belly of the sea,</l>
+<l>becoming [like this]<note xml:lang="en" place="foot">Based on the sources in the apparatus, which all describe a speech where someone explains to the mother that it is natural for someone to leave where they are from, I assume the implication is that it is natural that the heroine has become one who has eloped.</note> is the natural way of the world.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu16">eṉpatu ceviliyai yiṭaic curattuk kaṇṭōr teruṭṭiyatu.</p>
-    <p xml:lang="en">The onlookers [the couple] the foster mother about the middle of the desert.</p>
+    <p xml:id="TNV23koḷu16">eṉpatu ceviliyai yiṭaic curattuk kaṇṭōr<anchor xml:id="kantar"/> teruṭṭiyatu.<anchor xml:id="teruttiyatu"/></p>
+    <p xml:lang="en">This is the onlookers in the middle of the desert having informed the foster mother.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem17" corresp="#Aink372"> 
     <l>eṉṉu muḷḷiṉaḷ kollō taṉṉai</l>
     <l>neñcuṇat tēṟṟiya vañciṉak kāḷaiyo</l>
-    <l>ṭaḻuṅkaṉ mūtū ralareḻac</l>
-    <l>ceḻumpal kuṉṟa miṟantaveṉ makaḷē</l>
-    <trailer><note>Aiṅk. 372</note></trailer>
+    <l>ṭaḻuṅkaṉ mūtū ralareḻac<anchor xml:id="alarela"/></l>
+    <l>ceḻumpal<anchor xml:id="celumpal"/> kuṉṟa miṟantaveṉ makaḷē.</l>
+    <trailer><note>Aiṅkuṟunūṟu 372</note></trailer>
+</lg>
+<lg xml:lang="en">
+<l>Does she think of me too?</l>
+<l>My daughter who crossed many luscious hills</l>
+<l>so that gossip rose up in the noisy ancient village</l>
+<l>with the young man who swore an oath to eat her heart.<note xml:lang="en" place="foot">There is the option to read the phrase, <q xml:lang="ta-Latn"><hi rend="italic">neñcu uṇa tēṟṟiya vañciṉam kāḷaiyoṭu</hi></q>, differently. <term xml:lang="ta-Latn"><hi rend="italic">tēṟṟutal</hi></term> can also mean ‘to assure’, or something similar. So: ‘with the young man of an oath, who assured her in order to eat her heart.’</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV23koḷu17">eṉpatu cevili maṉai vayiṟ peyarntatu.</p>
-    <p xml:lang="en">The foster mother returns to the house.</p>
+    <p xml:lang="en">This is the foster mother having returned to the house.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem18"> 
     <l>nāṇkāl vāṅkiya cilaiyar cīṟṟamo</l>
     <l>ṭīṅkiva ṭaṉṉaiyar varukuvar</l>
-    <l>yāṅkā kuvariv vaḷaiyāk kālē</l>
+    <l>yāṅkā kuvarivar<anchor xml:id="ivar"/> vaḷaiyuṅ kālē.</l>
+</lg>
+<lg xml:lang="en">
+<l>Men with bows, bent at [their] tips with a bowstring,<note xml:lang="en" place="foot">This is a very inelegant way in English to say that they are keeping their bowstrings taut and ready to fire.</note> are her relatives</l>
+<l>and they are coming here in anger.</l>
+<l>When they surround [them], what will become of these [two]?<note xml:lang="en" place="foot">Presumably, they are wondering about the fate of the couple, not the relatives pursuing them.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV23koḷu18">eṉpatu talaimakaṭamar piṉ cellak kaṇṭār colliyatu.</p>
-    <p xml:lang="en">The onlookers speak about the heroine's relatives going after [the couple].</p>
+    <p xml:lang="en">This is the onlookers having spoken about the heroine’s relatives going after [the couple].</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem19"> 
     <l>ayilē rampiṉar niṉṉaiyar kayilvaḷai</l>
     <l>payilpūñ cuṉaiyi ṉīḻal</l>
-    <l>mayilēr cāyal maṟaikuvaṉ<anchor xml:id="marai"/> ciṟitē</l>
+    <l>mayilēr cāyal maṟaikuvaṉ<anchor xml:id="marai"/> ciṟitē.</l>
+</lg>
+<lg xml:lang="en">
+<l>Your relatives have arrows that resemble spears.</l>
+<l>In the shade around the mountain pool</l>
+<l>densely packed with flowers that are clasped and curved,<note xml:lang="en" place="foot">Alternatively, <q xml:lang="ta-Latn"><hi rend="italic">kayil vaḷai</hi></q> could mean: ‘curved like a clasp’ or that they are ‘curved and interlocking’.</note></l>
+<l>I will hide for a little while, O [one with] the grace of a peacock.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu19">eṉpatu talaimakaṭamar ātal aṟintu talaimakaṉ maṟaintatu.</p>
-    <p xml:lang="en">The hero learns of the existence of the heorine's relatives [trailing them] and hides.</p>
+    <p xml:id="TNV23koḷu19">eṉpatu talaimakaṭamar ātal aṟintu talaimakaṉ maṟaintatu.<anchor xml:id="maraintatu"/></p>
+    <p xml:lang="en">This is the hero having hidden after learning of the existence of the heroine’s relatives [trailing them].</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem20"> 
     <l>varicilai yiṭavayi ṉēntik kaṇaiterin</l>
     <l>teriyumiḻ kaṇṇiṉa rivarē ñāṅka</l>
-    <l>rariyiḻai maṭantai tamareṉa maṟainta</l>
+    <l>rāyiḻai<anchor xml:id="ayilai"/> maṭantai tamareṉa maṟainta</l>
     <l>cēyuyar celvaṉuñ ciṉavu māyiṭai</l>
     <l>yaṟaṉaṉ ṟituveṉa vuraiit</l>
-    <l>tiṟaṉaṟi māntarait teruṭṭutu nāmē</l>
+    <l>tiṟaṉaṟi māntarait teruṭṭutu nāmē.</l>
+</lg>
+<lg xml:lang="en">
+<l>Lifting up their lines of bows on their left and checking their arrows,</l>
+<l>these people have eyes that shoot fire.</l>
+<l>And now, we shall inform the people who know the matter<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">tiṟaṉ</hi></q> can also mean ‘the way’, in which case: ‘the people who know the way’. In both cases – the translation presented and the alternative – the referent of <q xml:lang="ta-Latn"><hi rend="italic">tiṟaṉ</hi></q> is not obvious. I imagine in both cases, it refers to the heroine’s family knowing about the couple’s elopement and possibly their location, in which case ‘matter’ would refer to the matter at hand, which is the elopement, and ‘way’ might refer to the manner in which the couple have eloped, or how best to track them. ‘Matter’ is the sense found in the Caṅkam parallels for the phrase <foreign xml:lang="ta-Latn">tiṟaṉ aṟi-tal</foreign> (‘knowing the matter’). A different interpretation would be that this is a general quality of the heroine’s: they are people who know about matters, in the sense that they know the right way to act. Considering line five: <q xml:lang="ta-Latn"><hi rend="italic">aṟaṉ aṉṟ’ itu eṉa uraii</hi></q> (‘telling [the heroine’s people] that this is not virtue.’), this interpretation is unlikely.</note></l>
+<l>by telling them, ‘In between anger and the tall distant lord,</l>
+<l>who hid because of the relatives of the woman with beautiful jewels,</l>
+<l>there is no virtue.’<note xml:lang="en" place="foot">Is this a metaphorical way to say that there is no virtue in fighting with the hero? This makes sense in the context and I do not see another reasonable way to take <q xml:lang="ta-Latn"><hi rend="italic">celvaṉum ciṉavum āy iṭai</hi></q>.</note></l>
+
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV23koḷu20">eṉpatu iṭaic curattuk kaṇṭār colliyatu.</p>
-    <p xml:lang="en">The onlookers speak about the middle of the desert.</p>
+    <p xml:lang="en">This is the onlookers in the middle of the desert having spoken.</p>
 
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem21"> 
-    <l>vēḷē nalamēm paṭṭa vaṉpiṉa ḷivaṉē</l>
+    <l>ivaḷē<anchor xml:id="ivale"/> nalamēm paṭṭa vaṉpiṉa ḷivaṉē</l>
     <l>kulamēm paṭṭa cāṉṟōr makaṉē</l>
     <l>yiruvar taṉmaiyu nōkkip</l>
-    <l>paruvara leytātu koṭuttalō paṇpē</l>
+    <l>paruvara leytātu koṭuttalō paṇpē.</l>
+</lg>
+<lg xml:lang="en">
+<l>She is one possessing love that excels in goodness.</l>
+<l>He is a son of worthy people from an excellent family.</l>
+<l>Looking at both of their natures, is it not natural</l>
+<l>to give [her for marriage] without being afflicted?<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">paruvaral eytātu</hi></q> literally translates to: ‘without reaching/obtaining affliction’.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -518,72 +685,105 @@
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem22"> 
     <l>perumpaṭa ruḻakkuṅ kiḷaimakiḻ tūṅkat</l>
-    <l>tirunteḻi lalku ṉaṭpō</l>
-    <l>viyaṉperun tolpatip pukukanām viraintē</l>
+    <l>tirunteḻi lalku ṉaṭpoṭu<anchor xml:id="natpo"/></l>
+    <l>viyaṉperun tolpatip pukukanām viraintē.</l>
+</lg>
+<lg xml:lang="en">
+<l>So that the relatives, who bear great sorrow, sway with joy,<note xml:lang="en" place="foot">This is a play on the double meaning of <q xml:lang="ta-Latn"><hi rend="italic">makiḻ</hi></q>, which either means ‘joy’ or ‘toddy’. In the second option, her relatives will be swaying because they are drunk after celebrating.</note></l>
+<l>let us hasten and enter the wide great ancient abode</l>
+<l>with intimacy,<note xml:lang="en" place="foot">Or ‘with love’. The normal connotation for <q xml:lang="ta-Latn"><hi rend="italic">naṭpu</hi></q> is ‘intimacy’ or ‘friendship’, and I think that makes perfectly good sense in this situation. UVC seemingly thought otherwise, considering he emended to <q xml:lang="ta-Latn"><hi rend="italic">aṉpoṭu</hi></q> in his edition. <foreign xml:lang="ta-Latn">aṉpu</foreign> is more explicitly romantic, which he might have thought more appropriate. In the Caṅkam corpus, one finds <foreign xml:lang="ta-Latn">naṭpu</foreign> regularly used as a quality of a romantic relationship (cf. KT 247.7, KT 134.7), so this interpretation seems unproblematic.</note> O [one with] perfect, graceful hips.<note xml:lang="en" place="foot">Alternatively, one can construe this without the vocative, taking <q xml:lang="ta-Latn"><hi rend="italic">tiruntu eḻil alkul naṭpoṭu</hi></q> as: ‘with the intimacy of the one with perfect, graceful hips’. The inclusive pronoun, <q xml:lang="ta-Latn"><hi rend="italic">nām</hi></q>, suggests this is a speech addressed to the heroine.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV23koḷu22">eṉpatu peyarntaṉar varutal.</p>
-    <p xml:lang="en">[The couple] who had left returning.</p>
+    <p xml:lang="en">This is those who had left returning.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem23"> 
     <l>vaḷaṅkeḻu kāṉam varukuva riṉṟeṉa</l>
     <l>viḷampumiṉ viraintaṉir celiṉē</l>
-    <l>uḷaṅkeḻu kāta luyiraṉ ṉōrkkē<anchor xml:id="norkke"/></l>
+    <l>yuḷaṅkeḻu kāta luyiraṉ ṉōrkkē.<anchor xml:id="norkke"/></l>
 </lg>
+<lg xml:lang="en">
+<l>If you hasten and go to those people who are like life [to me]</l>
+  <l>and who have love in their hearts [for me], say,</l>
+  <l>‘They are coming back from the fertile forest today.’</l>
+  </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu23">eṉpatu āyattārkkuk kūṟumiṉ eṉṟatu.</p>
-    <p xml:lang="en">[The heroine] says, "Talk to my girlfriends!"</p>
+    <p xml:id="TNV23koḷu23">eṉpatu āyattārkkuk kūṟumiṉ eṉṟatu.<anchor xml:id="kurumin"/></p>
+    <p xml:lang="en">This is [the heroine] having said, ‘Talk to my girlfriends!’</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem24"> 
-   <l>māṉatar mayaṅkiya malaimutaṟ ciṟuneṟit</l>
+   <l>māṉatar mayaṅkiya malaimutaṟ ciṟuneṟi<anchor xml:id="ciruneri"/></l>
 <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
 <l>yañciṉa ḷañciṉa ḷotuṅkip</l>
-<l>pañciṉa mellaṭi paralvaṭuk koḷavē</l>
+<l>pañci<anchor xml:id="panci"/> mellaṭi paralvaṭuk koḷavē.</l>
+</lg>
+<lg xml:lang="en">
+<l>They say that she herself will come along the small road</l>
+<l>from the mountain<note xml:lang="en" place="foot">One can either understand <q xml:lang="ta-Latn"><hi rend="italic">malai mutal ciṟu neṟi</hi></q> as ‘a small path beginning at the mountain’, as in this translation, or as ‘a small path from the base of the mountain’.</note> where deer confuse the paths<note xml:lang="en" place="foot">Alternatively, one can translate <q xml:lang="ta-Latn"><hi rend="italic">māṉatar mayaṅkiya</hi></q> as: ‘where the deer paths became confused (i.e., mixed up)’. Either way, this signifies that the area is difficult to navigate and therefore dangerous.</note></l>
+<l> – the girl with the broad, soft shoulders who is afraid, afraid, stepping back<note xml:lang="en" place="foot">The image here is of the heroine being on edge, cowering, or being startled constantly because of the many dangers on the way.</note></l>
+<l>as her feet, soft as cotton, are wounded by the gravel.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV23koḷu24">eṉpatu varavuṇarntu kiḷai makiḻntatu.</p>
-    <p xml:lang="en">Her relatives learn [they are] coming back and rejoice.</p>
+    <p xml:lang="en">This is the relatives having rejoiced after learning [they are] coming.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem25"> 
     <l>mutuvāy vēla moḻintici ṉemakkē</l>
     <l>matuvār kūntal maṭantaiyaik</l>
-    <l>katirvē laṇṇal karutiya tiṟaṉē<anchor xml:id="tirane"/></l>
+    <l>katirvē laṇṇal karutiya tiṟaṉē.<anchor xml:id="tirane"/></l>
+</lg>
+<lg xml:lang="en">
+<l>O <term xml:lang="ta-Latn"><hi rend="italic">vēlaṉ</hi></term> of ancient knowledge, tell us</l>
+<l>about the intentions of the lord with a shining spear</l>
+<l>towards the young woman with hair overflowing with nectar.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu25">eṉpatu vēlaṉaic cevilit tāy viṉāyatu.</p>
-    <p xml:lang="en">The foster mother questions the priest.</p>
+    <p xml:id="TNV23koḷu25">eṉpatu vēlaṉaic cevilit tāy viṉāyatu.<anchor xml:id="cevilitay"/></p>
+    <p xml:lang="en">This is the foster mother having questioned the priest.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem26" corresp="#Aink393"> 
-    <l>tuṟantataṟ koṇṭun tuyaraṭac cāa</l>
+    <l>tuṟantataṟ koṇṭun tuyaraṭac cāa<anchor xml:id="caa"/></l>
     <l>yaṟampulantu paḻikku marunavai yāṭṭi</l>
     <l>yevva neñciṟ kēma māka</l>
     <l>vantaṉa ḷōniṉ makaḷē</l>
-    <l>ventiṟal veḷvēl viṭalaimun tuṟavē</l>
-    <trailer><note>Aiṅk. 393</note></trailer>
+    <l>ventiṟal veḷvēl<anchor xml:id="velvel"/> viṭalaimun tuṟavē.</l>
+    <trailer><note>Aiṅkuṟunūṟu 393</note></trailer>
+</lg>
+<lg xml:lang="en">
+<l>And<note xml:lang="en" place="foot">The function of the <term xml:lang="ta-Latn"><hi rend="italic">-um</hi></term> on <q xml:lang="ta-Latn"><hi rend="italic">koṇṭum</hi></q> is unclear. It presumably co-ordinates with something not mentioned in the poem.</note> [you], understanding her abandonment, O mother with difficult blemishes,</l>
+<l>who, emaciated from the torment of affliction, angrily blames virtue,</l>
+<l>has your daughter come back to delight your troubled heart,</l>
+<l>led by a hot, powerful warrior with a shining spear?</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu26">eṉpatu cevilit tāy naṟṟāyakkuc colliyatu.</p>
-    <p xml:lang="en">The foster mother speaks to the birth-mother.</p>
+    <p xml:id="TNV23koḷu26">eṉpatu cevilit tāy naṟṟāykkuc colliyatu.<anchor xml:id="narraykku"/></p>
+    <p xml:lang="en">This is the foster mother having spoken to the birth mother.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem27"> 
     <l>aṟaṉaṉ ṟamma tāṉē niṟaiyaḻin</l>
     <l>tāḻtuya ravala muḻakkuṅ</l>
-    <l>kātaṟ ṟāykkuk kāṭṭiṉai vammē</l>
+    <l>kātaṟ ṟāykkuk kāṭṭiṉai vammē.</l>
+</lg>
+<lg xml:lang="en">
+<l>Alas! This is not virtue!</l>
+<l>Show love<note xml:lang="en" place="foot">This translation takes <q xml:lang="ta-Latn"><hi rend="italic">kātal</hi></q> as the direct object of <foreign xml:lang="ta-Latn">kāṭṭu-tal</foreign>, but it could also be taken in attributive position to <foreign xml:lang="ta-Latn">tāy</foreign>, in which case one would have to supply an object. Either that could be the hero himself, the heroine, or the couple. One would then translate: ‘Show [yourself/the heroine] to the loving mother and come’.</note> and come to the mother</l>
+<l>who has lost her sense of self<note xml:lang="en" place="foot">This is the rendering of <q xml:lang="ta-Latn"><hi rend="italic">niṟai</hi></q>, which conveys a sense of fulfilment or self-control.</note></l>
+<l>and bears an affliction of deep sorrow.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV23koḷu27">eṉpatu talaimakaṟkut talaimakaṉaṟṟāy colliyatu.</p>
-    <p xml:lang="en">The hero's birth-mother speaks to the hero.</p>
+    <p xml:lang="en">This is the hero’s birth mother having spoken to the hero.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem28" corresp="#Aink399"> 
@@ -591,26 +791,40 @@
     <l>memmaṉai vatuvai naṉmaṇaṅ kaḻika</l>
     <l>veṉṟunāñ colli ṉevaṉō tōḻi</l>
     <l>maiyaṟa viḷaṅkuṅ kaḻalaṭip</l>
-    <l>poyval kāḷaiyai yīṉṟa tāykkē<anchor xml:id="taykke"/></l>
-    <trailer><note>Aiṅk 399</note></trailer>
+    <l>poyval kāḷaiyai yīṉṟa tāykkē.<anchor xml:id="taykke"/></l>
+    <trailer><note>Aiṅkuṟunūṟu 399</note></trailer>
+</lg>
+<lg xml:lang="en">
+<l>O friend, what if we told the mother who begot the young man</l>
+<l>with faultless shining anklets on his legs</l>
+<l>and who is skilled at lying,</l>
+<l>‘Although her anklet was removed in your house,</l>
+<l>let the wedding and good marriage take place in ours!’</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
-    <p xml:id="TNV23koḷu28">eṉpatu talaimakaṇaṟṟāy cevilikkuc colliyatu.</p>
-    <p xml:lang="en">The foster mother speaks to the heroine's birth-mother.</p>
+    <p xml:id="TNV23koḷu28">eṉpatu talaimakaṇaṟṟāy cevilikkuc colliyatu.<anchor xml:id="cevilikkuc"/></p>
+    <p xml:lang="en">This is the heroine’s birth mother having spoken to the foster mother.</p>
 </div>
 <div type="citation" rend="parallel">
 <lg xml:id="TNV23poem29"> 
     <l>putuvatu puṉainta vatuvaik kōlamoṭu</l>
-    <l>mutuvāyp peṇṭir paraviṉa rēttak</l>
+    <l>mutuvāyp peṇṭir paraviṉa<anchor xml:id="paravina"/> rēttak</l>
     <l>kaṭimaṉai yemmoṭu pukuntōy mēṉā</l>
     <l>ḷaṟitalu maṟitiyō maṭantai</l>
-    <l>kaṟivaḷar cāraṟ kuṟivayi ṉāṉē</l>
+    <l>kaṟivaḷar cāraṟ kuṟivayi ṉāṉē.</l>
+</lg>
+<lg xml:lang="en">
+<l>O you who entered the protected<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">kaṭi maṉai</hi></q> is either a ‘protected’ or ‘fragrant’ home. Considering this poem is describing a wedding scene, the latter would make sense, but <term xml:lang="ta-Latn"><hi rend="italic">kaṭi maṉai</hi></term> is a term used to refer to the post-marriage home. Cf. NA 40.1, Kali 44.9, and the <term xml:lang="ta-Latn"><hi rend="italic">kiḷavi</hi></term> to AiN 401–10.</note> home with us</l> 
+<l>while the women of ancient knowledge</l>
+<l>adoringly<note xml:lang="en" place="foot"><term xml:lang="ta-Latn"><hi rend="italic">paravu-tal</hi></term> could also, in this context, be translated as ‘extensively’ if one takes it to be intransitive.</note> praised the newly dressed bride and her beauty,<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">kōlam</hi></q> could either refer to her natural beauty, or to the beauty of her make-up and costume (cf. TNV 17, poem 38).</note></l>
+<l>did you have any knowledge [this would happen], young woman,</l>
+<l>back at the meeting-place on the slopes where pepper grows?</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
     <p xml:id="TNV23koḷu29">eṉpatu talaimakaṉ ṟalaimakaṭkuc colliyatu.<note> 23.</note></p>
-    <p xml:lang="en">The hero speaks to the heroine.</p>
+    <p xml:lang="en">This is the hero having spoken to the heroine.</p>
 </div>
 </body>
 </text>
@@ -754,7 +968,7 @@
 </entry>
 <entry>
 <form>iḷaiyōr</form>
-<def>youth</def>
+<def>young</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">third person</gram>
@@ -846,7 +1060,7 @@
 </entry>
 <entry>
 <form>tāyar</form>
-<def>mother</def>
+<def>mothers</def>
 <gramGrp>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -1154,7 +1368,7 @@
 </entry>
 <entry>
 <form>kuvaḷai</form>
-<def>waterlily</def>
+<def>water lily</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1385,7 +1599,7 @@
 <form>cellum</form>
 <def>go</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -1568,7 +1782,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem4" type="wordsplit">
-<interp type="alignment" select="0">20MG8MG8M2GMR20MG46MG17MG8M2G27MGM,167M</interp>
+<interp type="alignment" select="0">20MG8MG8M2GMR20MG46MG18M2G7M2G27MGM,168M</interp>
 <entry>
 <form>putu<c type="geminated">p</c></form>
 <def>new</def>
@@ -1717,7 +1931,7 @@
 </entry>
 <entry>
 <form>otuṅka</form>
-<def>be-hidden</def>
+<def>be hidden</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -1741,9 +1955,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vaikiṉa-mātō</form>
+<form>vaikiṉam-mātō</form>
 <def>delayed</def>
-<form type="simple">vaikiṉa</form>
+<form type="simple">vaikiṉam</form>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">plural</gram>
@@ -1783,9 +1997,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>paruvattāṉ-ē</form>
-<def>season</def>
-<form type="simple">paruvattāṉ</form>
+<form>paḻuvattāṉ-ē</form>
+<def>wilderness</def>
+<form type="simple">paḻuvattāṉ</form>
 <gramGrp>
   <gram type="role">locative</gram>
 </gramGrp>
@@ -1808,7 +2022,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem5" type="wordsplit">
-<interp type="alignment" select="0">16MG19MG9M2G10MG11MG13MG38MG21ML7MGM,155M</interp>
+<interp type="alignment" select="0">17MG19MG9M2G10MG12MG13MG38MG21ML7MGM,157M</interp>
 <entry>
 <form>villōṉ</form>
 <def>bow</def>
@@ -1819,10 +2033,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kāval</form>
-<def>watch</def>
+<form>kālaṉa</form>
+<def>leg</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1890,16 +2105,15 @@
 <form>yār-kol</form>
 <def>who</def>
 <form type="simple">yār</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
-<form>aḷiya</form>
+<form>aḷiyar</form>
 <def>pity</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1966,8 +2180,6 @@
 <entry>
 <form>vākai</form>
 <def>Vākai</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>veḷ</form>
@@ -1989,7 +2201,6 @@
 <form>olikkum</form>
 <def>resounds</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -2002,7 +2213,7 @@
 </entry>
 <entry>
 <form>payil</form>
-<def>rustle/be-dense</def>
+<def>rustle/be dense</def>
 <gramGrp>
   <gram type="role">verbal root as peyareccam</gram>
 </gramGrp>
@@ -2069,7 +2280,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem6" type="wordsplit">
-<interp type="alignment" select="0">15MG19MG11MG32M,80M</interp>
+<interp type="alignment" select="0">15MG20MG11MG19M2G12MGM,84M</interp>
 <entry>
 <form>cem</form>
 <def>red</def>
@@ -2087,10 +2298,9 @@
 </entry>
 <entry>
 <form>celvaṉ-um</form>
-<def>go</def>
+<def>lord</def>
 <form type="simple">celvaṉ</form>
 <gramGrp>
-  <gram type="role">participial noun</gram>
   <gram type="role">masculine singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
@@ -2104,8 +2314,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>cēntaṉaṉ</form>
-<def>lay down</def>
+<form>cērntaṉaṉ</form>
+<def>joined</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">perfective aspect</gram>
@@ -2153,11 +2363,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ceṉmō</form>
+<form>ceṉm<c type="elided">u</c>-ō</form>
 <def>go</def>
+<form type="simple">ceṉmu</form>
+<form type="sandhi">ceṉm</form>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>takai</form>
@@ -2167,12 +2380,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>veyyōṉē</form>
-<def>hot</def>
+<form>veyyōṉ-ē</form>
+<def>desire</def>
+<form type="simple">veyyōṉ</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23koḷu6" type="wordsplit">
 <interp type="alignment" select="0">3MG7M,10MG</interp>
@@ -2297,7 +2512,7 @@
 </entry>
 <entry>
 <form>antaṇir</form>
-<def>brahmin</def>
+<def>brahmins</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">plural</gram>
@@ -2351,7 +2566,7 @@
 <form>kalaṅkum</form>
 <def>agitate</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -2415,7 +2630,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaṇṭārkku_</form>
+<form>kaṇṭārkku</form>
 <def>seen</def>
 <form type="sandhi">kaṇṭārkkut</form>
 <gramGrp>
@@ -2443,7 +2658,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem8" type="wordsplit">
-<interp type="alignment" select="0">4MG29MG2MG14MG4MR27MG15M2GM,104M</interp>
+<interp type="alignment" select="0">4MG28MG2MG14MG4MR27MG15M2GM,103M</interp>
 <entry>
 <form>vaṇṭ<c type="elided">u</c></form>
 <def>bee</def>
@@ -2461,14 +2676,14 @@
 </entry>
 <entry>
 <form>kōtai</form>
-<def>tresses</def>
+<def>garland</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vari</form>
-<def>line</def>
+<form>vār</form>
+<def>overflow</def>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
@@ -2491,8 +2706,6 @@
 <form>paṇṭ<c type="elided">u</c></form>
 <def>formerly</def>
 <form type="sandhi">paṇṭ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>āṭ<c type="elided">u</c></form>
@@ -2531,8 +2744,6 @@
 <form>iṉṉum</form>
 <def>now</def>
 <form type="sandhi">iṉṉun</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nillā</form>
@@ -2585,7 +2796,7 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23koḷu8" type="wordsplit">
-<interp type="alignment" select="0">42M,41MG</interp>
+<interp type="alignment" select="0">43M,42MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
@@ -2610,10 +2821,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>colli</form>
-<def>spoken</def>
+<form>cevili</form>
+<def>foster mother</def>
 <gramGrp>
-  <gram type="role">absolutive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2625,7 +2836,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem9" type="wordsplit">
-<interp type="alignment" select="0">7MG7MG29MG5MG6MG7MG9M2G9M2GM,90M</interp>
+<interp type="alignment" select="0">7MG7MG30MG5MG6MG7MG9M2G9M2GM,91M</interp>
 <entry>
 <form>valiyai-maṉṟa</form>
 <def>strength</def>
@@ -2656,7 +2867,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vaḷai</form>
+<form>vaḷai<c type="geminated">k</c></form>
 <def>bangle</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -2695,7 +2906,7 @@
 </entry>
 <entry>
 <form>oḻiya-<c type="glide">v</c>um</form>
-<def>stay behind</def>
+<def>leave behind</def>
 <form type="simple">oḻiya</form>
 <gramGrp>
   <gram type="role">concessive</gram>
@@ -2785,16 +2996,16 @@
 </standOff><standOff corresp="#TNV23poem10" type="wordsplit">
 <interp type="alignment" select="0">66MG2M,69M</interp>
 <entry>
-<form>cūḻ</form>
-<def>surround</def>
+<form>cūl</form>
+<def>pregnant</def>
 <form type="sandhi">cūṉ</form>
 <gramGrp>
-  <gram type="role">verbal root as adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>mutir</form>
-<def>ripen</def>
+<def>mature</def>
 <gramGrp>
   <gram type="role">verbal root as adjective</gram>
 </gramGrp>
@@ -2802,8 +3013,6 @@
 <entry>
 <form>koṇmū</form>
 <def>cloud</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>miṉṉupu</form>
@@ -2843,7 +3052,7 @@
 </entry>
 <entry>
 <form>māṉ</form>
-<def>animal</def>
+<def>deer</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2874,7 +3083,7 @@
 </entry>
 <entry>
 <form>neṟi-<c type="glide">y</c>ē</form>
-<def>calyx</def>
+<def>way</def>
 <form type="simple">neṟi</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -2917,7 +3126,7 @@
 </entry>
 <entry>
 <form>naṟṟāy</form>
-<def>real mother</def>
+<def>birth mother</def>
 </entry>
 <entry>
 <form>iraṅkiyatu</form>
@@ -3021,7 +3230,7 @@
 </entry>
 <entry>
 <form>ūṉ</form>
-<def>food</def>
+<def>flesh</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3084,7 +3293,7 @@
 <form type="simple">tarukuvaṉ</form>
 <form type="sandhi">ṟarukuvaṉ</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -3216,7 +3425,7 @@
 </entry>
 <entry>
 <form>ēṟār</form>
-<def>not risen</def>
+<def>not rise</def>
 <gramGrp>
   <gram type="role">third person</gram>
   <gram type="role">participial noun</gram>
@@ -3379,7 +3588,7 @@
 <interp type="alignment" select="0">39M,38MG</interp>
 <entry>
 <form>eṉpatu</form>
-<def>say-it</def>
+<def>say</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -3387,7 +3596,7 @@
 </entry>
 <entry>
 <form>naṟṟāykku<c type="geminated">c</c></form>
-<def>real mother</def>
+<def>birth mother</def>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
@@ -3422,7 +3631,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem13" type="wordsplit">
-<interp type="alignment" select="0">12MG22MG13M2G15MG33MG7MG2M,111M</interp>
+<interp type="alignment" select="0">12MG22MG13M2G15MG35MG7MG2M,113M</interp>
 <entry>
 <form>veyyōṉ</form>
 <def>cruel</def>
@@ -3494,7 +3703,7 @@
 </entry>
 <entry>
 <form>viṭu</form>
-<def>left behind</def>
+<def>discarded</def>
 <gramGrp>
   <gram type="role">verbal root as adjective</gram>
 </gramGrp>
@@ -3527,15 +3736,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tuṭi</form>
-<def>quickness</def>
+<form>toṭiyōḷ</form>
+<def>bracelet</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>otuṅkiya</form>
-<def>stepped aside</def>
+<form>otuṅkiya</form>
+<def>took shelter</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -3543,7 +3753,7 @@
 </entry>
 <entry>
 <form>cūḻal-maṉ</form>
-<def>surrounding</def>
+<def>place</def>
 <form type="simple">cūḻal</form>
 <form type="sandhi">cūḻaṉ</form>
 <gramGrp>
@@ -3593,7 +3803,7 @@
 </entry>
 <entry>
 <form>cevili</form>
-<def>foster-mother</def>
+<def>foster mother</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3682,7 +3892,7 @@
 </entry>
 <entry>
 <form>eḻil</form>
-<def>beautiful</def>
+<def>beauty</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3695,7 +3905,7 @@
 </entry>
 <entry>
 <form>pāvai</form>
-<def>flower</def>
+<def>doll</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3710,7 +3920,7 @@
 </entry>
 <entry>
 <form>kurav<c type="elided">u</c>-ē</form>
-<def>Kura tree</def>
+<def>Kuravu tree</def>
 <form type="simple">kuravu</form>
 <form type="sandhi">kurav</form>
 <gramGrp>
@@ -3804,7 +4014,7 @@
 </entry>
 <entry>
 <form>antaṇīr</form>
-<def>brahmin</def>
+<def>brahmins</def>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">second person</gram>
@@ -3903,7 +4113,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem16" type="wordsplit">
-<interp type="alignment" select="0">27MG44MG10M2GM,86M</interp>
+<interp type="alignment" select="0">27MG36MG8MG10M2GM,87M</interp>
 <entry>
 <form>maṭavaral</form>
 <def>simplicity</def>
@@ -3958,18 +4168,20 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uṭaiyōr<c type="geminated">k</c></form>
+<form>uṭaiyōrkk<c type="elided">u</c></form>
 <def>possess</def>
+<form type="sandhi">uṭaiyōrkk</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">third person</gram>
+  <gram type="role">dative</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kātal</form>
-<def>love</def>
+<form>ātal</form>
+<def>becoming</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -4119,10 +4331,10 @@
 </entry>
 <entry>
 <form>aḻuṅkal</form>
-<def>uproaring</def>
+<def>noise</def>
 <form type="sandhi">aḻuṅkaṉ</form>
 <gramGrp>
-  <gram type="role">verbal noun</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -4349,7 +4561,7 @@
 <form>maṟaikuvaṉ</form>
 <def>hide</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -4367,7 +4579,7 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem18" type="wordsplit">
-<interp type="alignment" select="0">29MG3MG4ML21MG19MGM,82M</interp>
+<interp type="alignment" select="0">29MG3MG4ML21MG21MGM,84M</interp>
 <entry>
 <form>nāṇ</form>
 <def>shame</def>
@@ -4410,8 +4622,6 @@
 <form>īṅk<c type="elided">u</c></form>
 <def>this way</def>
 <form type="sandhi">īṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ivaḷ</form>
@@ -4443,7 +4653,6 @@
 <form>varukuvar</form>
 <def>come</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -4451,35 +4660,28 @@
 <form>yāṅk<c type="elided">u</c></form>
 <def>what</def>
 <form type="sandhi">yāṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ākuvar</form>
 <def>become</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated">v</c></form>
-<def>this</def>
+<form>ivar</form>
+<def>they</def>
 <gramGrp>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vaḷai</form>
-<def>surround</def>
+<form>vaḷaiyum</form>
+<def>encircle</def>
+<form type="sandhi">vaḷaiyuṅ</form>
 <gramGrp>
-  <gram type="role">root noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>ā<c type="geminated">k</c></form>
-<def>becoming</def>
-<gramGrp>
-  <gram type="role">verbal root as peyareccam</gram>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -4610,7 +4812,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem20" type="wordsplit">
-<interp type="alignment" select="0">13MG21MG20MG52MG6MG17MG40MR3MGM,181M</interp>
+<interp type="alignment" select="0">13MG21MG20MG50MG6MG17MG40MR3MGM,179M</interp>
 <entry>
 <form>vari</form>
 <def>line</def>
@@ -4700,14 +4902,14 @@
 <def>afterwards</def>
 </entry>
 <entry>
-<form>ari</form>
+<form>āy</form>
 <def>beauty</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>iḻai</form>
+<form>iḻai</form>
 <def>jewel</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -4826,7 +5028,7 @@
 </entry>
 <entry>
 <form>tiṟaṉ</form>
-<def>way</def>
+<def>matter</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -4908,18 +5110,19 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem21" type="wordsplit">
-<interp type="alignment" select="0">3MG6ML19MG6ML18MG16MR29MG5M2GM,112M</interp>
+<interp type="alignment" select="0">4MG6ML19MG6ML18MG16MR29MG5M2GM,113M</interp>
 <entry>
-<form>vēḷ-ē</form>
-<def>desire</def>
-<form type="simple">vēḷ</form>
+<form>ivaḷ-ē</form>
+<def>this one</def>
+<form type="simple">ivaḷ</form>
 <gramGrp>
+  <gram type="role">feminine singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>nalam</form>
-<def>beauty</def>
+<def>goodness</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -5051,7 +5254,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem22" type="wordsplit">
-<interp type="alignment" select="0">39MG9ML3M2G35M2GM,93M</interp>
+<interp type="alignment" select="0">39MG9ML40M2GM,93M</interp>
 <entry>
 <form>perum</form>
 <def>great</def>
@@ -5071,7 +5274,6 @@
 <def>bearing</def>
 <form type="sandhi">uḻakkuṅ</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -5084,7 +5286,7 @@
 </entry>
 <entry>
 <form>makiḻ</form>
-<def>joy/toddy</def>
+<def>joy</def>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
@@ -5120,14 +5322,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>naṭp<c type="elided">u</c>-ō</form>
-<def>love</def>
-<form type="simple">naṭpu</form>
-<form type="sandhi">ṉaṭp</form>
+<form>naṭpoṭu</form>
+<def>intimacy</def>
+<form type="sandhi">ṉaṭpoṭu</form>
 <gramGrp>
+  <gram type="role">oblique</gram>
   <gram type="role">noun</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>viyal</form>
@@ -5207,7 +5408,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem23" type="wordsplit">
-<interp type="alignment" select="0">26MG29MG25M2GM,85M</interp>
+<interp type="alignment" select="0">26MG29MG26M2GM,86M</interp>
 <entry>
 <form>vaḷam</form>
 <def>fertility</def>
@@ -5231,7 +5432,6 @@
 <form>varukuvar</form>
 <def>come</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -5274,9 +5474,9 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>uḷam</form>
+<form><c type="glide">y</c>uḷam</form>
 <def>heart</def>
-<form type="sandhi">uḷaṅ</form>
+<form type="sandhi"><c type="glide">y</c>uḷaṅ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -5345,7 +5545,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV23poem24" type="wordsplit">
-<interp type="alignment" select="0">52ML56MG2M,112M</interp>
+<interp type="alignment" select="0">51ML54MG2M,109M</interp>
 <entry>
 <form>māṉ</form>
 <def>deer</def>
@@ -5391,7 +5591,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>neṟi<c type="geminated">t</c></form>
+<form>neṟi</form>
 <def>way</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -5469,7 +5669,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pañciṉa</form>
+<form>pañci</form>
 <def>cotton</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -5766,7 +5966,7 @@
 <form>paḻikkum</form>
 <def>blaming</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -5929,8 +6129,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>naṟṟāyakku<c type="geminated">c</c></form>
-<def>real mother</def>
+<form>naṟṟāykku<c type="geminated">c</c></form>
+<def>birth mother</def>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
@@ -6020,7 +6220,7 @@
 <def>bearing</def>
 <form type="sandhi">uḻakkuṅ</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -6085,7 +6285,7 @@
 </entry>
 <entry>
 <form>naṟṟāy</form>
-<def>real mother</def>
+<def>birth mother</def>
 <form type="sandhi">ṉaṟṟāy</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -6093,7 +6293,7 @@
 </entry>
 <entry>
 <form>colliyatu</form>
-<def>spoken-it</def>
+<def>spoken</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -6246,7 +6446,7 @@
 <def>shining</def>
 <form type="sandhi">viḷaṅkuṅ</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -6325,7 +6525,7 @@
 </entry>
 <entry>
 <form>naṟṟāy</form>
-<def>real mother</def>
+<def>birth mother</def>
 <form type="sandhi">ṇaṟṟāy</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -6402,8 +6602,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>parāviṉar</form>
-<def>prasie</def>
+<form>paraviṉar</form>
+<def>adore</def>
 <gramGrp>
   <gram type="role">muṟṟeccam</gram>
   <gram type="role">perfective aspect</gram>
@@ -6453,8 +6653,6 @@
 <form>mēl</form>
 <def>before</def>
 <form type="sandhi">mēṉ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nāḷ</form>
@@ -6565,15 +6763,15 @@
 </entry>
 </standOff>
 <standOff type="notes1" corresp="#TNV23">
-  <note xml:lang="ta" target="#kantor"><term xml:lang="en">Cf. TP43i.8-9:</term> ceynilaik kakaṉṟōr celaviṉum varaviṉuṅ | kaṇṭōr moḻital kaṇṭa teṉpa ||</note>
-  <note xml:lang="ta" target="#kantor"><term xml:lang="en">Cf. TP494i.2:</term> kaṇṭōr moḻital kaṇṭa teṉpa ||</note>
-  <note xml:lang="ta" target="#kantor"><term xml:lang="en">Cf. TP191i.3-4:</term>...kaṇṭōr | yātta ciṟappiṉ vāyilka ḷeṉpa ||</note>
+  <note xml:lang="ta" target="#kantor"><term xml:lang="en">Cf. TP40n.8–9:</term> ceynilaik kakaṉṟōr celaviṉum varaviṉuṅ | kaṇṭōr moḻital kaṇṭa teṉpa ||</note>
+    <note xml:lang="ta" target="#kantor"><term xml:lang="en">Cf. TP193i.3–4:</term> kaṇṭōr | yātta ciṟappiṉ vāyilka ḷeṉpa ||</note>
+<note xml:lang="ta" target="#kantor"><term xml:lang="en">Cf. TP506n.2:</term> kaṇṭōr moḻital kaṇṭa teṉpa ||</note>
   </standOff>
 
 <standOff type="notes4" corresp="#TNV23">
-  <note xml:lang="en" target="#kantor">In all of the sources cited, the additional information in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> either enumerate the people allowed to act as intermedieries, the people to whom the onlookers can speak or about what they can speak. Thy are not listed in full as the TNV <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> does not provide this information. Also note that these could equally well function as a source for the speech-sitaution spoken by the onlookers in line three.</note>
-  <note xml:lang="en" target="#maraital">This reading aligns with the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> in the commentary, so it is presumably the reading known to the commentator. I have also not been able to find <term xml:lang="ta-Latn"><hi rend="italic">malaital</hi></term> as a sub-situation in other poetic treatises, so I have deviated from the MS reading.</note>
-<note xml:lang="en" target="#talaimakan">Likewise, this aligns with what the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> suggests was the text known to the commentator. The transmission here is rather odd though. The palm-leaf MS gives different readings in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term> and commentary. Additionaly, UVC in the first edition of the text, printed <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term>, <q xml:lang="ta-Latn"><hi rend="italic">talaimakaḷ</hi></q> in the short prose commentary and then <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> again in the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term>. I have normalised these readings to <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q>, deviating from the MS, as I think it is unambigous that the speaker of the poem cited in the commentary is the hero. This situation is also not ofund in other treatises so there is no other information upon which to base this decision.</note>
+  <note xml:lang="en" target="#kantor">Note that these could equally well function as a source for the speech situation spoken by the onlookers in line three.</note>
+  <note xml:lang="en" target="#maraital">This reading aligns with the corresponding <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> in the commentary. It was not possible to find <term xml:lang="ta-Latn"><hi rend="italic">malaital</hi></term> as a sub-situation in other poetic treatises, so this edition deviates from C1.</note>
+<note xml:lang="en" target="#talaimakan">Likewise, this aligns with what the corresponding <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> says. The transmission here is rather odd though. C1 gives different readings in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term> and commentary. Additionally, UVC in the first edition of the text printed <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term>, <q xml:lang="ta-Latn"><hi rend="italic">talaimakaḷ</hi></q> in the short prose commentary, and then <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> again in the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term>. These readings are normalised to <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q>, deviating from C1, as it is unambiguous that the speaker of the poem cited in the commentary is the hero. This situation is also not found in other treatises, so there is no other information upon which to base this decision.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV23" source="alignments/TNV23.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -6590,7 +6788,11 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<!--Warnings
+TNV23: TNV1937 doesn't match alignment.
+-->
+<listApp>
   <app loc="22,27">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kūṟṟē</lem>
     <rdg wit="#TNVmsac">kūṟṟēn</rdg>
@@ -6607,15 +6809,18 @@
     <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937">
       <lem>peyarntaṉaṉ</lem>
       <rdg type="minor" wit="#TNVms">peyarn<lb n="8"/>taṉaṉ</rdg>
-      <rdg type="minor" wit="#TNVc"><lb n="10"/>peyarntaṉaṉ</rdg>
     </rdgGrp>
     <rdg wit="#TNV1947">peyarntaṉar</rdg>
   </app>
   <app loc="189,199">
-    <lem wit="#TNV1937 #TNV1947">talaimakaṉ</lem>
+    <rdgGrp type="lemma" select="#TNV1937 #TNV1947">
+      <lem>talaimakaṉ</lem>
+      <rdg type="minor" wit="#TNV1937">talaimakaṇ</rdg>
+    </rdgGrp>
     <rdg wit="#TNVms #TNVc">talaimakaḷ</rdg>
   </app>
 </listApp></standOff>
+
 <standOff type="apparatus" corresp="#TNV23comm1" source="alignments/TNV23comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -6631,11 +6836,16 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="17,38">
-    <lem wit="#TNVc #TNV1937 #TNV1947">āṟuṇarttutaṉutaliṟṟu.</lem>
-    <rdg wit="#TNVmsac">āṟuṇarttuta<sic>nu</sic>taliṟu.</rdg>
-    <rdg wit="#TNVmspc">āṟuṇarttuta<sic>nu</sic>taliṟṟu.</rdg>
+</interp>
+<listApp>
+
+  <app loc="17,37">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">āṟuṇarttutanutaliṟu</rdg>
+    <rdg wit="#TNVmspc">āṟuṇarttutanutaliṟṟu</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV23comm2" source="alignments/TNV23comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -6657,7 +6867,11 @@
     <lem wit="#TNV1947">talaimakaṉ</lem>
     <rdg wit="#TNVms #TNVc #TNV1937">talaimakaḷ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu1" source="alignments/TNV23koḷu1.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu1">
+  <note xml:lang="ta" target="#kaiyatai"><term xml:lang="en">Cf. AV182.9:</term> kaiyatai koṭuttal</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu1" source="alignments/TNV23koḷu1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6674,11 +6888,22 @@
   </desc>
 </interp><listApp>
   <app loc="0,6">
-    <lem wit="#TNVmspc #TNV1937 #TNV1947">eṉpatu</lem>
-    <rdg wit="#TNVc"/>
-    <rdg wit="#TNVmsac"><lb n="3"/>raiṉpatu.</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>eṉpatu</lem>
+      <rdg type="minor" wit="#TNVmspc"><lb n="3"/>eṉpatu.</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac"><lb n="3"/><g rend="vowel-sign">ai</g>eṉpatu.</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu2" source="alignments/TNV23koḷu2.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu2">
+  <note xml:lang="ta" target="#makilcci"><term xml:lang="en">Cf. AV182.10:</term> avaṉcurat tuyttal</note>
+  <note xml:lang="ta" target="#makilcci"><term xml:lang="en">Cf. AV182.11:</term> uvarntalar cūṭṭi uṇmakiḻn turaittal</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV23koḷu2">
+  <note xml:lang="en" target="#makilcci">The AV commentary cites NA 9 for the first situation cited above, which is the source for the poem provided for this situation in the TNV, hence why it is included even though the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> here does not show any similarity to the AV parallel.</note>
+  <note xml:lang="en" target="#makilcci">The second AV parallel more closely resembles the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term>, so it is provided here, even though it more describes the situation found in the fourth poem cited for this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> in the TNV, which is given the same <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term>.</note>
+  </standOff>  
+<standOff type="apparatus" corresp="#TNV23koḷu2" source="alignments/TNV23koḷu2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6693,12 +6918,9 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="0,6">
-    <lem wit="#TNVc #TNV1937 #TNV1947">eṉpatu</lem>
-    <rdg wit="#TNVms"/>
-  </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu3" source="alignments/TNV23koḷu3.xml"><interp type="normalization">
+</interp></standOff>
+
+<standOff type="apparatus" corresp="#TNV23koḷu3" source="alignments/TNV23koḷu3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6713,7 +6935,8 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV23koḷu4" source="alignments/TNV23koḷu4.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu4" source="alignments/TNV23koḷu4.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6733,7 +6956,14 @@
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ituvum</lem>
     <rdg wit="#TNVmsac">ituvuvum</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu5" source="alignments/TNV23koḷu5.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu5">
+  <note xml:lang="ta" target="#pattar"><term xml:lang="en">Cf. AV182.12:</term> kaṇṭō rayirttal</note>
+  </standOff>
+  <standOff type="notes4" corresp="#TNV23koḷu5">
+    <note xml:lang="en" target="#pattar">The AV commentary cites this same poem to exemplify this situation. It is not included in the apparatus as Wilden (2010) reports that information. </note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu5" source="alignments/TNV23koḷu5.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6792,7 +7022,48 @@
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">etirkaṇṭārkkut</lem>
     <rdg wit="#TNVmsac">etirkāṇṭārkkut</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu8" source="alignments/TNV23koḷu8.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu8">
+  <note xml:lang="ta" target="#iranki"><term xml:lang="en">Cf. AV184.3:</term> taṉṉaṟi viṉmai taṉṉainon turaittal</note></standOff>
+  <standOff type="notes4" corresp="#TNV23koḷu8">
+    <note xml:lang="en" target="#cevili">On every occasion <foreign xml:lang="ta-Latn">colli</foreign> is found in a TNV <foreign xml:lang="ta-Latn">koḷu</foreign>, it is preceded by either <foreign xml:lang="ta-Latn">āka</foreign> (see TNV 17, <foreign xml:lang="ta-Latn">koḷu</foreign> 13 and 32, for example), or a dative to mark the addressee of the poem (TNV 23, <foreign xml:lang="ta-Latn">koḷu</foreign> 12). UVC’s emendation solves the problem that C1 satisfied neither of these criteria. It also follows the wider pattern of the <foreign xml:lang="ta-Latn">koḷu</foreign>-s in this section of the text (and the TNV in general, though this is not a universal feature of the <foreign xml:lang="ta-Latn">koḷu</foreign>-s – see \S\ref{sec:kolus}), where the speaker is stated. This is a more likely reading than that transmitted in C1.</note></standOff>
+  <standOff type="apparatus" corresp="#TNV23koḷu8" source="alignments/TNV23koḷu8.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp>
+<listApp>
+  <app loc="0,6">
+    <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
+    <rdg wit="#TNVms #TNVc"/>
+  </app>
+  <app loc="25,31">
+    <lem wit="#TNV1937 #TNV1947">cevili</lem>
+    <rdg wit="#TNVms #TNVc">colli</rdg>
+  </app>
+  <app loc="31,42">
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>yiraṅkiyatu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">iraṅkiyatu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">yi<gap reason="illegible" unit="character" quantity="1"/>raṅkiyatu</rdg>
+  </app>
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu9">
+  <note xml:lang="ta" target="#nokki"><term xml:lang="en">Cf. AV184.1–2:</term> viṉaviya pāṅkiyi ṉuṇarnta kālai | iṉaiya leṉpōrk ketiraḻintu moḻital</note></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu9" source="alignments/TNV23koḷu9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6812,35 +7083,13 @@
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app loc="25,30">
-    <lem wit="#TNVms #TNVc">colli</lem>
-    <rdg wit="#TNV1937 #TNV1947">cevili</rdg>
-  </app>
-  <app loc="30,42">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">yiraṅkiyatu.</lem>
-    <rdg wit="#TNVmsac">yi<gap reason="illegible" unit="character" quantity="1"/>raṅkiyatu.</rdg>
-  </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu9" source="alignments/TNV23koḷu9.xml"><interp type="normalization">
-  <desc type="tagfilters">
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
-  </desc>
-</interp><listApp>
-  <app loc="0,6">
-    <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
-    <rdg wit="#TNVms #TNVc"/>
-  </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu10" source="alignments/TNV23koḷu10.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu10">
+  <note xml:lang="ta" target="#teyvam"><term xml:lang="en">Cf. AV184.4:</term> teyvam vāḻttal</note></standOff>
+  <standOff type="notes4" corresp="#TNV23koḷu10">
+    <note xml:lang="en" target="#teyvam">The AV commentary cites KT 378 for this situation, which is the source material for the poem cited in the TNV.</note>
+  </standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu10" source="alignments/TNV23koḷu10.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6875,7 +7124,10 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV23koḷu12" source="alignments/TNV23koḷu12.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu12">
+  <note xml:lang="ta" target="#chase"><term xml:lang="en">Cf. AV188.1:</term> āṟṟāt tāyait tēṟṟal</note></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu12" source="alignments/TNV23koḷu12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6890,7 +7142,14 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV23koḷu13" source="alignments/TNV23koḷu13.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu13">
+  <note xml:lang="ta" target="#weep"><term xml:lang="en">Cf. AV188.4:</term> cuvaṭukaṇ ṭiraṅkal</note>
+  <note xml:lang="ta" target="#weep"><term xml:lang="en">Cf. AV188.4:</term> kuravoṭu pulampal</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV23koḷu13">
+  <note xml:lang="en" target="#weep">The second situation cited from the AV corresponds to the next poem cited in the TNV. It is cited here as the TNV doesn’t differentiate between the two situations.</note></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu13" source="alignments/TNV23koḷu13.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6929,7 +7188,10 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV23koḷu15" source="alignments/TNV23koḷu15.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu15">
+  <note xml:lang="ta" target="#vinayirru"><term xml:lang="en">Cf. AV188.5:</term> kalantuṭaṉ varuvōrk kaṇṭukēṭ ṭal</note></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu15" source="alignments/TNV23koḷu15.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6949,7 +7211,12 @@
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu16" source="alignments/TNV23koḷu16.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu16">
+  <note xml:lang="ta" target="#teruttiyatu"><term xml:lang="en">Cf. AV188.5–6:</term> avar | pulampal tēṟṟal</note></standOff>
+  <standOff type="notes4" corresp="#TNV23koḷu16">
+    <note xml:lang="en" target="#kantar"><q xml:lang="ta-Latn"><hi rend="italic">kaṇṭōr</hi></q> is the well-established terminology for ‘the onlookers’ the couple encounter in the desert (cf. TP 494i.2, cited as a source for TNV 23).</note></standOff>
+  <standOff type="apparatus" corresp="#TNV23koḷu16" source="alignments/TNV23koḷu16.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -6968,6 +7235,10 @@
   <app loc="0,6">
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
+  </app>
+  <app loc="29,35">
+    <lem wit="#TNVc #TNV1937 #TNV1947">kaṇṭōr</lem>
+    <rdg wit="#TNVms">kaṇṭār</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu17" source="alignments/TNV23koḷu17.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7009,7 +7280,10 @@
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu19" source="alignments/TNV23koḷu19.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu19">
+  <note xml:lang="ta" target="#maraintatu"><term xml:lang="en">Cf. AV198.4–6:</term> īṉṟāḷ | aṟattoṭu niṟṟaliṟ ṟamarpiṉ cēralait | talaivi kaṇṭu talaivaṟ kuṇarttal</note></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu19" source="alignments/TNV23koḷu19.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7030,8 +7304,12 @@
     <rdg wit="#TNVms #TNVc"/>
   </app>
   <app loc="6,24">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">talaimakaṭamar ātal</lem>
-    <rdg wit="#TNVmsac">talaima<unclear>ta</unclear>kaṭamarātal</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>talaimakaṭamar ātal</lem>
+      <rdg type="minor" wit="#TNVmspc #TNVc">talaimakaṭamarātal</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">talaimakaḷ tamarātal</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">talaimatakaṭamarātal</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu20" source="alignments/TNV23koḷu20.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7089,7 +7367,10 @@
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu23" source="alignments/TNV23koḷu23.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu23">
+  <note xml:lang="ta" target="#kurumin"><term xml:lang="en">Cf. AV191.3–4:</term> talaivimuṉ celvōr tammoṭu taṉvaral | pāṅkiyark kuṇartti viṭuttal</note></standOff> 
+<standOff type="apparatus" corresp="#TNV23koḷu23" source="alignments/TNV23koḷu23.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7111,9 +7392,11 @@
   </app>
   <app loc="6,17">
     <lem wit="#TNVc #TNV1937 #TNV1947">āyattārkkuk</lem>
-    <rdg wit="#TNVms">āya<sic>r</sic>ttārk<gap reason="lost" unit="character" quantity="4"/></rdg>
+    <rdg wit="#TNVms">āyarttārk<space unit="character" quantity="4"/></rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu24" source="alignments/TNV23koḷu24.xml"><interp type="normalization">
+</listApp></standOff>
+
+<standOff type="apparatus" corresp="#TNV23koḷu24" source="alignments/TNV23koḷu24.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7133,7 +7416,10 @@
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu25" source="alignments/TNV23koḷu25.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu25">
+  <note xml:lang="ta" target="#cevilitay"><term xml:lang="en">Cf. AV191.6–7:</term> naṟṟāy kēṭṭavaṉ | uḷaṅkōḷ vēlaṉai viṉātal</note></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu25" source="alignments/TNV23koḷu25.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7153,7 +7439,10 @@
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu26" source="alignments/TNV23koḷu26.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu26">
+  <note xml:lang="ta" target="#narraykku"><term xml:lang="en">Cf. AV194.3–4:</term> varaintamai cevili | naṟṟāyk kuṇarttal</note></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu26" source="alignments/TNV23koḷu26.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7173,9 +7462,9 @@
     <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
     <rdg wit="#TNVms #TNVc"/>
   </app>
-  <app loc="16,27">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">naṟṟāyakkuc</lem>
-    <rdg wit="#TNVmsac">naṟṟāyakkuk</rdg>
+  <app loc="16,26">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">naṟṟāykkuc</lem>
+    <rdg wit="#TNVmsac">naṟṟāykkuk</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu27" source="alignments/TNV23koḷu27.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7193,17 +7482,25 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="0,19">
-    <lem wit="#TNV1937 #TNV1947">eṉpatu talaimakaṟkut</lem>
-    <rdg wit="#TNVc">talaimakaṟkut</rdg>
+  <app loc="0,6">
+    <lem wit="#TNV1937 #TNV1947">eṉpatu</lem>
+    <rdg wit="#TNVms #TNVc"/>
+  </app>
+  <app loc="6,19">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">talaimakaṟkut</lem>
     <rdg wit="#TNVmsac">talaimaka<gap reason="illegible" unit="character" quantity="1"/>ṟkut</rdg>
-    <rdg wit="#TNVmspc">talaimakaṟkut</rdg>
   </app>
   <app loc="19,34">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">talaimakaṉaṟṟāy</lem>
-    <rdg wit="#TNVcac">talaimakaṇ naṟṟāy</rdg>
+    <rdgGrp type="lemma" select="#TNVms #TNVcpc #TNV1937 #TNV1947">
+      <lem>talaimakaṉaṟṟāy</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">talaimakaṉ naṟṟāy</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVcac">talaimakaṇaṟṟāy</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23koḷu28" source="alignments/TNV23koḷu28.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes2" corresp="#TNV23koḷu28">
+  <note xml:lang="ta" target="#cevilikkuc"><term xml:lang="en">Cf. AV194.1–2:</term> paṇimoḻi naṟṟāy maṇaṉayar vēṭkaiyiṟ | ceviliyai viṉātal</note></standOff>
+<standOff type="apparatus" corresp="#TNV23koḷu28" source="alignments/TNV23koḷu28.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7244,7 +7541,12 @@
     <rdg wit="#TNVms #TNVc"/>
   </app>
  
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem1" source="alignments/TNV23poem1.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem1">
+<note xml:lang="en" target="#malai">There is a formula adj + <foreign xml:lang="ta-Latn">malai</foreign> + <foreign xml:lang="ta-Latn">nāṭaṉ</foreign>. I found no instance where <foreign xml:lang="ta-Latn">malai nāṭaṉ</foreign> is not preceded by a qualifier.</note>
+<note xml:lang="en" target="#time">This poem is anonymous but almost certainly predates the TNV, as it is found in the IAC. There is no reason to think the C1 readings, which in any case do not make good sense in the context of the speech situation, were the poet’s composition. The reading <q xml:lang="ta-Latn"><hi rend="italic">ilaṉē</hi></q> in the first line, for example, requires the heroine to be the addressee, in which case the vocative in the last line – <q xml:lang="ta-Latn"><hi rend="italic">nāṭa</hi></q>, which is one of the standard terms of address for the hero – would not make sense. The poem is widely quoted and the text is stable. C1 looks like a corrupted outlier.</note> 
+</standOff>
+<standOff type="apparatus" corresp="#TNV23poem1" source="alignments/TNV23poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7261,38 +7563,33 @@
   </desc>
 </interp><listApp>
   <app loc="12,18">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn #IA">tilaḷē</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #IA #TPi #TPn">tilaḷē</lem>
     <rdg wit="#TNVms #TNVcac">tilaṉē</rdg>
   </app>
-  <app loc="35,43">
-    <lem wit="#TNVms #TNV1937 #TNV1947 #TKn #IA">ṇivaḷala</lem>
-    <rdg wit="#TNVc">ṇivaḷalla</rdg>
-  </app>
   <app loc="49,53">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn #IA">yāṉu</lem>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #IA #TPi #TPn">yāṉu</lem>
     <rdg wit="#TNVms #TNVcac">yāyiṉu</rdg>
   </app>
   <app loc="60,64">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn #IA">yēṉē</lem>
-    <rdg wit="#TNVcac">yōṉē</rdg>
-    <rdg wit="#TNVms">yōṉō</rdg>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #IA #TPi #TPn">yēṉē</lem>
+    <rdg wit="#TNVms #TNVcac">yōṉō</rdg>
   </app>
   <app loc="64,71">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #TKn #IA">māmalai</lem>
-    <rdgGrp select="#TNVms #TNVcac">
-      <rdg type="main">malai</rdg>
-      <rdg type="minor" wit="#TNVms">
-        <sic>malai</sic>
-      </rdg>
-    </rdgGrp>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #IA #TPi #TPn">māmalai</lem>
+    <rdg wit="#TNVms #TNVcac">malai</rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem2">
-  <note xml:lang="ta" target="#mella"><term xml:lang="en">Cf. PK180.1 (IAC23, p.179)</term> paṇtāṉ aṉaiyacol vāypaiya ēku...</note>
-  <note xml:lang="ta" target="#mella"><term xml:lang="en">Cf. PK181.4 (IAC23, p.179)</term>...nāi yātu naṭakkaveṉ naṉṉutalē</note>
-  <note xml:lang="ta" target="#mella"><term xml:lang="en">Cf. NA9.9-12 (IAC23, p.179)</term> varuntā tēkumati vāleyiṟ ṟōyē | mānaṉai koḻuti makiḻkuyi lālu | naṟuntaṇ poḻila kāṉaṅ | kuṟumpa lūrayāñ cellu māṟē ||</note>
+    <note xml:lang="ta" target="#mella"><term xml:lang="en">Cf. NA9.9–12 (IAC23, p. 153):</term> varuntā tēkumati vāleyiṟ ṟōyē | mānaṉai koḻuti makiḻkuyi lālu | naṟuntaṇ poḻila kāṉaṅ | kuṟumpa lūrayāñ cellu māṟē ||</note>
+<note xml:lang="ta" target="#mella"><term xml:lang="en">Cf. PK184.1 (IAC23, p. 163):</term> paṇtāṉa ṉaiyacol vāypaiya vēku</note>
+  <note xml:lang="ta" target="#mella"><term xml:lang="en">Cf. PK185.4 (IAC23, p. 163):</term> nāi yātu naṭakkave ṉaṉṉutalē ||</note>
 </standOff>
-<standOff type="apparatus" corresp="#TNV23poem2" source="alignments/TNV23poem2.xml"><interp type="normalization">
+<standOff type="notes2" corresp="#TNV23poem2">
+  <note xml:lang="ta" target="#mella"><term xml:lang="en">Cf. TK215.1:</term> pēṇat tiruttiya cīṟaṭi mellaccel</note></standOff>
+  <standOff type="notes4" corresp="#TNV23poem2">
+    <note xml:lang="en" target="#natai">I hesitate to choose KKms and UVC’s reading of <q xml:lang="ta-Latn"><hi rend="italic">nallaṭi</hi></q> (‘good feet’), which makes perfect sense. I have not found any other convincing parallels in the old corpus that would suggest this reading, and I would argue the C1 reading is as sensible. UVC may have agreed, as this is one of only four variants that he notes in his edition. Without another parallel, I do not see the need to deviate from C1.</note> 
+    <note xml:lang="en" target="#tekumati">Even though one finds the root imperative <q xml:lang="ta-Latn"><hi rend="italic">ēku</hi></q> in both C1 and PK 184, it is highly likely that the source and point of reference for the poet here was NA 9, where we find the phrase – <q xml:lang="ta-Latn"><hi rend="italic">varuntātu ēkumati</hi></q>. One might argue that this well-known parallel might have influenced a scribe and caused an error, but in the context of the poem the polite imperative ending in <foreign xml:lang="ta-Latn">-mati</foreign> is appropriate. It is also supported by KKms, though in this case I did not consider that evidence too strongly. Overall, the close parallel convinces me to adopt UVC’s emended reading.</note></standOff> 
+  <standOff type="apparatus" corresp="#TNV23poem2" source="alignments/TNV23poem2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7314,20 +7611,25 @@
   </app>
   <app loc="30,38">
     <lem wit="#TNVcpc #TNV1937 #TNV1947 #KKed">tēkumati</lem>
-    <rdg wit="#KKms">tēku<sic>ti</sic>mati</rdg>
-    <rdg wit="#TNVcac">tēku</rdg>
-    <rdg wit="#TNVms">tēkumata</rdg>
+    <rdg wit="#TNVms #TNVcac">tēku</rdg>
+    <rdg wit="#KKms">tēkutimati</rdg>
   </app>
   <app loc="38,44">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">maṭavō</lem>
-    <rdg wit="#KKedpc">maṭavōy</rdg>
     <rdg wit="#KKms #KKedac">vāleyiṟ ṟōyē</rdg>
+    <rdg wit="#KKedpc">maṭavōy</rdg>
   </app>
   <app loc="44,52">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">yiruntaṇ</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">
+      <lem>yiruntaṇ</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">y iruntaṇ</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">yiruntēṇ</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem3" source="alignments/TNV23poem3.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem3">
+  <note xml:lang="en" target="#kantiyo">One can make good sense of both readings here, possibly even better sense of UVC’s emendation. He replaces the interrogative particle with an emphatic, so: ‘O, you shall rejoice when you see…’ His emendation requires minimal intervention – one must delete only one <foreign xml:lang="ta-Latn">kāl</foreign>. However, the C1 reading is also perfectly plausible and we find more evidence for subjunctive + <foreign xml:lang="ta-Latn">-ō</foreign> forms in the old corpus. Indeed, in Kali 129.14, there is a parallel construction: <q xml:lang="ta-Latn"><hi rend="italic">aṟintaṉai naraṟiyō</hi></q>. I did not find such instances with the emphatic particle <foreign xml:lang="ta-Latn">-ē</foreign>, so this edition reverts to the C1 reading.</note></standOff>
+    <standOff type="apparatus" corresp="#TNV23poem3" source="alignments/TNV23poem3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7342,33 +7644,45 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<!--Warnings
+TNV23poem3: Ed doesn't match alignment.
+-->
+<listApp>
   <app loc="9,16">
     <lem wit="#TNVms #TNVc">kāṇṭiyō</lem>
     <rdg wit="#TNV1937 #TNV1947">kāṇṭiyē</rdg>
   </app>
   <app loc="16,21">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">neñcē</lem>
-    <rdg wit="#TNVmsac">neñncē</rdg>
+    <rdg wit="#TNVmsac">neñanecē</rdg>
   </app>
   <app loc="21,25">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">mēṉā</lem>
-    <rdg wit="#TNVcac">maṉā</rdg>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">mēṉā</lem>
+    <rdg wit="#TNVms #TNVcac">maṉā</rdg>
   </app>
   <app loc="47,57">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">karuṅkuḻaṉ</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>karuṅkuḻaṉ</lem>
+      <rdg type="minor" wit="#TNVmspc">karuṅ<lb n="5"/>kuḻaṉ</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">karuṅ<lb n="5"/>kuḻa<gap reason="illegible" unit="character" quantity="1"/>ṉ</rdg>
   </app>
   <app loc="62,71">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">mayiliyaṟ</lem>
+    <rdg wit="#TNVms">mayiliyar</rdg>
     <rdg wit="#TNVcac">mayiliya</rdg>
-    <rdg wit="#TNVms">mayiliya<sic>r</sic></rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem4">
-  <note xml:lang="ta" target="#tane"><term xml:lang="en">Cf. AN261:</term> kāṉap pātiri karuntakaṭ ṭoḷvī | vēṉi latiraloṭu viraiik kāṇvarac | cilaiṅ kūnta laḻutti melliṇart | tēmpāy marāa maṭaicci vāṉkō | lilaṅkuvaḷai teḷirppa vīcic cilampunakac | ciṉamel lotukkamoṭu meṉmela viyaliniṉ | ṉaṇimāṇ ciṟupuṟaṅ kāṇkañ ciṟunaṉi |  yēkeṉa vēka ṉāṇi yoyyeṉa | māko ṇōkkamoṭu maṭaṅkoḷac cāay | niṉṟutalai yiṟaiñci yōḷē yatukaṇ | ṭiyāmun tuṟutal cellē māyiṭai | yaruñcurat talki yēmē yirumpuli | kaḷiṟaṭṭuk kuḻumu mōcaiyuṅ kaḷipaṭṭu | villōr kuṟumpiṟ ṟatumpum | valvāyk kaṭuntuṭip pāṇiyum kēṭṭē ||</note>
+  <note xml:lang="ta" target="#tane"><term xml:lang="en">Cf. AN261:</term> kāṉap pātiri karuntakaṭ ṭoḷvī | vēṉi latiraloṭu viraiik kāṇvarac | cilaiṅ kūnta laḻutti melliṇart | tēmpāy marāa maṭaicci vāṉkō | lilaṅkuvaḷai teḷirppa vīcic cilampunakac | ciṉamel lotukkamoṭu meṉmela viyaliniṉ | ṉaṇimāṇ ciṟupuṟaṅ kāṇkañ ciṟunaṉi |  yēkeṉa vēka ṉāṇi yoyyeṉa | māko ṇōkkamoṭu maṭaṅkoḷac cāay | niṉṟutalai yiṟaiñci yōḷē yatukaṇ | ṭiyāmun tuṟutal cellē māyiṭai | yaruñcurat talki yēmē yirumpuli | kaḷiṟaṭṭuk kuḻumu mōcaiyuṅ kaḷipaṭṭu | villōr kuṟumpiṟ ṟatumpum | valvāyk kaṭuntuṭip pāṇiyuṅ kēṭṭē ||</note>
   </standOff>
-<standOff type="apparatus" corresp="#TNV23poem4" source="alignments/TNV23poem4.xml"><interp type="normalization">
+  <standOff type="notes2" corresp="#TNV23poem4">
+    <note xml:lang="ta" target="#tane"><term xml:lang="en">Cf. TK219:</term> aṉpaṇait tañcolli piṉcellu māṭava ṉīṭavaṉṟaṉ | piṉpaṇait tōḷi varumip peruñcurañ celvataṉṟu | poṉpaṇait taṉṉa viṟaiyuṟai tillaip polimalarmēl | naṉpaṇait taṇṇaṟa vuṇṇaḷi pōṉṟoḷir nāṭakamē ||</note></standOff>
+  <standOff type="notes4" corresp="#TNV23poem4">
+  <note target="#tane" xml:lang="en">Both readings can make sense here – the couple are delayed with regard to their return in C1, though the final <q xml:lang="ta-Latn"><hi rend="italic">tāṉē</hi></q> is awkward, and delayed in the wilderness in the others. This edition opts for the print reading on the strength of the AN source and TK parallel. In both poems, there is explicit mention of the couple staying in the wilderness. <term xml:lang="ta-Latn"><hi rend="italic">ṟ</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">ḻ</hi></term> sound similar and so it is plausible that a scribe may have confused the two at some point.</note>
+  </standOff>
+    <standOff type="apparatus" corresp="#TNV23poem4" source="alignments/TNV23poem4.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7391,17 +7705,22 @@
   <app loc="105,113">
     <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
       <lem>tāḻtaliṉ</lem>
-      <rdg type="minor" wit="#TNVcac">tāḻ<lb n="26"/>taliṉ</rdg>
-      <rdg type="minor" wit="#TNVcpc">tāḻ<lb n="26"/>taliṉ,</rdg>
+      <rdg type="minor" wit="#TNVc">tāḻ<lb n="26"/>taliṉ</rdg>
     </rdgGrp>
     <rdg wit="#TNVmsac">tā<gap reason="illegible" unit="character" quantity="1"/>taliṉ</rdg>
   </app>
   <app loc="145,152">
-    <lem wit="#TNVms">paruvat</lem>
-    <rdg wit="#TNVc"><lb n="27"/>paḻuvan</rdg>
-    <rdg wit="#TNV1937 #TNV1947">paḻuvat</rdg>
+    <lem wit="#TNV1937 #TNV1947">paḻuvat</lem>
+    <rdgGrp select="#TNVms #TNVc">
+      <rdg type="main">paruvan</rdg>
+      <rdg type="minor" wit="#TNVc"><lb n="27"/>paruvan</rdg>
+    </rdgGrp>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem5" source="alignments/TNV23poem5.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem5">
+  <note xml:lang="en" target="#kaval">The C1 reading is almost certainly corrupt, though one can make sense of it. It is not found in any manuscript or edition that prints this poem, including where it is quoted in commentaries to other texts (such as in the case of the TNV). The KT mirrors the construction of the following phrase nicely – the hero wears warrior anklets on his legs, and the heroine has anklets above her feet. For poetic reasons, this reading is preferable. The C1 reading is also syntactically more awkward. The only way to make sense of reading <q xml:lang="ta-Latn"><hi rend="italic">villōṉ kāval kaḻalē</hi></q> involves inverting the natural word-order, placing the attribute – ‘being watchful’ or ‘keeping guard’ – after the subject. This would translate to: ‘The man with the bow, keeping watch, [wears] warrior anklets’.</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV23poem5" source="alignments/TNV23poem5.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7417,30 +7736,36 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="6,11">
-    <lem wit="#TNVms #TNVcac">kāval</lem>
-    <rdg wit="#TNVcpc #TNV1937 #TNV1947 #KT7">kālaṉa</rdg>
+  <app loc="6,12">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KT7">kālaṉa</lem>
+    <rdg wit="#TNVms #TNVcac">kāval</rdg>
   </app>
-  <app loc="17,24">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #KT7">toṭiyōṇ</lem>
+  <app loc="18,25">
+    <rdgGrp type="lemma" select="#TNVms #TNVcpc #TNV1937 #TNV1947 #KT7">
+      <lem>toṭiyōṇ</lem>
+      <rdg type="minor" wit="#TNVcpc">to<lb n="28"/>ṭiyōṇ</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">toṭiyōḷ</rdg>
+    </rdgGrp>
     <rdg wit="#TNVcac">ko<lb n="28"/>ṭiyōṇ</rdg>
   </app>
-  <app loc="38,45">
+  <app loc="39,46">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #KT7">cilampē</lem>
     <rdg wit="#TNVcac">cilamalē</rdg>
   </app>
-  <app loc="56,66">
-    <lem wit="#TNVms #TNVcac">laḷiya tāmē</lem>
-    <rdgGrp select="#TNVcpc #TNV1937 #TNV1947 #KT7">
-      <rdg type="main">laḷiyar tāmē</rdg>
-      <rdg type="minor" wit="#TNVcpc">laḷiyar tāmē,</rdg>
+  <app loc="57,68">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KT7">laḷiyar tāmē</lem>
+    <rdgGrp select="#TNVms #TNVcac">
+      <rdg type="main">laḷiya tāmē</rdg>
+      <rdg type="minor" wit="#TNVms">la<lb n="8"/>ḷiya tāmē</rdg>
     </rdgGrp>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem6">
-  <note xml:lang="ta" target="#yone"><term xml:lang="en">Cf. PK182.3-4 (IAC23, p.125):</term> malaimaṉṉum veyyōṉ maṟaintaṉaṉ mātumey vāṭinaintāḷ | cilaimaṉṉu tōḷaṇṇal cērntaṉai celleñ ciṟukuṭikkē ||</note>
-  <note xml:lang="ta" target="#yone"><term xml:lang="en">Cf. PK183.2-4 (IAC23, p.125):</term>...mikamelintāḷ | kuṉṟār cuṭarōṉ maṟaintaṉaṉ kūrvēl viṭalaitaṅkic | ceṉṟāl aḻivatuṇ ṭōvaṇit toleñ ciṟukuṭiyē ||</note>
+  <note xml:lang="ta" target="#yone"><term xml:lang="en">Cf. PK186.3–4 (IAC23, p. 164):</term> malaimaṉṉum veyyōṉ maṟaintaṉaṉ mātumey vāṭinaintāḷ | cilaimaṉṉu tōḷaṇṇal cērntaṉai celleñ ciṟukuṭikkē ||</note>
+  <note xml:lang="ta" target="#yone"><term xml:lang="en">Cf. PK187.2–4 (IAC23, p. 164):</term> mikamelintāḷ | kuṉṟār cuṭarōṉ maṟaintaṉaṉ kūrvēl viṭalaitaṅkic | ceṉṟā laḻivatuṇ ṭōvaṇit toleñ ciṟukuṭiyē ||</note>
 </standOff>
+<standOff type="notes4" corresp="#TNV23poem6">
+  <note xml:lang="en" target="#cerntanan">UVC’s emendation here is reasonable. Something with the sense of ‘join the road’ is what one expects in the final two <foreign xml:lang="ta-Latn">cīr</foreign>-s of line one. This is a common euphemism to say the sun has set. That is the clear intention of the poet. There is text-internal evidence for this as well. One finds an almost identical phrase in TNV 18, poem 3, line 1: <q xml:lang="ta-Latn"><hi rend="italic">āykatirc celva ṉattañ cērnteṉa</hi></q>. There is no variant reading for the final <foreign xml:lang="ta-Latn">cīr</foreign>. If one wanted to argue for the C1 reading as the <foreign xml:lang="la">lectio difficilior</foreign>, then there is a way to make sense of it. The sun would then have ‘laid down on the road’ or ‘reddened’. They could both work as euphemisms for sunset. This edition prints the more common formula, supported by the TNV parallel.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem6" source="alignments/TNV23poem6.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7457,31 +7782,30 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="22,30">
-    <lem wit="#TNVms">cēntaṉaṉ</lem>
-    <rdgGrp select="#TNVc #TNV1937 #TNV1947 #KKms #KKed">
-      <rdg type="main">cērntaṉaṉ</rdg>
-      <rdg type="minor" wit="#TNVc">cērntaṉaṉ,</rdg>
-    </rdgGrp>
+  <app loc="22,31">
+    <lem wit="#TNVc #TNV1937 #TNV1947 #KKms #KKed">cērntaṉaṉ</lem>
+    <rdg wit="#TNVms">cēntaṉaṉ</rdg>
   </app>
-  <app loc="38,44">
+  <app loc="39,45">
     <lem wit="#TNVc #TNV1937 #TNV1947 #KKedpc">kuḻalō</lem>
+    <rdg wit="#TNVms">kuḻa<unclear>liyō</unclear></rdg>
     <rdg wit="#KKms #KKedac">kōtaiyō</rdg>
-    <rdg wit="#TNVms">kuḻal<unclear>iyō</unclear></rdg>
   </app>
-  <app loc="44,52">
+  <app loc="45,53">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #KKms #KKed">ṭivvaḻit</lem>
-    <rdg wit="#TNVmsac">ṭevvaḻit</rdg>
+    <rdg wit="#TNVmsac">ṭuvvaḻit</rdg>
   </app>
-  <app loc="60,65">
+  <app loc="61,66">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947 #KKedpc">ceṉmō</lem>
     <rdg wit="#KKms #KKedac">ceṉmē</rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem7">
-  <note xml:lang="ta" target="#ketave"><term xml:lang="en">Cf. Aiṅk384:</term> cēṭpula muṉṉiya vacainaṭai yantaṇir | nummoṉ ṟirantaṉeṉ moḻiva lemmūr | yāynayan teṭutta vāynalaṅ kaviṉa | vāriṭai yiṟantaṉa ḷeṉmi | ṉēriṟai muṉkaiyeṉ ṉāyat tōrkkē ||</note>
-  <note xml:lang="ta" target="#ketave"><term xml:lang="en">Cf. Aiṅk385.1-2:</term> kaṭuṅkaṭ kāḷaiyoṭu neṭuntē rēṟik | kōḷval vēṅkai malaipiṟak koḻiya ||</note>
-</standOff>
+  <note xml:lang="ta" target="#ketave"><term xml:lang="en">Cf. AiN384:</term> cēṭpula muṉṉiya vacainaṭai yantaṇir | nummoṉ ṟirantaṉeṉ moḻiva lemmūr | yāynayan teṭutta vāynalaṅ kaviṉa | vāriṭai yiṟantaṉa ḷeṉmi | ṉēriṟai muṉkaiyeṉ ṉāyat tōrkkē ||</note>
+  <note xml:lang="ta" target="#ketave"><term xml:lang="en">Cf. AiN385.1–2:</term> kaṭuṅkaṭ kāḷaiyoṭu neṭuntē rēṟik | kōḷval vēṅkai malaipiṟak koḻiya ||</note>
+  </standOff>
+  <standOff type="notes4" corresp="#TNV23poem7">
+    <note xml:lang="en" target="#anta">One does not expect gemination following a vocative, which <q xml:lang="ta-Latn"><hi rend="italic">antaṇir</hi></q>, although it is unmarked, is.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem7" source="alignments/TNV23poem7.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7506,7 +7830,13 @@
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">matiyoṭu</lem>
     <rdg wit="#TNVmsac">matiyoṭu<unclear>k</unclear></rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem8" source="alignments/TNV23poem8.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem8">
+<note target="#varivalai" xml:lang="en">There is no question that <q xml:lang="ta-Latn"><hi rend="italic">varivaḷai tōḷi</hi></q> (‘she with arms with rows of bangles’) is a common formula, and possibly this is why UVC changed this reading. There is also one other instance of this phrase in TNV 18, poem 11. However, in this case, I do not consider that good enough reason to discount C1’s semantically and metrically sound version. One can also find that same phrase, or something almost identical, twice in the <term xml:lang="ta-Latn"><hi rend="italic">Peruṅkaṭai</hi></term>. See 3:10:24 and 5:3:125. This is a very marginal case.</note>
+</standOff>
+<standOff type="notes2" corresp="#TNV23poem8">
+  <note target="#nencu" xml:lang="ta"><term xml:lang="en">Cf. TK227:</term> muṟuvalak kāṟantu vanteṉ mulaimuḻu vittaḻuvic | ciṟuvalak kāraṅkaḷ ceytavel lāmuḻu tuñcitaiyat | teṟuvalak kālaṉaic ceṟṟavaṉ ciṟṟam palañcintiyār | uṟuvalak kāṉakan tāṉpaṭar vāṉā moḷiyiḻaiyē ||</note></standOff>
+<standOff type="apparatus" corresp="#TNV23poem8" source="alignments/TNV23poem8.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7525,19 +7855,25 @@
   <app loc="11,20">
     <lem wit="#TNVms">vārvaḷait</lem>
     <rdgGrp select="#TNVc #TNV1937 #TNV1947">
-      <rdg type="main">vari<lb n="4"/>vaḷait</rdg>
-      <rdg type="minor" wit="#TNV1937 #TNV1947">varivaḷait</rdg>
+      <rdg type="main">varivaḷait</rdg>
+      <rdg type="minor" wit="#TNVc">vari<lb n="4"/>vaḷait</rdg>
     </rdgGrp>
   </app>
   <app loc="20,28">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">tōḷiyaip</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVcpc #TNV1937 #TNV1947">
+      <lem>tōḷiyaip</lem>
+      <rdg type="minor" wit="#TNVcpc">tōḷiyaip ,</rdg>
+    </rdgGrp>
     <rdg wit="#TNVcac">tōḷiyaik ,</rdg>
   </app>
   <app loc="57,66">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">vuṭampoṭu</lem>
-    <rdg wit="#TNVmsac">vuṭaimpoṭu</rdg>
+    <rdg wit="#TNVmsac">vumaṭampoṭu</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem9" source="alignments/TNV23poem9.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem9">
+  <note target="#rilaiya" xml:lang="en">I am not clear why UVC emended here. C1 preserves the alliteration on the third and fourth consonants of the final two lines. <q xml:lang="ta-Latn"><hi rend="italic">pētuṟṟilai</hi></q> is also a perfectly acceptable form for a negative, affixing <foreign xml:lang="ta-Latn">-il</foreign>, with a pronominal ending, onto the past stem of the compound verb <foreign xml:lang="ta-Latn">pētu-uṟu-tal</foreign>. This form was not present in the oldest strata of Tamil but, by the time of the TNV's composition, would have been used frequently (Wilden 2018b, 147).</note></standOff>
+<standOff type="apparatus" corresp="#TNV23poem9" source="alignments/TNV23poem9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7553,24 +7889,26 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="16,25">
-    <lem wit="#TNV1947">polivaḷai</lem>
-    <rdgGrp select="#TNVms #TNVcac #TNVcpc #TNV1937">
-      <rdg type="main">polivaḷaik</rdg>
+  <app loc="16,26">
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937">
+      <lem>polivaḷaik</lem>
       <rdg type="minor" wit="#TNVcpc">polivaḷaik,</rdg>
     </rdgGrp>
+    <rdg wit="#TNV1947">polivaḷai</rdg>
   </app>
-  <app loc="56,63">
+  <app loc="57,64">
     <lem wit="#TNVms">ṟilaiyā</lem>
+    <rdg wit="#TNVcac">nilaiyā</rdg>
+    <rdg wit="#TNVcpc">vilaiyā</rdg>
     <rdg wit="#TNV1937 #TNV1947">lilaiyā</rdg>
-    <rdg wit="#TNVcac"><sic>ni</sic>laiyā</rdg>
-    <rdg wit="#TNVcpc"><sic>vi</sic>laiyā</rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem10">
   <note xml:lang="ta" target="#neriye"><term xml:lang="en">Cf. KT378:</term> ñāyiṟu kāyātu maraniḻaṟ paṭṭu | malaimutaṟ ciṟuneṟi maṇaṉmikat tāayt | taṇmaḻai talaiyiṉ ṟāka nannīttuc | cuṭarvāy neṭuvēṟ kāḷaiyoṭu | maṭamā varivai pōkiya curaṉē ||</note>
-    <note xml:lang="ta" target="#neriye"><term xml:lang="en">Cf. Aiṅk371:</term> maḷḷar koṭṭiṉ maññai yālu | muyarneṭuṅ kuṉṟam paṭumaḻai talaiic curanaṉi yiṉiya vākuka tilla | vaṟaneṟi yituveṉat teḷintaveṉ | piṟainutaṟ kuṟumakaḷ pōkiya kāṉē ||</note>
+    <note xml:lang="ta" target="#neriye"><term xml:lang="en">Cf. AiN371:</term> maḷḷar koṭṭiṉ maññai yālu | muyarneṭuṅ kuṉṟam paṭumaḻai talaiic curanaṉi yiṉiya vākuka tilla | vaṟaneṟi yituveṉat teḷintaveṉ | piṟainutaṟ kuṟumakaḷ pōkiya kāṉē ||</note>
 </standOff>
+<standOff type="notes4" corresp="#TNV23poem10">
+  <note xml:lang="en" target="#neriye">This emendation seems unnecessary. I assume UVC edited the text in line with the end of KT 378, which is a clear source for the poem. It is not, however, a hard and fast rule that the poet copied phrases from the source material when referencing them, and I would argue that the C1 reading here makes perfect sense and that there is no convincing reason to think a scribe would have mistakenly switched a word known from a similar phrase in a famous poem – <q xml:lang="ta-Latn"><hi rend="italic">curaṉ</hi></q> – out for <q xml:lang="ta-Latn"><hi rend="italic">neṟi</hi></q>, to which it bears no orthographic similarity.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem10" source="alignments/TNV23poem10.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7595,7 +7933,16 @@
     <lem wit="#TNVms #TNVc">neṟiyē</lem>
     <rdg wit="#TNV1937 #TNV1947">curaṉē</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem11" source="alignments/TNV23poem11.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV23poem11">
+  <note xml:lang="ta" target="#tim"><term xml:lang="en">Cf. KT210.1–4:</term> tiṇṭēr naḷḷi kāṉat taṇṭar | pallā payanta neyyiṟ ṟoṇṭi | muḻutuṭaṉ viḷainta veṇṇel veñcō | ṟorukalat tēntiṉum</note>
+  </standOff>
+  <standOff type="notes2" corresp="#TNV23poem11">
+    <note xml:lang="ta" target="#tim"><term xml:lang="en">Cf. TK235:</term> paṇaṅkaḷañ cālum paruvara vārttavaṉ ṟillaiyaṉṉa | maṇaṅkoḷañ cāyalu maṉṉaṉu miṉṉē varakkaraintāl | uṇaṅkalañ cātuṇṇa lāmoṇ ṇiṇappali yōkkuvaṉmāk | kuṇaṅkaḷañ cāṟpoliyun nalacēṭṭaikku lakkoṭiyē ||</note></standOff>
+    <standOff type="notes4" corresp="#TNV23poem11">
+      <note xml:lang="en" target="#nan">The C1 reading would be possible if one could form a first person singular pronominalised noun with the ending <term xml:lang="ta-Latn"><hi rend="italic">-aṉ</hi></term>, as is possible with a finite verb (see <q xml:lang="ta-Latn"><hi rend="italic">tarukuvaṉ</hi></q> later in this poem). Then <term xml:lang="ta-Latn"><hi rend="italic">marapiṉaṉ</hi></term> would be the subject of the finite verb: ‘Don’t I, with [my] tradition of kindness, bring…’ However, I have found only one example of such a form in the old corpus (PN 208.7), and this reading was not found in any AiN available to me.</note>
+      <note xml:lang="en" target="#tim">There are significant differences between the poem printed in AiN editions and that read by C1. I have opted here to retain the C1 readings where possible. My working assumption is that this may have represented an independent line of transmission that has not been recorded in any AiN editions as of yet.</note></standOff>
+      <standOff type="apparatus" corresp="#TNV23poem11" source="alignments/TNV23poem11.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7626,24 +7973,15 @@
     <rdg wit="#TNVms #TNVcac">ṉaṉkiḷai</rdg>
   </app>
   <app loc="48,57">
-    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
-      <lem>vaḷarppap</lem>
-      <rdg type="minor" wit="#TNVc">vaḷarppap,</rdg>
-    </rdgGrp>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">vaḷarppap</lem>
     <rdg wit="#Aink391">yō ṭārap</rdg>
   </app>
   <app loc="68,79">
-    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
-      <lem>pacuntiṉaip</lem>
-      <rdg type="minor" wit="#TNVc">pacuntiṉaip,</rdg>
-    </rdgGrp>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">pacuntiṉaip</lem>
     <rdg wit="#Aink391">painniṇa</rdg>
   </app>
   <app loc="79,85">
-    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
-      <lem>puṉkam</lem>
-      <rdg type="minor" wit="#TNVcpc">puṉkam,</rdg>
-    </rdgGrp>
+    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">puṉkam</lem>
     <rdg wit="#Aink391">valci</rdg>
   </app>
   <app loc="85,95">
@@ -7651,13 +7989,13 @@
       <lem>polampuṉai</lem>
       <rdg type="minor" wit="#TNVcac">pōlampuṉai</rdg>
     </rdgGrp>
-    <rdg wit="#TNVmsac">polam<unclear>upu</unclear>ṉai</rdg>
+    <rdg wit="#TNVmsac">polam<gap reason="illegible" unit="character" quantity="1"/>ṉai</rdg>
   </app>
   <app loc="103,112">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">ṟarukuvaṉ</lem>
     <rdg wit="#Aink391">ṟarukuveṉ</rdg>
   </app>
-</listApp></standOff><standOff corresp="#TNV23poem12" type="notes2"><note xml:lang="en" target="#vana">I cannot make sense of the variants and they are not reported in the apparatus in <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">Wilden 2010</ref>, which leads me to think this is corrupt. The <hi rend="italic">eḻuttu</hi> <term xml:lang="ta"><hi rend="italic">'vu'</hi></term> looks similar to <term xml:lang="ta"><hi rend="italic">'ā'</hi></term> and <term xml:lang="ta"><hi rend="italic">'ḷa'</hi></term> closely resembles <term xml:lang="ta"><hi rend="italic">'ṉa'</hi></term>. This seems like a simple copying error.</note></standOff>
+</listApp></standOff><standOff corresp="#TNV23poem12" type="notes4"><note xml:lang="en" target="#vana">It was not possible to make sense of the variants for this and the preceding <term xml:lang="ta-Latn"><hi rend="italic">cīr</hi></term>, and they are not reported in the apparatus in <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">Wilden 2010</ref>, which leads me to think this is corrupt. The <hi rend="italic">eḻuttu</hi> <term xml:lang="ta">‘வு’</term> looks similar to <term xml:lang="ta">‘ஆ’</term> and <term xml:lang="ta">‘ள’</term> closely resembles <term xml:lang="ta">‘ன’</term>. This seems like a simple copying error.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem12" source="alignments/TNV23poem12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7669,32 +8007,29 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
   <app loc="11,17">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #KT130">pukāar</lem>
-    <rdgGrp select="#TNVms #TNVcac">
-      <rdg type="main">pukāvur</rdg>
-      <rdg type="minor" wit="#TNVms">puk<sic>āvur</sic></rdg>
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947 #KT130">
+      <lem>pukāar</lem>
+      <rdg type="minor" wit="#TNVcpc">pukā<unclear>a</unclear>r</rdg>
     </rdgGrp>
+    <rdg wit="#TNVms #TNVcac">pukāvur</rdg>
   </app>
   <app loc="17,21">
     <lem wit="#TNVcpc #TNV1937 #TNV1947 #KT130">vāṉa</lem>
-    <rdgGrp select="#TNVms #TNVcac">
-      <rdg type="main">vāḷa</rdg>
-      <rdg type="minor" wit="#TNVms">vā<sic>ḷa</sic></rdg>
+    <rdg wit="#TNVms #TNVcac">vāḷa</rdg>
+  </app>
+  <app loc="21,34">
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
+      <lem>mēṟā rilaṅkiru</lem>
+      <rdg type="minor" wit="#TNVms">mēṟā rilaṅkiru<lb n="2"/></rdg>
+      <rdg type="minor" wit="#TNVcpc">mēṟā, rilaṅkiru</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">mēṟār ilaṅkiru</rdg>
     </rdgGrp>
-  </app>
-  <app loc="21,25">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">mēṟā</lem>
-    <rdg wit="#KT130">mēṟār</rdg>
-  </app>
-  <app loc="25,34">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">rilaṅkiru</lem>
-    <rdg wit="#KT130">vilaṅkiru</rdg>
+    <rdg wit="#KT130">mēṟār vilaṅkiru</rdg>
   </app>
   <app loc="88,95">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">teriyiṟ</lem>
@@ -7705,15 +8040,24 @@
     <rdg wit="#TNVcac">muḷaḷōnaṅ</rdg>
   </app>
   <app loc="116,120">
-    <lem wit="#TNVms #TNVcac #TNV1937 #TNV1947 #KT130">lōrē</lem>
-    <rdg wit="#TNVcpc">lō<sic>ḷē</sic>.</rdg>
+    <rdgGrp type="lemma" select="#TNVms #TNVcac #TNV1937 #TNV1947 #KT130">
+      <lem>lōrē</lem>
+      <rdg type="minor" wit="#TNVcac">lō<unclear>rē</unclear></rdg>
+    </rdgGrp>
+    <rdg wit="#TNVcpc">lō<unclear>ḷē</unclear>.</rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem13">
-  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. PK194.2-4 (IAC23, p.127):</term>...neṭuñcurattu | veṟikamaḻ kōtaiyiṅ kēniṉṟa tiḵtām viṭalaitaṉkaip | poṟikeḻu tiṇcilai vāḷiyiṉ eyta porukaḷiṟē ||</note>
-  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. PK195.3-4 (IAC23, p.128):</term> iṭuviṟ puruvat tavaḷniṉṟa cūḻal itūtuvām | kaṭuvil toṭukaṇai yālaṇṇal eyta takakkaḷiṟē ||</note>
+  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. AiN387.1–3:</term> aṟampuri yarumaṟai naviṉṟa nāviṟ | ṟiṟampuri koḷkai yantaṇir toḻuvaleṉ | ṟoṇṭoṭi viṉavum pētaiyam peṇṭē</note>
+  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. PK198.2–4 (IAC23, p. 167):</term> neṭuñcurattu | veṟikamaḻ kōtaiyiṅ kēniṉṟa tiḵtām viṭalaitaṉkaip | poṟikeḻu tiṇcilai vāḷiyi ṉeyta porukaḷiṟē ||</note>
+  <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. PK199.3–4 (IAC23, p. 167):</term> iṭuviṟ puruvat tavaṇiṉṟa cūḻa lituvutuvāṅ | kaṭuviṟ ṟoṭukaṇai yālaṇṇa leyta katakkaḷiṟē ||</note>
   </standOff>
-<standOff type="apparatus" corresp="#TNV23poem13" source="alignments/TNV23poem13.xml"><interp type="normalization">
+  <standOff type="notes2" corresp="#TNV23poem13">
+    <note xml:lang="ta" target="#ituve"><term xml:lang="en">Cf. TK245:</term> puṅkayi lāyap poruppaṉ ṟiruppuli yūrateṉṉat | tīṅkaiyi lācciṟi yāṇiṉṟa tivviṭañ ceṉṟetirnta | vēṅkaiyiṉ vāyiṉ viyaṉkaim maṭuttuk kiṭantalaṟa | vāṅkayi lāṟpaṇi koṇṭatu tiṇṭiṟa lāṇṭakaiyē ||</note></standOff>
+    <standOff type="notes4" corresp="#TNV23poem13">
+      <note xml:lang="en" target="#totiyol">C1’s reading is hypometrical. Due to the proscriptions regarding word-splitting over <foreign xml:lang="ta-Latn">cīr</foreign>-s in <foreign xml:lang="ta-Latn">āciriyappā</foreign> (see \S\ref{sec:metre}), the first <foreign xml:lang="ta-Latn">cīr</foreign> of line three would have to be <q xml:lang="ta-Latn"><hi rend="italic">tuṭi</hi></q>, which does not meet the requirements for a <foreign xml:lang="ta-Latn">cīr</foreign>, at least as I understand them. There are no other <foreign xml:lang="ta-Latn">cīr</foreign>-s in the TNV that consist of two prosodically light <foreign xml:lang="ta-Latn">acai</foreign>, so emendation is necessary. I have no better suggestion than the common designation for the heroine, <q xml:lang="ta-Latn"><hi rend="italic">toṭiyōḷ</hi></q> (‘the woman with bracelets’), suggested by UVC.</note>
+    </standOff>
+    <standOff type="apparatus" corresp="#TNV23poem13" source="alignments/TNV23poem13.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7729,23 +8073,30 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="77,90">
-    <lem wit="#TNVms #TNVcac">tuṭi yotuṅkiya</lem>
-    <rdg wit="#TNV1937 #TNV1947">toṭiyō ḷotuṅkiya</rdg>
+  <app loc="77,92">
+    <lem wit="#TNV1937 #TNV1947">toṭiyō ḷotuṅkiya</lem>
+    <rdgGrp select="#TNVms #TNVcac">
+      <rdg type="main">tuṭi yotuṅkiya</rdg>
+      <rdg type="minor" wit="#TNVcac">tuṭi<lb n="23"/>yō tuṅkiya</rdg>
+    </rdgGrp>
     <rdg wit="#TNVcpc">tuṭi<lb n="23"/>yō ḷotuṅkiya</rdg>
   </app>
-  <app loc="90,98">
+  <app loc="92,100">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">cūḻaṉmaṉ</lem>
     <rdg wit="#TNVms #TNVcac">cuḻaṉmaṉ</rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem14">
-  <note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. PK188.2-4 (IAC23, p.126):</term> iḻaikeḻu koṅkaiyeṉ pētaiyor ētila ṉōṭiyaintik | kaḻaikeḻu kuṉṟam kaṭappavum nīkaṇṭu niṉṟaṉaiyē | taḻaikeḻu pāvai palavum vaḷarkkiṉṟa taṇkuravē ||</note>
-  <note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. PK189 (IAC23, p.126):</term> niṉaipparum puṇṇiyañ ceytāy kuravē neṭuṅkaḷattu | viṉaippoli mālkaḷi ṟuntiveṉ ṟāṉviyaṉ nāṭṭakattōr | maṉaippoli pāvai payantēṉ varuntavum nīkaṭattuḷ | eṉaippala pāvai payantumey tāyōr iruntuyarē ||</note>
-  <note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. PK190.2-4 (IAC23, p.126):</term>...curam vāṇutalāḷ | collavaṉ piṉceṉṟa vāṟeṉṟa pōḻteṉakkuc collumē | pallavam ākkittaṉ pāvai vaḷarkkiṉṟa paiṅkuravē ||</note>
-  </standOff>
+    <note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. AiN344.2–3:</term> naṟumpūṅ kuravam payanta | ceyyāp pāvai koyyum poḻutē ||</note>
+<note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. PK192.2–4 (IAC23, p. 165):</term> iḻaikeḻu koṅkaiyeṉ pētaiyo rētila ṉōṭiyaintik | kaḻaikeḻu kuṉṟaṅ kaṭappavu nīkaṇṭu niṉṟaṉaiyē | taḻaikeḻu pāvai palavum vaḷarkkiṉṟa taṇkuravē ||</note>
+  <note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. PK193 (IAC23, p. 166):</term> niṉaipparum puṇṇiyañ ceytāy kuravē neṭuṅkaḷattu | viṉaippoli mālkaḷi ṟuntiveṉ ṟāṉviya ṉāṭṭakattōr | maṉaippoli pāvai payantēṉ varuntavu nīkaṭattu | ḷeṉaippala pāvai payantumey tāyo riruntuyarē ||</note>
+  <note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. PK194.2–4 (IAC23, p. 166):</term> curam vāṇutalāḷ | collavaṉ piṉceṉṟa vāṟeṉṟa pōḻteṉakkuc collumē | pallava mākkittaṉ pāvai vaḷarkkiṉṟa paiṅkuravē ||</note>
+</standOff>
   <standOff type="notes2" corresp="#TNV23poem14">
-    <note xml:lang="ta" target="#kurave"><term xml:lang="en">Aiṅk344.2-3</term> naṟumpūṅ kuravam payanta | ceyyāp pāvai koyyum poḻutē ||</note>
+    <note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. TK241:</term> pāyum viṭaiyōṉ puliyū raṉaiyaveṉ pāvaimuṉṉē | kāyum kaṭattiṭai yāṭik kaṭappavuṅ kaṇṭuniṉṟu | vāyun tiṟavāy kuḻaiyeḻil vīcavaṇ ṭōluṟutta | nīyuniṉ pāvaiyu niṉṟu nilāviṭu nīḷkuravē ||</note> 
+  </standOff>
+    <standOff type="notes4" corresp="#TNV23poem14">
+      <note xml:lang="en" target="#kaynta">UVC’s emendation makes the poem read more fluently, but is unnecessary. In his version, the basic structure would be: ‘Even though she passed you, you did not chide her. You are unrighteous!’ Apart from the variant <q xml:lang="ta-Latn"><hi rend="italic">kāyntilai</hi></q>, this reading also requires <q xml:lang="ta-Latn"><hi rend="italic">celavum</hi></q> to be understood as a concessive.</note>
     </standOff>
 <standOff type="apparatus" corresp="#TNV23poem14" source="alignments/TNV23poem14.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7773,9 +8124,15 @@
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem15">
-  <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. PK192.2-4 (IAC23, p.127):</term>...ūṭu varukiṉṟa antaṇirkāḷ | kaḻalāṉ oruvaṉpiṉ ceṅkōṟ kalimata ṉaṉpakaipōṟ | kuḻalāḷ orutticeṉ ṟāḷō uraimiṉik kuṉṟiṭattē ||</note>
-  <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. PK193.2-4 (IAC23, p.127):</term> naṭaiyāl melintu varukiṉṟa antaṇir ñālamellām | uṭaiyāṉ oḷivēl ucitaṉteṉ kūṭaloṇ tīntamiḻpōl | iṭaiyāḷ viṭalaipiṉ ceṉṟaṉa ḷōviv viruñcurattē ||</note>
-  <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. Kali9.1-8 (IAC23, p.127-128):</term> eṟittaru katirtāṅki yēntiya kuṭainīḻa | luṟittāḻnta karakamu muraicāṉṟa mukkōlu | neṟippaṭac cuvalacaii vēṟōrā neñcattuk | kuṟippēval ceyaṉmālaik koḷainaṭai yantaṇīr | vevviṭaic celaṉmālai yoḻukkattī rivviṭai | yeṉmaka ḷoruttiyum piṟaṇmaka ṉoruvaṉun | tammuḷē puṇarnta tāmaṟi puṇarcciya | raṉṉā riruvaraik kāṇirō peruma |</note>
+    <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. Kali9.1–8 (IAC23, p. 168):</term> eṟittaru katirtāṅki yēntiya kuṭainīḻa | luṟittāḻnta karakamu muraicāṉṟa mukkōlu | neṟippaṭac cuvalacaii vēṟōrā neñcattuk | kuṟippēval ceyaṉmālaik koḷainaṭai yantaṇīr | vevviṭaic celaṉmālai yoḻukkattī rivviṭai | yeṉmaka ḷoruttiyum piṟaṇmaka ṉoruvaṉun | tammuḷē puṇarnta tāmaṟi puṇarcciya | raṉṉā riruvaraik kāṇirō peruma</note>
+<note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. PK196.2–4 (IAC23, p. 166):</term> ūṭu varukiṉṟa vantaṇirkāḷ | kaḻalā ṉoruvaṉpiṉ ceṅkōṟ kalimata ṉaṉpakaipōṟ | kuḻalā ḷorutticeṉ ṟāḷō vuraimiṉik kuṉṟiṭattē ||</note>
+  <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. PK197.2–4 (IAC23, p. 167):</term> naṭaiyāṉ melintu varukiṉṟa vantaṇir ñālamellā | muṭaiyā ṉoḷivē lucitaṉṟeṉ kūṭaloṇ ṭīntamiḻpō | liṭaiyāḷ viṭalaipiṉ ceṉṟaṉa ḷōviv viruñcurattē ||</note>
+</standOff>
+<standOff type="notes2" corresp="#TNV23poem15">
+  <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. TK243:</term> vetirēy karattumeṉ ṟōlēy cuvalveḷḷai nūliṟkoṇmū | vatirēy maṟaiyiṉiv vāṟucel vīrtillai yampalattuk | katirēy caṭaiyōṇ karamā ṉeṉavoru maṉmayilpōl | etirē varumē curamē veṟuppavo rēntaloṭē ||</note></standOff>
+<standOff type="notes4" corresp="#TNV23poem15">
+  <note xml:lang="en" target="#nanta">Presumably UVC preferred to read a short <term xml:lang="ta-Latn"><hi rend="italic">i</hi></term> because of <q xml:lang="ta-Latn"><hi rend="italic">kaṇṭaṉir</hi></q> in line 3, which I do not feel is necessary. Both forms are equally acceptable and fit the metre. It is also not a requirement for there to be perfect synchronicity between the verbal and nominal endings. For example, in Kali 9 the predicate for <q xml:lang="ta-Latn"><hi rend="italic">antaṇīr</hi></q> is <q xml:lang="ta-Latn"><hi rend="italic">kāṇirō</hi></q>.</note>
+  <note xml:lang="en" target="#piravo">Whether to read <q xml:lang="ta-Latn"><hi rend="italic">piṟavōr</hi></q> (C2) or <q xml:lang="ta-Latn"><hi rend="italic">piṟavō</hi></q> (C1) is a marginal case. The latter option would translate to: ‘did you see the girl… or other things?’ Neither option has an exact parallel anywhere, though Kali 9.8 might give a small clue. In the same poetic context, the question is asked, <q xml:lang="ta-Latn"><hi rend="italic">aṉṉār iruvarai kāṇirō</hi></q>, ‘did you see two people like these?’ There is no suggestion that the object of the brahmin’s sight would be anything apart from a human. Thus, in this poem a neuter plural would not be expected.</note>  
 </standOff>
 <standOff type="apparatus" corresp="#TNV23poem15" source="alignments/TNV23poem15.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7794,15 +8151,20 @@
   </desc>
 </interp><listApp>
   <app loc="22,33">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">maṭantaiyai</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>maṭantaiyai</lem>
+      <rdg type="minor" wit="#TNVc">maṭantaiyai,</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">maṭantaiyaitu</rdg>
   </app>
+  <app loc="40,45">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">mārpi</lem>
+    <rdg wit="#TNVmsac">mārpi<gap reason="illegible" unit="character" quantity="1"/></rdg>
+  </app>
   <app loc="45,53">
-    <lem wit="#TNVmspc">ṉantaṇīr</lem>
-    <rdg wit="#TNVmsac"><unclear>ṉā</unclear>nta<sic>ṇī</sic>r</rdg>
-    <rdgGrp select="#TNVcac #TNVcpc #TNV1937 #TNV1947">
+    <lem wit="#TNVms">ṉantaṇīr</lem>
+    <rdgGrp select="#TNVc #TNV1937 #TNV1947">
       <rdg type="main">ṉantaṇir</rdg>
-      <rdg type="minor" wit="#TNVcpc">ṉantaṇir,</rdg>
     </rdgGrp>
   </app>
   <app loc="61,68">
@@ -7811,10 +8173,12 @@
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem16">
-  <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. PK199 (IAC23, p.128):</term> vennīr aruñcuram kāḷaipiṉ ceṉṟanum melliyaṉmāṭ | ṭinnīr maiyiṉiraṅ kaṉmiṉ naṟaiyāṟ ṟikalaracar | tannīr aḻivitta catru turantaraṉ taṇkumari | munnīr payantāl aṇivār piṟareṉpa muttaṅkaḷē ||</note>
-  <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. PK200.2-4 (IAC23, p.128):</term> peruṅkaṭalk ñālattup peṇpiṟan tārtampeṟ ṟarkkutavār | iruṅkaṭal pōl tuyar eytaṉmiṉ īṉṟaṉa veṉṟumunnīrk | karuṅkaṭal veṇcaṅ kaṇintaṟi yātaṇ katirmuttamē ||</note> 
-  <note xml:lang="ta" target="#celave"><term xml:lang="en">Cf. Kali9.15-17 (IAC23, p.129):</term> cīrkeḻu veṇmutta maṇipavark kallatai | nīruḷē piṟappiṉu nīrkkavaitā meṉceyyun | tēruṅkā ṉummaka ṇumakkumāṅ kaṉaiyaḷē |</note>
+    <note xml:lang="ta" target="#valakke"><term xml:lang="en">Cf. Kali9.15–17 (IAC23, p. 169):</term> cīrkeḻu veṇmutta maṇipavark kallatai | nīruḷē piṟappiṉu nīrkkavaitā meṉceyyun | tēruṅkā ṉummaka ṇumakkumāṅ kaṉaiyaḷē</note>
+<note xml:lang="ta" target="#valakke"><term xml:lang="en">Cf. PK203 (IAC23, p. 168):</term> vennī raruñcuraṅ kāḷaipiṉ ceṉṟanum melliyaṉmāṭ | ṭinnīr maiyiṉiraṅ kaṉmi ṉaṟaiyāṟ ṟikalaracar | tannī raḻivitta catru turantaraṉ ṟaṇkumari | munnīr payantā laṇivār piṟareṉpa muttaṅkaḷē ||</note>
+  <note xml:lang="ta" target="#valakke"><term xml:lang="en">Cf. PK204.2–4 (IAC23, p. 168):</term> peruṅkaṭal ñālattuṭ peṇpiṟan tārtampeṟ ṟarkkutavā | riruṅkaṭal pōṟṟuya reytaṉmi ṉīṉṟaṉa veṉṟumunnīrk | karuṅkaṭal veṇcaṅ kaṇintaṟi yātaṇ katirmuttamē ||</note> 
 </standOff>
+<standOff type="notes2" corresp="#TNV23poem16">
+  <note xml:lang="ta" target="#valakke"><term xml:lang="en">Cf. TK248:</term> curumpivar cantun toṭukaṭaṉ muttumveṇ caṅkumeṅkum | virumpiṉar pāṟceṉṟu meykkaṇi yāmviyaṉ kaṅkaiyeṉṉum | perumpuṉal cūṭumpi rāṉcivaṉ ciṟṟam palamaṉaiya | karumpaṉa meṉmoḻi yāruman nīrmaiyar kāṇunarkkē ||</note></standOff>
   <standOff type="apparatus" corresp="#TNV23poem16" source="alignments/TNV23poem16.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7830,7 +8194,12 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff type="apparatus" corresp="#TNV23poem17" source="alignments/TNV23poem17.xml"><interp type="normalization">
+</interp></standOff>
+<standOff type="notes4" corresp="#TNV23poem17">
+  <note xml:lang="en" target="#alarela">The C1 reading, also found in the AiN editions I consulted, makes perfect sense, so UVC must have had a good reason to modify it. I can only assume that reason was access to and/or familiarity with a different version of the poem from what I have seen.</note>
+  <note xml:lang="en" target="#alarela">C1 would require a form <foreign xml:lang="ta-Latn">ceḻu</foreign>, which I would argue only exists hypothetically. There are no instances where this adjectival form of the abstract noun <foreign xml:lang="ta-Latn">ceḻumai</foreign> drops its <foreign xml:lang="ta-Latn">-m-</foreign>, apart from when followed by a word with an initial nasal, which is a feature of sandhi and could equally be dissolved as <foreign xml:lang="ta-Latn">ceḻu</foreign> or <foreign xml:lang="ta-Latn">ceḻum</foreign>. In all other cases the attested form is <foreign xml:lang="ta-Latn">ceḻum</foreign>, and there are attestations of <foreign xml:lang="ta-Latn">ceḻumpal</foreign> in the old corpus (KT 287.7, for example). In support of the hypothetical existence of <foreign xml:lang="ta-Latn">ceḻu pal</foreign> is the attested collocation <foreign xml:lang="ta-Latn">ciṟu pal</foreign> (AN 137.2, NA 181.5, for example), where <foreign xml:lang="ta-Latn">ciṟu</foreign> is the adjectival form of the abstract noun <foreign xml:lang="ta-Latn">ciṟumai</foreign>. However, without any attestation, the evidence is not strong enough to retain the C1 reading.</note>
+</standOff>
+  <standOff type="apparatus" corresp="#TNV23poem17" source="alignments/TNV23poem17.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7853,16 +8222,18 @@
   </app>
   <app loc="65,74">
     <lem wit="#TNVms #Aink372">ralareḻac</lem>
-    <rdgGrp select="#TNVcac #TNVcpc #TNV1937 #TNV1947">
+    <rdgGrp select="#TNVc #TNV1937 #TNV1947">
       <rdg type="main">raḻuṅkac</rdg>
-      <rdg type="minor" wit="#TNVcpc">raḻuṅkac,</rdg>
     </rdgGrp>
   </app>
   <app loc="74,82">
     <lem wit="#TNVc #TNV1937 #TNV1947 #Aink372">ceḻumpal</lem>
     <rdg wit="#TNVms">ceḻupal</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem18" source="alignments/TNV23poem18.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem18">
+  <note xml:lang="en" target="#ivar">I follow UVC here. One can just about make sense of the reading in C1, but were that to have been the original text, it would be a unique formation in the corpus. <q xml:lang="ta-Latn"><hi rend="italic">ivvaḷaiyāk kālē</hi></q> necessitates taking <foreign xml:lang="ta-Latn">vaḷai</foreign> as a noun, as it is preceded by a deictic. This would then leave <foreign xml:lang="ta-Latn">ā</foreign>, which has to be a verbal root functioning as a <foreign xml:lang="ta-Latn">peyareccam</foreign>, as <foreign xml:lang="ta-Latn">kāl</foreign>, when used in such a construction to mean ‘when…’, is always preceded by a <foreign xml:lang="ta-Latn">peyareccam</foreign>. Nowhere else in the corpus is the preceding <foreign xml:lang="ta-Latn">peyareccam</foreign> a verbal root. If one were to translate it, the final line would read: ‘When they [the bowmen] are in these surroundings, what will become of them (the couple or the bowmen)?’ In UVC’s proposed emendation, <foreign xml:lang="ta-Latn">vaḷaiyum</foreign> is a non-past <foreign xml:lang="ta-Latn">peyareccam</foreign> and <foreign xml:lang="ta-Latn">ivar</foreign> is its subject. Theoretically, one could read <foreign xml:lang="ta-Latn">vaḷaiyā</foreign> as a negative <foreign xml:lang="ta-Latn">peyareccam</foreign>, but in that case the poem would not make sense. A non-past <foreign xml:lang="ta-Latn">peyareccam</foreign> is the only reasonable option, and <foreign xml:lang="ta-Latn">ivar</foreign> is as minimal and as plausible an emendation as possible.</note></standOff>
+<standOff type="apparatus" corresp="#TNV23poem18" source="alignments/TNV23poem18.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7877,24 +8248,29 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<listApp>
   <app loc="53,58">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">yāṅkā</lem>
-    <rdg wit="#TNVmsac">yāṅkā</rdg>
+    <rdg wit="#TNVmsac">yāṅkā <gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
-  <app loc="58,65">
-    <lem wit="#TNVms #TNVcac">kuvariv</lem>
-    <rdg wit="#TNVcpc #TNV1937 #TNV1947">kuvarivar</rdg>
+  <app loc="58,67">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">kuvarivar</lem>
+    <rdgGrp select="#TNVmsac #TNVmspc #TNVcac">
+      <rdg type="main">kuvariv</rdg>
+      <rdg type="minor" wit="#TNVmsac"><gap reason="illegible" unit="character" quantity="1"/>kuvariv</rdg>
+    </rdgGrp>
   </app>
-  <app loc="65,73">
-    <lem wit="#TNVms #TNVc #TNV1937">vaḷaiyāk</lem>
-    <rdg wit="#TNV1947">vaḷaiyuṅ</rdg>
+  <app loc="67,75">
+    <lem wit="#TNV1947">vaḷaiyuṅ</lem>
+    <rdg wit="#TNVms #TNVc #TNV1937">vaḷaiyāk</rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem19">
-  <note xml:lang="ta" target="#marai"><term xml:lang="en">Cf. NA362.10:</term> ṉumarvariṉ maṟaikuvaṉ māa yōḷē ||</note>
-
+  <note xml:lang="ta" target="#marai"><term xml:lang="en">Cf. NA362.10:</term> ṉumarvariṉ maṟaikuvaṉ māa yōḷē ||</note> 
 </standOff>
+<standOff type="notes2" corresp="#TNV23poem19">
+  <note xml:lang="ta" target="#marai"><term xml:lang="en">Cf. TK216.2–3:</term> maṉṉu mampalattōṉ | aṭittē ralareṉṉa vañcuva ṉiṉṉaiya reṉṉiṉ</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem19" source="alignments/TNV23poem19.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7917,10 +8293,13 @@
   </app>
   <app loc="40,47">
     <lem wit="#TNVmspc #TNVcac #TNV1937 #TNV1947">cuṉaiyi</lem>
-    <rdg wit="#TNVcpc"><sic>ci</sic>ṉaiyi</rdg>
     <rdg wit="#TNVmsac">cicuṉaiyi</rdg>
+    <rdg wit="#TNVcpc">ciṉaiyi</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem20" source="alignments/TNV23poem20.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem20">
+  <note xml:lang="en" target="#ayilai">I follow UVC here. The C1 reading makes as good sense as the emended reading found in C2pc onwards, but it is unlikely that this was the reading. Both <q xml:lang="ta-Latn"><hi rend="italic">āy iḻai</hi></q> and <q xml:lang="ta-Latn"><hi rend="italic">ari iḻai</hi></q> mean something close to ‘beautiful jewels’. The former is an extremely common collocation occurring dozens of times in the Caṅkam corpus alone and three other times in the TNV (TNV 15, poem 4; TNV 16, poem 7; TNV 18, poem 8), whereas there is no evidence for <q xml:lang="ta-Latn"><hi rend="italic">ari iḻai</hi></q>. Perhaps a scribe unintentionally miscopied or incorrectly corrected the <foreign xml:lang="ta-Latn">kāl</foreign> marking the long <foreign xml:lang="ta-Latn">ā</foreign> for the sign for <foreign xml:lang="ta-Latn">ri</foreign>. This would only require the addition of one extra vowel mark – the two readings are orthographically very similar. Reading <foreign xml:lang="ta-Latn">ari</foreign> also maintains the same <foreign xml:lang="ta-Latn">etukai</foreign> from the first two lines, which may be the underlying reason behind the error. Reading <foreign xml:lang="ta-Latn">āy</foreign>, however, allows for a sort-of-<foreign xml:lang="ta-Latn">etukai</foreign>, or at least a shared rhythmic pattern between lines three and four, giving the stanza an AABBCC-type construction. Such metrical arguments should not be considered strong evidence to support one reading over another in this text (see \S\ref{sec:metre}), but they can explain previous editorial choices or occurrences (in the case of unintentional or subconscious changes). Since <q xml:lang="ta-Latn"><hi rend="italic">āy iḻai</hi></q> is so common and is found in other TNV poems, and since there is a potential reason why C1’s corrupted reading may have snuck in, I think there is justification to deviate from the manuscript.</note></standOff>
+<standOff type="apparatus" corresp="#TNV23poem20" source="alignments/TNV23poem20.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7937,30 +8316,37 @@
   </desc>
 </interp><listApp>
   <app loc="23,33">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kaṇaiterin</lem>
-    <rdg wit="#TNVmsac">kaṇēterin</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>kaṇaiterin</lem>
+      <rdg type="minor" wit="#TNVc">kaṇaite<lb n="7"/>rin</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">ka<gap reason="illegible" unit="character" quantity="1"/>ṇaiterin</rdg>
   </app>
   <app loc="42,49">
     <lem wit="#TNVmspc #TNVcpc #TNV1937 #TNV1947">kaṇṇiṉa</lem>
-    <rdg wit="#TNVcac">kaṇṇi</rdg>
     <rdg wit="#TNVmsac">kaṇṇiṉa<unclear>ṅ</unclear></rdg>
+    <rdg wit="#TNVcac">kaṇṇi</rdg>
   </app>
   <app loc="49,55">
     <lem wit="#TNVms #TNVcac #TNV1937 #TNV1947">rivarē</lem>
     <rdg wit="#TNVcpc">rivaḷ,</rdg>
   </app>
-  <app loc="60,69">
-    <lem wit="#TNVms #TNVcac">rariyiḻai</lem>
-    <rdgGrp select="#TNVcpc #TNV1937 #TNV1947">
-      <rdg type="main">r āyiḻai</rdg>
-      <rdg type="minor" wit="#TNVcpc">rāyiḻai</rdg>
+  <app loc="60,67">
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947">
+      <lem>rāyiḻai</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">r āyiḻai</rdg>
     </rdgGrp>
+    <rdg wit="#TNVms #TNVcac">rariyiḻai</rdg>
   </app>
-  <app loc="151,160">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">māntarait</lem>
-    <rdg wit="#TNVcac">mātarait</rdg>
+  <app loc="149,158">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">māntarait</lem>
+    <rdg wit="#TNVms #TNVcac">mātarait</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem21" source="alignments/TNV23poem21.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem21">
+  <note xml:lang="en" target="#ivale">This is also a reasonable emendation to make. Reading the poem as presented in C1, one can make sense of it. The only thing one would have to change from the translation is the first line. I would understand <q xml:lang="ta-Latn"><hi rend="italic">vēḷē</hi></q> as an <foreign xml:lang="ta-Latn">ākupeyar</foreign> for the heroine – ‘the desirous one’. The syntax and meaning of the rest of the poem would remain identical. The problem is that <foreign xml:lang="ta-Latn">vēḷē</foreign> is not found elsewhere used in this way. Reading <q xml:lang="ta-Latn"><hi rend="italic">ivaḷē</hi></q> also provides a nice, logical counterpart to <q xml:lang="ta-Latn"><hi rend="italic">ivaṉē</hi></q> at the end of the line. Orthographically, these two readings are also close. In palm-leaf MSS, the sign for an initial <foreign xml:lang="ta-Latn">i-</foreign> can often resemble a <foreign xml:lang="ta-Latn">kompu</foreign>, used to mark <foreign xml:lang="ta-Latn">e/ē</foreign>. See, for example, how they look in C1: <foreign xml:lang="ta-Latn">i-</foreign> <graphic url="images/i_tamil_script.png" mimeType="image/png"><desc>Sign for initial <foreign xml:lang="ta-Latn">i-</foreign></desc></graphic> and a <foreign xml:lang="ta-Latn">kompu</foreign> <graphic url="images/kompu_tamil_script.png" mimeType="image/png"><desc>kompu diacritic from C1</desc></graphic>. Mistaking one for the other is the only difference between the two readings. I believe this was a simple scribal error.   
+  </note></standOff>
+    <standOff type="apparatus" corresp="#TNV23poem21" source="alignments/TNV23poem21.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -7976,24 +8362,26 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="0,4">
-    <lem wit="#TNVms">vēḷē</lem>
-    <rdgGrp select="#TNVcpc #TNV1937 #TNV1947">
-      <rdg type="main">ivaḷē</rdg>
-      <rdg type="minor" wit="#TNVcpc #TNV1937">ivaḷē,</rdg>
+  <app loc="0,5">
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947">
+      <lem> ivaḷē</lem>
+      <rdg type="minor" wit="#TNVcpc #TNV1937 #TNV1947">ivaḷē</rdg>
     </rdgGrp>
-    <rdg wit="#TNVcac">vaḷē</rdg>
+    <rdg wit="#TNVms #TNVcac">vēḷē</rdg>
   </app>
-  <app loc="23,29">
-    <lem wit="#TNVms">ḷivaṉē</lem>
+  <app loc="24,30">
+    <lem wit="#TNVms #TNV1937">ḷivaṉē</lem>
     <rdg wit="#TNVc #TNV1947">ḷivaḷē</rdg>
-    <rdg wit="#TNV1937">ḷivaṇē</rdg>
   </app>
-  <app loc="82,89">
+  <app loc="83,90">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">leytātu</lem>
     <rdg wit="#TNVmsac">leyttātu</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem22" source="alignments/TNV23poem22.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem22">
+  <note xml:lang="en" target="#natpo">Understanding the C1 reading hinges on two prerequisites: first, understanding the <foreign xml:lang="ta-Latn">-ō</foreign> particle as either a focaliser, marking the addressee, or as a kind of particle of lament appended to a functional vocative; second, that the whole of the second line is an <foreign xml:lang="ta-Latn">aṉmoḻittokai</foreign> for the heroine – ‘O, [my] love with perfect, graceful hips’. UVC may have thought such a compound was unlikely, as one does not find other instances of <foreign xml:lang="ta-Latn">naṭpu</foreign> in this usage. A more common phrase to refer to the woman is (positive quality) + <foreign xml:lang="ta-Latn">alkul</foreign>. If <q xml:lang="ta-Latn"><hi rend="italic">tirunt’ eḻil alkul</hi></q> is the ‘vocative’, then emending <q xml:lang="ta-Latn"><hi rend="italic">naṭpō</hi></q> is necessary to construe the poem. UVC’s initial emendation in C2pc makes good sense and is the least violent option. I see no need to fully replace the word as in Cām without a compelling textual parallel, and there is none. For some semantic reasons why he might have found <foreign xml:lang="ta-Latn">naṭpu</foreign> suspicious and the reason why I do not, see the notes to the translation.</note>
+</standOff>
+<standOff type="apparatus" corresp="#TNV23poem22" source="alignments/TNV23poem22.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -8008,25 +8396,30 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<listApp>
   <app loc="9,17">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ruḻakkuṅ</lem>
     <rdg wit="#TNVmsac">ruḻanakkuṅ</rdg>
   </app>
   <app loc="33,42">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tirunteḻi</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>tirunteḻi</lem>
+      <rdg type="minor" wit="#TNVmspc">tiru<lb n="8"/>nteḻi</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">ti<unclear>ru</unclear>ru<lb n="8"/>nteṉaḻi</rdg>
   </app>
-  <app loc="47,52">
-    <lem wit="#TNVms #TNVcac">ṉaṭpō</lem>
+  <app loc="47,54">
+    <lem wit="#TNVcpc">ṉaṭpoṭu</lem>
+    <rdg wit="#TNVms #TNVcac">ṉaṭpō</rdg>
     <rdg wit="#TNV1937 #TNV1947">laṉpoṭu</rdg>
-    <rdg wit="#TNVcpc">ṉaṭpoṭu,</rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem23">
-<note xml:lang="ta" target="#norkke"><term xml:lang="en">Cf. PK201.2-4 (IAC23, p.130):</term> vemmaic curamvaru kiṉṟaṉaḷ eṉṟu viraintucelvīr | ammait taṭaṅkaṇeṉ ṉāyat tavaruk kaṟimiṉkaḷē ||</note>
-<note xml:lang="ta" target="#norkke"><term xml:lang="en">Cf. PK202.2-4 (IAC23, p.130):</term> vēṭaril veñcuram mīṇṭaṉaḷ eṉṟu viraintucelvīr | ōṭari vāṭkaṇeṉ ṉāyat tavaruk kuraimiṉkaḷē ||</note>
-<note xml:lang="ta" target="#norkke"><term xml:lang="en">Cf. Aiṅk397.3-5 (IAC23, p.130):</term> curanaṉi vārā niṉṟaṉa ḷeṉpatu | muṉṉuṟa viraintanī ruraimi | ṉiṉṉakai muṟuvaleṉ ṉāyat tōrkkē ||</note>
+  <note xml:lang="ta" target="#norkke"><term xml:lang="en">Cf. AN203.13:</term> māṉatar mayaṅkiya malaimutaṟ ciṟuneṟi</note> 
+<note xml:lang="ta" target="#norkke"><term xml:lang="en">Cf. AiN397.3–5 (IAC23, p. 170):</term> curanaṉi vārā niṉṟaṉa ḷeṉpatu | muṉṉuṟa viraintanī ruraimi | ṉiṉṉakai muṟuvaleṉ ṉāyat tōrkkē ||</note>
+<note xml:lang="ta" target="#norkke"><term xml:lang="en">Cf. PK205.3–4 (IAC23, p. 169):</term> vemmaic curamvaru kiṉṟaṉa ḷeṉṟu viraintucelvīr | rammait taṭaṅkaṇeṉ ṉāyat tavaruk kaṟimiṉkaḷē ||</note>
+<note xml:lang="ta" target="#norkke"><term xml:lang="en">Cf. PK206.3–4 (IAC23, p. 170):</term> vēṭaril veñcura mīṇṭaṉa ḷeṉṟu viraintucelvī | rōṭari vāṭkaṇeṉ ṉāyat tavaruk kuraimiṉkaḷē ||</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV23poem23" source="alignments/TNV23poem23.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -8043,16 +8436,27 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<!--Warnings
+TNV23poem23: Ed doesn't match alignment.
+-->
+<listApp>
   <app loc="29,39">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">viḷampumiṉ</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>viḷampumiṉ</lem>
+      <rdg type="minor" wit="#TNVmspc">viḷampu<unclear/>miṉ</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">viḷampu<unclear>vi</unclear>miṉ</rdg>
+  </app>
+  <app loc="76,82">
+    <lem wit="#TNVc #TNV1937 #TNV1947">ṉōrkkē</lem>
+    <rdg wit="#TNVms">ṉōrkē</rdg>
   </app>
 </listApp></standOff>
 <standOff type="notes1" corresp="#TNV23poem25">
-  <note xml:lang="ta" target="#tirane"><term xml:lang="en">Cf. PK203 (IAC23, p.131):</term> aṅkaṇ malarttār arikē cariteṉṉar kōṉayilpōl | veṅkaṇ neṭuñcuram mīṇṭa viṭalai keṭalaruñcīr | naṅkaḷ maṉaikkē varanalku mōcolluvēl! nalku | taṇkaḷ maṉaikkē celavuykku mōmaṟṟeṉ taiyalaiyē ||</note>
-  <note xml:lang="ta" target="#tirane"><term xml:lang="en">Cf. PK204.2-4 (IAC23, p.131):</term>...cura mīṇṭa viṭalaiyen tītilcelvat | tirumaṉaik kēvara nalkuṅkol aṉṟāy viṭiltamatkaḷ | perumaṉaik kēyyukku mōvurai yāymāṟṟeṉ pētaiyaiyē ||</note>
-  <note xml:lang="ta" target="#tirane"><term xml:lang="en">Cf. AN195.14-19 (IAC23, p.131-132):</term>...ākuva taṟiyu mututvāy vēla | kūṟuka mātōniṉ kaḻaṅkiṉ ṟiṭpa | māṟā varupaṉi kaluḻuṅ kaṅkuli | lāṉātu tuyarumeṅ kaṇṇitu paṭīiya | remmaṉai muntuṟat tarumō | taṉmaṉai yuykkumō yātavaṉ kuṟippē ||</note>
+    <note xml:lang="ta" target="#tirane"><term xml:lang="en">Cf. AN195.14–19 (IAC23, p. 171):</term> ākuva taṟiyu mutuvāy vēla | kūṟuka mātōniṉ kaḻaṅkiṉ ṟiṭpa | māṟā varumpaṉi kaluḻuṅ kaṅkuli | lāṉātu tuyarumeṅ kaṇṇiṉitu paṭīiya | remmaṉai muntuṟat tarumō | taṉmaṉai yuykkumō yātavaṉ kuṟippē ||</note>
+<note xml:lang="ta" target="#tirane"><term xml:lang="en">Cf. PK207 (IAC23, p. 170):</term> aṅkaṇ malarttā rarikē cariteṉṉar kōṉayilpōl | veṅka ṇeṭuñcura mīṇṭa viṭalai keṭalaruñcīr | naṅkaṇ maṉaikkē varanalku mōcollu vēlanalku | taṇkaṇ maṉaikkē celavuykku mōmaṟṟeṉ ṟaiyalaiyē ||</note>
+  <note xml:lang="ta" target="#tirane"><term xml:lang="en">Cf. PK208.2–4 (IAC23, p. 170):</term> cura mīṇṭa viṭalaiyen tītilcelvat | tirumaṉaik kēnalkuṅ kollō vatuvai ceyattaṉatu | perumaṉaik kēyuykku mōvurai yāymāṟṟeṉ pētaiyaiyē ||</note>
   </standOff>
 <standOff type="apparatus" corresp="#TNV23poem25" source="alignments/TNV23poem25.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -8071,18 +8475,30 @@
   </desc>
 </interp><listApp>
   <app loc="34,40">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">kūntal</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVcpc #TNV1937 #TNV1947">
+      <lem>kūntal</lem>
+      <rdg type="minor" wit="#TNVcpc #TNV1937 #TNV1947">kūntaṉ</rdg>
+    </rdgGrp>
     <rdg wit="#TNVcac"/>
   </app>
   <app loc="59,65">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">laṇṇal</lem>
-    <rdg wit="#TNVmsac"><lb n="4"/>laṉṉaṇṇal</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>laṇṇal</lem>
+      <rdg type="minor" wit="#TNVmspc"><lb n="4"/>laṇṇal</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac"><lb n="4"/>laṉṉal</rdg>
   </app>
   <app loc="65,73">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">karutiya</lem>
     <rdg wit="#TNVmsac">ka<unclear>ru</unclear>rutiya</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem24" source="alignments/TNV23poem24.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV23poem24">
+  <note xml:lang="ta" target="#ciruneri"><term xml:lang="en">Cf. AN203.13:</term> māṉatar mayaṅkiya malaimutaṟ ciṟuneṟi</note></standOff>
+
+  <standOff type="notes4" corresp="#TNV23poem24">
+    <note xml:lang="en" target="#panci"> <q xml:lang="ta-Latn"><hi rend="italic">pañciṉa(m)</hi></q> does not produce a reasonable reading. The noun meaning ‘cotton’, which is the common and sensible attribute for the heroine’s feet, is <foreign xml:lang="ta-Latn">pañci</foreign>, the reading found in the TNV editions and all non-TNV sources. I have not seen <q xml:lang="ta-Latn"><hi rend="italic">pañciṉa(m)</hi></q> printed in any other text. If one were to try and make sense of it, presumably one would dissolve the sandhi to read <foreign xml:lang="ta-Latn">pañcu</foreign> (‘cotton’) + <foreign xml:lang="ta-Latn">iṉam</foreign> (‘group’, ‘type’). The heroine’s feet would either be: ‘soft as clusters (i.e., balls) of cotton’ or ‘soft of a cotton-type’. Perhaps these are just about understandable, but this is not a collocation that I have found anywhere else in the old corpus. It is plausible that such a corruption appeared as a scribe consciously or unconsciously wanted to lengthen the ‘rhyme’ in the first <foreign xml:lang="ta-Latn">cīr</foreign> of lines three and four.</note></standOff>
+  <standOff type="apparatus" corresp="#TNV23poem24" source="alignments/TNV23poem24.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -8098,48 +8514,60 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="26,35">
-    <lem wit="#TNVms #TNVc">ciṟuneṟit</lem>
-    <rdg wit="#TNV1937 #TNV1947 #TKn">ciṟuneṟi</rdg>
-  </app>
-  <app loc="80,87">
-    <lem wit="#TNVms #TNVc">pañciṉa</lem>
-    <rdg wit="#TNV1937 #TNV1947 #TKn">pañci</rdg>
-  </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem26" source="alignments/TNV23poem26.xml"><interp type="normalization">
-  <desc type="tagfilters">
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
-  </desc>
-</interp><listApp>
-  <app loc="10,16">
-    <lem wit="#TNVms #TNVcac #TNV1937 #TNV1947">koṇṭun</lem>
-    <rdgGrp select="#TNVcpc #Aink393">
-      <rdg type="main">koṇṭu</rdg>
-      <rdg type="minor" wit="#TNVcpc">koṇṭu<sic/></rdg>
+  <app loc="26,34">
+    <lem wit="#TNV1937 #TNV1947 #TPi #TPn">ciṟuneṟi</lem>
+    <rdgGrp select="#TNVms #TNVcac #TNVcpc">
+      <rdg type="main">ciṟuneṟit</rdg>
+      <rdg type="minor" wit="#TNVcac">ciṟune<lb n="20"/>ṟit</rdg>
+      <rdg type="minor" wit="#TNVcpc">ciṟune<lb n="20"/>ṟit,</rdg>
     </rdgGrp>
   </app>
+  <app loc="79,84">
+    <lem wit="#TNV1937 #TNV1947 #TPi #TPn">pañci</lem>
+    <rdg wit="#TNVms #TNVc">pañciṉa</rdg>
+  </app>
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem26">
+  <note xml:lang="en" target="#caa">As in poem 12 above, <q xml:lang="ta-Latn"><hi rend="italic">cāvu</hi></q> in C1pc is likely a miscopying of <q xml:lang="ta-Latn"><hi rend="italic">cāa</hi></q>.</note>
+  <note xml:lang="en" target="#velvel">Both <q xml:lang="ta-Latn"><hi rend="italic">veḷ vēl</hi></q> (‘bright spear’) and <q xml:lang="ta-Latn"><hi rend="italic">vel vēl</hi></q> (‘victorious spear’) are common formulaic attributes of the hero. I am not sure why UVC decided to emend here. I retain the C1 reading.</note>
+</standOff>
+  <standOff type="apparatus" corresp="#TNV23poem26" source="alignments/TNV23poem26.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp>
+<!--Warnings
+TNV23poem26: Ed doesn't match alignment.
+-->
+<listApp>
+  <app loc="10,16">
+    <lem wit="#TNVms #TNVcac #TNV1937 #TNV1947">koṇṭun</lem>
+    <rdg wit="#TNVcpc #Aink393">koṇṭu</rdg>
+  </app>
   <app loc="25,28">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947 #Aink393">cāa</lem>
-    <rdg wit="#TNVcac">cāa vu</rdg>
-    <rdg wit="#TNVmsac">cāvu<sic>vu</sic></rdg>
-    <rdg wit="#TNVmspc">cā<sic>vu</sic></rdg>
+    <lem wit="#TNV1937 #TNV1947 #Aink393">cāa</lem>
+    <rdg wit="#TNVmsac">cāvuvu</rdg>
+    <rdg wit="#TNVmspc #TNVcac">cāvu</rdg>
+    <rdg wit="#TNVcpc">cā</rdg>
   </app>
   <app loc="47,56">
-    <lem wit="#TNV1937 #TNV1947">marunavai</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVcpc #TNV1937 #TNV1947">
+      <lem>marunavai</lem>
+      <rdg type="minor" wit="#TNVms">maruna<space unit="character" quantity="2"/>vai</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVcac">maruna<gap reason="lost" unit="character" quantity="3"/>vai</rdg>
     <rdg wit="#Aink393">maḷaika</rdg>
-    <rdg wit="#TNVc">maruna<sic><gap reason="lost" unit="character" quantity="3"/></sic>vai</rdg>
-    <rdg wit="#TNVms">marun<gap reason="lost" unit="character" quantity="2"/>avai</rdg>
   </app>
   <app loc="56,61">
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">yāṭṭi</lem>
@@ -8151,17 +8579,18 @@
   </app>
   <app loc="122,128">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947 #Aink393">tuṟavē</lem>
-    <rdg wit="#TNVcac">tumamē .</rdg>
+    <rdg wit="#TNVcac">tummē</rdg>
   </app>
 </listApp></standOff>
-<standOff type="notes2" corresp="#TNV23poem28">
-<note xml:lang="ta" target="#taykke"><term xml:lang="en">Cf. PK205.3-4 (IAC23, p.131):</term> nāḷaivam illuḷ vatuvai ayartara nalkuṅkollō | kāḷaiyai īṉṟa kaṭaṉaṟi nalneñciṟ kārikaiyē ||</note>
-<note xml:lang="ta" target="#taykke"><term xml:lang="en">Cf. PK206.2-4 (IAC23, p.131):</term>...namilluḷ | nallār makiḻveyt nāḷai maṇañceyya nalkuṅkollō | kallār tiraḷtōḷ viṭalaiyai īṉṟa kaṉaṅkuḻaiyē ||</note>
-<note xml:lang="ta" target="#taykke"><term xml:lang="en">Cf. PK207.2-4 (IAC23, p.131):</term>...namilluḷ | neyyēr kuḻali vatuvai ayartara nēruṅkollō | poyyō purintavak kāḷaiyai īṉṟa pōlaṅkuḻaiyē ||</note>
+<standOff type="notes3" corresp="#TNV23poem28">
+<note xml:lang="ta" target="#taykke"><term xml:lang="en">Cf. PK209.3–4 (IAC23, p. 171):</term> nāḷainam milluḷ vatuvai yayartara nalkuṅkollō | kāḷaiyai yīṉṟa kaṭaṉaṟi naṉṉeñciṟ kārikaiyē ||</note>
+<note xml:lang="ta" target="#taykke"><term xml:lang="en">Cf. PK?.2–4 (IAC23, p. 131):<anchor xml:id="pk211"/></term> namillu | ṇallār makiḻveyta nāḷai maṇañceyya nalkuṅkollō | kallār tiraḷtōḷ viṭalaiyai yīṉṟa kaṉaṅkuḻaiyē ||</note>
+<note xml:lang="ta" target="#taykke"><term xml:lang="en">Cf. PK210.2–4 (IAC23, p. 171):</term> namillu | ṇeyyēr kuḻali vatuvai yayartara nēruṅkollō | poyyē purintavak kāḷaiyai yīṉṟa pōlaṅkuḻaiyē ||</note>
 </standOff>
 <standOff type="notes4" corresp="#TNV23poem28">
-  <note xml:lang="en" target="#taykke">The poem quoted in the TNVC is also quoted in the IAC.</note>
-  </standOff>
+  <note xml:lang="en" target="#taykke">The AiN poem quoted in the TNV is also quoted in the IAC and the AVC.</note>
+  <note xml:lang="en" target="#pk211">This poem is not found in the IA 1916 edition used in the rest of this edition. It is, however, found in other later editions; for example, the 1964 Saiva Siddhanta edition. The poem is printed as found there without the PK numerical identification, to avoid confusion. I have restored the sandhi, which is partially dissolved in the edition. The page number given is to the Saiva Siddhanta edition consulted.</note> 
+</standOff>
 <standOff type="apparatus" corresp="#TNV23poem28" source="alignments/TNV23poem28.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -8187,16 +8616,24 @@
     <rdg wit="#TNVc">taṉmaṇaṅ</rdg>
   </app>
   <app loc="52,66">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">kaḻika veṉṟunāñ</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
+      <lem>kaḻika veṉṟunāñ</lem>
+      <rdg type="minor" wit="#TNVcac">kaḻika veṉṟunāñ<sic/></rdg>
+      <rdg type="minor" wit="#TNVcpc">kaḻika, veṉṟunāñ<sic>,</sic></rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">kaḻika eṉṟunāñ</rdg>
+    </rdgGrp>
     <rdg wit="#Aink399">kaḻikeṉac</rdg>
   </app>
   <app loc="77,81">
-    <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">tōḻi</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1937 #TNV1947">
+      <lem>tōḻi</lem>
+      <rdg type="minor" wit="#TNVcpc">tōḻi,</rdg>
+    </rdgGrp>
     <rdg wit="#Aink399">maṟṟē</rdg>
   </app>
   <app loc="81,88">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">maiyaṟa</lem>
-    <rdg wit="#TNVcac">maiyara</rdg>
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">maiyaṟa</lem>
+    <rdg wit="#TNVms #TNVcac">maiyara</rdg>
     <rdg wit="#Aink399">veṉvēṉ maiyaṟa</rdg>
   </app>
   <app loc="88,96">
@@ -8208,10 +8645,17 @@
     <rdg wit="#TNVc">poyvalak</rdg>
   </app>
   <app loc="111,119">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947 #Aink399">kāḷaiyai</lem>
-    <rdg wit="#TNVmsac">k<gap reason="illegible" unit="character" quantity="1"/>āḷaiyai</rdg>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947 #Aink399">
+      <lem>kāḷaiyai</lem>
+      <rdg type="minor" wit="#TNVc">kāḷai<lb n="35"/>yai</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">k<gap reason="illegible" unit="character" quantity="1"/><g rend="vowel-sign">ā</g>ḷaiya</rdg>
+    <rdg wit="#TNVmspc">k<g rend="vowel-sign">ā</g>ḷaiya</rdg>
   </app>
-</listApp></standOff><standOff type="apparatus" corresp="#TNV23poem29" source="alignments/TNV23poem29.xml"><interp type="normalization">
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV23poem29">
+  <note xml:lang="en" target="#paravina">Perhaps UVC emended here as he understood this as a participial noun. This edition reverts to the reading in C1 and interprets it as a <term xml:lang="ta-Latn"><hi rend="italic">muṟṟeccam</hi></term>.</note></standOff>
+<standOff type="apparatus" corresp="#TNV23poem29" source="alignments/TNV23poem29.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
@@ -8228,9 +8672,8 @@
   </desc>
 </interp><listApp>
   <app loc="46,54">
-    <lem>parāviṉa</lem>
+    <lem wit="#TNVms">paraviṉa</lem>
     <rdg wit="#TNVcac">payiṉa</rdg>
-    <rdg wit="#TNVms">paraviṉa</rdg>
     <rdg wit="#TNVcpc #TNV1937 #TNV1947">parāyiṉa</rdg>
   </app>
   <app loc="104,112">
@@ -8239,13 +8682,14 @@
   </app>
   <app loc="126,134">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">kuṟivayi</lem>
-    <rdgGrp select="#TNVms #TNVcac">
-      <rdg type="main">kuṟipeyi</rdg>
-      <rdg type="minor" wit="#TNVms">kuṟi<sic>pe</sic>yi</rdg>
-    </rdgGrp>
+    <rdg wit="#TNVms #TNVcac">kuṟipeyi</rdg>
   </app>
   <app loc="134,138">
-    <lem wit="#TNVms #TNVcac #TNV1937 #TNV1947">ṉāṉē</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVcac #TNV1937 #TNV1947">
+      <lem>ṉāṉē</lem>
+      <rdg type="minor" wit="#TNVms">ṉāṉē.</rdg>
+      <rdg type="minor" wit="#TNVcac">ṉā<sic>ṉē</sic>.</rdg>
+    </rdgGrp>
     <rdg wit="#TNVcpc">ṉā<sic>ḷē</sic>.</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV23poem27" source="alignments/TNV23poem27.xml"><interp type="normalization">
