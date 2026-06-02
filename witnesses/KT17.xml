@@ -88,7 +88,7 @@
 <form>ūrpa</form>
 <def>they-mount</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -142,7 +142,7 @@
 <form>cūṭupa</form>
 <def>they-wear</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -167,7 +167,7 @@
 <form>paṭupa</form>
 <def>they-happen</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -187,7 +187,7 @@
 <form>ākupa</form>
 <def>they-become</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -212,7 +212,7 @@
 </standOff>
   <standOff corresp="#KT17" type="apparatus"><listApp>
 <app loc="6,24">
-        <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">maṭalu mūrpa pūveṉak</lem>
+        <lem wit="#C1 #C2 #C3 #KKms #G2 #EA #Cam">maṭalu mūrpa pūveṉak</lem>
         <rdg wit="#L1">maṭa_ mūrppu vēṉak</rdg>
         </app>
 <app loc="48,54">
@@ -220,11 +220,11 @@
         <rdg wit="#L1 #C1 #C3 #G1">cūṭu</rdg>
         </app>
 <app loc="81,87">
-        <lem wit="#L1 #C1 #C2 #C3 #G1 #EA #Cam">mākupa</lem>
+        <lem wit="#L1 #C1 #C2 #C3 #KKms #EA #Cam">mākupa</lem>
         <rdg wit="#G2">māpē</rdg>
         </app>
 <app loc="87,102">
-        <lem wit="#L1 #C2 #C3 #G1 #KK #EA #Cam">kāmaṅkāḻk koḷiṉē</lem>
+        <lem wit="#L1 #C2 #C3 #KKms #KK #EA #Cam">kāmaṅkāḻk koḷiṉē</lem>
         <rdg wit="#G2 #May #KKv #Kul #Camv #IrV">kāmaṅkāḻ koḷiṉē</rdg>
 <rdg wit="#C1">kāmaṅkāḻk koḻiṉē</rdg>
         </app>

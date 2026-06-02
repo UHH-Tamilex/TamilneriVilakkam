@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 8. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 8.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -113,39 +112,57 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVed<hi rend="subscript">ac</hi></abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVed<hi rend="subscript">pc</hi></abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          <listWit><witness xml:id="TPnac" n="ac"><abbr type="siglum">TPn<hi rend="subscript">ac</hi></abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TPnpc" n="pc"><abbr type="siglum">TPn<hi rend="subscript">pc</hi></abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
-          </witness>
+          
+<listWit>
+<witness xml:id="KT2-C2" select="#C2" source="witnesses/KT2.xml"><abbr type="siglum">KT2-C2</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 2. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Iṟaiyaṉār</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">HE</i> [witness C2]</expan></witness></listWit></witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
-       </listWit>
+       
+<witness xml:id="Aink372" source="witnesses/Aink372.xml"><abbr type="siglum">Aink372</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 372. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness>
+<witness xml:id="Aink391" source="witnesses/Aink391.xml"><abbr type="siglum">Aink391</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 391. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness>
+<witness xml:id="Aink393" source="witnesses/Aink393.xml"><abbr type="siglum">Aink393</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 393. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness>
+<witness xml:id="Aink399" source="witnesses/Aink399.xml"><abbr type="siglum">Aink399</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 399. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōtalāntaiyār</persName></expan></witness>
+<witness xml:id="IA" source="witnesses/IAprint.xml"><abbr type="siglum">IA</abbr><expan>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ)</expan></witness>
+<witness xml:id="KT1" source="witnesses/KT1.xml"><abbr type="siglum">KT1</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 1. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tīpputtōḷār
+          
+        </persName></expan></witness>
+<witness xml:id="KT7" source="witnesses/KT7.xml"><abbr type="siglum">KT7</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 7. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Perumpatumaṉār</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">Onlookers</i></expan></witness>
+<witness xml:id="KT17" source="witnesses/KT17.xml"><abbr type="siglum">KT17</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 17. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Pālaipāṭiya Peruṅkaṭuṅkō</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">HE</i></expan></witness>
+<witness xml:id="KT18" source="witnesses/KT18.xml"><abbr type="siglum">KT18</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 18. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kapilar</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">the confidante</i></expan></witness>
+<witness xml:id="KT22" source="witnesses/KT22.xml"><abbr type="siglum">KT22</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 22. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cēramāṉentai</persName>
+          : <i xmlns="http://www.tei-c.org/ns/1.0">the confidante</i></expan></witness>
+<witness xml:id="KT71" source="witnesses/KT71.xml"><abbr type="siglum">KT71</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 71. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Karuvūr Ōtañāṉi</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">HE</i></expan></witness>
+<witness xml:id="KT78" source="witnesses/KT78.xml"><abbr type="siglum">KT78</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 78. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Nakkīraṉa(ār)</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">the companion</i></expan></witness>
+<witness xml:id="KT88" source="witnesses/KT88.xml"><abbr type="siglum">KT88</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 88. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturaik Katakkaṇṇaṉ</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">the confidante / SHE</i></expan></witness>
+<witness xml:id="KT119" source="witnesses/KT119.xml"><abbr type="siglum">KT119</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 119. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Cattinātaṉār (Cattiṉātaṉār, Cattinākaṉār)</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">HE</i></expan></witness>
+<witness xml:id="KT130" source="witnesses/KT130.xml"><abbr type="siglum">KT130</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 130. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Veḷḷi Vīti(yār)</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">the confidante / SHE</i></expan></witness>
+<witness xml:id="KT149" source="witnesses/KT149.xml"><abbr type="siglum">KT149</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 149. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Veḷḷi Vītiyār</persName>: <i xmlns="http://www.tei-c.org/ns/1.0">SHE</i></expan></witness>
+<witness xml:id="KT315" source="witnesses/KT315.xml"><abbr type="siglum">KT315</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Kuṟuntokai</title> 315. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Maturai
+          Vēḷātattaṉ </persName>: <hi xmlns="http://www.tei-c.org/ns/1.0" rend="italic">SHE</hi></expan></witness>
+<witness xml:id="TKn" source="witnesses/TolNa.xml"><abbr type="siglum">TKn</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār</expan><listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
+<witness xml:id="TKp" source="TolNa.xml"><abbr type="siglum">TKp</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -156,17 +173,21 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV8">
-      <l>veṟpaṉ kuṟavar<anchor xml:id="kuravar"/> viṭalai yeyiṉa<anchor xml:id="eyinar"/></l>
-<l>roṟkamil kuṟumpoṟai nāṭaṉ<anchor xml:id="natan"/> kuṭavar</l>
-<l>makuṇa ṉuḻavar<anchor xml:id="ulavar"/> cērppaṉ paratava<anchor xml:id="paratavar"/></l>
-<l>riṉaiyaṉa piṟavu makkaṭ peyarē<anchor xml:id="peyare"/></l></lg>
-<p xml:lang="en">The names of humans [are] the man of the mountain, the hill people, the strong man [in the desert], 
-the desert hunters, the man from a land of small hillocks devoid of destitution, the herdsmen<note place="foot" xml:lang="en"><term xml:lang="ta"><hi rend="italic">kuṭavar</hi></term> is the only element in this enumeration which is not found in the IAC. It is, however, present in the Caṇkam corpus (see AN 393.16).</note>, the pleasure-man<note place="foot">My working theory is that <term xml:lang="ta"><hi rend="italic">makuṇaṉ</hi></term> is a dialectical variant of 
-  <term xml:lang="ta"><hi rend="italic">makiḻnaṉ/makiṇan</hi></term> (both are recorded in the Tamil Lexicon). 
-cf. <ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV3ed.xml">TNV3</ref> where we find 
-<term xml:lang="ta"><hi rend="italic">kuruñci</hi></term> instead of the more standard 
-<term xml:lang="ta"><hi rend="italic">kuṟiñci</hi></term>.</note>, 
-the ploughmen, the man from the coast, the fishermen and others of this kind.</p>
+      <l>veṟpaṉ kuṟavar viṭalai yeyiṉa</l>
+<l>roṟkamil kuṟumpoṟai nāṭaṉ kuṭavar</l>
+<l>makuṇa ṉuḻavar cērppaṉ paratava</l>
+<l>riṉaiyaṉa piṟavu makkaṭ peyarē.<anchor xml:id="peyare"/></l></lg>
+<lg xml:lang="en">
+  <l>The man from the mountain, the hill people, the warrior, 
+the hunting tribe,</l> 
+<l>the man from a land of small hillocks devoid of destitution, the herdsmen,<note place="foot" xml:lang="en"><term xml:lang="ta-Latn"><hi rend="italic">kuṭavar</hi></term> is the only element in this enumeration that is not found in the IAC. It is, however, present in the Caṅkam corpus (see AN 393.16).</note></l> 
+<l>the pleasure-man,<note place="foot" xml:lang="en"><term xml:lang="ta-Latn"><hi rend="italic">makuṇaṉ</hi></term> may be a dialectal variant of 
+  <term xml:lang="ta-Latn"><hi rend="italic">makiḻnaṉ/makiṇaṉ</hi></term> (both are recorded in the Tamil Lexicon). 
+Cf. TNV 3 where we find 
+<term xml:lang="ta-Latn"><hi rend="italic">kuruñci</hi></term> instead of the more standard 
+<term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term>.</note> 
+the ploughmen, the man from the coast, the fishermen,</l>
+<l>and others of this kind are the names of the people.</l></lg>
 </div>
 </body>
 </text>
@@ -174,18 +195,18 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV8comm1">e-tu. makkaṭ peyar ām āṟuṇarttutaṉutaliṟṟu.
+      <p xml:id="TNV8comm1">eṉpatu makkaṭ peyar ām āṟuṇarttutaṉutaliṟṟu.
       </p>
-      <p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the names of the people occur.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the names of the people occur.</p>
       </div>
       <div type="commentary" rend="parallel">
       <p xml:id="TNV8comm2">veṟpaṉ viṭalai kuṟum poṟai nāṭaṉ makuṇaṉ cērppaṉ eṉpaṉa talaimakaṉ peyar. 
       kuṟavar eyiṉar kuṭavar uḻavar paratavar eṉpaṉa van nilattu vāḻvār peyar eṉṟa vāṟu.
       </p>
-      <p xml:lang="en">The man from the mountain, the warrior, the man from the land of short
-        hillocks, the pleasure-man and the man from the coast - these are said to be the names of
-        the people. The hill people, the <hi rend="italic">eyiṉar</hi> tribe, the western people,
-        the ploughmen and the fishermen - these are said to be the names of the inhabitants of those
+      <p xml:lang="en">The man from the mountain, the warrior, the man from the land of small
+        hillocks, the pleasure-man, and the man from the coast – these are said to be the names of
+        the hero. The hill people, the hunting tribe,<note xml:lang="en" place="foot">The TL theorises <q xml:lang="ta-Latn"><hi rend="italic">eyiṉar</hi></q> is a participial noun form from the verb <term xml:lang="ta-Latn"><hi rend="italic">eytal</hi></term> (‘to discharge arrows’). This may well be the case, but it is clearly used as a designation for a specific group of people and so it is treated as lexicalised.</note> the herdsmen,
+        the ploughmen, and the fishermen – these are said to be the names of the inhabitants of those
         lands.</p></div>
         <div type="commentary" rend="parallel"> 
       <p xml:id="TNV8comm3">piṟavum eṉṟataṉāṟ poruppaṉ malaiyaṉ cilampaṉ koṭicci kuṟatti kuṟavar 
@@ -193,44 +214,35 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
       kōvalar iṭaiyar potuvar āyar<anchor xml:id="ayar"/> eṉavum ūraṉ kiḻatti maṉaivi<anchor xml:id="manaivi"/> kaṭaiyar kaṭaiciyar<anchor xml:id="kataiciyar"/> eṉavuṅ koṇkaṉ 
       ṟuṟaivaṉ ṟuṟaivi paratti nuḷaiyar nuḷaicciyar<anchor xml:id="nulaicciyar"/> eṉavum varuvaṉa vellāṅ koḷka.
       </p>
-      <p xml:lang="en">Because of <q xml:lang="ta"><hi rend="italic">piṟavum</hi></q>, understand that 
-      all [of these] are included: the man from the hill, the man from the mountain, the man from the mountainside, 
-      the woman from the hills, the woman of the creeper<note place="foot" xml:lang="en">This is a literal 
-      translation which I chose to retain as much flavour of the orignal Tamil as possible. In practice, this 
-      refers to a woman who inhabits the hills of the <term xml:lang="ta"><hi rend="italic">kuṟiñci</hi></term> 
-      landscape.</note>, the hill woman, the hill inhabitants and the hill tribe; the young men, the warroirs, the 
-      <term xml:lang="ta"><hi rend="italic">eyiṉar</hi></term> tribe, the <term xml:lang="ta"><hi rend="italic">eyiṉar</hi></term> 
-      woman and the bold ones<note place="foot" xml:lang="en">It is not entriely clear what is meant by such terms. 
-      In practice <q xml:lang="ta"><hi rend="italic">maṟavar</hi></q> refers to an enemy of a strong warrior, but 
-      this is the case for quite a few of the such designations. When they appear, I try and translate them quite 
-      literally and keep intact as much of the Tamil etymology as possible.</note>; the majestic [rulers of the 
-      forest landscape], the commanders, the female herders of the middle [region]<note place="foot" xml:lang="en">The 
-      'middle' here is normally understood as referring to the tract of land in-between the hills 
-      (<term xml:lang="ta"><hi rend="en">kuṟiñci</hi></term>) and plains (<term xml:lang="ta"><hi rend="en">marutam</hi></term>), 
-      so the forest pastures (<term xml:lang="ta"><hi rend="en">mullai</hi></term>).</note>, female cowherds, 
-      cowherds, herdsmen of the middle [region]<note place="foot" xml:lang="en">The male herdsmen, presumably.</note>, 
-      herdsmen<note place="foot" xml:lang="en">My assumption is that this must refer to a different class of herders, 
-      perhaps of goats rather than cows or other types of cattle. As an aside, this is also a later addition to the 
-      <term xml:lang="ta"><hi rend="italic">akam</hi></term> population. It first appears in the <term xml:lang="ta">Kalittokai.</term></note> and 
-      the cowherds<note place="foot" xml:lang="en">This might be a slightly later designation referring to the same 
-      herders as <q xml:lang="ta"><hi rend="italic">kōvalar</hi></q>, found earlier in this enumeration. <q xml:lang="ta"><hi rend="italic">āyar</hi></q> 
-      only appears on in the 'old' corpus in PN390.1, whereas <q xml:lang="ta"><hi rend="italic">kōvalar</hi></q> is 
-      quite common (see KT358.6 NA69.8, AN155.8, for example)</note>; the man from the village, the heroine<note place="foot" xml:lang="en">One 
-      could translate this more literally, as the 'proprietress' (as done in the TL) - the feminine singular 
-      pronominalised noun from <term xml:lang="ta"><hi rend="italic">kiḻamai</hi></term> ('claim, right, property'). 
-      However, <q xml:lang="ta"><hi rend="italic">kiḻatti</hi></q> is so prevalent in both poetry and commentarial 
-      literature to refer specifically to the <term xml:lang="ta"><hi rend="italic">talaivi</hi></term>, that I feel 
-      confident that the refernt is the heroine, and that to translate it differently would in this case take us 
-      further away from the indended meaning of the world.</note>, the house-wife<note place="foot" xml:lang="en">This 
-      also refers to the heroine in her post-marriage life.</note>, the peripheral men and the peripheral women<note place="foot" xml:lang="en">This is not a designation found in the Caṅkam corpus. I assume, as 
-      others have (see the TL entry), that this refers to a group of people with low societal status. I have
-       chose 'peripheral' here, thinking that this might most closely mirror the Tamil where I understand 
-       <q xml:lang="ta">kaṭai<hi rend="italic"/></q> to mean 'boundary, limit'. I think 'marginalised' would 
-       perhaps be even more appropriate, however it implies a a procedural element which may not in face be there 
-       in the Tamil - a person becomes marginalised by people and society. This may be making a purely spacial 
-       observation, which probably reflected social status, that people existed on the peripheries of either a 
-       settlement or a concept of society. I chose the more neutral language here to encompass a wider range of possibilities.</note>; the 
-      man from the shore, the man from the ghat, the woman from the ghat, the maratime woman, the men of the fishermen caste 
+      <p xml:lang="en">By <q xml:lang="ta-Latn"><hi rend="italic">piṟavum</hi></q>, understand that 
+      all [of these] are included: the man from the hill, the man from the mountain, the man from the mountainside, the creeper-woman,<note place="foot" xml:lang="en">This is a literal 
+      translation that is chosen to retain as much flavour of the original Tamil as possible. In practice, this 
+      refers to a slender woman who inhabits the hills of the <term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term> 
+      setting.</note> the woman from the hills, the hill people, and the hill tribe; the young man, the warrior, the 
+      hunting tribe, the woman of the hunting tribe, and the bold ones;<note place="foot" xml:lang="en">It is not entirely clear what such terms mean. 
+      In practice <q xml:lang="ta-Latn"><hi rend="italic">maṟavar</hi></q> refers to an enemy of a strong warrior, but 
+      this is the case for quite a few such designations. When they appear, they are translated quite 
+      literally to keep intact as much of the Tamil etymology as possible.</note> the majestic [lord of the 
+      forest setting], the commander, the female herders of the middle [region],<note place="foot" xml:lang="en">The 
+      ‘middle’ (<foreign xml:lang="ta-Latn">iṭai</foreign>) here can be understood as referring to the tract of land in-between the hills 
+      (<term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term>) and plains (<term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>), 
+      so the forest pastures (<term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term>).</note> the female cowherds, 
+      the cowherds, the herdsmen of the middle [region],<note place="foot" xml:lang="en">The male herdsmen, presumably.</note> 
+      the goatherds,<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">potuvar</hi></q> presumably refers to a different class of herders, 
+      perhaps of goats rather than cows or other types of cattle. It also appears in the <term xml:lang="ta-Latn"><hi rend="italic">Kalittokai</hi></term>.</note> and 
+      the cowherds;<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">āyar</hi></q> might be a slightly later designation referring to the same 
+      herders as <q xml:lang="ta-Latn"><hi rend="italic">kōvalar</hi></q>, found earlier in this enumeration. <q xml:lang="ta-Latn"><hi rend="italic">āyar</hi></q> 
+      only appears once in the ‘old’ corpus in PN 390.1, whereas <q xml:lang="ta-Latn"><hi rend="italic">kōvalar</hi></q> is 
+      quite common (see KT 358.6, NA 69.8 and AN 155.8 for example).</note> the man from the village, the heroine,<note place="foot" xml:lang="en">One 
+      could translate this more literally, as the ‘proprietress’ (as done in the TL) – the feminine singular 
+      pronominalised noun from <term xml:lang="ta-Latn"><hi rend="italic">kiḻamai</hi></term> (‘claim’, ‘right’, ‘property’). 
+      However, <q xml:lang="ta-Latn"><hi rend="italic">kiḻatti</hi></q> is used so widely in both poetry and commentarial 
+      literature to refer specifically to the <term xml:lang="ta-Latn"><hi rend="italic">talaivi</hi></term> that one can feel 
+      confident the referent is the heroine, and that to translate it differently would in this case take us 
+      further away from the intended meaning of the word.</note> the housewife,<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">maṉaivi</hi></q> also refers to the heroine in her post-marriage life.</note> the men from the peripheries, and the women from the peripheries;<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">kaṭaiyar</hi></q> and <q xml:lang="ta-Latn"><hi rend="italic">kaṭaicciyar</hi></q> are not designations found in the Caṅkam corpus. It is thought that they refer to a group of people with low societal status (see the entry in the TL). ‘Periphery’ is chosen here, as it most closely mirrors the Tamil where
+       <q xml:lang="ta-Latn"><hi rend="italic">kaṭai</hi></q> means ‘boundary, limit’. This designation may be making a purely spatial observation that people existed on the peripheries of either a 
+       settlement or a concept of society – a spatial fact that probably reflected social status. Otherwise, this may refer to peripheral characters – the intermediaries for the quarrelling couple.</note> the 
+      man from the shore, the man from the ghat, the woman from the ghat, the maritime woman, the men of the fishermen caste, 
       and the women of the fishermen caste.</p>
       </div>
       </body>
@@ -291,7 +303,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form>poṟai</form>
-<def>hilloock</def>
+<def>hillock</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -380,15 +392,13 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-<standOff type="notes1" corresp="#TNV8"><note xml:lang="ta"><term xml:lang="en">Cf. TP22:</term> peyarum viṉaiyumeṉ ṟāyiru vakaiya / tiṇaitoṟu marīiya tiṇainilaip peyarē//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP23:</term> āyar vēṭṭuva rāṭūu tiṇaippeya / rāvayiṉ varūuṅ kiḻavaru muḷarē//</note>
-<note xml:lang="ta"><term xml:lang="en">Cf. TP24:</term> ēṉōr pāṅkiṉu meṇṇuṅ kālai / yāṉu vakaiya tiṇainilaip peyarē//</note>
-<note xml:lang="ta" target="#kuravar"><term xml:lang="en">Cf. IAC1, p.25:</term>  [kuṟiñcikku...] talaimakaṉpeyar cilampaṉ veṟpaṉ poruppaṉ...; makkaḷpeyar kuṟavar iṟavuḷar kuṉṟavar</note>
-<note xml:lang="ta" target="#eyinar"><term xml:lang="en">Cf. IAC1, p.26:</term> [pālaikku...] talaimakaṉpeyar mīḷi viṭalai kāḷai...; makkaḷpeyar eyiṉar eyiṟṟiṉar maṟavar maṟattiyar</note>
-<note xml:lang="ta" target="#natan"><term xml:lang="en">Cf. IAC1, p.26-27:</term> [mullaikku...] taḷaimakaṉpeyar kuṟumpoṟaināṭaṉ</note>
-<note xml:lang="ta" target="#ulavar"><term xml:lang="en">Cf. IAC1, p.27: </term> [marutattu...] talaimakaṉpeyar ūraṉ makiṇaṉ...; makkaḷpeyar kaṭaiyar kaṭaicciyar uḻavar uḻattiyar</note>
-<note xml:lang="ta" target="#paratavar"><term xml:lang="en">Cf. IAC1, p.25-6:</term> [neytaṟku...] talaimakaṉpeyar tuṟaivaṉ koṇkaṉ cērppaṉ...; makkaḷpeyar paratavar parattiyar nuḷaiyar nuḷaicciyar</note></standOff>
-<standOff type="notes4" corresp="#TNV8"><note xml:lang="en" target="#peyare">The TP <term xml:lang="ta"><hi rend="italic">cūttirams</hi></term> cited explain the appropriate naming practice in <term xml:lang="ta"><hi rend="italic">akam</hi></term> poems. Essentially, names of people in the poetic landscapes can either be based on their class or clan or based on their occupation.</note></standOff>
+<standOff type="notes1" corresp="#TNV8"><note xml:lang="ta" target="#peyare"><term xml:lang="en">Cf. TP20n:</term> peyarum viṉaiyumeṉ ṟāyiru vakaiya | tiṇaitoṟu marīiya tiṇainilaip peyarē ||</note>
+<note xml:lang="ta" target="#peyare"><term xml:lang="en">Cf. TP21n:</term> āyar vēṭṭuva rāṭūut tiṇaippeya | rāvayiṉ varūuṅ kiḻavaru muḷarē ||</note>
+<note xml:lang="ta" target="#peyare"><term xml:lang="en">Cf. TP22n:</term> ēṉōr pāṅkiṉu meṇṇuṅ kālai | yāṉu vakaiya tiṇainilaip peyarē ||</note>
+</standOff>
+<standOff type="notes4" corresp="#TNV8"><note xml:lang="en" target="#peyare">The TP <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>-s cited explain the appropriate naming practice in <term xml:lang="ta-Latn"><hi rend="italic">akam</hi></term> poems. Essentially, names of people in the poetic settings can either be based on their class or clan, or based on their occupation.</note>
+  <note xml:lang="en" target="#peyare">To avoid quoting the same section of the IAC twice, as the relevant sections are the same for the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> and the commentary, they are provided in the source-level of the apparatus to the commentary.</note>
+</standOff>
 <standOff type="apparatus" corresp="#TNV8" source="alignments/TNV8.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -411,8 +421,8 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
       <rdg type="minor" wit="#TNVc">yeyiṉar <lb xmlns="http://www.tei-c.org/ns/1.0" n="27"/>oṟkamil</rdg>
       <rdg type="minor" wit="#TNV1937 #TNV1947">yeyiṉar oṟkamil</rdg>
     </rdgGrp>
-    <rdg wit="#TNVmsac">yeyiṉata <sic xmlns="http://www.tei-c.org/ns/1.0">ro</sic>ṟkamil</rdg>
-    <rdg wit="#TNVmspc">yeyiṉa <sic xmlns="http://www.tei-c.org/ns/1.0">rā</sic>ṟkamil</rdg>
+    <rdg wit="#TNVmsac">yeyiṉata roṟkamil</rdg>
+    <rdg wit="#TNVmspc">yeyiṉa rāṟkamil</rdg>
   </app>
   <app loc="34,44">
     <lem wit="#TNVc #TNV1937 #TNV1947">kuṟumpoṟai</lem>
@@ -420,7 +430,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
   </app>
   <app loc="69,76">
     <lem wit="#TNVc #TNV1937 #TNV1947">cērppaṉ</lem>
-    <rdg wit="#TNVms">cēr<sic xmlns="http://www.tei-c.org/ns/1.0">p</sic>aṉ</rdg>
+    <rdg wit="#TNVms">cērpaṉ</rdg>
   </app>
   <app loc="76,84">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">paratava</lem>
@@ -441,12 +451,21 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff><standOff corresp="#TNV8comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G18MG10ML9M,6MG35MG</interp>
+</interp>
+<listApp>
+
+  <app loc="19,39">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu</rdg>
+  </app>
+</listApp></standOff><standOff corresp="#TNV8comm1" type="wordsplit">
+<interp type="alignment" select="0">21MG10ML9M,41MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
-<form type="sandhi">e-tu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -462,7 +481,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form>peyar</form>
-<def>stir</def>
+<def>name</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -591,7 +610,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form>eyiṉar</form>
-<def>eyiṉar tribe</def>
+<def>hunter</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -630,8 +649,6 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 <entry>
 <form><c type="glide">v</c>a<c type="geminated">n</c></form>
 <def>that</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nilattu</form>
@@ -774,14 +791,14 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form><c type="glide">y</c>eyiṉar</form>
-<def>eyiṉar tribe</def>
+<def>hunter</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>eyiṟṟi</form>
-<def>eyiṉar girl</def>
+<def>hunter girl</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -888,7 +905,7 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form>maṉaivi</form>
-<def>house</def>
+<def>house-wife</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">singular</gram>
@@ -897,14 +914,14 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form>kaṭaiyar</form>
-<def>low status</def>
+<def>periphery</def>
 <gramGrp>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kaṭaiciyar</form>
-<def>low status</def>
+<def>periphery</def>
 <gramGrp>
   <gram type="role">feminine</gram>
   <gram type="role">third person</gram>
@@ -949,7 +966,10 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 </entry>
 <entry>
 <form>paratti</form>
-<def>maratime woman</def>
+<def>maritime woman</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>nuḷaiyar</form>
@@ -980,7 +1000,6 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
 <def>come</def>
 <gramGrp>
   <gram type="role">neuter plural</gram>
-  <gram type="role">imperfect aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1013,23 +1032,24 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="126,135">
+</interp>
+<listApp>
+  <app loc="126,134">
     <rdgGrp type="lemma" select="#TNV1937 #TNV1947">
-      <lem>eṉṟa vāṟu.</lem>
-      <rdg type="minor" wit="#TNV1937 #TNV1947">eṉṟavāṟu.</rdg>
+      <lem>eṉṟa vāṟu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">eṉṟavāṟu</rdg>
     </rdgGrp>
     <rdg wit="#TNVms #TNVc"/>
   </app>
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV8comm3"><note xml:lang="ta" target="#iravular"><term xml:lang="en">Cf. IAC1, p.25:</term> [kuṟiñcikku...] talaimakaṉpeyar cilampaṉ veṟpaṉ poruppaṉ; talaimakaḷpeyar koṭicci kuṟatti...; makkaḷpeyar kuṟavar iṟavuḷar kuṉṟavar</note>
-<note xml:lang="ta" target="#maravar"><term xml:lang="en">Cf. IAC1, p.26:</term> [pālaikku...] talaimakaṉpeyar mīḷi viṭalai kāḷai; talaimakaḷpeyar eyiṟṟi pētai...; makkaḷpeyar eyiṉar eyiṟṟiṉar maṟavar maṟattiyar</note>  
-<note xml:lang="ta" target="#ayar"><term xml:lang="en">Cf. IAC1, p.26-27:</term> [mullaikku...] makkaḷpeyar iṭaiyar iṭaicciyar āyar āycciyar</note>
-<note xml:lang="ta" target="#kataiciyar"><term xml:lang="en">Cf. IAC1, p.27:</term> [marutattu...] talaimakaṉpeyar ūraṉ makiṇaṉ; talaimakaḷpeyar kiḻatti maṉaivi...; makkaḷpeyar kaṭaiyar kaṭaicciyar uḻavar uḻattiyar</note>
-<note xml:lang="ta" target="#nulaicciyar"><term xml:lang="en">Cf. IAC1, p.25-26:</term> [neytaṟku...] talaimakaṉpeyar tuṟaivaṉ koṇkaṉ cērppaṉ; talaimakaḷpeyar nuḷaicci paratti...; makkaḷpeyar paratar parattiyar nuḷaiyar nuḷaicciyar</note></standOff>
-<standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en" target="#nulaicciyar">Most, but not all of the designations listed here are found in Caṅkam poetry. Many of the others can be found in the <term xml:lang="ta"><hi rend="italic">nikantus</hi></term>: See Tiv. 2.125-140 for a roughly contemporaneous enumeration of the people found in the different landcapes which I have not presented here beaucause of its length.</note>
-<note xml:lang="en" target="#mili">Interestingly, the TNV here deviates from the IAC, which it otherwise is almost identical to in content. <q xml:lang="ta"><hi rend="italic">mīli</hi></q> is attributed as as a <term xml:lang="ta"><hi rend="italic">mullai</hi></term> person, whereas in the IAC, Nakkīraṉār includes in his section on <term xml:lang="ta"><hi rend="italic">pālai</hi></term>.</note>
-<note xml:lang="en" target="#manaivi">In IAC1, p.26-27, Nakkīraṉār notes that the <q xml:lang="ta"><hi rend="italic">talaimakaḷpeyar</hi></q> ('the names of the women') <q xml:lang="ta"><hi rend="italic">kiḻatti</hi></q> and <q xml:lang="ta"><hi rend="italic">maṉaivi</hi></q> are suitable for <term xml:lang="ta"><hi rend="italic">mullai</hi></term> and <term xml:lang="ta"><hi rend="italic">marutam</hi></term>, whereas in the TNV they belong to <term xml:lang="ta"><hi rend="italic">marutam</hi></term> alone.</note></standOff>
+<standOff type="notes1" corresp="#TNV8comm3"><note xml:lang="ta" target="#iravular"><term xml:lang="en">Cf. IAC1, p. 25:</term> kuṟiñcikku… talaimakaṉpeyar cilampaṉ veṟpaṉ poruppaṉ; talaimakaḷpeyar koṭicci kuṟatti…; makkaḷpeyar kuṟavar iṟavuḷar kuṉṟavar.</note>
+<note xml:lang="ta" target="#maravar"><term xml:lang="en">Cf. IAC1, p. 26:</term> pālaikku… talaimakaṉpeyar mīḷi viṭalai kāḷai; talaimakaḷpeyar eyiṟṟi pētai…; makkaḷpeyar eyiṉar eyiṟṟiyar maṟavar maṟattiyar</note>  
+<note xml:lang="ta" target="#ayar"><term xml:lang="en">Cf. IAC1, p. 26–27:</term> mullaikku…  talaimakaṉpeyar kuṟumpoṟaināṭaṉ; talaimakaḷpeyar kiḻatti maṉaivi…; makkaḷpeyar iṭaiyar iṭaicciyar āyar āycciyar.</note>
+<note xml:lang="ta" target="#kataiciyar"><term xml:lang="en">Cf. IAC1, p. 27:</term> marutattukku… talaimakaṉpeyar ūraṉ makiṇaṉ; talaimakaḷpeyar kiḻatti maṉaivi…; makkaḷpeyar kaṭaiyar kaṭaicciyar uḻavar uḻattiyar.</note>
+<note xml:lang="ta" target="#nulaicciyar"><term xml:lang="en">Cf. IAC1, p. 25–26:</term> neytaṟku… talaimakaṉpeyar tuṟaivaṉ koṇkaṉ cērppaṉ; talaimakaḷpeyar nuḷaicci paratti…; makkaḷpeyar paratar parattiyar nuḷaiyar nuḷaicciyar.</note></standOff>
+<standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en" target="#nulaicciyar">Most, but not all, of the designations listed here are found in Caṅkam poetry. Many of the others can be found in the <term xml:lang="ta-Latn"><hi rend="italic">nikantu</hi></term>-s: see <foreign xml:lang="ta-Latn">Tivākaram</foreign> 2.125–140 for a roughly contemporaneous enumeration of the people found in the different poetic settings. I have not presented it here because of its length.</note>
+<note xml:lang="en" target="#mili">The TNV here deviates from the IAC, which is otherwise almost identical to it in content. <q xml:lang="ta-Latn"><hi rend="italic">mīḷi</hi></q> is designated as a <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term> person, whereas in the IAC, Nakkīrar includes it in his section on <term xml:lang="ta-Latn"><hi rend="italic">pālai</hi></term>.</note>
+<note xml:lang="en" target="#manaivi">In IAC 1, p. 26–27, Nakkīrar notes that the <q xml:lang="ta-Latn"><hi rend="italic">talaimakaḷ peyar</hi></q> (‘the names of the women’) <q xml:lang="ta-Latn"><hi rend="italic">kiḻatti</hi></q> and <q xml:lang="ta-Latn"><hi rend="italic">maṉaivi</hi></q> are suitable for <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>, whereas in the TNV they belong to <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term> alone.</note></standOff>
 <standOff type="apparatus" corresp="#TNV8comm3" source="alignments/TNV8comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -1040,35 +1060,41 @@ the ploughmen, the man from the coast, the fishermen and others of this kind.</p
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<listApp>
   <app loc="24,32">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">malaiyaṉ</lem>
     <rdg wit="#TNVmsac">melaiyaṉ</rdg>
   </app>
   <app loc="32,40">
     <lem wit="#TNVc #TNV1937 #TNV1947">cilampaṉ</lem>
-    <rdg wit="#TNVmsac">cil<sic>ai</sic>m<unclear><gap reason="illegible" unit="character" quantity="1"/></unclear>paṉ</rdg>
-    <rdg wit="#TNVmspc">cil<sic>ai</sic>mpaṉ</rdg>
+    <rdg wit="#TNVmsac">cilaim<unclear><gap reason="illegible" unit="character" quantity="1"/></unclear>paṉ</rdg>
+    <rdg wit="#TNVmspc">cilaimpaṉ</rdg>
   </app>
   <app loc="80,87">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">viṭalai</lem>
     <rdg wit="#TNVmsac">viṭa<gap reason="illegible" unit="character" quantity="1"/>lai</rdg>
   </app>
-  <app loc="183,190">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">maṉaivi</lem>
-    <rdg wit="#TNVmsac">maṉaivik</rdg>
-  </app>
-  <app loc="214,228">
-    <lem wit="#TNVms #TNVcpc">koṇkaṉ ṟuṟaivaṉ</lem>
-    <rdg wit="#TNVcac">koṇkaṉ <gap reason="illegible" quantity="1" unit="character"/>ṟaivaṉ<sic>.</sic></rdg>
+  <app loc="220,228">
+    <rdgGrp type="lemma" select="#TNVms #TNV1937 #TNV1947">
+      <lem>ṟuṟaivaṉ</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">tuṟaivaṉ</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVcac"><gap reason="illegible" quantity="1" unit="character"/>ṟavaṉ</rdg>
+    <rdg wit="#TNVcpc">ṟuṟavaṉ</rdg>
   </app>
   <app loc="228,235">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ṟuṟaivi</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>ṟuṟaivi</lem>
+      <rdg type="minor" wit="#TNVc">ṟu<lb n="4"/>ṟaivi<sic>.</sic></rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">tuṟaivi</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">ṟai<unclear>vi</unclear>vi</rdg>
   </app>
   <app loc="261,267">

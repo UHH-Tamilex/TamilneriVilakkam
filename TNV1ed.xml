@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 1. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 1.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -111,41 +110,38 @@
             </listWit>
           </witness>
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
-            <abbr type="siglum">AVed</abbr>
-            <expan>AVprint</expan>
+            <abbr type="siglum">AV</abbr>
+            <expan>Critical Edition and Study of Akapporuḷ Viḷakkam. Edited by T. Rajarethinam. 2006.</expan>
           </witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
-          </witness>
+          
+<listWit>
+<witness xml:id="KT2-C2" select="#C2" source="witnesses/KT2.xml"><abbr type="siglum">KT2-C2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">Iṟaiyaṉār</persName>: <i>HE</i> [witness C2]</expan></witness></listWit></witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
-        </listWit>
+        
+<witness xml:id="TKn" source="witnesses/TolNa.xml"><abbr type="siglum">TKn</abbr><expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan></witness>
+<witness xml:id="TKp" source="TolPe.xml"><abbr type="siglum">TKp</abbr><expan>Tolkāppiyam Pērāciriyar</expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -157,13 +153,13 @@
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV1">
       <l>akattatum puṟattatu māyiru pakutiyiṉ</l>
-<l>mikuttatu māki virintatu poruḷē</l></lg>
-<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">Poruḷ</hi></term><!--note xml:lang="en" place="foot">
-I prefer to leave such technical terms untranslated when their meaning is explained in the text. 
-If pushed, the oft given translation of ‘poetic matter’ or ‘poetics’ coems pretty close. The content and 
-structure of a theoretical text such as this is such that terms are constantly being defined. Thus, leaving specific technical terminology untranslated 
-does not mean that one leaves them undefined.</note--> is expanded into that which is <term xml:lang="ta"><hi rend="italic">akam</hi></term>,
-that which is <term xml:lang="ta"><hi rend="italic">puṟam</hi></term> and that which exceeds those two categories.</p>
+<l>mikuttatu māki virintatu poruḷē.</l></lg>
+<lg xml:lang="en">
+  <l><term xml:lang="ta-Latn"><hi rend="italic">poruḷ</hi></term><note xml:lang="en" place="foot">I leave such technical terms untranslated in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> in which they are defined. 
+If pushed, the oft-given translations of ‘poetic content’ or ‘poetics’ come pretty close. The nature of a theoretical text such as this is that terms are constantly being defined. </note> is expanded<note xml:lang="en" place="foot">‘Expanded’ here in the sense of elaborated upon or explained. Defining something expands it, in a way, using multiple words to explain one word. Another interpretation would be to understand that the author is expanding the scope of <term xml:lang="ta-Latn"><hi rend="italic">poruḷ</hi></term>, incorporating a third category.</note> into that which is <term xml:lang="ta-Latn"><hi rend="italic">akam</hi></term>,
+that which is <term xml:lang="ta-Latn"><hi rend="italic">puṟam</hi></term>,</l> 
+<l>and that which exceeds those two categories.</l>
+</lg>
 </div>
 </body>
 </text>
@@ -172,53 +168,28 @@ that which is <term xml:lang="ta"><hi rend="italic">puṟam</hi></term> and that
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
 <p xml:id="TNV1comm1">eṉpatu niṟutta muṟaiyāṉē poruḷ ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu. eṉavē yivvōttup poruḷ iyal eṉpatāyiṟṟu.</p>
-</div>
-<div type="commentary" rend="parallel">
-<p xml:lang="en">The quoted [<term xml:lang="ta"><hi rend="italic">cūttiram</hi></term>] intends to make known the 
-way in which the grammar of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term> occurs. This chapter is therefore called the 'the nature of <term xml:lang="ta"><hi rend="italic">poruḷ</hi></term>'.</p>
+<p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the 
+way in which the grammar of poetic content occurs in accordance with established tradition.<note xml:lang="en" place="foot">This common phrase, <q xml:lang="ta-Latn"><hi rend="italic">niṟutta muṟaiyāṉē</hi></q>, either refers to a more abstract concept of a scholastic or intellectual tradition, or to an order of enumeration (see the commentary to TNV 5). Here both readings are plausible. The ‘established tradition’ in question may refer to a specific school of thought, or it may be an empty reference, situating this text in the continuum of non-specific ‘traditional’ thought. Were this to refer to a place within an enumeration, it could mean that this chapter is occupying its rightful place in the traditional enumeration of the divisions of grammar. What exactly those divisions are depends on which tradition we are talking about. The <foreign xml:lang="ta-Latn">Tolkāppiyam</foreign> conceptualises three fields of grammar – <foreign xml:lang="ta-Latn">eḻuttu</foreign> (‘phonology’), <foreign xml:lang="ta-Latn">col</foreign> (‘morpho-syntax’), and <foreign xml:lang="ta-Latn">poruḷ</foreign> (‘poetics’). One can add a fourth division with <foreign xml:lang="ta-Latn">yāppu</foreign> (‘metrics’) and a fifth with <foreign xml:lang="ta-Latn">aṇi</foreign> (‘poetic ornamentation’). UVC cites this sentence in his introduction as evidence that the TNV had multiple books, of which all but this one have now been lost, so one could conclude that he understood the second option (UVC 1937, vi, quoted and translated in \S\ref{sec:lost-sections}).</note> This chapter is therefore called ‘the nature of <term xml:lang="ta-Latn"><hi rend="italic">poruḷ</hi></term>’.</p>
 </div>
 <div type="commentary" rend="parallel">
 <p xml:id="TNV1comm2">akattiṉ ākiya vakap poruḷum puṟattiṉ ākiya
 puṟap poruḷum āy iru vakaiyiṉum ākiya vakap puṟap poruḷum eṉa mū vīṟṟatāyp pal vēṟu
 vakaip paṭṭa tuṟaikaḷāṟ parappuṭaiyatu poruḷ ām eṉṟa vāṟu.</p>
-<p xml:lang="en"><term xml:lang="ta"><hi rend="italic">poruḷ</hi></term> possess a variety of forms because of 
-the many different types of poetic situations which are divided into three [categories] 
-— <term xml:lang="ta"><hi rend="italic">akapporuḷ</hi></term> which is about the "inner world";
-<term xml:lang="ta"><hi rend="italic">puṟapporuḷ</hi></term> which is about the "outer world" and
-<term xml:lang="ta"><hi rend="italic">akappuṟapporuḷ</hi></term> which is about both of those categories.</p>
+<p xml:lang="en"><term xml:lang="ta-Latn"><hi rend="italic">akapporuḷ</hi></term> that is about the interior;
+  <term xml:lang="ta-Latn"><hi rend="italic">puṟapporuḷ</hi></term> that is about the exterior; and
+  <term xml:lang="ta-Latn"><hi rend="italic">akappuṟapporuḷ</hi></term> that is about both of those categories – 
+  being [thus] divided into three [categories], <term xml:lang="ta-Latn"><hi rend="italic">poruḷ</hi></term> possesses a breadth [of content] by means of poetic situations of many different types.</p>
 </div>
-<div type="commentary" rend="parallel">
+  <div type="commentary" rend="parallel">
 <p xml:id="TNV1comm3">puṟac ceykai yuḷateṉiṉumikuti vakaiyāl akam paṟṟi nikaḻtaliṉ
-iru talaiyum tīrā vaṉpiṟṟākiya kāmam akap poruḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakaiyāṟ puṟac 
-ceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟam puṟap poruḷ eṉpatu. akam allā viṉpamum puṟam allāp poruḷ ceyal 
-vakaiyum aṟamum ataṉ payaṉ ākiya vīṭum iru vakai nikaḻcciyunōkkik kōṭaliṉ akap puṟap poruḷ eṉap paṭṭaṉa veṉpatu. <note>1.</note></p>
-<p xml:lang="en">Even though there are external actions, because of the appearance of [themes] relating 
-to the “inner world” on so many occasions<note place="foot">I feel as though the point the commentator is trying 
-to get at here with <term xml:lang="ta"><hi rend="italic">mikuti</hi></term> is that so long as the poem is 
-overwhelmingly <term xml:lang="ta"><hi rend="italic">akam</hi></term>, that is how it is to be categorised. As 
-it stands I could not think of a more elegant translation for the Tamil than this without moving far away from 
-the literal meaning.</note> there is <term xml:lang="ta"><hi rend="italic">akapporul</hi></term> which is 
-desire<anchor xml:id="kamam"/><note place="foot">My inclination is that <term xml:lang="ta"><hi rend="italic">kāmam</hi></term> must 
-refer to something slightly different than <term xml:lang="ta"><hi rend="italic">aṉpu</hi></term> - 'love'. In 
-the context of this text, where we will see the initial stage of the relationship referred to as 
-<term xml:lang="ta"><hi rend="italic">teyvappuṇarcci</hi></term> ('divine union') in 
-<ref target="https://uhh-tamilex.github.io/TamilneriVilakkam/TNV15ed.xml"><term xml:lang="ta"><hi rend="italic">cūttiram</hi></term> 
-15</ref>, the author conceives of the relationship as being either divinely ordained - fated, in other words - or 
-is trying to gloss over the sexual implication in the earlier terminology - <term xml:lang="ta"><hi rend="italic">kāmappuṇarcci</hi></term> 
-('union based on desire', found in TP487i, IA2). The commentator presumably had this in mind and brings in some 
-of the flavour of the earlier term here while incorporating the 'divine' notion with the characterisation of 
-their desire as one of 'undying love'. I take this to refer to the fact that they had been in love with eachother 
-in their previous lives whose relationship in this life is now preordained (Zvelebil 1986: 3).</note> [characterised by] the undying 
-love between the two principal [characters]. Even though there are internal [themes], because of the many 
-instances of external actions, there is <term xml:lang="ta"><hi rend="italic">purapporul</hi></term> which is [characterised by] faultless valour. Pleasure 
-which is not <term xml:lang="ta"><hi rend="italic">akam</hi></term> and the virtue which is catagorised as worldy action outside of <term xml:lang="ta"><hi rend="italic">puram</hi></term> — keeping in mind the 
-occurrence of these two categories and the liberation which is their end goal, there are things termed 
-<term xml:lang="ta"><hi rend="italic">akappurapporul</hi></term>.</p>
- </div>
+iru talaiyum tīrā vaṉpiṟṟākiya kāmam<anchor xml:id="kamam"/> akap poruḷ eṉpatu. akanikaḻcci yuḷateṉiṉumikuti vakaiyāṟ puṟac 
+ceykaiyāṉikaḻtaliṟ kuṟṟappāṭillā maṟam puṟap poruḷ eṉpatu.<anchor xml:id="enpatu"/> akam allā viṉpamum puṟam allāp poruḷ ceyal 
+vakaiyum aṟamum ataṉ payaṉ ākiya vīṭum iru vakai nikaḻcciyunōkkik<anchor xml:id="nokki"/> kōṭaliṉ akap puṟap poruḷ eṉap paṭṭaṉa veṉpatu. <num>1.</num></p>
+<p xml:lang="en">Even though there is external action, because of it occurring by way of the interior predominantly,<note xml:lang="en" place="foot">The phrase <q xml:lang="ta-Latn"><hi rend="italic">mikuti vakaiyāl</hi></q> denotes that it is by means of the category of abundance or excess that a conclusion is reached – <foreign xml:lang="ta-Latn">vakai</foreign> is the criterion of classification. In this case, it is because the poetic content predominantly treats interior themes that a poem is considered <foreign xml:lang="ta-Latn">akam</foreign>.</note> the desire<note xml:lang="en" place="foot">My inclination is that <term xml:lang="ta-Latn"><hi rend="italic">kāmam</hi></term> must refer to something slightly different from <term xml:lang="ta-Latn"><hi rend="italic">aṉpu</hi></term> – ‘love’. In the context of this text, where we will see the initial stage of the relationship referred to as <term xml:lang="ta-Latn"><hi rend="italic">teyvappuṇarcci</hi></term> (‘divine union’) in <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> 15, the author conceives of the relationship as being either divinely ordained – fated, in other words – or is trying to gloss over the sexual implication in the earlier terminology – <term xml:lang="ta-Latn"><hi rend="italic">kāmappuṇarcci</hi></term> (‘union based on desire’, found in TP 487i, IA 2). The commentary brings in some of the connotations of the earlier term here while incorporating the ‘divine’ notion with the characterisation of their desire as one of ‘undying love’. I take this to refer to the fact that they had been in love with each other in their previous lives, and that their relationship in this life is now preordained (Zvelebil 1986, 3).</note> that is the undying love of the two principal [characters] is called <foreign xml:lang="ta-Latn">akapporuḷ</foreign>. And even though there is the occurrence of interior [content], because of it occurring by way of external action predominantly, faultless valour is called <foreign xml:lang="ta-Latn">puṟapporuḷ</foreign>. Pleasure that is not <foreign xml:lang="ta-Latn">akam</foreign>, the type of wealth-making that is not <foreign xml:lang="ta-Latn">puṟam</foreign>, virtue, and the liberation that is their result<note xml:lang="en" place="foot">The syntactic relationship between liberation and the preceding <foreign xml:lang="sa-Latn">puruṣārtha</foreign>-s is ambiguous. It could either be the result of the three preceding elements, or one can connect it to virtue alone: ‘Pleasure… wealth, virtue, and the liberation that is its fruit.’ I connect it with all three elements as I believe this is an oblique reference to didactic literature, specifically the <foreign xml:lang="ta-Latn">Tirukkuṟaḷ</foreign>, which treats non-<foreign xml:lang="ta-Latn">akam</foreign> pleasure, non-<foreign xml:lang="ta-Latn">puṟam</foreign> worldly pursuits, and virtue in its three books. Living in accordance with the tenets outlined regarding those three aspects of life leads to liberation. This supports the claim in \S\ref{sec:akappuram} of the introduction to this edition that <foreign xml:lang="ta-Latn">akappuṟam</foreign> was conceptualised so the grammar of poetics could cover didactic literature, which was absent from the Caṅkam corpus.</note> – because of looking at and understanding the occurrence of both categories [of poetry],<note xml:lang="en" place="foot">The categories in question are the two hypergenres: <foreign xml:lang="ta-Latn">akam</foreign> and <foreign xml:lang="ta-Latn">puṟam</foreign>. As I understand it, this refers to didactic poems that contain both <foreign xml:lang="ta-Latn">akam</foreign> and <foreign xml:lang="ta-Latn">puṟam</foreign> elements.</note> they are called <foreign xml:lang="ta-Latn">akappuṟapporuḷ</foreign>.</p></div>
  </body>
  </text>     
 <standOff corresp="#TNV1comm1" type="wordsplit">
-<interp type="alignment" select="0">22MG19MG10ML12MG24MG7M,6MG55MG35MG</interp>
+<interp type="alignment" select="0">21MG19MG10ML12MG25MG7M,61MG6MG29MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
@@ -302,8 +273,6 @@ occurrence of these two categories and the liberation which is their end goal, t
 <entry>
 <form>i<c type="geminated">v</c></form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>ōttu<c type="geminated">p</c></form>
@@ -337,7 +306,7 @@ occurrence of these two categories and the liberation which is their end goal, t
 </entry>
 <entry>
 <form>āyiṟṟu</form>
-<def>is</def>
+<def>became</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -403,15 +372,15 @@ occurrence of these two categories and the liberation which is their end goal, t
 </entry>
 <entry>
 <form>virintatu</form>
-<def>expanded(p.a.n.sg.)</def>
+<def>expanded</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
-  <gram type="role">noun</gram>
+  <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>poruḷ-ē</form>
-<def>poetic matter</def>
+<def>poetic content</def>
 <form type="simple">poruḷ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -453,11 +422,15 @@ occurrence of these two categories and the liberation which is their end goal, t
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
-  <app loc="27,59">
-    <lem wit="#TNVc #TNV1937 #TNV1947">ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu.</lem>
-    <rdg wit="#TNVms">ilakkaṇa<gap reason="lost" unit="character" quantity="4"/><lb n="2"/>rttutanutaliṟṟu.</rdg>
-    
+</interp>
+<listApp>
+  <app loc="27,58">
+    <rdgGrp type="lemma" select="#TNVc">
+      <lem>ilakkaṇam ām āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNVc">i<lb n="3"/>lakkaṇam ām āṟuṇarttutaṉutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">ilakkaṇa<gap reason="lost" unit="character" quantity="4"/><lb n="2"/>rttutanutaliṟṟu</rdg>
+    <rdg wit="#TNV1937 #TNV1947">ilakkaṇam āmāṟu uṇarttutal nutaliṟṟu</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV1comm2" source="alignments/TNV1comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -489,8 +462,10 @@ occurrence of these two categories and the liberation which is their end goal, t
     
   </app>
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV1comm3"><note xml:lang="ta" target="#kamam"><term xml:lang="en">Cf. IAC2, p.47:</term> aṉpiṉāṉē nikaḻtaliṟ kāmappuṇarcci yeṉṟāreṉpatu</note></standOff>
-<standOff type="notes4" corresp="#TNV1comm3"><note place="foot" target="#enpatu" xml:lang="en">I think the 'corrected' reading here makes sense. There is no reason why this construction whould not mirror that found in the previous sentence.</note></standOff>
+<standOff type="notes1" corresp="#TNV1comm3"><note xml:lang="ta" target="#kamam"><term xml:lang="en">Cf. IAC2, p. 47:</term> aṉpiṉāṉē nikaḻumātaliṟ kāmappuṇarcci yeṉṟāreṉpatu</note></standOff>
+<standOff type="notes4" corresp="#TNV1comm3"><note place="foot" target="#enpatu" xml:lang="en">The correction made here by UVC in C2 makes sense. There is no reason why this construction would not mirror that found in the previous sentence.</note>
+  <note place="foot" target="#enpatu" xml:lang="en">I believe the C1 reading was the same as Cām, based on the size of the gap in the manuscript.</note></standOff>
+
 <standOff type="apparatus" corresp="#TNV1comm3" source="alignments/TNV1comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -506,33 +481,51 @@ occurrence of these two categories and the liberation which is their end goal, t
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<listApp>
   <app loc="81,95">
-    <lem wit="#TNVc #TNV1937 #TNV1947">kāmam akap poruḷ</lem>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>kāmam akap poruḷ</lem>
+      <rdg type="minor" wit="#TNVc">kāmama<lb n="10"/>kapporuḷ</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">kāmam akapporuḷ</rdg>
+    </rdgGrp>
     <rdg wit="#TNVms">kāma<gap reason="lost" unit="character" quantity="4"/><lb n="5"/>ruḷ</rdg>
   </app>
   <app loc="178,188">
-    <lem wit="#TNVc #TNV1937 #TNV1947">puṟap poruḷ</lem>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>puṟap poruḷ</lem>
+      <rdg type="minor" wit="#TNVc">puṟapporuḷ</rdg>
+    </rdgGrp>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="4"/><lb n="6"/>ruḷ</rdg>
   </app>
-  <app loc="188,195">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">eṉpatu.<anchor xml:id="enpatu"/></lem>
-    <rdg wit="#TNVms #TNVcac">eṉappaṭṭatu.</rdg>
+  <app loc="188,194">
+    <lem wit="#TNVcpc #TNV1937 #TNV1947">eṉpatu</lem>
+    <rdg wit="#TNVms #TNVcac">eṉappaṭṭatu</rdg>
   </app>
   <app loc="211,216">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puṟam</lem>
-    <rdg wit="#TNVmsac">puṟaṅm</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>puṟam</lem>
+      <rdg type="minor" wit="#TNVc">puṟa<lb n="13"/>m</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">puṟa<gap reason="illegible" unit="character" quantity="1"/>m</rdg>
   </app>
   <app loc="259,264">
-    <lem wit="#TNVc #TNV1937 #TNV1947">vīṭum</lem>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>vīṭum</lem>
+      <rdg type="minor" wit="#TNVc">vī<lb n="14"/>ṭum</rdg>
+    </rdgGrp>
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="1"/>īṭum</rdg>
   </app>
   <app loc="267,288">
-    <lem wit="#TNVc #TNV1937 #TNV1947">vakai nikaḻcciyunōkkik</lem>
+    <rdgGrp type="lemma" select="#TNV1937 #TNV1947">
+      <lem>vakai nikaḻcciyunōkkik</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">vakai nikaḻcciyum nōkkik</rdg>
+    </rdgGrp>
     <rdg wit="#TNVms">va<gap reason="lost" unit="character" quantity="4"/><lb n="7"/>ciyunōkkik</rdg>
+    <rdg wit="#TNVc">vakaiyu nikaḻcciyunōkkik</rdg>
   </app>
 </listApp></standOff><standOff corresp="#TNV1comm2" type="wordsplit">
-<interp type="alignment" select="0">22MG25MG15MG22MG13MG37MG24M,72MG90MG</interp>
+<interp type="alignment" select="0">22MG25MG15MG22MG13MG37MG24M,163MG</interp>
 <entry>
 <form>akattiṉ</form>
 <def>inside</def>
@@ -600,9 +593,6 @@ occurrence of these two categories and the liberation which is their end goal, t
 <entry>
 <form>āy</form>
 <def>those</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
 </entry>
 <entry>
 <form>iru</form>
@@ -626,9 +616,9 @@ occurrence of these two categories and the liberation which is their end goal, t
 </gramGrp>
 </entry>
 <entry>
-<form>akam</form>
+<form><c type="glide">v</c>akam</form>
 <def>inside</def>
-<form type="sandhi">akap</form>
+<form type="sandhi"><c type="glide">v</c>akap</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -708,7 +698,7 @@ occurrence of these two categories and the liberation which is their end goal, t
 </entry>
 <entry>
 <form>tuṟaikaḷāl</form>
-<def>sitaution</def>
+<def>situation</def>
 <form type="sandhi">tuṟaikaḷāṟ</form>
 <gramGrp>
   <gram type="role">instrumental</gram>
@@ -761,7 +751,7 @@ occurrence of these two categories and the liberation which is their end goal, t
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV1comm3" type="wordsplit">
-<interp type="alignment" select="0">16MG4MG2ML40MG14MG29MR13MG4MG2ML27ML18MG40MG27MG7MG19M2G18MG2MR46M,106MG12MG85MG8MG130MG</interp>
+<interp type="alignment" select="0">16MG4MG2ML40MG14MG29MR13MG4MG2ML27ML18MG40MG27MG7MG19M2G18MG2MR46M,106MG98MG139MG</interp>
 <entry>
 <form>puṟam</form>
 <def>outside</def>
@@ -834,7 +824,7 @@ occurrence of these two categories and the liberation which is their end goal, t
 </entry>
 <entry>
 <form>talai-<c type="glide">y</c>um</form>
-<def>eminent people</def>
+<def>principal one</def>
 <form type="simple">talai</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -909,9 +899,9 @@ occurrence of these two categories and the liberation which is their end goal, t
 <def>appearance</def>
 </entry>
 <entry>
-<form>uḷat<c type="elided">u</c></form>
+<form><c type="glide">y</c>uḷat<c type="elided">u</c></form>
 <def>exists</def>
-<form type="sandhi">uḷat</form>
+<form type="sandhi"><c type="glide">y</c>uḷat</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
 </gramGrp>
@@ -1033,9 +1023,10 @@ occurrence of these two categories and the liberation which is their end goal, t
 </gramGrp>
 </entry>
 <entry>
-<form>iṉpam-um</form>
+<form><c type="glide">v</c>iṉpam-um</form>
 <def>pleasure</def>
 <form type="simple">iṉpam</form>
+<form type="sandhi"><c type="glide">v</c>iṉpam</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1058,7 +1049,7 @@ occurrence of these two categories and the liberation which is their end goal, t
 </entry>
 <entry>
 <form>poruḷ</form>
-<def>poetic content</def>
+<def>wealth</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1186,8 +1177,7 @@ occurrence of these two categories and the liberation which is their end goal, t
 <form>paṭṭaṉa</form>
 <def>happened</def>
 <gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">plural</gram>
+  <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>

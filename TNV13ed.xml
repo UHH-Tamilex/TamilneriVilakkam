@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 13. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 13.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -113,36 +112,29 @@
           <witness xml:id="AVed" source="witnesses/AVprint.xml">
             <abbr type="siglum">AVed</abbr>
             <expan>AVprint</expan>
-          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVedac</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVedpc</abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+          <listWit><witness xml:id="AVedac" n="ac"><abbr type="siglum">AVed<hi rend="subscript">ac</hi></abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [ante correctionem]</expan></witness><witness xml:id="AVedpc" n="pc"><abbr type="siglum">AVed<hi rend="subscript">pc</hi></abbr><expan>A Critical Edition and Study of Akapporul Vilakkam [post correctionem]</expan></witness></listWit></witness>          
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
-          <listWit><witness xml:id="TKnac" n="ac"><abbr type="siglum">TKnac</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TKnpc" n="pc"><abbr type="siglum">TKnpc</abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          <listWit><witness xml:id="TPnac" n="ac"><abbr type="siglum">TPn<hi rend="subscript">ac</hi></abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [ante correctionem]</expan></witness><witness xml:id="TPnpc" n="pc"><abbr type="siglum">TPn<hi rend="subscript">pc</hi></abbr><expan>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār [post correctionem]</expan></witness></listWit></witness>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
           </witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
         </listWit>
@@ -159,8 +151,12 @@
       <l>puṇartalum piritalu miruttalu mūṭalu</l>
 <l>maṉaivayi ṉiraṅkalu mavaṟṟi ṉimittamuṅ</l>
 <l>kaḷavoṭu kaṟpeṉak kavainar kūṟiya</l>
-<l>vaḷavi luripporu ḷāku meṉmaṉār<anchor xml:id="enmanar"/></l></lg>
-<p xml:lang="en">Uniting, separating, expecting [the lover’s arrival], sulking, crying in the house and the signs of those things – they say that is <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> as defined by the those who distinguish <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term>.</p>
+<l>vaḷavi luripporu ḷāku meṉmaṉār.<anchor xml:id="enmanar"/></l></lg>
+<lg xml:lang="en">
+  <l>Uniting, separating, expecting [the lover’s arrival], quarrelling,</l> 
+  <l>crying in the house, and the signs of those things</l> 
+  <l>– they say that is the limitless<note xml:lang="en" place="foot">Following the commentary, where the <foreign xml:lang="ta-Latn">uripporuḷ</foreign> is qualified as <q xml:lang="ta-Latn"><hi rend="italic">aṭakki kūṟap paṭṭa</hi></q> (‘abbreviated and told’), I split <q xml:lang="ta-Latn"><hi rend="italic">aḷavil</hi></q> as <foreign xml:lang="ta-Latn">aḷav’ il</foreign> (‘without measure’). The author seems to be implying a longer (possibly infinite?) enumeration that has been summarised here. One could analyse <q xml:lang="ta-Latn"><hi rend="italic">aḷavil</hi></q> as the locative, in which case: ‘poetic content within the scope of what is declared…’</note> <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> declared</l> 
+  <l>by those who distinguish <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term>.<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></q> refers to the initial clandestine stage in the couple’s relationship before it has been revealed to their families. <q xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></q> either refers to the stage in the couple’s relationship after it has been made public or after they have married. For more on this, see \S\ref{sec:porulatikaram} of the introduction.</note></l></lg>
 </div>
 </body>
 </text>
@@ -168,28 +164,29 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV13comm1">e-tu. urip poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:id="TNV13comm1">eṉpaturip poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the suitable poetic content occurs.</p>
       </div>
-      <div type="mūlam" rend="parallel">
+      <div type="commentary" rend="parallel">
       <p xml:id="TNV13comm2">puṇartalum puṇartaṉimittamum<anchor xml:id="punartal"/> piritalum piritaṉimittamum<anchor xml:id="pirital"/> iruttalum iruttaṉimittamum<anchor xml:id="iruttal"/>
        ūṭalum ūṭaṉimittamum<anchor xml:id="utal"/> iraṅkalum iraṅkaṉimittamuṅ<anchor xml:id="irankal"/> kaḷavuṅ kaṟpum eṉa vaṭakkik kūṟap paṭṭa 
       vaḷavil urip poruḷ ām eṉṟa vāṟu.
 </p>
-<p xml:lang="en">Uniting and the signs of uniting, searating and the signs of separating, expecting an the signs 
-  of expecting, sulking and the signs of sulking, crying and the signs of crying - [this] is 
-  the suitable poetic content within the scope that is defined<note xml:lang="en" place="foot"><q xml:lang="ta-Latn">vaṭakkik kūṟap paṭṭa</q> literally means 'controlled and named'. I understand this to mean 'defined'.</note> as clandestine phase and married phase.
+<p xml:lang="en">
+  Uniting and the signs of uniting, separating and the signs of separating, expecting and the signs 
+  of expecting, quarrelling and the signs of quarrelling, crying and the signs of crying – [these] are 
+  the limitless suitable poetic content that has been abbreviated and told as the clandestine phase and the public phase.
 </p>
 </div>
-<div type="mūlam" rend="parallel">
+<div type="commentary" rend="parallel">
 <p xml:id="TNV13comm3">kuṟuñci mutal ai vakai nilattiṟkuñ ciṟappu nōkki yavaḻip puṇartaṉ mutaṉirai niraiyāṟ koḷḷap paṭum. avvaḻic ciṟupāṉmai yeṉaittiṟkum uriya vaḻakkoṭu paṭṭa vāṟu koḷka.
 </p>
-<p xml:lang="en">Having seen what is distinctive about all of the five types of poetic landscape, beginning with <term xml:lang="ta-Latn"><hi rend="italic">kuṟuñci</hi></term>, let it be understood that, in accordance with their order, there is the joining [of the appropriate <term xml:lang="ta-Latn"><hi rend="italic">poetic content</hi></term>] with the [respective] basic element in such a way. In that way, understand that the way in which they occur in accordance with common usage is accepted in any [situation] occasionally.</p>
+<p xml:lang="en">Looking at the distinctive characteristic<note xml:lang="en" place="foot">This refers to the specific association that each setting has with its corresponding <foreign xml:lang="ta-Latn">uri</foreign>.</note> of all five types of poetic setting beginning with <foreign xml:lang="ta-Latn">kuṟiñci</foreign>, in that way, uniting and so on are understood in order. In that way, understand that the way in which they occur in accordance with common usage is accepted in any [situation] occasionally.<note xml:lang="en" place="foot">I.e., in a minority of cases, it is permitted for an <foreign xml:lang="ta-Latn">uri</foreign> to occur in any setting.</note></p>
 </div>
 </body>
 </text>
 <standOff corresp="#TNV13" type="wordsplit">
-<interp type="alignment" select="0">8MG9MG9MG6MG2ML16MG9ML7MG14MG45M,134M</interp>
+<interp type="alignment" select="0">8MG9MG9MG6MG2ML16MG9ML7MG14MG23MG22M,135M</interp>
 <entry>
 <form>puṇartal-um</form>
 <def>uniting</def>
@@ -219,7 +216,7 @@
 </entry>
 <entry>
 <form>ūṭal-um</form>
-<def>quarelling</def>
+<def>quarrelling</def>
 <form type="simple">ūṭal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -277,7 +274,7 @@
 </entry>
 <entry>
 <form>kaṟp<c type="elided">u</c></form>
-<def>married phase</def>
+<def>public phase</def>
 <form type="sandhi">kaṟp</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -307,10 +304,18 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>aḷavil</form>
+<form><c type="glide">v</c>aḷav<c type="elided">u</c></form>
 <def>measure</def>
+<form type="sandhi"><c type="glide">v</c>aḷav</form>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>il</form>
+<def>not be</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -342,11 +347,11 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV13comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G16MG10ML9M,6MG33MG</interp>
+<interp type="alignment" select="0">5MG13MG10ML9M,39MG</interp>
 <entry>
-<form>eṉpatu</form>
+<form>eṉpat<c type="elided">u</c></form>
 <def>say</def>
-<form type="sandhi">e-tu</form>
+<form type="sandhi">eṉpat</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -399,7 +404,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV13comm2" type="wordsplit">
-<interp type="alignment" select="0">8MG10ML7MG9MG9ML7MG9MG9ML7MG6MG6ML7MG9MG9ML7MG7M2G6M2G50M,174MG25MG</interp>
+<interp type="alignment" select="0">8MG10ML7MG9MG9ML7MG9MG9ML7MG6MG6ML7MG9MG9ML7MG7M2G6M2G28MG22M,201MG</interp>
 <entry>
 <form>puṇartal-um</form>
 <def>uniting</def>
@@ -483,7 +488,7 @@
 </entry>
 <entry>
 <form>ūṭal-um</form>
-<def>quarelling</def>
+<def>quarrelling</def>
 <form type="simple">ūṭal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -492,7 +497,7 @@
 </entry>
 <entry>
 <form>ūṭal</form>
-<def>quarelling</def>
+<def>quarrelling</def>
 <form type="sandhi">ūṭaṉ</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -547,7 +552,7 @@
 </entry>
 <entry>
 <form>kaṟp<c type="elided">u</c>-um</form>
-<def>married phase</def>
+<def>public phase</def>
 <form type="simple">kaṟpu</form>
 <form type="sandhi">kaṟp</form>
 <gramGrp>
@@ -585,10 +590,18 @@
 </gramGrp>
 </entry>
 <entry>
-<form>aḷavil</form>
+<form><c type="glide">v</c>aḷav<c type="elided">u</c></form>
 <def>measure</def>
+<form type="sandhi"><c type="glide">v</c>aḷav</form>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>il</form>
+<def>not be</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -631,7 +644,7 @@
 <interp type="alignment" select="0">28M2G34ML51M2G31M,88MG59MG</interp>
 <entry>
 <form>kuṟuñci</form>
-<def>kuṟuñci</def>
+<def>Kuṟuñci</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -808,7 +821,7 @@
 </gramGrp>
 </entry>
 </standOff>
-<standOff type="notes1" corresp="#TNV13"><note xml:lang="ta" target="#enmamar"><term xml:id="en">Cf. TP16i:</term> puṇartal pirita lirutta liraṇka / lūṭa livaṟṟi ṉimitta meṉṟivai tēruṅ kālait tiṇakkurip poruḷē//</note></standOff>
+<standOff type="notes1" corresp="#TNV13"><note xml:lang="ta" target="#enmanar"><term xml:lang="en">Cf. TP14n:</term> puṇartal pirita lirutta liraṅka | lūṭa livaṟṟi ṉimitta meṉṟivai | tēruṅ kālait tiṇaikkurip poruḷē ||</note></standOff>
 <standOff type="apparatus" corresp="#TNV13" source="alignments/TNV13.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -840,12 +853,22 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff>
-<standOff type="notes1" corresp="#TNV13comm2"><note xml:lang="ta" target="#punartal"><term xml:lang="en">Cf. IAC1, p.28:</term> puṇartalum puṇartaṉimittamuṅ kuṟiñci</note>
-  <note xml:lang="ta" target="#pirital"><term xml:lang="en">Cf. IAC1, p.28:</term> piritalum piritaṉimittamum pālai</note>
-    <note xml:lang="ta" target="#iruttal"><term xml:lang="en">Cf. IAC1, p.28:</term> iruttalum iruttaṉimittamum mullai</note> 
-      <note xml:lang="ta" target="#utal"><term xml:lang="en">Cf. IAC1, p.28:</term> ūṭalum ūṭaṉimittamum marutam</note>
-        <note xml:lang="ta" target="#irankal"><term xml:lang="en">Cf. IAC1, p.28:</term> iraṅkalum iraṅkaṉimittamum neytal</note></standOff> 
+</interp>
+<listApp>
+
+  <app loc="16,36">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu</rdg>
+  </app>
+</listApp></standOff>
+<standOff type="notes1" corresp="#TNV13comm2"><note xml:lang="ta" target="#punartal"><term xml:lang="en">Cf. IAC1, p. 28:</term> puṇartalum puṇartaṉimittamuṅ kuṟiñci</note>
+  <note xml:lang="ta" target="#pirital"><term xml:lang="en">Cf. IAC1, p. 28:</term> piritalum piritaṉimittamum pālai</note>
+    <note xml:lang="ta" target="#iruttal"><term xml:lang="en">Cf. IAC1, p. 28:</term> iruttalum iruttaṉimittamum mullai</note> 
+      <note xml:lang="ta" target="#utal"><term xml:lang="en">Cf. IAC1, p. 28:</term> ūṭalum ūṭaṉimittamum marutam</note>
+        <note xml:lang="ta" target="#irankal"><term xml:lang="en">Cf. IAC1, p. 28:</term> iraṅkalum iraṅkaṉimittamum neytal</note></standOff> 
           
 <standOff type="apparatus" corresp="#TNV13comm2" source="alignments/TNV13comm2.xml"><interp type="normalization">
   <desc type="tagfilters">

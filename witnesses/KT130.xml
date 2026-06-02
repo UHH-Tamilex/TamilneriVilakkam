@@ -201,7 +201,7 @@
 <form type="simple">keṭunar</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -242,20 +242,20 @@
 <standOff corresp="#KT130" type="apparatus"><listApp>
 <app><note xml:lang="en">FF</note></app>
 <app loc="11,17">
-        <lem wit="#C2 #C3 #C5 #G1 #G2 #EA #Cam">pukāar</lem>
+        <lem wit="#C2 #C3 #C5 #KKms #G2 #EA #Cam">pukāar</lem>
         <rdg wit="#L1 #C1">pukār</rdg>
         </app>
 <app loc="26,46">
         <lem wit="#C2 #C3 #C5 #G2 #Cam">vilaṅkiru munnīr kāliṟ</lem>
         <rdg wit="#L1 #C1 #EA">vilaṅkiru muṉṉīr kāliṟ</rdg>
-<rdg wit="#G1 #CamvFF">piṟaṅkiru munnī rāviṟ</rdg>
+<rdg wit="#KKms #CamvFF">piṟaṅkiru munnī rāviṟ</rdg>
         </app>
 <app loc="62,66">
-        <lem wit="#L1 #C1 #C2 #C5 #G1 #G2 #EA #Cam">ṉūri</lem>
+        <lem wit="#L1 #C1 #C2 #C5 #KKms #G2 #EA #Cam">ṉūri</lem>
         <rdg wit="#C3"><note xml:lang="en">[om.]</note></rdg>
         </app>
 <app loc="89,94">
-        <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #G2 #KKv #EA #Cam">tēriṟ</lem>
+        <lem wit="#L1 #C1 #C2 #C3 #C5 #KKms #G2 #KKv #EA #Cam">tēriṟ</lem>
         <rdg wit="#TV #KKFF">teriyiṟ</rdg>
         </app>
 <app loc="102,111">
@@ -501,7 +501,7 @@
 <form>koṇarvēṉ</form>
 <def>I shall fetch</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -589,7 +589,7 @@
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">feminine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>

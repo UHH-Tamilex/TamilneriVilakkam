@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 9. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 9.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -110,39 +109,32 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="AVed" source="witnesses/AVprint.xml">
-            <abbr type="siglum">AVed</abbr>
-            <expan>AVprint</expan>
-          </witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+           <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AV</abbr>
+            <expan>Critical Edition and Study of Akapporuḷ Viḷakkam. Edited by T. Rajarethinam. 2006.</expan>
+          </witness>   
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
           </witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
         </listWit>
@@ -156,11 +148,14 @@
     <body>
       <div type="mūlam" rend="parallel">
       <lg xml:id="TNV9">
-      <l>niṟaittē ṉaḻittalu<anchor xml:id="alittal"/> neṟicceṉ ṟalaittalu<anchor xml:id="alaittal"/></l>
-<l>morukkiṉa mōmpalu<anchor xml:id="ompal"/> muḻavoṭu payiṟalun<anchor xml:id="payiral"/></l>
-<l>tiraikkaṭaṟ cēṟalō<anchor xml:id="ceral"/> ṭiṉaiyaṉa ceyalē<anchor xml:id="ceyal"/></l>
+      <l>niṟaittē ṉaḻittalu neṟicceṉ ṟalaittalu</l>
+<l>morukkiṉa mōmpalu muḻavoṭu payiṟalun</l>
+<l>tiraikkaṭaṟ cēṟalō ṭiṉaiyaṉa ceyalē.<anchor xml:id="ceyal"/></l>
 </lg>
-<p xml:lang="en">Destroying full honey-combs; going on the road and harassing [travellers]; protecting gathered herds; practising ploughing and going on the rolling sea - such are the occupations.</p>
+<lg xml:lang="en">
+  <l>Destroying full honeycombs, going on the road and harassing [travellers],</l> 
+  <l>tending to gathered herds, practising ploughing,</l> 
+<l>and going on the wavy sea – such things are the occupations.</l></lg>
 </div>
 </body>
 </text>
@@ -168,23 +163,23 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV9comm1">e-tu. ceyti yām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way [in which] the occupations occur.</p>
+      <p xml:id="TNV9comm1">eṉpatu ceyti yām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the occupations occur.</p>
       </div>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV9comm2">tēṉ aḻittalum āṟalaittalunirai mēyttalum<anchor xml:id="meyttal"/> 
+      <p xml:id="TNV9comm2">tēṉ aḻittalum āṟalaittalunirai mēyttalum 
       uḻutaluṅ kaṭal ūṭu pukutalum eṉṟip peṟṟi yellām āṇṭaic ceytiyām eṉṟa vāṟu.</p>
-      <p xml:lang="en">Destroying honey-combs; harassing [travellers] on the road; grazing herds; 
-      ploughing and entering into the sea - all [of these] are the occupations each place in this order<note place="foot" xml:lang="en">This performs a simlar fuction to <q xml:lang="ta"><hi rend="italic">muṟaiyāṉē</hi></q> in previous <term xml:lang="ta"><hi rend="italic">cūttirams</hi></term>.</note>.</p>
+      <p xml:lang="en">Destroying honeycombs, harassing [travellers] on the road, grazing herds, 
+      ploughing, and entering into the sea – all [of these] are the occupations of each place in this order.<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">i peṟṟi</hi></q> performs a similar function to <q xml:lang="ta-Latn"><hi rend="italic">muṟaiyāṉē</hi></q> in previous <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>-s, as I understand it. One could also take <q xml:lang="ta-Latn"><hi rend="italic">peṟṟi</hi></q> as ‘nature’ or ‘manner’, in which case one would translate: ‘everything of such a nature…’ or ‘all of these methods…’.</note></p>
       </div>
       <div type="commentary" rend="parallel">
       <p xml:id="TNV9comm3">iṉaiyaṉa<anchor xml:id="inaiyana"/> veṉṟataṉāṟ ṟiṉai yaritaluṅ kiḻaṅkakaḻtalum<anchor xml:id="kilankakal"/> ūr 
       eṟitalunirai kōṭalum<anchor xml:id="niraikotal"/> varakaritalum ēṟu kōṭalum<anchor xml:id="erukotal"/> viḻavayartalum puṉal āṭalum<anchor xml:id="atal"/> uppākkutalumuttuk 
-      kuḷittalum<anchor xml:id="kulittal"/> uḷḷiṭṭaṉa vellāṅ koḷka.<note> 9.</note></p>
-      <p xml:lang="en">Because of <q xml:lang="ta"><hi rend="italic">iṉaiyaṉa</hi></q>, understand that all 
-        [of these] are included: harvesting foxtail millet and harvesting root vegetables; raiding towns and seizing 
-        cattle-herds; harvesting common millet and capturing bulls; performing ceremonies and playing in the flood; 
-        making salt and diving for pearls.</p>
+      kuḷittalum<anchor xml:id="kulittal"/> uḷḷiṭṭaṉa vellāṅ koḷka.<num> 9.</num></p>
+      <p xml:lang="en">By <q xml:lang="ta-Latn"><hi rend="italic">iṉaiyaṉa</hi></q>, understand that all 
+        [of these] are included: harvesting foxtail millet and digging up root vegetables; raiding villages and seizing 
+        cattle-herds; harvesting common millet and seizing bulls; performing ceremonies and playing in the flood; 
+         making salt and diving for pearls.</p>
         </div>
       </body>
       </text>
@@ -199,7 +194,7 @@
 </entry>
 <entry>
 <form>tēṉ</form>
-<def>honey</def>
+<def>honeycomb</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -270,7 +265,7 @@
 </entry>
 <entry>
 <form>payiṟal-um</form>
-<def>practicing</def>
+<def>practising</def>
 <form type="simple">payiṟal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -319,11 +314,10 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV9comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G13MG10ML9M,6MG30MG</interp>
+<interp type="alignment" select="0">16MG10ML9M,36MG</interp>
 <entry>
 <form>eṉpatu</form>
-<def>say-it</def>
-<form type="sandhi">e-tu</form>
+<def>say</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -331,7 +325,7 @@
 </entry>
 <entry>
 <form>ceyti</form>
-<def>action</def>
+<def>occupation</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -446,6 +440,9 @@
 <form>pukutal-um</form>
 <def>entering</def>
 <form type="simple">pukutal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -533,19 +530,20 @@
 </entry>
 <entry>
 <form>tiṉai</form>
-<def>italian millet</def>
+<def>foxtail millet</def>
 <form type="sandhi">ṟiṉai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>aritalum</form>
+<form><c type="glide">y</c>arital-um</form>
 <def>harvesting</def>
-<form type="sandhi"><c type="glide">y</c>aritaluṅ</form>
+<form type="simple"><c type="glide">y</c>arital</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kiḻaṅk<c type="elided">u</c></form>
@@ -572,12 +570,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṟitalum</form>
+<form>eṟital-um</form>
 <def>raiding</def>
-<form type="sandhi">eṟitalun</form>
+<form type="simple">eṟital</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>nirai</form>
@@ -605,7 +604,7 @@
 </entry>
 <entry>
 <form>arital-um</form>
-<def>hravesting</def>
+<def>harvesting</def>
 <form type="simple">arital</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -638,7 +637,7 @@
 </entry>
 <entry>
 <form>ayartal-um</form>
-<def>preparing</def>
+<def>performing</def>
 <form type="simple">ayartal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -654,7 +653,7 @@
 </entry>
 <entry>
 <form>āṭal-um</form>
-<def>bathing</def>
+<def>playing</def>
 <form type="simple">āṭal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -725,15 +724,7 @@
 </gramGrp>
 </entry>
 </standOff>
-<standOff type="notes1" corresp="#TNV9"><note xml:lang="ta" target="#alittal"><term xml:lang="en">Cf. IAC1, p.25:</term> kuṟiñcikku... ceyti tēṉaḻittaluṅ</note>
-</standOff>
-<standOff type="notes2" corresp="#TNV9">
-<note xml:lang="ta" target="#ceral"><term xml:lang="en">Cf. IAC1, p.25:</term> neytaṟku... ceyti mīṉviṟṟalum</note>
-<note xml:lang="ta" target="#alaittal"><term xml:lang="en">Cf. IAC1, p.26:</term> pālaikku... ceyti... cātteṟitaluñ</note>
-<note xml:lang="ta" target="#ompal"><term xml:lang="en">Cf. IAC1, p.26:</term> mullaikku... ceyti... niraimēyttalum</note>
-<note xml:lang="ta" target="#payiral"><term xml:lang="en">Cf. IAC1, p.27:</term> marutattukku... ceyti... payirkkuk kaḷaikaṭṭalum</note>
-</standOff>
-<standOff type="notes4" corresp="#TNV9"><note xml:lang="en" target="#ceyal">The situation here is a bit odd. The occupations listed in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> correspong to one of the ones listed in the corresponding section in the IAC. However, with the exception of <q xml:lang="ta"><hi rend="italic">tēṉaḻittal</hi></q>, they have are described in different language. The IAC also lists out multiple jobs, whereas the TNV <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> lists only one per landscape. I have chosen to give only the revelevant corresponding occupation from the IAC here. In the notes to the commentary, the others are provided, where they are in fact sources/parallels.</note></standOff>
+<standOff type="notes4" corresp="#TNV9"><note xml:lang="en" target="#ceyal">The situation here is a bit odd. The occupations listed in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> correspond to those listed in the IAC. However, with the exception of <q xml:lang="ta-Latn"><hi rend="italic">tēṉ aḻittal</hi></q>, they are described in different wording. The IAC also lists multiple occupations, whereas the TNV <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> lists only one per poetic setting. The IAC’s occupations are provided in the notes for the commentary to avoid repetition.</note></standOff>
 <standOff type="apparatus" corresp="#TNV9" source="alignments/TNV9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -752,7 +743,7 @@
 </interp><listApp>
   <app loc="25,35">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ṟalaittalu</lem>
-    <rdg wit="#TNVmsac">ṟalaitta<sic><unclear>lu</unclear></sic>lu</rdg>
+    <rdg wit="#TNVmsac">ṟalaittalulu</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV9comm1" source="alignments/TNV9comm1.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -769,8 +760,17 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff>
-<standOff type="notes1" corresp="#TNV9comm2"><note xml:lang="ta" target="#meyttal"><term xml:lang="en">Cf. IAC1, p.27:</term> mullaikku... ceyti... niraimēyttalum</note></standOff>
+</interp>
+<listApp>
+ 
+  <app loc="14,34">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āṟuṇarttutanutaliṟ<lb n="7"/>ṟu</rdg>
+  </app>
+</listApp></standOff>
 <standOff type="apparatus" corresp="#TNV9comm2" source="alignments/TNV9comm2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -788,30 +788,38 @@
   </desc>
 </interp><listApp>
   <app loc="0,12">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">tēṉ aḻittalum</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>tēṉ aḻittalum</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947"><note>(i – ḷ.)</note> tēṉaḻittalum,</rdg>
+      <rdg type="minor" wit="#TNVc">tēṉaḻit<lb n="10"/>talum</rdg>
+      <rdg type="minor" wit="#TNVmspc">tēṉaḻittalum</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">tēṉeḻittalum</rdg>
   </app>
   <app loc="37,45">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">uḻutaluṅ</lem>
-    <rdg wit="#TNVmsac">uḻuta<sic>lu</sic>luṅ</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>uḻutaluṅ</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">uḻutalum,</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">uḻutaluluṅ</rdg>
   </app>
   <app loc="78,84">
     <lem wit="#TNVcpc #TNV1937 #TNV1947">āṇṭaic</lem>
     <rdgGrp select="#TNVms #TNVcac">
-      <rdg type="main">āṭai<lb n="8"/>c</rdg>
-      <rdg type="minor" wit="#TNVcac">āṭaic</rdg>
+      <rdg type="main">āṭaic</rdg>
+      <rdg type="minor" wit="#TNVms">āṭai<lb n="8"/>c</rdg>
     </rdgGrp>
   </app>
-  
+ 
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV9comm3"><note xml:lang="ta" target="#kilankakal"><term xml:lang="en">Cf. IAC, p.25:</term> kuṟiñcikku... ceyti... kiḻaṅkakaḻtaluṅ kuṉṟamoṭutalun tiṉaikkiḷikaṭitalum</note>
-<note xml:lang="ta" target="#niraikotal"><term xml:lang="en">Cf. IAC, p.26:</term> pālaikku... ceyti niraikōṭaluñ cātteṟitaluñ cūṟaiyāṭalum</note>
-<note xml:lang="ta" target="#erukotal"><term xml:lang="en">Cf. IAC, p.26:</term> mullaikku... ceyti varaku kaḷaikaṭṭalum avai yaṟuttaluṅ kaṭāviṭutalum niraimēyttalum ēṟukōṭalum</note>
-<note xml:lang="ta" target="#atal"><term xml:lang="en">Cf. IAC, p.26:</term> marutattukku... ceyti nellaritalum avai kaṭāviṭutalum payirkkuk kaḷaikaṭṭalum</note>
-<note xml:lang="ta" target="#kulittal"><term xml:lang="en">Cf. IAC, p.25:</term> neytaṟku... ceyti mīṉviṟṟalum uppuviṟṟalum avaipaṭuttalum</note> 
+<standOff type="notes1" corresp="#TNV9comm3"><note xml:lang="ta" target="#kilankakal"><term xml:lang="en">Cf. IAC1, p. 25:</term> kuṟiñcikku… ceyti tēṉaḻittaluṅ kiḻaṅkakaḻtaluṅ kuṉṟamāṭutalun tiṉaikkiḷikaṭitalum</note>
+<note xml:lang="ta" target="#niraikotal"><term xml:lang="en">Cf. IAC1, p. 26:</term> pālaikku… ceyti niraikōṭaluñ cātteṟitaluñ cūṟaiyāṭalum</note>
+<note xml:lang="ta" target="#erukotal"><term xml:lang="en">Cf. IAC1, p. 26:</term> mullaikku… ceyti varaku kaḷaikaṭṭalum avai yaṟuttaluṅ kaṭāviṭutalum niraimēyttalum ēṟu kōṭalum</note>
+<note xml:lang="ta" target="#atal"><term xml:lang="en">Cf. IAC1, p. 27:</term> marutattukku… ceyti nellaritalum avai kaṭāviṭutalum payirkkuk kaḷaikaṭṭalum</note>
+<note xml:lang="ta" target="#kulittal"><term xml:lang="en">Cf. IAC1, p. 25:</term> neytaṟku… ceyti mīṉviṟṟalum uppuviṟṟalum avai paṭuttalum</note> 
 </standOff>
-<standOff type="notes4" corresp="#TNV9comm3"><note xml:lang="en" target="#inaiyana">I have emended here in line with UVC. The commmentator is referring back to the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> and in both the palm-leaf and paper copy, the <hi rend="italic">cūttiram</hi> reads <hi rend="italic">iṉaiyaṉa</hi>.</note>
-  <note xml:lang="en" target="#kulittal">As is often the case, the disambiguation between source and parallel is diffcult to make. The IAC provides slightly fuller lists of occupations than this commentary. Much, however, is the same. I have simply quoted the relevant passages in full unders sources here as, even though the are cases where the treatent is not identical, there are enough similarites to suggest that the IAC was the source, and I did not want to balloon this apparatus any further than necessary.</note>
+<standOff type="notes4" corresp="#TNV9comm3"><note xml:lang="en" target="#inaiyana">This edition follows UVC. The commentary is referring back to the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, and the <foreign xml:lang="ta-Latn">cūttiram</foreign> reads <foreign xml:lang="ta-Latn">iṉaiyaṉa</foreign>.</note>
+  <note xml:lang="en" target="#kulittal">As is often the case, it is difficult to disambiguate source and parallel. The IAC provides slightly fuller lists of occupations than this commentary. Much, however, is the same. The relevant passages are quoted in full because, even though there are cases where the treatment is not identical, there are enough similarities to suggest that the IAC was the source.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV9comm3" source="alignments/TNV9comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -828,34 +836,44 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<listApp>
   <app loc="0,8">
     <lem wit="#TNV1937 #TNV1947">iṉaiyaṉa</lem>
     <rdg wit="#TNVms #TNVc">iṉaiya</rdg>
   </app>
-  <app loc="8,23">
-    <lem wit="#TNVmspc #TNVc">veṉṟataṉāṟ ṟiṉai</lem>
-    
-    <rdg wit="#TNVmsac">veṉtaṉāṟ ṟiṉai</rdg>
+  <app loc="8,18">
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>veṉṟataṉāṟ</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">eṉṟataṉāl</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">veṉtaṉāṟ</rdg>
   </app>
-  
   <app loc="47,49">
     <lem wit="#TNV1937 #TNV1947">ūr</lem>
-    <rdg wit="#TNVms #TNVc">
-      <sic>ur</sic>
-    </rdg>
+    <rdgGrp select="#TNVms #TNVc">
+      <rdg type="main">ur</rdg>
+      <rdg type="minor" wit="#TNVms">
+        <sic>ur</sic>
+      </rdg>
+    </rdgGrp>
   </app>
-  
   <app loc="68,81">
     <lem wit="#TNVc #TNV1937 #TNV1947">varakaritalum</lem>
-    <rdg wit="#TNVms">varakari <gap reason="lost" unit="character" quantity="1"/>lu<lb n="9"/>m</rdg>
+    <rdg wit="#TNVms">varakari<gap reason="lost" unit="character" quantity="1"/>lu<lb n="9"/>m</rdg>
   </app>
   <app loc="133,143">
-    <lem wit="#TNVc #TNV1937 #TNV1947">kuḷittalum</lem>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>kuḷittalum</lem>
+      <rdg type="minor" wit="#TNVc">kuḷitta<lb n="15"/>lum</rdg>
+    </rdgGrp>
     <rdg wit="#TNVms">kuḷittutalum</rdg>
   </app>
-  <app loc="158,164">
-    <lem wit="#TNVc #TNV1937 #TNV1947">koḷka.</lem>
-    <rdg wit="#TNVms">ko</rdg>
+  <app loc="158,163">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>koḷka</lem>
+      <rdg type="minor" wit="#TNVc #TNV1937 #TNV1947">koḷka. (9)</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">ko<gap reason="lost" unit="character" quantity="2"/></rdg>
   </app>
 </listApp></standOff></TEI>

@@ -3,8 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 12. </title>
-        <title type="sub">Experimenting with formatting for the final edition.</title>
+          <title xml:lang="ta">Tamiḻneṟi Viḷakkam</title> 12.</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -27,58 +26,58 @@
             </expan>
           </witness> 
           <witness xml:id="TNVms" source="witnesses/UVSLMS000950.xml">
-            <abbr type="siglum">TNVms</abbr>
-            <expan> Tamiḻneṟi Viḷakkam </expan>
+            <abbr type="siglum">C1</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf)</expan>
             <listWit>
               <witness xml:id="TNVmsac" n="ac">
-                <abbr type="siglum">TNVms<hi rend="subscript">ac</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [ante correctionem]</expan>
-              </witness>
+                <abbr type="siglum">C1<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [ante correctionem]</expan>
+              </witness> 
               <witness xml:id="TNVmspc" n="pc">
-                <abbr type="siglum">TNVms<hi rend="subscript">pc</hi></abbr>
-                <expan> Tamiḻneṟi Viḷakkam [post correctionem]</expan>
+                <abbr type="siglum">C1<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 950 (palm-leaf) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNVc" source="witnesses/UVSL_48032.xml">
-            <abbr type="siglum">TNVc</abbr>
-            <expan>Tamiḻneṟi Viḷakkam Paper</expan>
+            <abbr type="siglum">C2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper)</expan>
             <listWit>
               <witness xml:id="TNVcac" n="ac">
-                <abbr type="siglum">TNVc<hi rend="subscript">ac</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [ante correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNVcpc" n="pc">
-                <abbr type="siglum">TNVc<hi rend="subscript">pc</hi></abbr>
-                <expan>Tamiḻneṟi Viḷakkam Paper [post correctionem]</expan>
+                <abbr type="siglum">C2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. UVSL 48032 (paper) [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1937" source="witnesses/TNV_1937.xml">
-            <abbr type="siglum">TNV1937</abbr>
-            <expan>TNV 1937</expan>
+            <abbr type="siglum">Cām</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed.</expan>
             <listWit>
               <witness xml:id="TNV1937ac" n="ac">
-                <abbr type="siglum">TNV1937ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1937pc" n="pc">
-                <abbr type="siglum">TNV1937pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1937 1st ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="TNV1947" source="witnesses/TNV1947.xml">
-            <abbr type="siglum">TNV1947</abbr>
-            <expan>TNV 1947</expan>
+            <abbr type="siglum">Cām2</abbr>
+            <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed.</expan>
             <listWit>
               <witness xml:id="TNV1947ac" n="ac">
-                <abbr type="siglum">TNV1947ac</abbr>
-                <expan>TNV print [ante correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">ac</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [ante correctionem]</expan>
               </witness>
               <witness xml:id="TNV1947pc" n="pc">
-                <abbr type="siglum">TNV1947pc</abbr>
-                <expan>TNV print [post correctionem]</expan>
+                <abbr type="siglum">Cām2<hi rend="subscript">pc</hi></abbr>
+                <expan><hi rend="italic">Tamiḻneṟi Viḷakkam</hi>. Edited by U. Vē. Cāminātaiyar. 1947 2nd ed. [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
@@ -110,39 +109,32 @@
               </witness>
             </listWit>
           </witness>
-          <witness xml:id="AVed" source="witnesses/AVprint.xml">
-            <abbr type="siglum">AVed</abbr>
-            <expan>AVprint</expan>
-          </witness>          
-          <witness xml:id="TKn" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">n</hi></abbr>
+           <witness xml:id="AVed" source="witnesses/AVprint.xml">
+            <abbr type="siglum">AV</abbr>
+            <expan>Critical Edition and Study of Akapporuḷ Viḷakkam. Edited by T. Rajarethinam. 2006.</expan>
+          </witness>   
+          <witness xml:id="TPn" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPn</abbr>
             <expan>Tolkāppiyam Nacciṉārkkiṉiyar</expan>
           </witness>
-          <witness xml:id="TKp" source="witnesses/TolNa.xml">
-            <abbr type="siglum">TK<hi rend="subscript">p</hi></abbr>
+          <witness xml:id="TPp" source="witnesses/TolNa.xml">
+            <abbr type="siglum">TPp</abbr>
             <expan>Tolkāppiyam Pērāciriyar</expan>
           </witness>
           <witness xml:id="YV1960a" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960a</abbr>
+            <abbr type="siglum">YVa</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="YV1960b" source="witnesses/YV1960.xml">
-            <abbr type="siglum">YV1960b</abbr>
+            <abbr type="siglum">YVb</abbr>
             <expan>YV1960</expan>
           </witness>
           <witness xml:id="KT2" source="https://uhh-tamilex.github.io/Kuruntokai/KT2.xml">
-              <abbr type="siglum">KT2</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT2</expan>
-              <listWit>
-                <witness xml:id="KT2-C2" select="#C2">
-                  <abbr type="siglum">KT2-C2</abbr>
-                  <expan><title xml:lang="ta">Kuṟuntokai</title> 2. <persName xml:lang="ta">
-                    Iṟaiyaṉār</persName>: <hi rend="italic">HE</hi> [witness C2]</expan>
-                </witness>
-              </listWit>
           </witness>
           <witness xml:id="KT40" source="https://uhh-tamilex.github.io/Kuruntokai/KT40.xml">
-              <abbr type="siglum">KT40</abbr>
+              <abbr type="siglum">KT</abbr>
               <expan>KT40</expan>
           </witness>
         </listWit>
@@ -161,14 +153,15 @@
 <l>kuruntē mullai yiralai puṟavē</l>
 <l>kāñci kaḻunīr mēti yaṉṉaṅ</l>
 <l>kaitai muṇṭakaṅ karāmē kampuḷeṉ</l>
-<l>ṟeytiya piṟavu miyampiya vilaṅkē<anchor xml:id="vilanku"/></l></lg>
-<p xml:lang="en">Kino tree, Malabar glory lily, lion, peacock,
-<term xml:lang="ta-Latn"><hi rend="italic">Pāṅkar</hi></term> tree, <term xml:lang="ta-Latn"><hi rend="italic">Maṟā</hi></term> tree, wild dog, kite,
-wild lime, jasmine, <term xml:lang="ta-Latn"><hi rend="italic">iralai</hi></term> deer, pigeon,
-Portia tree, waterlily, buffalo, swan,
-<term xml:lang="ta-Latn"><hi rend="italic">Kaitai</hi></term> tree, <term xml:lang="ta-Latn"><hi rend="italic">Muṇṭakam</hi></term> tree, alligator, water fowl
-and appropriate others [are] the living things mentioned.
-</p>
+<l>ṟeytiya piṟavu miyampiya vilaṅkē.</l></lg>
+<lg xml:lang="en">
+  <l>The kino tree, the Malabar glory lily, the lion, and the peacock;</l>
+<l>the <term xml:lang="ta-Latn"><hi rend="italic">pāṅkar</hi></term> tree, the <term xml:lang="ta-Latn"><hi rend="italic">marā</hi></term> tree, the wild dog,<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">cennāy</hi></q> is treated here as a lexicalised item, though one can break it down into <term xml:lang="ta-Latn"><hi rend="italic">cem</hi></term> (‘red’) + <term xml:lang="ta-Latn"><hi rend="italic">nāy</hi></term> (‘dog’). The precise identification of this is not clear. It might refer to either a jackal or another type of wild dog, possibly a dhole. Both are reddish in colour.</note> and the kite;</l>
+<l>the wild-lime tree, jasmine, the <term xml:lang="ta-Latn"><hi rend="italic">iralai</hi></term> deer, and the dove;</l>
+<l>the portia tree, the water lily, the buffalo, and the swan;</l>
+<l>the <term xml:lang="ta-Latn"><hi rend="italic">kaitai</hi></term> tree, the <term xml:lang="ta-Latn"><hi rend="italic">muṇṭakam</hi></term> tree, the alligator, and the waterfowl</l>
+<l> – [these] and appropriate others [are] the living things mentioned.</l>
+</lg>
 </div>
 </body>
 </text>
@@ -176,35 +169,35 @@ and appropriate others [are] the living things mentioned.
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV12comm1">e-tu. vilaṅkām āṟuṇarttutaṉutaliṟṟu.</p>
-      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which living things occur.</p>
+      <p xml:id="TNV12comm1">eṉpatu vilaṅkām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the living things occur.</p>
     </div>
     <div type="commentary" rend="parallel">
       <p xml:id="TNV12comm2">vēṅkai maramum pūṅ kulaik kāntaḷuñ cīyamāvumayiṟ puḷḷum ōmai maramumarām pūvuñ cennāy māvum 
 paruntup puḷḷuṅ kurunta maramuṅ koṭip pū mullaiyum iralai māvum puṟavup puḷḷuṅ 
 kāñci maramum pūṅ kaḻunīrum erumai māvum aṉṉap puḷḷun tāḻai maramum pūṅ kaḻi muḷḷiyumutalai māvuṅ 
 kampuṭ puḷḷum piṟavum ain tiṇaikkuriya vilaṅkām eṉṟa vāṟu.</p>
-<p xml:lang="en">The Kino tree, clusters of Malabar glory lilies, the lion and the peacock; 
-  the <term xml:lang="ta-Latn"><hi rend="italic">Ōmai</hi></term> tree, the 
-  <term xml:lang="ta-Latn"><hi rend="italic">Marām</hi></term> flower, the wild red dog and the kite; 
-  the wild-lime tree, the creeper jasmine, the <term xml:lang="ta-Latn"><hi rend="italic">Iralai</hi></term> deer 
-  and the dove; the <term xml:lang="ta-Latn"><hi rend="italic">Kañci</hi></term> tree, the purple waterlily, the 
-  buffalo and the goose; the screwpine tree, the <term xml:lang="ta-Latn"><hi rend="italic">Muḷḷi</hi></term> plant 
-  from the backwaters, the crocodile and the water-fowl - [these] and other are the living beings appropriate for the five poetic landscapes.</p>
+<p xml:lang="en">The kino tree, clusters of Malabar glory lilies, the lion, and the peacock; 
+  the <term xml:lang="ta-Latn"><hi rend="italic">ōmai</hi></term> tree, the 
+  <term xml:lang="ta-Latn"><hi rend="italic">marām</hi></term> flower, the wild dog, and the kite; 
+  the wild-lime tree, the creeper jasmine, the <term xml:lang="ta-Latn"><hi rend="italic">iralai</hi></term> deer, 
+  and the dove; the portia tree, the purple water lily, the 
+  buffalo, and the swan; the screwpine tree, the <term xml:lang="ta-Latn"><hi rend="italic">muḷḷi</hi></term> plant 
+  from the backwaters, the crocodile, and the waterfowl – [these] and others are the living things appropriate for the five poetic settings.</p>
 </div>
 <div type="commentary" rend="parallel">
   <p xml:id="TNV12comm3">piṟavum eṉṟataṉāl akiluñ cantaṉamum vēṅkaip pūvuñ cuṉaik kuvaḷaip pūvum 
 puliyum yāṉaiyuṅ kiḷiyum vēṅkaiyuṅ<anchor xml:id="venkai"/> kurām pūvum pātiram pūvumurukkuṅ<anchor xml:id="murukku"/> koṉṟaiyun tōṉṟip pūvumuyaluṅ 
 kāṉaṅ kōḻiyu<anchor xml:id="koli"/>marutum vañciyun tāmaraip pūvunīrnāyun tārāvum<anchor xml:id="tara"/> puṉṉaiyuñāḻaluneytaṟ pūvum 
 aṉṉamumakaṉṟilum<anchor xml:id="akanril"/> uḷ ḷiṭṭaṉa vellāṅ koḷka.</p>
-<p xml:lang="en">Because he says <q xml:lang="ta-Latn"><hi rend="italic">piṟavum</hi></q>, understand that all [of these] are included: 
-the eagle-wood tree, the sandalwood tree, the Kino tree flower, the mountian-pool waterlily, the panther, the elephant, 
-the parakeet and the tiger<note place="foot"><q xml:lang="ta-Latn"><hi rend="italic">puli</hi></q> and 
+<p xml:lang="en">By <q xml:lang="ta-Latn"><hi rend="italic">piṟavum</hi></q>, understand that all [of these] are included: 
+the eagle-wood tree, the sandalwood tree, the kino tree flower, the mountain-pool water lily, the panther, the elephant, 
+the parakeet, and the tiger;<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">puli</hi></q> and 
   <q xml:lang="ta-Latn"><hi rend="italic">vēṅkai</hi></q> both normally refer to a tiger. Here one of them 
-  presumably refers to another big cat, though I am not confident which one.</note>; the bottle-flower, the <term xml:lang="ta-Latn"><hi rend="italic">Pātiram</hi></term> flower
- and the <term xml:lang="ta-Latn"><hi rend="italic">Palaś</hi></term> tree; the Laburnam tree, the Malabar glory lily, the hare 
-and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="italic">Vañci</hi></term> tree, the lotus flower, the otter and the duck; 
-<term xml:lang="ta-Latn"><hi rend="italic">Puṉṉai</hi></term> tree, the <term xml:lang="ta-Latn"><hi rend="italic">Ñāḻal</hi></term> tree, the blue waterlily, the goose and the <term xml:lang="ta-Latn"><hi rend="italic">Makaṉṟil</hi></term> bird.</p>
+  presumably refers to another big cat, though it is not clear which one.</note> the bottle-flower, the <term xml:lang="ta-Latn"><hi rend="italic">pātiram</hi></term> flower,
+ and the <term xml:lang="sa-Latn"><hi rend="italic">palaś</hi></term> tree; the laburnum tree, the Malabar glory lily, the hare, 
+and the forest fowl; the myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="italic">vañci</hi></term> tree, the lotus flower, the otter, and the duck; 
+the <term xml:lang="ta-Latn"><hi rend="italic">puṉṉai</hi></term> tree, the <term xml:lang="ta-Latn"><hi rend="italic">ñāḻal</hi></term> tree, the blue water lily, the swan, and the <term xml:lang="ta-Latn"><hi rend="italic">makaṉṟil</hi></term> bird.</p>
 </div>
 </body>
 </text>
@@ -212,7 +205,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <interp type="alignment" select="0">17ML4MG28M2G7M2G19M2G42MG10MG10MG17M2GM,168M</interp>
 <entry>
 <form>vēṅkai</form>
-<def>Kino tree</def>
+<def>kino tree</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -220,6 +213,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <entry>
 <form>kāntaḷ</form>
 <def>Malabar glory lily</def>
+<form type="sandhi">kāntaṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -251,6 +245,9 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <form>marāmaram</form>
 <def>Marā tree</def>
 <form type="sandhi">marāmarañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>cennāy</form>
@@ -312,21 +309,21 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 </entry>
 <entry>
 <form>kaḻunīr</form>
-<def>waterlily</def>
+<def>water lily</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>mēti</form>
-<def>bufallo</def>
+<def>buffalo</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>aṉṉam</form>
-<def>goose</def>
+<def>swan</def>
 <form type="sandhi"><c type="glide">y</c>aṉṉaṅ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -351,11 +348,14 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <form>karām-ē</form>
 <def>alligator</def>
 <form type="simple">karām</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>kampuḷ</form>
-<def>water fowl</def>
+<def>waterfowl</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -405,11 +405,10 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TNV12comm1" type="wordsplit">
-<interp type="alignment" select="0">2M2G9MG4MG10ML9M,6MG31MG</interp>
+<interp type="alignment" select="0">12MG4MG10ML9M,37MG</interp>
 <entry>
 <form>eṉpatu</form>
 <def>say</def>
-<form type="sandhi">e-tu</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
@@ -459,7 +458,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <interp type="alignment" select="0">11MG17MG7MLMG3ML7MG12MG2ML6MG11MG14MG11ML4MG15MG11MG13MG13MG12MG10MG11MG13MG14MG3ML8MG12MG7MG13MG11MG11M,310MG</interp>
 <entry>
 <form>vēṅkai</form>
-<def>Kino tree</def>
+<def>kino tree</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -509,7 +508,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <def>animal</def>
 <form type="simple">mā</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -574,7 +573,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <def>animal</def>
 <form type="simple">mā</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -645,7 +644,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <def>animal</def>
 <form type="simple">mā</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -691,7 +690,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 </entry>
 <entry>
 <form>kaḻunīr-um</form>
-<def>Purple waterlily</def>
+<def>Purple water lily</def>
 <form type="simple">kaḻunīr</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -710,25 +709,26 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <def>animal</def>
 <form type="simple">mā</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>aṉṉam</form>
-<def>goose</def>
+<def>swan</def>
 <form type="sandhi">aṉṉap</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>puḷ-<c type="geminated">ḷ</c>un</form>
+<form>puḷ-<c type="geminated">ḷ</c>um</form>
 <def>bird</def>
-<form type="sandhi">puḷ<c type="geminated">ḷ</c>un</form>
+<form type="simple">puḷ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tāḻai</form>
@@ -782,13 +782,13 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <def>animal</def>
 <form type="simple">mā</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kampuḷ</form>
-<def>water fowl</def>
+<def>waterfowl</def>
 <form type="sandhi">kampuṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -820,7 +820,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 </entry>
 <entry>
 <form>tiṇaikk<c type="elided">u</c></form>
-<def>landscape</def>
+<def>poetic setting</def>
 <form type="sandhi">tiṇaikk</form>
 <gramGrp>
   <gram type="role">dative</gram>
@@ -929,7 +929,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 </entry>
 <entry>
 <form>kuvaḷai<c type="geminated">p</c></form>
-<def>waterlily</def>
+<def>water lily</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -971,9 +971,13 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>vēṅkai-<c type="glide">y</c>uṅ</form>
+<form>vēṅkai-<c type="glide">y</c>um</form>
 <def>tiger</def>
-<form type="sandhi">vēṅkai<c type="glide">y</c>uṅ</form>
+<form type="simple">vēṅkai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kurām</form>
@@ -993,7 +997,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 </entry>
 <entry>
 <form>pātiram</form>
-<def>pātiram</def>
+<def>Pātiram</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1009,7 +1013,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 </entry>
 <entry>
 <form>murukk<c type="elided">u</c>-um</form>
-<def>Palash tree</def>
+<def>Palaś tree</def>
 <form type="simple">murukku</form>
 <form type="sandhi">murukk</form>
 <gramGrp>
@@ -1018,16 +1022,17 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>koṉṟai-<c type="glide">y</c>un</form>
+<form>koṉṟai-<c type="glide">y</c>um</form>
 <def>Laburnum</def>
-<form type="sandhi">koṉṟai<c type="glide">y</c>un</form>
+<form type="simple">koṉṟai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tōṉṟi<c type="geminated">p</c></form>
-<def>Malabar glory-lily</def>
+<def>Malabar glory lily</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1103,12 +1108,13 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>nīrnāy-un</form>
+<form>nīrnāy-um</form>
 <def>otter</def>
-<form type="sandhi">nīrnāyun</form>
+<form type="simple">nīrnāy</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tārā-<c type="glide">v</c>um</form>
@@ -1139,7 +1145,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 </entry>
 <entry>
 <form>neytal</form>
-<def>blue waterlily</def>
+<def>blue water lily</def>
 <form type="sandhi">neytaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1156,7 +1162,7 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
 </entry>
 <entry>
 <form>aṉṉam-um</form>
-<def>goose</def>
+<def>swan</def>
 <form type="simple">aṉṉam</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1217,33 +1223,48 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<listApp>
   <app loc="30,43">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">cīyamāvumayiṟ</lem>
-    <rdg wit="#TNVmsac">cīyamāvuñmayi<lb n="4"/>ṟ</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>cīyamāvumayiṟ</lem>
+      <rdg type="minor" wit="#TNVmspc">cīyamāvumayi<lb n="4"/>ṟ</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">cīyamāvum, mayiṟ</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">cīyamāvu<gap reason="illegible" unit="character" quantity="1"/>mayi<lb n="4"/>ṟ</rdg>
   </app>
   <app loc="53,64">
-    <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">maramumarām</lem>
+    <rdgGrp type="lemma" select="#TNVms #TNVcpc #TNV1937 #TNV1947">
+      <lem>maramumarām</lem>
+      <rdg type="minor" wit="#TNVms">mara<sic>mu</sic>marām</rdg>
+      <rdg type="minor" wit="#TNVcpc">mara<lb n="10"/>mumarām</rdg>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">maramum, marām</rdg>
+    </rdgGrp>
     <rdg wit="#TNVcac">mara<lb n="10"/>mumaram</rdg>
   </app>
   <app loc="64,69">
-    <lem wit="#TNVms #TNVc #TNV1947">pūvuñ</lem>
-    <rdg wit="#TNV1937">pūvuṅ,</rdg>
+    <rdgGrp type="lemma" select="#TNVms #TNVc #TNV1947">
+      <lem>pūvuñ</lem>
+      <rdg type="minor" wit="#TNV1947">pūvum</rdg>
+    </rdgGrp>
+    <rdg wit="#TNV1937">pūvuṅ</rdg>
   </app>
   <app loc="69,75">
     <lem wit="#TNVms #TNVcpc #TNV1937 #TNV1947">cennāy</lem>
-    <rdg wit="#TNVcac">cen<gap reason="illegible" quantity="1" unit="character"/> āy</rdg>
-  </app>
-  <app loc="232,238">
-    <lem wit="#TNVms #TNV1937 #TNV1947">kampuṭ</lem>
-    <rdg wit="#TNVc">kampu<sic>ḷ</sic></rdg>
+    <rdg wit="#TNVcac">cen<gap reason="illegible" quantity="1" unit="character"/>āy</rdg>
   </app>
   <app loc="238,244">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">puḷḷum</lem>
-    <rdg wit="#TNVmsac">puḷḷuṅm</rdg>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>puḷḷum</lem>
+      <rdg type="minor" wit="#TNVc">puḷ<lb n="14"/>ḷum</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVmsac">puḷḷu<unclear>ṅ</unclear></rdg>
   </app>
   <app loc="251,266">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">ain tiṇaikkuriya</lem>
+    <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
+      <lem>ain tiṇaikkuriya</lem>
+      <rdg type="minor" wit="#TNVmspc #TNVc #TNV1937 #TNV1947">aintiṇaikkuriya</rdg>
+    </rdgGrp>
     <rdg wit="#TNVmsac">aintiṇaikkuriya<gap reason="illegible" unit="character" quantity="1"/></rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#TNV12comm1" source="alignments/TNV12comm1.xml"><interp type="normalization">
@@ -1261,8 +1282,18 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp></standOff>
-<standOff type="notes4" corresp="#TNV12"><note xml:lang="en">Though most of the items in this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> are found in the IAC, I have not included it as either a source or parallel. This is for purely practical reasons. The repective organisation of the TNV, TNVC and IAC, the only way to present the relevant sections of the IAC would be to list out four enumerations for each lanscape: trees, flowers animals and birds. I have included the full enumerations in the commentary apparatus. Understand that they are also a parallel for the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term></note></standOff>
+</interp>
+<listApp>
+ 
+  <app loc="14,34">
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>āṟuṇarttutaṉutaliṟṟu</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">āṟu uṇarttutal nutaliṟṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms">āṟuṇarttutanutaliṟṟu</rdg>
+  </app>
+</listApp></standOff>
+<standOff type="notes4" corresp="#TNV12"><note xml:lang="en">Though most of the items in this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> are found in the IAC, they are not included as a source or parallel. This is for purely practical reasons. Because of how the TNV and IAC are each organised, the only way to present the relevant sections of the IAC would be to list four enumerations for each poetic setting: trees, flowers, animals, and birds. The full enumerations are included in the commentary apparatus. Understand that they are also a parallel for the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term>.</note></standOff>
 <standOff type="apparatus" corresp="#TNV12" source="alignments/TNV12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -1279,16 +1310,16 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="6,12">
-    <lem wit="#TNVms #TNVc">kāntaṭ</lem>
-    <rdg wit="#TNV1937 #TNV1947">kāntaḷ</rdg>
-  </app>
+ 
   <app loc="22,28">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">pāṅkar</lem>
-    <rdg wit="#TNVmsac">pāṅkāra<unclear>m</unclear></rdg>
-    <rdgGrp select="#TNVmspc #TNVcac">
-      <rdg type="main">pāṅkāra<lb n="2"/></rdg>
-      <rdg type="minor" wit="#TNVcac"><lb n="3"/>pāṅkāra</rdg>
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947">
+      <lem>pāṅkar</lem>
+      <rdg type="minor" wit="#TNVcpc"><lb n="3"/>pāṅkar</rdg>
+    </rdgGrp>
+    <rdgGrp select="#TNVmsac #TNVmspc #TNVcac">
+      <rdg type="main">pāṅkāra</rdg>
+      <rdg type="minor" wit="#TNVmspc">pāṅkāra<lb n="2"/></rdg>
+      <rdg type="minor" wit="#TNVcac"><lb n="3"/>pāṅkār</rdg>
     </rdgGrp>
   </app>
   <app loc="118,126">
@@ -1296,11 +1327,11 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
     <rdg wit="#TNVms"><gap reason="lost" unit="character" quantity="2"/>puḷeṉ</rdg>
   </app>
 </listApp></standOff>
-<standOff type="notes1" corresp="#TNV12comm3"><note xml:lang="ta" target="#venkai"><term xml:lang="en">Cf. IAC1, p.25:</term> kuṟiñcikku... mā puliyum paṉriyum yāṉaiyum; maram akilum āramun timicun tēkkum vēṅkaiyum; puḷ kiḷiyum mayilum...; pū kuṟiñciyuṅ kāntaḷum vēṅkaiyuñ ceṉai kuvaḷaiyum</note>
-  <note xml:lang="ta" target="#murukku"><term xml:lang="en">Cf. IAC1, p.26:</term> pālaikku... mā valiyaḻinta yāṉaiyum puliyuñ cennāyum; maram iruppaiyum ōmaiyum; puḷ kaḻukum paruntum puṟavum...; pū marāmpūvuṅ kurāmpūvum pātirippūvum</note>
-  <note xml:lang="ta" target="#koli"><term xml:lang="en">Cf. IAC1, p.26-7:</term> mullaikku... mā muyaluñ ciṟumāṉum' maram koṉṟaiyuṅ kuruntum; puḷ kāṉaṅkōḻiyum mayiluñ civalum...; pū mullaiyun tōṉṟiyum</note>
-  <note xml:lang="ta" target="#tara"><term xml:lang="en">Cf. IAC1, p.27:</term> marutattukku... mā eṟumaiyum nīrnāyum; maram vañciyuṅ kāñciyum marutum; puḷ nīrkkōḻiyun tāravum... pū tāmaraippūvuñ ceṅkaḻunīrppūvum</note>
-    <note xml:lang="ta" target="#akanril"><term xml:lang="en">Cf. IAC1, p.25-6:</term> neytaṟku... mā cuṟavum mutalaiyum; maram puṉṉaiyum ñāḻalum kaṇṭalum; puḷ aṉṉamum aṉṟilum makaṉṟilum...; pū veḷḷitaḻk kaitaiyum neytalum</note>
+<standOff type="notes1" corresp="#TNV12comm3"><note xml:lang="ta" target="#venkai"><term xml:lang="en">Cf. IAC1, p. 25:</term> kuṟiñcikku… mā puliyum paṉṟiyum yāṉaiyum; maram akilum āramun timicun tēkkum vēṅkaiyum; puḷ kiḷiyum mayilum…; pū kuṟiñciyuṅ kāntaḷum vēṅkaiyuñ cuṉaikkuvaḷaiyum</note>
+  <note xml:lang="ta" target="#murukku"><term xml:lang="en">Cf. IAC1, p. 26:</term> pālaikku… mā valiyaḻinta yāṉaiyum puliyuñ cennāyum; maram iruppaiyum ōmaiyum; puḷ kaḻukum paruntum puṟavum…; pū marāmpūvuṅ kurāmpūvum pātirippūvum</note>
+  <note xml:lang="ta" target="#koli"><term xml:lang="en">Cf. IAC1, p. 26–27:</term> mullaikku… mā muyaluñ ciṟumāṉum; maram koṉṟaiyuṅ kuruntum; puḷ kāṉaṅkōḻiyum mayiluñ civalum…; pū mullaiyun tōṉṟiyum</note>
+  <note xml:lang="ta" target="#tara"><term xml:lang="en">Cf. IAC1, p. 27:</term> marutattukku… mā eṟumaiyum nīrnāyum; maram vañciyuṅ kāñciyum marutum; puḷ nīrkkōḻiyun tārāvum…; pū tāmaraippūvuñ ceṅkaḻunīrppūvum</note>
+    <note xml:lang="ta" target="#akanril"><term xml:lang="en">Cf. IAC1, p. 25–26:</term> neytaṟku… mā cuṟāvum mutalaiyum; maram puṉṉaiyum ñāḻaluṅ kaṇṭalum; puḷ aṉṉamum aṉṟilu makaṉṟilum…; pū veḷḷitaḻk kaitaiyum neytalum</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV12comm3" source="alignments/TNV12comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -1318,27 +1349,27 @@ and the forest fowl; the Myrobalan tree, the <term xml:lang="ta-Latn"><hi rend="
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="7,22">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">eṉṟataṉāl akiluñ</lem>
-    <rdg wit="#TNVmsac">eṉṟataṉā<unclear>lu</unclear>l akiluñ</rdg>
+  <app loc="7,16">
+    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">eṉṟataṉāl</lem>
+    <rdg wit="#TNVmsac">eṉṟataṉā<unclear>ṉu</unclear>l</rdg>
   </app>
   <app loc="50,58">
     <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kuvaḷaip</lem>
     <rdg wit="#TNVmsac">kuva<unclear>ṉai</unclear>ḷaip</rdg>
   </app>
-  <app loc="154,167">
-    <lem wit="#TNVmspc #TNVc #TNV1937 #TNV1947">kōḻiyumarutum</lem>
-    <rdg wit="#TNVmsac">kōḻiyummarutum</rdg>
-  </app>
   <app loc="195,202">
-    <lem wit="#TNVc #TNV1937 #TNV1947">tārāvum</lem>
-    <rdg wit="#TNVms">tārāv<sic>ū</sic>m</rdg>
-  </app>
-  <app loc="227,243">
-    <lem wit="#TNVcpc #TNV1937 #TNV1947">aṉṉamumakaṉṟilum</lem>
-    <rdgGrp select="#TNVms #TNVcac">
-      <rdg type="main">aṉṉamum pakaṉṟilum</rdg>
-      <rdg type="minor" wit="#TNVms">aṉṉamum <sic>p</sic>akaṉṟilum</rdg>
+    <rdgGrp type="lemma" select="#TNVc #TNV1937 #TNV1947">
+      <lem>tārāvum</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">tārāvum;</rdg>
     </rdgGrp>
+    <rdg wit="#TNVms">tārāvūm</rdg>
+  </app>
+
+  <app loc="227,243">
+    <rdgGrp type="lemma" select="#TNVcpc #TNV1937 #TNV1947">
+      <lem>aṉṉamumakaṉṟilum</lem>
+      <rdg type="minor" wit="#TNV1937 #TNV1947">aṉṉamum, makaṉṟilum</rdg>
+    </rdgGrp>
+    <rdg wit="#TNVms #TNVcac">aṉṉamum pakaṉṟilum</rdg>
   </app>
 </listApp></standOff></TEI>
