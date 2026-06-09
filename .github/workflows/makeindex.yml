@@ -27,7 +27,6 @@ jobs:
         run: |
           cd lib/_indexer
           yarn install
-          yarn pageindex TNV "Tamiḻneṟi Viḷakkam"
           yarn todb TNV
           yarn dbtohtml "Tamiḻneṟi Viḷakkam"
           cd ../..
