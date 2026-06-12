@@ -182,7 +182,7 @@
     <body>
       <div type="mūlam" rend="parallel">
         <lg xml:id="TNV16">
-        <l>viṉātalum viṭuttaluṅ kaḻaṟalu maṟuttalu<anchor xml:id="maruttal"/></l>
+        <l>viṉātalum viṭuttaluṅ kaḻaṟalu<anchor xml:id="maruttal"/> maṟuttalu</l>
 <l>nōtalum yāṇṭeṉa viṉṉuḻi yeṉṟalu</l>
 <l>mātaraik kāṇṭalu maṉṉiya vakuttaluṅ</l>
 <l>kiḻavōṟ<anchor xml:id="kilavor"/> kicaittalu māṟṟāṉ kiḷattalum</l>
@@ -228,7 +228,7 @@
 <lg xml:lang="en">
   <l>Is there something [you] considered previously that is to be accomplished?<note xml:lang="en" place="foot">I think the point here is the contrast between an actively planned action, which is suggested in the question here, and an unplanned occurrence as suggested by the next question.</note></l>
   <l>Has something entered [your mind]<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">nuḻaital</hi></q> can mean ‘to squeeze in through a tight space’. Perhaps this conveys a similar idea to something ‘worming its way in’ in colloquial English, implying that the process and the result are not wanted.</note></l>
-  <l>because of<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">paṉuvaliṉ</hi></q> can also be understood as a comparative, in which case this would read: ‘Has something entered [your] mind, like / such as the fine compositions…’</note> the fine compositions of three types?<note place="foot" xml:lang="en">The three types of composition the poet is referring to are <term xml:lang="ta-Latn"><hi rend="italic">icai</hi></term> (‘music’), <term xml:lang="ta-Latn"><hi rend="italic">iyal</hi></term> (‘treatises’) and <term xml:lang="ta-Latn"><hi rend="italic">nāṭakam</hi></term> (‘drama’).</note></l>
+  <l>because of<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">paṉuvaliṉ</hi></q> can also be understood as a comparative, in which case this would read: ‘Has something entered [your] mind, like/such as the fine compositions…’</note> the fine compositions of three types?<note place="foot" xml:lang="en">The three types of composition the poet is referring to are <term xml:lang="ta-Latn"><hi rend="italic">icai</hi></term> (‘music’), <term xml:lang="ta-Latn"><hi rend="italic">iyal</hi></term> (‘treatises’) and <term xml:lang="ta-Latn"><hi rend="italic">nāṭakam</hi></term> (‘drama’).</note></l>
   <l>What is it? Your beauty is fading, O lord.<note xml:lang="en" place="foot">I do not have a suitable or particularly satisfactory translation for <q xml:lang="ta-Latn"><hi rend="italic">aṇṇal</hi></q>, one of the most common designations for the hero. Something like ‘majesty’ might come closest to the actual meaning of the word, but would sound too pompous if used in the translation. I use ‘lord’, as it implies a sense of superiority and sounds less ridiculous, but I accept that it flattens the nuance of the Tamil somewhat.</note></l>
 </lg>
 </div>
@@ -294,14 +294,14 @@
 <l>cilampaṉai yārō teḷikkunar piṟarē.<anchor xml:id="pirar"/></l>
 </lg>
 <lg xml:lang="en">
-<l>If indeed his heart, which continues suffering,<note xml:lang="en" place="foot">One can split this differently – <q xml:lang="ta-Latn"><hi rend="italic">pulam tuṟai</hi></q>. In this case, it would mean: ‘the heart that goes from the way/place of wisdom/the senses’. As we find the phrase <q xml:lang="ta-Latn"><hi rend="italic">pulantu uṟai</hi></q> in KT 334 and PN 210, that is how it is split here.</note></l>
+<l>If indeed his heart, which continues suffering,<note xml:lang="en" place="foot">One can split this differently – <q xml:lang="ta-Latn"><hi rend="italic">pulam tuṟai</hi></q>. In this case, it would mean: ‘the heart that goes from the way/place of wisdom/the senses’. As we find the phrase <q xml:lang="ta-Latn"><hi rend="italic">pulantu uṟai</hi></q> in KT 334.3 and PN 210.10, that is how it is split here.</note></l>
 <l>loses its self-control and becomes distressed,</l>
 <l>who else<note xml:lang="en" place="foot">In the sense that the situation is hopeless. The hero is meant to be a great man and yet he refuses to see sense and the correct course of action. This should have been the response to the scolding he received from his friend.</note> will pacify<note xml:lang="en" place="foot">The primary meaning of <q xml:lang="ta-Latn"><hi rend="italic">teḷittal</hi></q> is ‘to make clear’. In its usage here, it ‘makes clear’ the heart of the hero, removing its distress.</note> the man from the mountainside?</l>
 </lg>
 </div>           
 <div type="koḷu" rend="parallel">
 <p xml:id="TNV16koḷu5">eṉpatu pāṅkaṉ piḻaittaṉaṉ eṉṟāṟṟāṉ āyiṟṟu.</p>
-<p xml:lang="en">This is the hero’s friend having become one who is able to say, ‘I am wrong’.<note xml:lang="en" place="foot">This could also be a statement acknowledging that the hero is acting incorrectly, and thus doing wrong, or that there is something wrong with him and that he is in a state of confusion: ‘He is wrong’. The forms are homophonous.</note></p>
+<p xml:lang="en">This is the hero’s friend having become one who is able to say, ‘I am wrong’.<note xml:lang="en" place="foot">If one understands <q xml:lang="ta-Latn"><hi rend="italic">piḻaittaṉaṉ</hi></q> as a masculine singular, rather than a first-person singular as in this translation, this could also be a statement acknowledging that the hero is acting incorrectly, and thus doing wrong, or that there is something wrong with him and that he is in a state of confusion, in which case: ‘He is wrong’.</note></p>
 </div>
  <div type="citation" rend="parallel">
         <lg xml:id="TNV16poem6"> 
@@ -311,7 +311,7 @@
 </lg>
 <lg xml:lang="en">
   <l>How will the heart of the lord, praised by the heavens,</l> 
-<l>with warrior anklets around [his feet],<note xml:lang="en" place="foot">I have currently taken <q xml:lang="ta-Latn"><hi rend="italic">vāṉ pukaḻ</hi></q> as a phrase qualifying the hero, where <q xml:lang="ta-Latn"><hi rend="italic">pukaḻ</hi></q> is a verbal root functioning as a <foreign xml:lang="ta-Latn">peyareccam</foreign>. It is also possible to construe it with the following phrase – <q xml:lang="ta-Latn"><hi rend="italic">cūḻ kaḻal aṇṇal</hi></q>, in which case the anklets would be enveloped by sky-high fame, and <foreign xml:lang="ta-Latn">pukaḻ</foreign> would be a root noun.</note> survive the torment </l>
+<l>with warrior anklets around [his feet],<note xml:lang="en" place="foot">I have currently taken <q xml:lang="ta-Latn"><hi rend="italic">vāṉ pukaḻ</hi></q> as a phrase qualifying the hero, where <q xml:lang="ta-Latn"><hi rend="italic">pukaḻ</hi></q> is a verbal root functioning as a <foreign xml:lang="ta-Latn">peyareccam</foreign>. It is also possible to construe it with the following phrase – <q xml:lang="ta-Latn"><hi rend="italic">cūḻ kaḻal aṇṇal</hi></q>, in which case the anklets would be enveloped by sky-high fame, and <q xml:lang="ta-Latn"><hi rend="italic">pukaḻ</hi></q> would be a root noun.</note> survive the torment </l>
     <l>that plagued it<note xml:lang="en" place="foot">The <hi rend="italic">figura etymologica</hi> <q xml:lang="ta-Latn"><hi rend="italic">aṇaṅkiya aṇaṅkē</hi></q> can either be understood literally as in this translation, or as ‘terrible torment’. So: ‘How will the heart survive the terrible torment…’</note> as it fell<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">āḻ tuyar eyta</hi></q> is literally: ‘so that it attained a deep sorrow’, but as it is idiomatic to talk of ‘one falling into a state of x’ in English and since the sorrow is deep, this is a justifiable departure from the literal translation.</note> into a deep sorrow?</l>
 </lg>
 </div>
@@ -416,9 +416,9 @@
 </lg>
 <lg xml:lang="en">
 <l>If the heart that possesses the power to discern<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">vaiyuṟu</hi></q> here refers to a fineness or subtlety of intellect, i.e., the power of correct discernment.</note> [if you are a] god does not lie,</l>
-<l>let us obtain the parakeet-like speech,<note xml:lang="en" place="foot">In other words, he needs to hear her speak to know that she is not a deity.</note> born from [your] sweet red mouth,</l>
+<l>let us obtain the parakeet-like speech born from [your] sweet red mouth,<note xml:lang="en" place="foot">In other words, he needs to hear her speak to know that she is not a deity.</note></l>
 <l>O young woman with the bright jewels!</l>
-<l>Life departing is a difficult thing.<note xml:lang="en" place="foot">I find this slightly ambiguous. In the PK, the difficult thing will be the return of the hero’s life after it has departed, which is the natural result of not hearing her speak and living in doubt. Here the same may be implied by the nominal derivation <q xml:lang="ta-Latn"><hi rend="italic">peyarppu</hi></q> (‘departing’).</note></l>
+<l>Life departing is a difficult thing.<note xml:lang="en" place="foot">I find this slightly ambiguous. In the PK, the ‘difficult thing’ will be the return of the hero’s life after it has departed, which is the natural result of not hearing her speak and living in doubt. Here the same may be implied by the nominal derivation <q xml:lang="ta-Latn"><hi rend="italic">peyarppu</hi></q> (‘departing’).</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -3458,10 +3458,10 @@
   <note xml:lang="ta" target="#kuttam"><term xml:lang="en">Cf. IA3.1–2:</term> āṅṅaṉam puṉarnta kiḻavōṉ ṟaṉvayiṟ | pāṅka ṉōriṟ kuṟitalaip peyartalum</note>
 </standOff>
 <standOff type="notes4" corresp="#TNV16">
-  <note xml:lang="en" target="#maruttal">Iḷampūraṇar and Nacciṉārkkiṉiyar both understand that these lines in TP 102n refer to the hero’s friend’s reproach of the hero. This is the only mention in the TP concerning this situation.</note>
+  <note xml:lang="en" target="#maruttal">Iḷampūraṇar and Nacciṉārkkiṉiyar both understand that these lines in TP 102n, cited as a source above, refer to the hero’s friend’s reproach of the hero, which is the same situation more succinctly expressed in the TNV. This is the only mention in the TP concerning this situation.</note>
   <note xml:lang="en" target="#kuttam">The IA parallel simply mentions the existence of a meeting in which the hero’s friend plays some sort of role, but there is no elaboration on the situation. The first instance of any expansion of the situation comes in Nakkīrar’s commentary. As before, it is quite certain that it was the source for this <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, but as the commentary shows closer similarities to the wording found in the IAC, it is provided there.</note>
   <note xml:lang="en" target="#kuttam">AV 136 gives a list of situations that one could try to map onto that provided here, but the similarities are not great. Where one finds strong similarities is in AV 137, the exposition on the situations listed in AV 136. These are parallels to the TNV commentary and both seem to follow the IAC closely in content and phrasing.</note>
-  <note xml:lang="en" target="#kilavor">One expects the masculine singular here rather than the honorific/plural, which is reported in C1. The standard designation for the hero in poetics, whatever the terminology used, is found in the masculine singular. See AV 137.4 (provided below as a parallel for the commentary) for an example of <term xml:lang="ta-Latn"><hi rend="italic">kiḻavōṉ</hi></term>. This situation is glossed in the commentary by <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṟku uraittal</hi></q>, a masculine singular dative form.</note>
+  <note xml:lang="en" target="#kilavor">One expects the masculine singular here rather than the honorific/plural, which is reported in C1. The standard designation for the hero in poetics, whatever the terminology used, is found in the masculine singular. See AV 137.4 (provided below as a parallel for the commentary) for an example of <q xml:lang="ta-Latn"><hi rend="italic">kiḻavōṉ</hi></q>. This situation is glossed in the commentary by <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṟku uraittal</hi></q>, a masculine singular dative form.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV16" source="alignments/TNV16.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -3561,7 +3561,7 @@ TNV16: Ed doesn't match alignment.
 
   </standOff>
 <standOff type="notes4" corresp="#TNV16comm2">
-  <note xml:lang="en" target="#innatu">The sources here are sometimes not exact. The IAC introduces situations by explaining them and doesn’t normally provide a specific term for them, whereas the TNV does. In some cases, the TNV uses the wording from the IAC. The most pertinent part of the corresponding passage is provided.</note>
+  <note xml:lang="en" target="#innatu">The sources to this paragraph of the commentary are sometimes not exact. The IAC introduces situations by explaining them and doesn’t normally provide a specific term for them, whereas the TNV does. In some cases, the TNV uses the wording from the IAC. The most pertinent part of the corresponding passage is provided.</note>
   <note xml:lang="en" target="#vituttal">This final situation is not found in the IAC, but only in the AV.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV16comm2" source="alignments/TNV16comm2.xml"><interp type="normalization">
@@ -3601,6 +3601,7 @@ TNV16: Ed doesn't match alignment.
       <rdg type="minor" wit="#TNV1937">pāṅkaṉ kaḻaṟalum</rdg>
     </rdgGrp>
     <rdg wit="#TNVmsac">pāṅkaṉ kaḻaṟalumn</rdg>
+    <rdg wit="#TNV1947"/>
   </app>
   <app loc="67,97">
     <rdgGrp type="lemma" select="#TNVc #TNV1937">
@@ -3609,6 +3610,7 @@ TNV16: Ed doesn't match alignment.
     </rdgGrp>
     <rdg wit="#TNVmsac">talaimakaṉmakaḻa<lb n="6"/>ṟṟetir maṟuttalum</rdg>
     <rdg wit="#TNVmspc">talaimakaṉkaḻa<lb n="6"/>ṟṟetir maṟuttalum</rdg>
+    <rdg wit="#TNV1947"/>
   </app>
   <app loc="97,109">
     <rdgGrp type="lemma" select="#TNVmspc #TNVc #TNV1937 #TNV1947">
@@ -3997,7 +3999,7 @@ TNV16: Ed doesn't match alignment.
 <standOff type="notes2" corresp="#TNV16poem4">
   <note xml:lang="ta" target="#nokke"><term xml:lang="en">Cf. TK23.4:</term> kāṇiṟ kaḻaṟilai kaṇṭilai meṉṟōṭ karumpiṉaiyē ||</note></standOff>
 <standOff type="notes4" corresp="#TNV16poem4">
-  <note xml:lang="en" target="#nokke">Just the main sentence of AN 130 is quoted. It is a long poem and this is the relevant section.</note>
+  <note xml:lang="en" target="#nokke">Just the main sentence of AN 130 is quoted as a source. It is a long poem and this is the relevant section.</note>
   </standOff>
   <standOff type="apparatus" corresp="#TNV16poem4" source="alignments/TNV16poem4.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -4345,7 +4347,7 @@ TNV16poem11: Ed doesn't match alignment.
   </app>
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV16poem13">
-  <note xml:lang="en" target="#cevvay">With regard to the geminated <term xml:lang="ta-Latn"><hi rend="italic">p</hi></term>, not present in C1, there is an almost identical syntactic construction with <term xml:lang="ta-Latn"><hi rend="italic">cevvāy</hi></term> in KT 334.1, where there is gemination and no discrepancy amongst the witnesses. There is no reason why it should not geminate, so this was most likely a scribal error, although <term xml:lang="ta-Latn"><hi rend="italic">cevvāy</hi></term> is reported as a variant by Pāvaṉantam Piḷḷai, without gemination. My impression is that it is quite a common feature of C1, either to present unnecessary or incorrect gemination, or to miss necessary and correct gemination. </note>
+  <note xml:lang="en" target="#cevvay">With regard to the geminated <term xml:lang="ta-Latn"><hi rend="italic">p</hi></term>, not present in C1, there is an almost identical syntactic construction with <q xml:lang="ta-Latn"><hi rend="italic">cevvāy</hi></q> in KT 334.1, where there is gemination and no discrepancy amongst the witnesses. There is no reason why it should not geminate, so this was most likely a scribal error, although <q xml:lang="ta-Latn"><hi rend="italic">cevvāy</hi></q> is reported as a variant by Pāvaṉantam Piḷḷai in his 1916 edition of the YV, without gemination. My impression is that it is quite a common feature of C1, either to present unnecessary or incorrect gemination, or to miss necessary and correct gemination. </note>
 </standOff>
   <standOff type="apparatus" corresp="#TNV16poem13" source="alignments/TNV16poem13.xml"><interp type="normalization">
   <desc type="tagfilters">

@@ -155,7 +155,7 @@
 <lg xml:lang="en">
   <l>Uniting, separating, expecting [the lover’s arrival], quarrelling,</l> 
   <l>crying in the house, and the signs of those things</l> 
-  <l>– they say that is the limitless<note xml:lang="en" place="foot">Following the commentary, where the <foreign xml:lang="ta-Latn">uripporuḷ</foreign> is qualified as <q xml:lang="ta-Latn"><hi rend="italic">aṭakki kūṟap paṭṭa</hi></q> (‘abbreviated and told’), I split <q xml:lang="ta-Latn"><hi rend="italic">aḷavil</hi></q> as <foreign xml:lang="ta-Latn">aḷav’ il</foreign> (‘without measure’). The author seems to be implying a longer (possibly infinite?) enumeration that has been summarised here. One could analyse <q xml:lang="ta-Latn"><hi rend="italic">aḷavil</hi></q> as the locative, in which case: ‘poetic content within the scope of what is declared…’</note> <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> declared</l> 
+  <l>– they say that is the limitless<note xml:lang="en" place="foot">Following the commentary, where the <q xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></q> is qualified as <q xml:lang="ta-Latn"><hi rend="italic">aṭakki kūṟap paṭṭa</hi></q> (‘abbreviated and told’), I split <q xml:lang="ta-Latn"><hi rend="italic">aḷavil</hi></q> as <foreign xml:lang="ta-Latn">aḷav’ il</foreign> (‘without measure’). The author seems to be implying a longer (possibly infinite?) enumeration that has been summarised here. One could analyse <q xml:lang="ta-Latn"><hi rend="italic">aḷavil</hi></q> as the locative, in which case: ‘poetic content within the scope of what is declared…’</note> <term xml:lang="ta-Latn"><hi rend="italic">uripporuḷ</hi></term> declared</l> 
   <l>by those who distinguish <term xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></term>.<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">kaḷavu</hi></q> refers to the initial clandestine stage in the couple’s relationship before it has been revealed to their families. <q xml:lang="ta-Latn"><hi rend="italic">kaṟpu</hi></q> either refers to the stage in the couple’s relationship after it has been made public or after they have married. For more on this, see \S\ref{sec:porulatikaram} of the introduction.</note></l></lg>
 </div>
 </body>
@@ -164,7 +164,7 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV13comm1">eṉpaturip poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:id="TNV13comm1">eṉpatu urip poruḷ ām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the suitable poetic content occurs.</p>
       </div>
       <div type="commentary" rend="parallel">
@@ -349,7 +349,7 @@
 </standOff><standOff corresp="#TNV13comm1" type="wordsplit">
 <interp type="alignment" select="0">5MG13MG10ML9M,39MG</interp>
 <entry>
-<form>eṉpat<c type="elided">u</c></form>
+<form>eṉpatu</form>
 <def>say</def>
 <form type="sandhi">eṉpat</form>
 <gramGrp>
@@ -747,7 +747,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>paṭum</form>
+<form>paṭum.</form>
 <def>happens</def>
 <gramGrp>
   <gram type="role">habitual future</gram>

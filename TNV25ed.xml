@@ -287,7 +287,7 @@
 <l>Because he is a base man, the words from your mouth are lies.</l>
 <l>Don’t stand there, bard. Leave now and do not grieve!<note xml:lang="en" place="foot">The point of this negative imperative, <q xml:lang="ta-Latn"><hi rend="italic">pariyal</hi></q>, is seemingly to soften the effect of her rebuke on the bard – he ought not to feel so hurt; her anger is really directed at the hero.</note></l>
 <l>If our quarter sees [him] under the sun,</l>
-<l>the man from the village with vast paddy-fields will <note xml:lang="en" place="foot">Is the implication here that the hero will feel the same shame that the heroine feels when spotted? Or does the <foreign xml:lang="ta-Latn">ummai</foreign> on <q xml:lang="ta-Latn"><hi rend="italic">nāṇavum</hi></q> carry a more emphatic sense, as translated? The placement on <foreign xml:lang="ta-Latn">nāṇa</foreign> rather than <foreign xml:lang="ta-Latn">ūraṉ</foreign> suggests the latter to me.</note> obtain even shame.</l>
+<l>the man from the village with vast paddy-fields will <note xml:lang="en" place="foot">Is the implication here that the hero will feel the same shame that the heroine feels when spotted? Or does the <foreign xml:lang="ta-Latn">ummai</foreign> on <q xml:lang="ta-Latn"><hi rend="italic">nāṇavum</hi></q> carry a more emphatic sense, as translated? The placement on <q xml:lang="ta-Latn"><hi rend="italic">nāṇa</hi></q> rather than <q xml:lang="ta-Latn"><hi rend="italic">ūraṉ</hi></q> suggests the latter to me.</note> obtain even shame.</l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -296,7 +296,7 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem2"> 
-        <l><gap reason="lost" quantity="12" unit="character"/> nala miṉṉē</l>
+        <l><gap reason="lost" quantity="12" unit="character"/>nala miṉṉē</l>
         <l>yicaikuvaṉ<anchor xml:id="icaikuvan"/> maṉṉē yāṉē</l>
         <l>yaruḷuṭai māta ralaiyā tīmē.</l>
     </lg>
@@ -312,7 +312,7 @@
 </div>
 <div type="citation" rend="parallel">
     <lg xml:id="TNV25poem3"> 
-        <l><gap reason="lost" quantity="11" unit="character"/> tirunutaṟ pētai</l>
+        <l><gap reason="lost" quantity="11" unit="character"/>tirunutaṟ pētai</l>
         <l>yūraṉ ceyta tuṇarāḷ kēṇmai</l>
         <l>yuḷḷavum paṭāa ḷivaḷeṉa</l>
         <l>veḷḷiṉa ḷammataṉ ṉīrmai yāṉē.</l>
@@ -1397,6 +1397,7 @@
 <entry>
 <form><gap quantity="18" unit="character" reason="lost"/></form>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>am</form>
 <def>pretty</def>
@@ -1436,6 +1437,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>tiṅkaḷ</form>
 <def>moon</def>
@@ -1471,6 +1473,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form><gap quantity="18" unit="character" reason="lost"/></form>
 </entry>
@@ -2029,7 +2032,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tōḻi</form>
+<form>tōḻi..</form>
 </entry>
 </standOff>
 <standOff type="notes1" corresp="#TNV25">
@@ -2347,7 +2350,7 @@ TNV25: Ed doesn't match alignment.
   </app>
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV25poem1">
-  <note xml:lang="en" target="#uran">It is not clear what exactly happened in C2. <foreign xml:lang="ta-Latn">x varai nātaṉ</foreign> (‘the man from the land with the x mountains’) is a common epithet for the hero in Caṅkam and post-Caṅkam literature, but C1 very clearly reads <q xml:lang="ta-Latn"><hi rend="italic">akal vayal ūraṉ</hi></q> (‘the man from the village with the vast paddy-fields’), which makes good sense and is attested in the <foreign xml:lang="ta-Latn">Kīḻkkaṇakku</foreign> corpus, in <foreign xml:lang="ta-Latn">Aintiṇai Aimpatu</foreign> 23.1.</note></standOff>
+  <note xml:lang="en" target="#uran">It is not clear what exactly happened in C2. ‘x + <foreign xml:lang="ta-Latn">varai</foreign> + <foreign xml:lang="ta-Latn">nātaṉ</foreign>’ (‘the man from the land with the x mountains’) is a common epithet for the hero in Caṅkam and post-Caṅkam literature, but C1 very clearly reads <q xml:lang="ta-Latn"><hi rend="italic">akal vayal ūraṉ</hi></q> (‘the man from the village with the vast paddy-fields’), which makes good sense and is attested in the <foreign xml:lang="ta-Latn">Kīḻkkaṇakku</foreign> corpus, in <foreign xml:lang="ta-Latn">Aintiṇai Aimpatu</foreign> 23.1.</note></standOff>
 <standOff type="apparatus" corresp="#TNV25poem1" source="alignments/TNV25poem1.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -2500,7 +2503,7 @@ TNV25: Ed doesn't match alignment.
   </app>
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV25poem5">
-  <note xml:lang="en" target="#centana">Eyes reddening is a common trope in Tamil poetry, and considering the surrounding poems, all of which concern the anger of the heroine, <term xml:lang="ta-Latn"><hi rend="italic">cē-ttal</hi></term> is the more likely reading. <term xml:lang="ta-Latn"><hi rend="italic">cōrntaṉaḷ</hi></term> would also make sense though. In that case, the eyes of the heroine would become dejected, as opposed to red (through either crying, anger, or both).</note>
+  <note xml:lang="en" target="#centana">Eyes reddening is a common trope in Tamil poetry, and considering the surrounding poems, all of which concern the anger of the heroine, <term xml:lang="ta-Latn"><hi rend="italic">cē-ttal</hi></term> is the more likely reading. <q xml:lang="ta-Latn"><hi rend="italic">cōrntaṉaḷ</hi></q> would also make sense though. In that case, the eyes of the heroine would become dejected, as opposed to red (through either crying, anger, or both).</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV25poem5" source="alignments/TNV25poem5.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -2686,6 +2689,7 @@ TNV25poem5: Ed doesn't match alignment.
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>i<c type="geminated">n</c></form>
 <def>this</def>
@@ -2729,6 +2733,7 @@ TNV25poem5: Ed doesn't match alignment.
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>yāṉ</form>
 <def>I</def>
@@ -2760,6 +2765,7 @@ TNV25poem5: Ed doesn't match alignment.
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>tēṉ</form>
 <def>honey</def>

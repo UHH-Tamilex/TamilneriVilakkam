@@ -724,7 +724,7 @@
 </gramGrp>
 </entry>
 </standOff>
-<standOff type="notes4" corresp="#TNV9"><note xml:lang="en" target="#ceyal">The situation here is a bit odd. The occupations listed in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> correspond to those listed in the IAC. However, with the exception of <q xml:lang="ta-Latn"><hi rend="italic">tēṉ aḻittal</hi></q>, they are described in different wording. The IAC also lists multiple occupations, whereas the TNV <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> lists only one per poetic setting. The IAC’s occupations are provided in the notes for the commentary to avoid repetition.</note></standOff>
+<standOff type="notes4" corresp="#TNV9"><note xml:lang="en" target="#ceyal">The situation here is a bit odd. The occupations listed in the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> correspond to those listed in the IAC. However, with the exception of <q xml:lang="ta-Latn"><hi rend="italic">tēṉ aḻittal</hi></q>, they are described in different wording. The IAC also lists multiple occupations per poetic setting, whereas the TNV <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> lists only one. The IAC’s occupations are provided in the notes for the commentary to avoid repetition.</note></standOff>
 <standOff type="apparatus" corresp="#TNV9" source="alignments/TNV9.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -818,7 +818,7 @@
 <note xml:lang="ta" target="#atal"><term xml:lang="en">Cf. IAC1, p. 27:</term> marutattukku… ceyti nellaritalum avai kaṭāviṭutalum payirkkuk kaḷaikaṭṭalum</note>
 <note xml:lang="ta" target="#kulittal"><term xml:lang="en">Cf. IAC1, p. 25:</term> neytaṟku… ceyti mīṉviṟṟalum uppuviṟṟalum avai paṭuttalum</note> 
 </standOff>
-<standOff type="notes4" corresp="#TNV9comm3"><note xml:lang="en" target="#inaiyana">This edition follows UVC. The commentary is referring back to the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, and the <foreign xml:lang="ta-Latn">cūttiram</foreign> reads <foreign xml:lang="ta-Latn">iṉaiyaṉa</foreign>.</note>
+<standOff type="notes4" corresp="#TNV9comm3"><note xml:lang="en" target="#inaiyana">This edition follows UVC. The commentary is referring back to the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, and the <foreign xml:lang="ta-Latn">cūttiram</foreign> reads <q xml:lang="ta-Latn"><hi rend="italic">iṉaiyaṉa</hi></q>.</note>
   <note xml:lang="en" target="#kulittal">As is often the case, it is difficult to disambiguate source and parallel. The IAC provides slightly fuller lists of occupations than this commentary. Much, however, is the same. The relevant passages are quoted in full because, even though there are cases where the treatment is not identical, there are enough similarities to suggest that the IAC was the source.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV9comm3" source="alignments/TNV9comm3.xml"><interp type="normalization">
