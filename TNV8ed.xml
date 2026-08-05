@@ -180,11 +180,11 @@
 <lg xml:lang="en">
   <l>The man from the mountain, the hill people, the warrior, 
 the hunting tribe,</l> 
-<l>the man from a land of small hillocks devoid of destitution, the herdsmen,<note place="foot" xml:lang="en"><term xml:lang="ta-Latn"><hi rend="italic">kuṭavar</hi></term> is the only element in this enumeration that is not found in the IAC. It is, however, present in the Caṅkam corpus (see AN 393.16).</note></l> 
-<l>the pleasure-man,<note place="foot" xml:lang="en"><term xml:lang="ta-Latn"><hi rend="italic">makuṇaṉ</hi></term> may be a dialectal variant of 
+<l>the man from a land of small hillocks devoid of destitution, the herdsmen,<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">kuṭavar</hi></q> is the only element in this enumeration that is not found in the IAC. It is, however, present in the Caṅkam corpus (see AN 393.16).</note></l> 
+<l>the pleasure-man,<note place="foot" xml:lang="en"><q xml:lang="ta-Latn"><hi rend="italic">makuṇaṉ</hi></q> may be a dialectal variant of 
   <term xml:lang="ta-Latn"><hi rend="italic">makiḻnaṉ/makiṇaṉ</hi></term> (both are recorded in the Tamil Lexicon). 
 Cf. TNV 3 where we find 
-<term xml:lang="ta-Latn"><hi rend="italic">kuruñci</hi></term> instead of the more standard 
+<q xml:lang="ta-Latn"><hi rend="italic">kuruñci</hi></q> instead of the more standard 
 <term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term>.</note> 
 the ploughmen, the man from the coast, the fishermen,</l>
 <l>and others of this kind are the names of the people.</l></lg>
@@ -205,7 +205,7 @@ the ploughmen, the man from the coast, the fishermen,</l>
       </p>
       <p xml:lang="en">The man from the mountain, the warrior, the man from the land of small
         hillocks, the pleasure-man, and the man from the coast – these are said to be the names of
-        the hero. The hill people, the hunting tribe,<note xml:lang="en" place="foot">The TL theorises <q xml:lang="ta-Latn"><hi rend="italic">eyiṉar</hi></q> is a participial noun form from the verb <term xml:lang="ta-Latn"><hi rend="italic">eytal</hi></term> (‘to discharge arrows’). This may well be the case, but it is clearly used as a designation for a specific group of people and so it is treated as lexicalised.</note> the herdsmen,
+        the hero. The hill people, the hunting tribe,<note xml:lang="en" place="foot">The TL theorises <q xml:lang="ta-Latn"><hi rend="italic">eyiṉar</hi></q> is a participial noun form from the verb <term xml:lang="ta-Latn"><hi rend="italic">ey-tal</hi></term> (‘to discharge arrows’). This may well be the case, but it is clearly used as a designation for a specific group of people and so it is treated as lexicalised.</note> the herdsmen,
         the ploughmen, and the fishermen – these are said to be the names of the inhabitants of those
         lands.</p></div>
         <div type="commentary" rend="parallel"> 
@@ -224,7 +224,7 @@ the ploughmen, the man from the coast, the fishermen,</l>
       this is the case for quite a few such designations. When they appear, they are translated quite 
       literally to keep intact as much of the Tamil etymology as possible.</note> the majestic [lord of the 
       forest setting], the commander, the female herders of the middle [region],<note place="foot" xml:lang="en">The 
-      ‘middle’ (<foreign xml:lang="ta-Latn">iṭai</foreign>) here can be understood as referring to the tract of land in-between the hills 
+      ‘middle’ (<q xml:lang="ta-Latn"><hi rend="italic">iṭai</hi></q>) here can be understood as referring to the tract of land in-between the hills 
       (<term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term>) and plains (<term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>), 
       so the forest pastures (<term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term>).</note> the female cowherds, 
       the cowherds, the herdsmen of the middle [region],<note place="foot" xml:lang="en">The male herdsmen, presumably.</note> 
@@ -396,7 +396,7 @@ the ploughmen, the man from the coast, the fishermen,</l>
 <note xml:lang="ta" target="#peyare"><term xml:lang="en">Cf. TP21n:</term> āyar vēṭṭuva rāṭūut tiṇaippeya | rāvayiṉ varūuṅ kiḻavaru muḷarē ||</note>
 <note xml:lang="ta" target="#peyare"><term xml:lang="en">Cf. TP22n:</term> ēṉōr pāṅkiṉu meṇṇuṅ kālai | yāṉu vakaiya tiṇainilaip peyarē ||</note>
 </standOff>
-<standOff type="notes4" corresp="#TNV8"><note xml:lang="en" target="#peyare">The TP <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>-s cited explain the appropriate naming practice in <term xml:lang="ta-Latn"><hi rend="italic">akam</hi></term> poems. Essentially, names of people in the poetic settings can either be based on their class or clan, or based on their occupation.</note>
+<standOff type="notes4" corresp="#TNV8"><note xml:lang="en" target="#peyare">The TP <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>-s cited explain the appropriate naming practice of the people in <term xml:lang="ta-Latn"><hi rend="italic">akam</hi></term> poems. Essentially, names of people in the poetic settings can either be based on their class or clan, or based on their occupation.</note>
   <note xml:lang="en" target="#peyare">To avoid quoting the same section of the IAC twice, as the relevant sections are the same for the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> and the commentary, they are provided in the source-level of the apparatus to the commentary.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV8" source="alignments/TNV8.xml"><interp type="normalization">
@@ -594,7 +594,7 @@ the ploughmen, the man from the coast, the fishermen,</l>
 </gramGrp>
 </entry>
 <entry>
-<form>peyar</form>
+<form>peyar.</form>
 <def>name</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1049,7 +1049,7 @@ the ploughmen, the man from the coast, the fishermen,</l>
 <note xml:lang="ta" target="#nulaicciyar"><term xml:lang="en">Cf. IAC1, p. 25–26:</term> neytaṟku… talaimakaṉpeyar tuṟaivaṉ koṇkaṉ cērppaṉ; talaimakaḷpeyar nuḷaicci paratti…; makkaḷpeyar paratar parattiyar nuḷaiyar nuḷaicciyar.</note></standOff>
 <standOff type="notes4" corresp="#TNV8comm3"><note xml:lang="en" target="#nulaicciyar">Most, but not all, of the designations listed here are found in Caṅkam poetry. Many of the others can be found in the <term xml:lang="ta-Latn"><hi rend="italic">nikantu</hi></term>-s: see <foreign xml:lang="ta-Latn">Tivākaram</foreign> 2.125–140 for a roughly contemporaneous enumeration of the people found in the different poetic settings. I have not presented it here because of its length.</note>
 <note xml:lang="en" target="#mili">The TNV here deviates from the IAC, which is otherwise almost identical to it in content. <q xml:lang="ta-Latn"><hi rend="italic">mīḷi</hi></q> is designated as a <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term> person, whereas in the IAC, Nakkīrar includes it in his section on <term xml:lang="ta-Latn"><hi rend="italic">pālai</hi></term>.</note>
-<note xml:lang="en" target="#manaivi">In IAC 1, p. 26–27, Nakkīrar notes that the <q xml:lang="ta-Latn"><hi rend="italic">talaimakaḷ peyar</hi></q> (‘the names of the women’) <q xml:lang="ta-Latn"><hi rend="italic">kiḻatti</hi></q> and <q xml:lang="ta-Latn"><hi rend="italic">maṉaivi</hi></q> are suitable for <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>, whereas in the TNV they belong to <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term> alone.</note></standOff>
+<note xml:lang="en" target="#manaivi">In IAC 1, p. 26–27, Nakkīrar notes that the <q xml:lang="ta-Latn"><hi rend="italic">talaimakaḷ peyar</hi></q> (‘the names of the women’), <q xml:lang="ta-Latn"><hi rend="italic">kiḻatti</hi></q> and <q xml:lang="ta-Latn"><hi rend="italic">maṉaivi</hi></q>, are suitable for <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>, whereas in the TNV they belong to <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term> alone.</note></standOff>
 <standOff type="apparatus" corresp="#TNV8comm3" source="alignments/TNV8comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>

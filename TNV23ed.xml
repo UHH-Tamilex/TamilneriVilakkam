@@ -421,7 +421,7 @@
   <l>‘Having gone as one with the young man with the tall chariot,</l>
   <l>she crossed the harsh desert without harm,’</l>
   <l>so that the great sorrow of the mother and [my] friends perishes</l>
-  <l>when they become agitated with waning minds.<note xml:lang="en" place="foot"><foreign xml:lang="ta-Latn">mati</foreign> could also mean ‘moon’, but if so, it is not clear what specific importance the waning moon would have.</note></l>
+  <l>when they become agitated with waning minds.<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">mati</hi></q> could also mean ‘moon’, but if so, it is not clear what specific importance the waning moon would have.</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -600,7 +600,7 @@
 <l>Does she think of me too?</l>
 <l>My daughter who crossed many luscious hills</l>
 <l>so that gossip rose up in the noisy ancient village</l>
-<l>with the young man who swore an oath to eat her heart.<note xml:lang="en" place="foot">There is the option to read the phrase, <q xml:lang="ta-Latn"><hi rend="italic">neñcu uṇa tēṟṟiya vañciṉam kāḷaiyoṭu</hi></q>, differently. <term xml:lang="ta-Latn"><hi rend="italic">tēṟṟutal</hi></term> can also mean ‘to assure’, or something similar. So: ‘with the young man of an oath, who assured her in order to eat her heart.’</note></l>
+<l>with the young man who swore an oath to eat her heart.<note xml:lang="en" place="foot">There is the option to read the phrase, <q xml:lang="ta-Latn"><hi rend="italic">neñcu uṇa tēṟṟiya vañciṉam kāḷaiyoṭu</hi></q>, differently. <term xml:lang="ta-Latn"><hi rend="italic">tēṟṟu-tal</hi></term> can also mean ‘to assure’, or something similar. So: ‘with the young man of an oath, who assured her in order to eat her heart.’</note></l>
 </lg>
 </div>
 <div type="koḷu" rend="parallel">
@@ -1689,6 +1689,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>ivarntaṉai</form>
 <def>climbed</def>
@@ -1718,6 +1719,7 @@
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>karum</form>
 <def>black</def>
@@ -3433,6 +3435,7 @@
   <gram type="role">honorific</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>ilaṅk<c type="elided">u</c></form>
 <def>shine</def>
@@ -3477,6 +3480,7 @@
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>nāṭṭiṉ</form>
 <def>land</def>
@@ -3499,6 +3503,7 @@
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>ūriṉ</form>
 <def>village</def>
@@ -3543,6 +3548,7 @@
   <gram type="role">conditional</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>keṭunar-um</form>
 <def>get lost</def>
@@ -6579,6 +6585,7 @@
   <gram type="role">sociative</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>mutu</form>
 <def>old</def>
@@ -6617,6 +6624,7 @@
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>kaṭi</form>
 <def>protection</def>
@@ -6662,6 +6670,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>aṟital-um</form>
 <def>knowing</def>
@@ -6689,6 +6698,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
+<milestone unit="line"/>
 <entry>
 <form>kaṟi</form>
 <def>pepper</def>
@@ -6769,9 +6779,9 @@
   </standOff>
 
 <standOff type="notes4" corresp="#TNV23">
-  <note xml:lang="en" target="#kantor">Note that these could equally well function as a source for the speech situation spoken by the onlookers in line three.</note>
-  <note xml:lang="en" target="#maraital">This reading aligns with the corresponding <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> in the commentary. It was not possible to find <term xml:lang="ta-Latn"><hi rend="italic">malaital</hi></term> as a sub-situation in other poetic treatises, so this edition deviates from C1.</note>
-<note xml:lang="en" target="#talaimakan">Likewise, this aligns with what the corresponding <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> says. The transmission here is rather odd though. C1 gives different readings in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term> and commentary. Additionally, UVC in the first edition of the text printed <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term>, <q xml:lang="ta-Latn"><hi rend="italic">talaimakaḷ</hi></q> in the short prose commentary, and then <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> again in the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term>. These readings are normalised to <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q>, deviating from C1, as it is unambiguous that the speaker of the poem cited in the commentary is the hero. This situation is also not found in other treatises, so there is no other information upon which to base this decision.</note>
+  <note xml:lang="en" target="#kantor">Note that these three TP sources could equally well function as a source for the speech situation spoken by the onlookers in line three.</note>
+  <note xml:lang="en" target="#maraital">UVC’s reading aligns with the corresponding <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> in the commentary. It was not possible to find <q xml:lang="ta-Latn"><hi rend="italic">malaital</hi></q> as a sub-situation in other poetic treatises, so this edition deviates from C1.</note>
+<note xml:lang="en" target="#talaimakan">Likewise, this aligns with what the corresponding <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term> says. The transmission here is rather odd though. C1 gives different readings in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term> and commentary. Additionally, UVC in the first edition of the text printed <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> in the <term xml:lang="ta-Latn"><hi rend="italic">mūlam</hi></term>, <q xml:lang="ta-Latn"><hi rend="italic">talaimakaḷ</hi></q> in the short prose commentary, and then <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> again in the <term xml:lang="ta-Latn"><hi rend="italic">koḷu</hi></term>. These readings are normalised to <q xml:lang="ta-Latn"><hi rend="italic">talaimakaṉ</hi></q> in this edition, deviating from C1, as it is unambiguous that the speaker of the poem cited in the commentary is the hero. This situation is also not found in other treatises, so there is no other information upon which to base this decision.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV23" source="alignments/TNV23.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7543,7 +7553,7 @@ TNV23: TNV1937 doesn't match alignment.
  
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV23poem1">
-<note xml:lang="en" target="#malai">There is a formula adj + <foreign xml:lang="ta-Latn">malai</foreign> + <foreign xml:lang="ta-Latn">nāṭaṉ</foreign>. I found no instance where <foreign xml:lang="ta-Latn">malai nāṭaṉ</foreign> is not preceded by a qualifier.</note>
+<note xml:lang="en" target="#malai">There is a formula ‘adj + <foreign xml:lang="ta-Latn">malai</foreign> + <foreign xml:lang="ta-Latn">nāṭaṉ</foreign>’. I found no instance where <q xml:lang="ta-Latn"><hi rend="italic">malai nāṭaṉ</hi></q> is not preceded by a qualifier.</note>
 <note xml:lang="en" target="#time">This poem is anonymous but almost certainly predates the TNV, as it is found in the IAC. There is no reason to think the C1 readings, which in any case do not make good sense in the context of the speech situation, were the poet’s composition. The reading <q xml:lang="ta-Latn"><hi rend="italic">ilaṉē</hi></q> in the first line, for example, requires the heroine to be the addressee, in which case the vocative in the last line – <q xml:lang="ta-Latn"><hi rend="italic">nāṭa</hi></q>, which is one of the standard terms of address for the hero – would not make sense. The poem is widely quoted and the text is stable. C1 looks like a corrupted outlier.</note> 
 </standOff>
 <standOff type="apparatus" corresp="#TNV23poem1" source="alignments/TNV23poem1.xml"><interp type="normalization">
@@ -7588,7 +7598,7 @@ TNV23: TNV1937 doesn't match alignment.
   <note xml:lang="ta" target="#mella"><term xml:lang="en">Cf. TK215.1:</term> pēṇat tiruttiya cīṟaṭi mellaccel</note></standOff>
   <standOff type="notes4" corresp="#TNV23poem2">
     <note xml:lang="en" target="#natai">I hesitate to choose KKms and UVC’s reading of <q xml:lang="ta-Latn"><hi rend="italic">nallaṭi</hi></q> (‘good feet’), which makes perfect sense. I have not found any other convincing parallels in the old corpus that would suggest this reading, and I would argue the C1 reading is as sensible. UVC may have agreed, as this is one of only four variants that he notes in his edition. Without another parallel, I do not see the need to deviate from C1.</note> 
-    <note xml:lang="en" target="#tekumati">Even though one finds the root imperative <q xml:lang="ta-Latn"><hi rend="italic">ēku</hi></q> in both C1 and PK 184, it is highly likely that the source and point of reference for the poet here was NA 9, where we find the phrase – <q xml:lang="ta-Latn"><hi rend="italic">varuntātu ēkumati</hi></q>. One might argue that this well-known parallel might have influenced a scribe and caused an error, but in the context of the poem the polite imperative ending in <foreign xml:lang="ta-Latn">-mati</foreign> is appropriate. It is also supported by KKms, though in this case I did not consider that evidence too strongly. Overall, the close parallel convinces me to adopt UVC’s emended reading.</note></standOff> 
+    <note xml:lang="en" target="#tekumati">Even though one finds the root imperative <q xml:lang="ta-Latn"><hi rend="italic">ēku</hi></q> in both C1 and PK 184, it is highly likely that the source and point of reference for the poet here was NA 9, where we find the phrase – <q xml:lang="ta-Latn"><hi rend="italic">varuntātu ēkumati</hi></q>. One might argue that this well-known poem might have influenced a scribe and caused an error, but in the context of the poem the polite imperative ending in <foreign xml:lang="ta-Latn">-mati</foreign> is appropriate. It is also supported by KKms, though in this case I did not consider that evidence too strongly. Overall, the close parallel to NA 9 convinces me to adopt UVC’s emended reading.</note></standOff> 
   <standOff type="apparatus" corresp="#TNV23poem2" source="alignments/TNV23poem2.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7805,7 +7815,7 @@ TNV23poem3: Ed doesn't match alignment.
   <note xml:lang="ta" target="#ketave"><term xml:lang="en">Cf. AiN385.1–2:</term> kaṭuṅkaṭ kāḷaiyoṭu neṭuntē rēṟik | kōḷval vēṅkai malaipiṟak koḻiya ||</note>
   </standOff>
   <standOff type="notes4" corresp="#TNV23poem7">
-    <note xml:lang="en" target="#anta">One does not expect gemination following a vocative, which <q xml:lang="ta-Latn"><hi rend="italic">antaṇir</hi></q>, although it is unmarked, is.</note></standOff>
+    <note xml:lang="en" target="#anta">One does not expect gemination following a vocative, which <q xml:lang="ta-Latn"><hi rend="italic">antaṇir</hi></q>, although it is unmarked, functions as.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem7" source="alignments/TNV23poem7.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7908,7 +7918,7 @@ TNV23poem3: Ed doesn't match alignment.
     <note xml:lang="ta" target="#neriye"><term xml:lang="en">Cf. AiN371:</term> maḷḷar koṭṭiṉ maññai yālu | muyarneṭuṅ kuṉṟam paṭumaḻai talaiic curanaṉi yiṉiya vākuka tilla | vaṟaneṟi yituveṉat teḷintaveṉ | piṟainutaṟ kuṟumakaḷ pōkiya kāṉē ||</note>
 </standOff>
 <standOff type="notes4" corresp="#TNV23poem10">
-  <note xml:lang="en" target="#neriye">This emendation seems unnecessary. I assume UVC edited the text in line with the end of KT 378, which is a clear source for the poem. It is not, however, a hard and fast rule that the poet copied phrases from the source material when referencing them, and I would argue that the C1 reading here makes perfect sense and that there is no convincing reason to think a scribe would have mistakenly switched a word known from a similar phrase in a famous poem – <q xml:lang="ta-Latn"><hi rend="italic">curaṉ</hi></q> – out for <q xml:lang="ta-Latn"><hi rend="italic">neṟi</hi></q>, to which it bears no orthographic similarity.</note></standOff>
+  <note xml:lang="en" target="#neriye">UVC’s emendation seems unnecessary. I assume he edited the text in line with the end of KT 378, which is a clear source for the poem. It is not, however, a hard and fast rule that the poet copied phrases from the source material when referencing them, and I would argue that the C1 reading here makes good sense and that there is no convincing reason to think a scribe would have mistakenly switched a word known from a similar phrase in a famous poem – <q xml:lang="ta-Latn"><hi rend="italic">curaṉ</hi></q> – out for <q xml:lang="ta-Latn"><hi rend="italic">neṟi</hi></q>, to which it bears no orthographic similarity.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem10" source="alignments/TNV23poem10.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -7940,7 +7950,7 @@ TNV23poem3: Ed doesn't match alignment.
   <standOff type="notes2" corresp="#TNV23poem11">
     <note xml:lang="ta" target="#tim"><term xml:lang="en">Cf. TK235:</term> paṇaṅkaḷañ cālum paruvara vārttavaṉ ṟillaiyaṉṉa | maṇaṅkoḷañ cāyalu maṉṉaṉu miṉṉē varakkaraintāl | uṇaṅkalañ cātuṇṇa lāmoṇ ṇiṇappali yōkkuvaṉmāk | kuṇaṅkaḷañ cāṟpoliyun nalacēṭṭaikku lakkoṭiyē ||</note></standOff>
     <standOff type="notes4" corresp="#TNV23poem11">
-      <note xml:lang="en" target="#nan">The C1 reading would be possible if one could form a first person singular pronominalised noun with the ending <term xml:lang="ta-Latn"><hi rend="italic">-aṉ</hi></term>, as is possible with a finite verb (see <q xml:lang="ta-Latn"><hi rend="italic">tarukuvaṉ</hi></q> later in this poem). Then <term xml:lang="ta-Latn"><hi rend="italic">marapiṉaṉ</hi></term> would be the subject of the finite verb: ‘Don’t I, with [my] tradition of kindness, bring…’ However, I have found only one example of such a form in the old corpus (PN 208.7), and this reading was not found in any AiN available to me.</note>
+      <note xml:lang="en" target="#nan">The C1 reading would be possible if one could form a first person singular pronominalised noun with the ending <term xml:lang="ta-Latn"><hi rend="italic">-aṉ</hi></term>, as is possible with a finite verb (see <q xml:lang="ta-Latn"><hi rend="italic">tarukuvaṉ</hi></q> later in this poem). Then <q xml:lang="ta-Latn"><hi rend="italic">marapiṉaṉ</hi></q> would be the subject of the finite verb: ‘Don’t I, with [my] tradition of kindness, bring…’ However, I have found only one example of such a form in the old corpus (PN 208.7), and this reading was not found in any AiN edition available to me.</note>
       <note xml:lang="en" target="#tim">There are significant differences between the poem printed in AiN editions and that read by C1. I have opted here to retain the C1 readings where possible. My working assumption is that this may have represented an independent line of transmission that has not been recorded in any AiN editions as of yet.</note></standOff>
       <standOff type="apparatus" corresp="#TNV23poem11" source="alignments/TNV23poem11.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -7995,7 +8005,7 @@ TNV23poem3: Ed doesn't match alignment.
     <lem wit="#TNVms #TNVc #TNV1937 #TNV1947">ṟarukuvaṉ</lem>
     <rdg wit="#Aink391">ṟarukuveṉ</rdg>
   </app>
-</listApp></standOff><standOff corresp="#TNV23poem12" type="notes4"><note xml:lang="en" target="#vana">It was not possible to make sense of the variants for this and the preceding <term xml:lang="ta-Latn"><hi rend="italic">cīr</hi></term>, and they are not reported in the apparatus in <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">Wilden 2010</ref>, which leads me to think this is corrupt. The <hi rend="italic">eḻuttu</hi> <term xml:lang="ta">‘வு’</term> looks similar to <term xml:lang="ta">‘ஆ’</term> and <term xml:lang="ta">‘ள’</term> closely resembles <term xml:lang="ta">‘ன’</term>. This seems like a simple copying error.</note></standOff>
+</listApp></standOff><standOff corresp="#TNV23poem12" type="notes4"><note xml:lang="en" target="#vana">It was not possible to make sense of the variants for this and the preceding <term xml:lang="ta-Latn"><hi rend="italic">cīr</hi></term>, and they are not reported in the apparatus in <ref target="https://uhh-tamilex.github.io/Kuruntokai/KT130.xml">Wilden 2010</ref>, which leads me to think this is corrupt. The <hi rend="italic">eḻuttu</hi> <foreign xml:lang="ta-Latn">vu</foreign> (<term xml:lang="ta">‘வு’</term>) looks similar to that for <foreign xml:lang="ta-Latn">ā</foreign> (<term xml:lang="ta">‘ஆ’</term>) and <foreign xml:lang="ta-Latn">ḷa</foreign> (<term xml:lang="ta">‘ள’</term>) closely resembles <foreign xml:lang="ta-Latn">ṉa</foreign> (<term xml:lang="ta">‘ன’</term>). This seems like a simple copying error.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem12" source="alignments/TNV23poem12.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -8096,7 +8106,7 @@ TNV23poem3: Ed doesn't match alignment.
     <note xml:lang="ta" target="#kurave"><term xml:lang="en">Cf. TK241:</term> pāyum viṭaiyōṉ puliyū raṉaiyaveṉ pāvaimuṉṉē | kāyum kaṭattiṭai yāṭik kaṭappavuṅ kaṇṭuniṉṟu | vāyun tiṟavāy kuḻaiyeḻil vīcavaṇ ṭōluṟutta | nīyuniṉ pāvaiyu niṉṟu nilāviṭu nīḷkuravē ||</note> 
   </standOff>
     <standOff type="notes4" corresp="#TNV23poem14">
-      <note xml:lang="en" target="#kaynta">UVC’s emendation makes the poem read more fluently, but is unnecessary. In his version, the basic structure would be: ‘Even though she passed you, you did not chide her. You are unrighteous!’ Apart from the variant <q xml:lang="ta-Latn"><hi rend="italic">kāyntilai</hi></q>, this reading also requires <q xml:lang="ta-Latn"><hi rend="italic">celavum</hi></q> to be understood as a concessive.</note>
+      <note xml:lang="en" target="#kaynta">UVC’s emendation makes the poem read more fluently, but is unnecessary. In his version, the basic structure would be: ‘Even though she passed you, you did not chide her. You are unrighteous!’ Apart from the variant <q xml:lang="ta-Latn"><hi rend="italic">kāyntilai</hi></q>, this reading also requires <q xml:lang="ta-Latn"><hi rend="italic">celavum</hi></q> to be understood as a concessive. See the translation for comparison on p. 274.</note>
     </standOff>
 <standOff type="apparatus" corresp="#TNV23poem14" source="alignments/TNV23poem14.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -8197,7 +8207,7 @@ TNV23poem3: Ed doesn't match alignment.
 </interp></standOff>
 <standOff type="notes4" corresp="#TNV23poem17">
   <note xml:lang="en" target="#alarela">The C1 reading, also found in the AiN editions I consulted, makes perfect sense, so UVC must have had a good reason to modify it. I can only assume that reason was access to and/or familiarity with a different version of the poem from what I have seen.</note>
-  <note xml:lang="en" target="#alarela">C1 would require a form <foreign xml:lang="ta-Latn">ceḻu</foreign>, which I would argue only exists hypothetically. There are no instances where this adjectival form of the abstract noun <foreign xml:lang="ta-Latn">ceḻumai</foreign> drops its <foreign xml:lang="ta-Latn">-m-</foreign>, apart from when followed by a word with an initial nasal, which is a feature of sandhi and could equally be dissolved as <foreign xml:lang="ta-Latn">ceḻu</foreign> or <foreign xml:lang="ta-Latn">ceḻum</foreign>. In all other cases the attested form is <foreign xml:lang="ta-Latn">ceḻum</foreign>, and there are attestations of <foreign xml:lang="ta-Latn">ceḻumpal</foreign> in the old corpus (KT 287.7, for example). In support of the hypothetical existence of <foreign xml:lang="ta-Latn">ceḻu pal</foreign> is the attested collocation <foreign xml:lang="ta-Latn">ciṟu pal</foreign> (AN 137.2, NA 181.5, for example), where <foreign xml:lang="ta-Latn">ciṟu</foreign> is the adjectival form of the abstract noun <foreign xml:lang="ta-Latn">ciṟumai</foreign>. However, without any attestation, the evidence is not strong enough to retain the C1 reading.</note>
+  <note xml:lang="en" target="#celumpal">C1 would require a form <q xml:lang="ta-Latn"><hi rend="italic">ceḻu</hi></q>, which I would argue only exists hypothetically. There are no instances where this adjectival form of the abstract noun <foreign xml:lang="ta-Latn">ceḻumai</foreign> drops its <foreign xml:lang="ta-Latn">-m-</foreign>, apart from when followed by a word with an initial nasal, which is a feature of sandhi and could equally be dissolved as <foreign xml:lang="ta-Latn">ceḻu</foreign> or <foreign xml:lang="ta-Latn">ceḻum</foreign>. In all other cases the attested form is <foreign xml:lang="ta-Latn">ceḻum</foreign>, and there are attestations of <q xml:lang="ta-Latn"><hi rend="italic">ceḻumpal</hi></q> in the old corpus (KT 287.7, for example). In support of the hypothetical existence of <q xml:lang="ta-Latn"><hi rend="italic">ceḻu pal</hi></q> is the attested collocation <q xml:lang="ta-Latn"><hi rend="italic">ciṟu pal</hi></q> (AN 137.2, NA 181.5, for example), where <foreign xml:lang="ta-Latn">ciṟu</foreign> is the adjectival form of the abstract noun <foreign xml:lang="ta-Latn">ciṟumai</foreign>. However, without any attestation, the evidence is not strong enough to retain the C1 reading.</note>
 </standOff>
   <standOff type="apparatus" corresp="#TNV23poem17" source="alignments/TNV23poem17.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -8232,7 +8242,7 @@ TNV23poem3: Ed doesn't match alignment.
   </app>
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV23poem18">
-  <note xml:lang="en" target="#ivar">I follow UVC here. One can just about make sense of the reading in C1, but were that to have been the original text, it would be a unique formation in the corpus. <q xml:lang="ta-Latn"><hi rend="italic">ivvaḷaiyāk kālē</hi></q> necessitates taking <foreign xml:lang="ta-Latn">vaḷai</foreign> as a noun, as it is preceded by a deictic. This would then leave <foreign xml:lang="ta-Latn">ā</foreign>, which has to be a verbal root functioning as a <foreign xml:lang="ta-Latn">peyareccam</foreign>, as <foreign xml:lang="ta-Latn">kāl</foreign>, when used in such a construction to mean ‘when…’, is always preceded by a <foreign xml:lang="ta-Latn">peyareccam</foreign>. Nowhere else in the corpus is the preceding <foreign xml:lang="ta-Latn">peyareccam</foreign> a verbal root. If one were to translate it, the final line would read: ‘When they [the bowmen] are in these surroundings, what will become of them (the couple or the bowmen)?’ In UVC’s proposed emendation, <foreign xml:lang="ta-Latn">vaḷaiyum</foreign> is a non-past <foreign xml:lang="ta-Latn">peyareccam</foreign> and <foreign xml:lang="ta-Latn">ivar</foreign> is its subject. Theoretically, one could read <foreign xml:lang="ta-Latn">vaḷaiyā</foreign> as a negative <foreign xml:lang="ta-Latn">peyareccam</foreign>, but in that case the poem would not make sense. A non-past <foreign xml:lang="ta-Latn">peyareccam</foreign> is the only reasonable option, and <foreign xml:lang="ta-Latn">ivar</foreign> is as minimal and as plausible an emendation as possible.</note></standOff>
+  <note xml:lang="en" target="#ivar">I follow UVC here. One can just about make sense of the reading in C1, but were that to have been the original text, it would be a unique formation in the corpus. <q xml:lang="ta-Latn"><hi rend="italic">ivvaḷaiyāk kālē</hi></q> necessitates taking <q xml:lang="ta-Latn"><hi rend="italic">vaḷai</hi></q> as a noun, as it is preceded by a deictic. This would then leave <q xml:lang="ta-Latn"><hi rend="italic">ā</hi></q>, which has to be a verbal root functioning as a <foreign xml:lang="ta-Latn">peyareccam</foreign>, as <q xml:lang="ta-Latn"><hi rend="italic">kāl</hi></q>, when used in such a construction to mean ‘when…’, is always preceded by a <foreign xml:lang="ta-Latn">peyareccam</foreign>. Nowhere else in the corpus is the preceding <foreign xml:lang="ta-Latn">peyareccam</foreign> a verbal root. If one were to translate it, the final line would read: ‘When they [the bowmen] are in these surroundings, what will become of them (the couple or the bowmen)?’ In UVC’s proposed emendation, <q xml:lang="ta-Latn"><hi rend="italic">vaḷaiyum</hi></q> is a non-past <foreign xml:lang="ta-Latn">peyareccam</foreign> and <q xml:lang="ta-Latn"><hi rend="italic">ivar</hi></q> is its subject. Theoretically, one could read <q xml:lang="ta-Latn"><hi rend="italic">vaḷaiyā</hi></q> as a negative <foreign xml:lang="ta-Latn">peyareccam</foreign>, but in that case the poem would not make sense. A non-past <foreign xml:lang="ta-Latn">peyareccam</foreign> is the only reasonable option, and <q xml:lang="ta-Latn"><hi rend="italic">ivar</hi></q> is as minimal and as plausible an emendation as possible.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem18" source="alignments/TNV23poem18.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -8298,7 +8308,7 @@ TNV23poem3: Ed doesn't match alignment.
   </app>
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV23poem20">
-  <note xml:lang="en" target="#ayilai">I follow UVC here. The C1 reading makes as good sense as the emended reading found in C2pc onwards, but it is unlikely that this was the reading. Both <q xml:lang="ta-Latn"><hi rend="italic">āy iḻai</hi></q> and <q xml:lang="ta-Latn"><hi rend="italic">ari iḻai</hi></q> mean something close to ‘beautiful jewels’. The former is an extremely common collocation occurring dozens of times in the Caṅkam corpus alone and three other times in the TNV (TNV 15, poem 4; TNV 16, poem 7; TNV 18, poem 8), whereas there is no evidence for <q xml:lang="ta-Latn"><hi rend="italic">ari iḻai</hi></q>. Perhaps a scribe unintentionally miscopied or incorrectly corrected the <foreign xml:lang="ta-Latn">kāl</foreign> marking the long <foreign xml:lang="ta-Latn">ā</foreign> for the sign for <foreign xml:lang="ta-Latn">ri</foreign>. This would only require the addition of one extra vowel mark – the two readings are orthographically very similar. Reading <foreign xml:lang="ta-Latn">ari</foreign> also maintains the same <foreign xml:lang="ta-Latn">etukai</foreign> from the first two lines, which may be the underlying reason behind the error. Reading <foreign xml:lang="ta-Latn">āy</foreign>, however, allows for a sort-of-<foreign xml:lang="ta-Latn">etukai</foreign>, or at least a shared rhythmic pattern between lines three and four, giving the stanza an AABBCC-type construction. Such metrical arguments should not be considered strong evidence to support one reading over another in this text (see \S\ref{sec:metre}), but they can explain previous editorial choices or occurrences (in the case of unintentional or subconscious changes). Since <q xml:lang="ta-Latn"><hi rend="italic">āy iḻai</hi></q> is so common and is found in other TNV poems, and since there is a potential reason why C1’s corrupted reading may have snuck in, I think there is justification to deviate from the manuscript.</note></standOff>
+  <note xml:lang="en" target="#ayilai">I follow UVC here. The C1 reading makes as good sense as the emended reading found in C2pc onwards, but it is unlikely that this was the reading. Both <q xml:lang="ta-Latn"><hi rend="italic">āy iḻai</hi></q> and <q xml:lang="ta-Latn"><hi rend="italic">ari iḻai</hi></q> mean something close to ‘beautiful jewels’. The former is an extremely common collocation occurring dozens of times in the Caṅkam corpus alone and three other times in the TNV (TNV 15, poem 4; TNV 16, poem 7; TNV 18, poem 8), whereas there is no evidence for <q xml:lang="ta-Latn"><hi rend="italic">ari iḻai</hi></q>. Perhaps a scribe unintentionally miscopied or incorrectly corrected the <foreign xml:lang="ta-Latn">kāl</foreign> marking the long <foreign xml:lang="ta-Latn">ā</foreign> for the sign for <foreign xml:lang="ta-Latn">ri</foreign>. This would only require the addition of one extra vowel mark – the two readings are orthographically very similar. Reading <q xml:lang="ta-Latn"><hi rend="italic">ari</hi></q> also maintains the same <foreign xml:lang="ta-Latn">etukai</foreign> from the first two lines, which may be the underlying reason behind the error. Reading <q xml:lang="ta-Latn"><hi rend="italic">āy</hi></q>, however, allows for a sort-of-<foreign xml:lang="ta-Latn">etukai</foreign>, or at least a shared rhythmic pattern between lines three and four, giving the stanza an AABBCC-type construction. Such metrical arguments should not be considered strong evidence to support one reading over another in this text (see \S\ref{sec:metre}), but they can explain previous editorial choices or occurrences (in the case of unintentional or subconscious changes). Since <q xml:lang="ta-Latn"><hi rend="italic">āy iḻai</hi></q> is so common and is found in other TNV poems, and since there is a potential reason why C1’s corrupted reading may have snuck in, I think there is justification to deviate from the manuscript.</note></standOff>
 <standOff type="apparatus" corresp="#TNV23poem20" source="alignments/TNV23poem20.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -8344,8 +8354,7 @@ TNV23poem3: Ed doesn't match alignment.
   </app>
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV23poem21">
-  <note xml:lang="en" target="#ivale">This is also a reasonable emendation to make. Reading the poem as presented in C1, one can make sense of it. The only thing one would have to change from the translation is the first line. I would understand <q xml:lang="ta-Latn"><hi rend="italic">vēḷē</hi></q> as an <foreign xml:lang="ta-Latn">ākupeyar</foreign> for the heroine – ‘the desirous one’. The syntax and meaning of the rest of the poem would remain identical. The problem is that <foreign xml:lang="ta-Latn">vēḷē</foreign> is not found elsewhere used in this way. Reading <q xml:lang="ta-Latn"><hi rend="italic">ivaḷē</hi></q> also provides a nice, logical counterpart to <q xml:lang="ta-Latn"><hi rend="italic">ivaṉē</hi></q> at the end of the line. Orthographically, these two readings are also close. In palm-leaf MSS, the sign for an initial <foreign xml:lang="ta-Latn">i-</foreign> can often resemble a <foreign xml:lang="ta-Latn">kompu</foreign>, used to mark <foreign xml:lang="ta-Latn">e/ē</foreign>. See, for example, how they look in C1: <foreign xml:lang="ta-Latn">i-</foreign> <graphic url="images/i_tamil_script.png" mimeType="image/png"><desc>Sign for initial <foreign xml:lang="ta-Latn">i-</foreign></desc></graphic> and a <foreign xml:lang="ta-Latn">kompu</foreign> <graphic url="images/kompu_tamil_script.png" mimeType="image/png"><desc>kompu diacritic from C1</desc></graphic>. Mistaking one for the other is the only difference between the two readings. I believe this was a simple scribal error.   
-  </note></standOff>
+  <note xml:lang="en" target="#ivale">UVC’s emendation here is reasonable. Reading the poem as presented in C1, one can make sense of it. The only thing one would have to change from the translation is the first line. I would understand <q xml:lang="ta-Latn"><hi rend="italic">vēḷē</hi></q> as an <foreign xml:lang="ta-Latn">ākupeyar</foreign> for the heroine – ‘the desirous one’. The syntax and meaning of the rest of the poem would remain identical. The problem is that <foreign xml:lang="ta-Latn">vēḷē</foreign> is not found elsewhere used in this way. Reading <q xml:lang="ta-Latn"><hi rend="italic">ivaḷē</hi></q> also provides a nice, logical counterpart to <q xml:lang="ta-Latn"><hi rend="italic">ivaṉē</hi></q> at the end of the line. Orthographically, these two readings are also close. In palm-leaf MSS, the sign for an initial <foreign xml:lang="ta-Latn">i-</foreign> can often resemble a <foreign xml:lang="ta-Latn">kompu</foreign>, used to mark <foreign xml:lang="ta-Latn">e/ē</foreign>. Mistaking one for the other is the only difference between the two readings. I believe this was a simple scribal error, this edition follows Cām.</note></standOff>
     <standOff type="apparatus" corresp="#TNV23poem21" source="alignments/TNV23poem21.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -8379,7 +8388,7 @@ TNV23poem3: Ed doesn't match alignment.
   </app>
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV23poem22">
-  <note xml:lang="en" target="#natpo">Understanding the C1 reading hinges on two prerequisites: first, understanding the <foreign xml:lang="ta-Latn">-ō</foreign> particle as either a focaliser, marking the addressee, or as a kind of particle of lament appended to a functional vocative; second, that the whole of the second line is an <foreign xml:lang="ta-Latn">aṉmoḻittokai</foreign> for the heroine – ‘O, [my] love with perfect, graceful hips’. UVC may have thought such a compound was unlikely, as one does not find other instances of <foreign xml:lang="ta-Latn">naṭpu</foreign> in this usage. A more common phrase to refer to the woman is (positive quality) + <foreign xml:lang="ta-Latn">alkul</foreign>. If <q xml:lang="ta-Latn"><hi rend="italic">tirunt’ eḻil alkul</hi></q> is the ‘vocative’, then emending <q xml:lang="ta-Latn"><hi rend="italic">naṭpō</hi></q> is necessary to construe the poem. UVC’s initial emendation in C2pc makes good sense and is the least violent option. I see no need to fully replace the word as in Cām without a compelling textual parallel, and there is none. For some semantic reasons why he might have found <foreign xml:lang="ta-Latn">naṭpu</foreign> suspicious and the reason why I do not, see the notes to the translation.</note>
+  <note xml:lang="en" target="#natpo">Understanding the C1 reading hinges on two prerequisites: first, understanding the <foreign xml:lang="ta-Latn">-ō</foreign> particle as either a focaliser, marking the addressee, or as a kind of particle of lament appended to a functional vocative; second, that the whole of the second line is an <foreign xml:lang="ta-Latn">aṉmoḻittokai</foreign> for the heroine – ‘O, [my] love with perfect, graceful hips’. UVC may have thought such a compound was unlikely, as one does not find other instances of <q xml:lang="ta-Latn"><hi rend="italic">naṭpu</hi></q> in this usage. A more common phrase to refer to the woman is (positive quality) + <foreign xml:lang="ta-Latn">alkul</foreign>. If <q xml:lang="ta-Latn"><hi rend="italic">tirunteḻil alkul</hi></q> is the ‘vocative’, then emending <q xml:lang="ta-Latn"><hi rend="italic">naṭpō</hi></q> is necessary to construe the poem. UVC’s initial emendation in C2pc makes good sense and is the least violent option. I see no need to fully replace the word as in Cām without a compelling textual parallel, and there is none. For some semantic reasons why he might have found <q xml:lang="ta-Latn"><hi rend="italic">naṭpu</hi></q> suspicious and the reason why I do not, see the notes to the translation.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV23poem22" source="alignments/TNV23poem22.xml"><interp type="normalization">
   <desc type="tagfilters">
@@ -8497,7 +8506,7 @@ TNV23poem23: Ed doesn't match alignment.
   <note xml:lang="ta" target="#ciruneri"><term xml:lang="en">Cf. AN203.13:</term> māṉatar mayaṅkiya malaimutaṟ ciṟuneṟi</note></standOff>
 
   <standOff type="notes4" corresp="#TNV23poem24">
-    <note xml:lang="en" target="#panci"> <q xml:lang="ta-Latn"><hi rend="italic">pañciṉa(m)</hi></q> does not produce a reasonable reading. The noun meaning ‘cotton’, which is the common and sensible attribute for the heroine’s feet, is <foreign xml:lang="ta-Latn">pañci</foreign>, the reading found in the TNV editions and all non-TNV sources. I have not seen <q xml:lang="ta-Latn"><hi rend="italic">pañciṉa(m)</hi></q> printed in any other text. If one were to try and make sense of it, presumably one would dissolve the sandhi to read <foreign xml:lang="ta-Latn">pañcu</foreign> (‘cotton’) + <foreign xml:lang="ta-Latn">iṉam</foreign> (‘group’, ‘type’). The heroine’s feet would either be: ‘soft as clusters (i.e., balls) of cotton’ or ‘soft of a cotton-type’. Perhaps these are just about understandable, but this is not a collocation that I have found anywhere else in the old corpus. It is plausible that such a corruption appeared as a scribe consciously or unconsciously wanted to lengthen the ‘rhyme’ in the first <foreign xml:lang="ta-Latn">cīr</foreign> of lines three and four.</note></standOff>
+    <note xml:lang="en" target="#panci"> <q xml:lang="ta-Latn"><hi rend="italic">pañciṉa(m)</hi></q> (C1, C2) does not produce a reasonable reading. The noun meaning ‘cotton’, which is the common and sensible attribute for the heroine’s feet, is <foreign xml:lang="ta-Latn">pañci</foreign>, the reading found in the TNV editions and all non-TNV sources. I have not seen <q xml:lang="ta-Latn"><hi rend="italic">pañciṉa(m)</hi></q> printed in any other text. If one were to try and make sense of it, presumably one would dissolve the sandhi to read <q xml:lang="ta-Latn"><hi rend="italic">pañcu</hi></q> (‘cotton’) + <q xml:lang="ta-Latn"><hi rend="italic">iṉam</hi></q> (‘group’, ‘type’). The heroine’s feet would either be: ‘soft as clusters (i.e., balls) of cotton’ or ‘soft of a cotton-type’. Perhaps these are just about understandable, but this is not a collocation that I have found anywhere else in the old corpus. It is plausible that such a corruption appeared as a scribe consciously or unconsciously wanted to lengthen the ‘rhyme’ in the first <foreign xml:lang="ta-Latn">cīr</foreign> of lines three and four.</note></standOff>
   <standOff type="apparatus" corresp="#TNV23poem24" source="alignments/TNV23poem24.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
@@ -8528,7 +8537,7 @@ TNV23poem23: Ed doesn't match alignment.
   </app>
 </listApp></standOff>
 <standOff type="notes4" corresp="#TNV23poem26">
-  <note xml:lang="en" target="#caa">As in poem 12 above, <q xml:lang="ta-Latn"><hi rend="italic">cāvu</hi></q> in C1pc is likely a miscopying of <q xml:lang="ta-Latn"><hi rend="italic">cāa</hi></q>.</note>
+  <note xml:lang="en" target="#caa">As in TNV23, poem 12, <q xml:lang="ta-Latn"><hi rend="italic">cāvu</hi></q> in C1pc is likely a miscopying of <q xml:lang="ta-Latn"><hi rend="italic">cāa</hi></q>.</note>
   <note xml:lang="en" target="#velvel">Both <q xml:lang="ta-Latn"><hi rend="italic">veḷ vēl</hi></q> (‘bright spear’) and <q xml:lang="ta-Latn"><hi rend="italic">vel vēl</hi></q> (‘victorious spear’) are common formulaic attributes of the hero. I am not sure why UVC decided to emend here. I retain the C1 reading.</note>
 </standOff>
   <standOff type="apparatus" corresp="#TNV23poem26" source="alignments/TNV23poem26.xml"><interp type="normalization">

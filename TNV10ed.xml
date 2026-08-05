@@ -168,7 +168,7 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV10comm1">eṉpatuṇavām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:id="TNV10comm1">eṉpatu uṇavām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the food occurs.</p>
       </div>
       <div type="commentary" rend="parallel">
@@ -270,7 +270,7 @@
 </standOff><standOff corresp="#TNV10comm1" type="wordsplit">
 <interp type="alignment" select="0">5MG4MG4MG10ML9M,35MG</interp>
 <entry>
-<form>eṉpat<c type="elided">u</c></form>
+<form>eṉpatu</form>
 <def>say</def>
 <form type="sandhi">eṉpat</form>
 <gramGrp>
@@ -831,7 +831,7 @@
 <note xml:lang="ta" target="#mullai"><term xml:lang="en">Cf. IAC1, p. 26–27:</term> mullaikku… nīr kāṉyāṟu</note>
 <note xml:lang="ta" target="#marutam"><term xml:lang="en">Cf. IAC1, p. 27:</term> marutattukku… uṇā cennellum veṇṇellum…; nīr maṉaikkiṇaṟum poykaiyum</note>
 <note xml:lang="ta" target="#neytal"><term xml:lang="en">Cf. IAC1, p. 25–26:</term> neytaṟku… nīr maṇaṟkiṇaṟum uvarkkaḻiyum</note></standOff>
-<standOff type="notes4" corresp="#TNV10comm3"><note xml:lang="en" target="#note">Where only additional types of water were enumerated in the TNV commentary, only the section on water from the IAC is provided; where both food and water were enumerated, both corresponding sections are provided. When there is overlap with what would be an IAC source for the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, the relevant section is quoted once in the commentary, as with the preceding <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>-s.</note></standOff>
+<standOff type="notes4" corresp="#TNV10comm3"><note xml:lang="en" target="#note">Where only additional types of water are enumerated in the TNV commentary, only the section on water from the IAC is provided; where both food and water are enumerated, both corresponding sections are provided. When there is overlap with what would be an IAC source for the <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>, the relevant section is quoted once in the commentary, as with the preceding <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>-s.</note></standOff>
 <standOff type="apparatus" corresp="#TNV10comm3" source="alignments/TNV10comm3.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>

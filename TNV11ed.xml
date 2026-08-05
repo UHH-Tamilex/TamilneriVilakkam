@@ -169,7 +169,7 @@
     <body>
       <head xml:lang="en">Commentary</head>
       <div type="commentary" rend="parallel">
-      <p xml:id="TNV11comm1">eṉpaticai yām āṟuṇarttutaṉutaliṟṟu.</p>
+      <p xml:id="TNV11comm1">eṉpatu icai yām āṟuṇarttutaṉutaliṟṟu.</p>
       <p xml:lang="en">The quoted [<term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>] intends to make known the way in which the music occurs.</p>
     </div>
     <div type="commentary" rend="parallel">
@@ -355,7 +355,7 @@
 </standOff><standOff corresp="#TNV11comm1" type="wordsplit">
 <interp type="alignment" select="0">5MG9MG10ML9M,35MG</interp>
 <entry>
-<form>eṉpat<c type="elided">u</c></form>
+<form>eṉpatu</form>
 <def>say</def>
 <form type="sandhi">eṉpat</form>
 <gramGrp>
@@ -785,7 +785,7 @@
 </standOff>
 
 <standOff type="notes4" corresp="#TNV11"><note xml:lang="en" target="#icai">The TNV provides a very different list from that found in the IAC. For a full enumeration of the drums and scales for each poetic setting, see the sources for the commentary. Note also that for <term xml:lang="ta-Latn"><hi rend="italic">kuṟiñci</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">marutam</hi></term>, the IAC provides the appropriate <q xml:lang="ta-Latn"><hi rend="italic">yāḻ</hi></q> (‘lute’), not the <q xml:lang="ta-Latn"><hi rend="italic">paṇ</hi></q> (‘scale’). For whatever reason, Nakkīrar only lists a <term xml:lang="ta-Latn"><hi rend="italic">paṇ</hi></term> for <term xml:lang="ta-Latn"><hi rend="italic">pālai</hi></term> and <term xml:lang="ta-Latn"><hi rend="italic">mullai</hi></term>, in which case he does not provide a <term xml:lang="ta-Latn"><hi rend="italic">yāḻ</hi></term>.</note>
-<note xml:lang="en" target="#pancuram">This may also be a dialectal variation, but this kind of phonetic variant is not common in this text (a &gt; ai), appearing once in C1 in the commentary on TNV 8 (<term xml:lang="ta-Latn"><hi rend="italic">cilaimpaṉ</hi></term>), so the standard spelling of the word is chosen.</note>
+<note xml:lang="en" target="#pancuram">This may also be a dialectal variation, but this kind of phonetic variant is not common in this text (<foreign xml:lang="ta-Latn">a</foreign> &gt; <foreign xml:lang="ta-Latn">ai</foreign>), appearing once in C1 in the commentary on TNV 8 (<q xml:lang="ta-Latn"><hi rend="italic">cilaimpaṉ</hi></q>), so the standard spelling of the word is chosen.</note>
 <note xml:lang="en" target="#perukicai">My assumption is that UVC emended here because he thought the original <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term> was composed with some interlineal <term xml:lang="ta-Latn"><hi rend="italic">mōṉai</hi></term>. Reading <q xml:lang="ta-Latn"><hi rend="italic">perukiya</hi></q> would leave a perfect alliteration on the second, third, and fourth <term xml:lang="ta-Latn"><hi rend="italic">eḻuttu</hi></term> of the first <term xml:lang="ta-Latn"><hi rend="italic">cīr</hi></term>. The <term xml:lang="ta-Latn"><hi rend="italic">cūttiram</hi></term>-s only employ rhyme schemes sporadically, so I do not think one can justify emending on the strength of that.</note>
 </standOff>
 <standOff type="apparatus" corresp="#TNV11" source="alignments/TNV11.xml"><interp type="normalization">
