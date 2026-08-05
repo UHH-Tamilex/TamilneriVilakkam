@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cilappatikāram mūlamum arumpatavuraiyum aṭiyārkkunallāruraiyum</title>
+            <title>Cilappatikāram mūlamum arumpatavuraiyum aṭiyārkkunallāruraiyum 1920 ed. U. Vē. Cāminātaiyar</title>
             
-         <editor><persName>Leo Nelson-Jones</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
             <date>2026</date>
@@ -13,7 +13,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     
                   </repository>
                   <idno type="shelfmark">Cilap.</idno>
                   <idno type="alternate"/>
@@ -21,14 +21,14 @@
                <msContents class="#STM">
                   <summary>1920 UVC edition of the Cilappatikāram with the arumpatavurai and the commentary of Aṭiyārkkunallār.</summary>
                   
-               <msItem xml:id="Cilap." defective="false"><title xml:lang="ta">Cilappatikāram with the arumpatavurai and Aṭiyārkkunallār. 1920. ed. UVC</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="Cilap." defective="false"><title xml:lang="ta">Cilappatikāram mūlamum arumpatavuraiyum aṭiyārkkunallāruraiyum 1920 ed. U. Vē. Cāminātaiyar</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
                   
                   
                   
-               <objectDesc form="baad">
+               <objectDesc form="codex">
                      <supportDesc material="paper">
                         
                         
@@ -80,11 +80,11 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Madras Tamil Lexicon</p></encodingDesc>
+      <encodingDesc><p>Madras Tamil Lexicon transliteration conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   </facsimile>
+   <graphic url="https://iiif.archive.org/iiif/pdf-or-123-silappathikaram-molamum-uraiyum-1920/manifest.json"/></facsimile>
 <text> <body xml:lang="ta">
    <lg corresp="#TNV25poem4">
            <pb n="223" facs="244"/>
