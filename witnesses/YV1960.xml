@@ -2,33 +2,33 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>YV1916</title>
+            <title>Yāpparuṅkala Virutti 1916 ed. Pāvaṉantam Piḷḷai</title>
             
-         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2024</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     <orgName>Unknown (accessed through archive.org)</orgName>
                   </repository>
                   <idno type="shelfmark">YV1916</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>Book</summary>
+                  <summary>The first part of the two-part 1916 edition of the Yāpparuṅkala Virutti, edited by Pāvaṉantam Piḷḷai. Orthography and formatting standard for an edition of the period.</summary>
                   
-               <msItem xml:id="YV1916a" defective="false"><title>YV</title></msItem><msItem xml:id="YV1916b" defective="false"><title>YV1960b</title></msItem></msContents>
+               <msItem xml:id="YV1916a" defective="false"><title>Yāpparuṅkala Virutti 1916 ed. Pāvaṉantam Piḷḷai</title></msItem><msItem xml:id="YV1916b" defective="false"><title>Yāpparuṅkala Virutti 1916 ed. Pāvaṉantam Piḷḷai</title></msItem></msContents>
                <physDesc>
                   
                   
                   
                   
                   
-               <objectDesc form="baad">
+               <objectDesc form="codex">
                      <supportDesc material="paper">
                         
                         
@@ -38,7 +38,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="548"/>
+                           <measure unit="folio" quantity="391"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -80,30 +80,32 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>eva style</p></encodingDesc>
+      <encodingDesc><p>Transcription follows the Madras Tamil Lexicon conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   </facsimile>
+   <graphic url="https://iiif.archive.org/iiif/Yapparungalam/manifest.json"/></facsimile>
 <text corresp="#YV1916a"><body xml:lang="ta">
+  <milestone unit="page" n="122" facs="149"/>
+  <lg corresp="#TNV22poem14">
+<l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
+<l>malaiyaṉ oḷvēṟ kaṇṇi</l>
+<l>mulaiyum vārāḷ mutukkuṟain taṉaḷē</l></lg>
+ <pb n="149" facs="176"/>
    <lg corresp="#TNV16poem13">
       <l>kaviyaṅ karuṇkaṭ ceyyavāyp paintoṭi</l>
 <l>pūviri naṟumeṉ kūntalum</l>
 <l>vēypurai tōḷu maṇaṅkumā lemmē</l>
    </lg> 
-
+<pb n="179" facs="206"/>
    <lg corresp="#TNV17poem8">
 <l>pūtta veṅkai viyaṉciṉai yēṟi</l>
 <l>mayiliṉa makavu nāṭa</l>
 <l>ṉaṉṉutaṟ koṭicci maṉattakat tōṉē</l>
    </lg>
-
-  <lg corresp="#TNV22poem14">
-<l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
-<l>malaiyaṉ oḷvēṟ kaṇṇi</l>
-<l>mulaiyum vārāḷ mutukkuṟain taṉaḷē</l></lg>
-
   </body></text><text corresp="#YV1916b"><body xml:lang="ta">
+    <milestone unit="page" n="260" facs="287"/>
+
  <lg corresp="#TNV22poem14"> 
  <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiyaṉ oḷvēṟ kaṇṇi</l>

@@ -2,13 +2,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tamiḻneṟi Viḷakkam Paper</title>
+                <title>Tamiḻneṟi Viḷakkam Paper MS</title>
 
                 
             <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
             <publicationStmt>
                 <publisher>TST Project</publisher>
-                <date>2025</date>
+                <date>2026</date>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -22,9 +22,9 @@
                     <msContents class="#STM">
 
 
-                        <summary>Paper MS in good condition. Some corrections and cross-referencing of verses in pencil or blue ink. Occasional pulli also added, presumably as a later clarification, in either pencil, blue or black ink. There are full stops and occasional commas, some of which are later additions in pencil. Currently missing 8 pages (249-263 in the numbering in the top right of the pages). Cūttiram 22 cuts out in the middle and then the next available page shows the end of the 25th example poem to the 24th cūttiram. </summary>
+                        <summary>Paper MS of the Tamiḻneṟi Viḷakkam in good condition. Some corrections and cross-referencing of verses in pencil or blue ink. Occasional pulli also added, presumably as a later clarification, in either pencil, blue or black ink. There are full stops and occasional commas, some of which are later additions in pencil. There is an index. of poetic quotations. This is U. Vē. Cāminātaiyar's copy of a partially damaged and incomplete palm-leaf manuscript. There is an incipit and a scribal colophon in pencil. </summary>
                         
-                    <msItem xml:id="TNVc" defective="false" class="#illakkanam"><title xml:lang="ta">tamiḻneṟiviḷakkam</title><textLang mainLang="tam"/></msItem></msContents>
+                    <msItem xml:id="TNVc" defective="false" class="#illakkanam"><title xml:lang="ta">Tamiḻneṟi Viḷakkam paper MS</title><textLang mainLang="tam"/></msItem></msContents>
                     <physDesc>
 
 
@@ -33,7 +33,7 @@
                         
                         
                         
-                    <objectDesc form="baad" rend="manuscript">
+                    <objectDesc form="codex" rend="manuscript">
                             <supportDesc material="paper">
 
 
@@ -43,7 +43,7 @@
                             <support>
 
                                 </support><extent>
-                                    <measure unit="folio" quantity="29"/>
+                                    <measure unit="folio" quantity="37"/>
                                     <dimensions type="object" unit="mm">
 
 
@@ -89,7 +89,7 @@
         </fileDesc>
         <encodingDesc>
             
-        <p>Restored puḷḷis. Where sandhi results in a final and initial letter combining into one letter, it has been left unresolved (and thus the words left unsplit). Overshort-u sandhi left unresloved (and thus words left unsplit). Glides retained and added to the beginning of the latter word. </p></encodingDesc>
+        <p>Restored puḷḷis. Where sandhi results in a final and initial letter combining into one letter, it has been left unresolved (and thus the words left unsplit). Overshort-u sandhi left unresloved (and thus words left unsplit). Otherwise words are split. Glides retained and added to the beginning of the latter word. </p></encodingDesc>
 
         
     <revisionDesc/></teiHeader>

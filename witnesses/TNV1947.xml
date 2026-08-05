@@ -2,33 +2,33 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>TNV print</title>
+            <title>Tamiḻneṟi Viḷakkam 1947 2nd edition ed. U. Vē. Cāminātaiyar</title>
             
-         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     <orgName>EFEO</orgName>
                   </repository>
-                  <idno type="shelfmark">TNV1947</idno>
+                  <idno type="shelfmark">TVG 75</idno>
                   <idno type="alternate"/>
-               </msIdentifier>
+               <idno type="URI">https://archive.org/details/TNV1947</idno></msIdentifier>
                <msContents class="#STM">
-                  <summary>test</summary>
+                  <summary>Tamiḻneṟi Viḷakkam 1947 2nd edition ed. U. Vē. Cāminātaiyar. This edition was published posthumously.</summary>
                   
-               <msItem xml:id="TNV1947" defective="false"><title>TNV </title></msItem></msContents>
+               <msItem xml:id="TNV1947" defective="false" class="#illakkanam"><title>Tamiḻneṟi Viḷakkam 1947 2nd edition ed. U. Vē. Cāminātaiyar</title></msItem></msContents>
                <physDesc>
                   
                   
                   
                   
                   
-               <objectDesc form="baad">
+               <objectDesc form="codex">
                      <supportDesc material="paper">
                         
                         
@@ -38,7 +38,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="1"/>
+                           <measure unit="page" quantity="56"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -80,11 +80,11 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Eva style</p></encodingDesc>
+      <encodingDesc><p>Madras Tamil Lexicon transliteration conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   </facsimile>
+   <graphic url="https://iiif.archive.org/iiif/TNV1947/manifest.json"/></facsimile>
 <text corresp="#TNV1947"><body xml:lang="ta">
  <p xml:id="incipit">
                 <l> kaṇapati tuṇai</l>
