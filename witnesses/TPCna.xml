@@ -2,12 +2,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tolkāppiyam Poruṭatikāram Ceyyuḷiyal Nacci</title>
+            <title>Saiva Siddhanta 1965 edition of the Tolkāppiyam Poruṭatikāram Ceyyuḷiyal with Nacciṉārkkiṉiyar's commentary</title>
             
          <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -19,9 +19,9 @@
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>Saiva Siddhanta 1965</summary>
+                  <summary>South India Saiva Siddhanta 1965 eiditon of Tolkāppiyam Poruṭatikāram Ceyyuḷiyal with Nacciṉārkkiṉiyar's commentary.</summary>
                   
-               <msItem xml:id="TPn2" defective="false"><title>Tolkāppiyam Poruṭatikāram Ceyyuḷiyal Nacci</title></msItem></msContents>
+               <msItem xml:id="TPn2" defective="false"><title>South India Saiva Siddhanta 1965 eiditon of Tolkāppiyam Poruṭatikāram Ceyyuḷiyal with Nacciṉārkkiṉiyar's commentary.</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -80,12 +80,12 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>TL madras conventions</p></encodingDesc>
+      <encodingDesc><p>Madras Tamil Lexicon transliteration conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
    </facsimile>
-<text corresp="#TPn2" xml:lang="ta"><body xml:lang="ta"> <lg corresp="#TNV17poem8">
+<text corresp="#TPn2"><body xml:lang="ta"> <lg corresp="#TNV17poem8">
 <l>pūtta veṅkai viyaṉciṉai yēṟi</l>
 <l>mayiliṉa makavu nāṭa</l>
 <l>ṉaṉṉutaṟ koṭicci maṉattakat tōṉē</l>

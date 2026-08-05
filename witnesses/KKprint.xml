@@ -2,28 +2,28 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>KKprint</title>
+            <title>Kaḷaviyaṟ Kārikai 1931 editio princeps</title>
 
             
-         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     <orgName>EFEO</orgName>
                   </repository>
-                  <idno type="shelfmark">KKprint</idno>
+                  <idno type="shelfmark">TVG 76</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>test</summary>
+                  <summary>A copy of  Vaiyāpurip Piḷḷai's first edition of the Kaḷaviyaṟ Kārikai, published in 1931. It contains a brief introduction and an appendix in which the editor provides 'notes on cited texts'. There are also indices of quotations. The text is formatted in the standard mannar for an edition of that time - cūttiram-s and poetic quotations are presented inset and linesplit; prose is presentd as running text. Lacunae are marked with series of dots. Pre-reform dependent 'ai' sign is used; otherwise the othography is consistent with post-reform standards. Notes, corrections, and cross-references are present, presumably made by T. V. Gopal Aiyar.</summary>
 
                   
-               <msItem xml:id="KKed" defective="false"><title>KKprint</title></msItem></msContents>
+               <msItem xml:id="KKed" defective="false"><title>Kaḷaviyaṟ Kārikai 1931 ed. Vaiyāpurip Piḷḷai    </title></msItem></msContents>
                <physDesc>
 
 
@@ -31,7 +31,7 @@
                   
                   
                   
-               <objectDesc form="baad">
+               <objectDesc form="codex">
                      <supportDesc material="paper">
 
 
@@ -84,7 +84,7 @@
       </fileDesc>
       <encodingDesc>
          
-      <p>test</p></encodingDesc>
+      <p>Transcriptions follows the Madras Tamil Lexicon transliteration scheme. The text is presented exactly as found in the edition. TVG's additions and corrections are included.</p></encodingDesc>
 
       
    <revisionDesc/></teiHeader>

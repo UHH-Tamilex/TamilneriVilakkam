@@ -2,12 +2,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title> Tamiḻneṟi Viḷakkam  </title>
+            <title> Tamiḻneṟi Viḷakkam palm-leaf manuscript</title>
             
          <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -23,7 +23,7 @@
                <msContents class="#STM">
                   
                   
-               <summary>Palm-leaf manuscript in good condition. Clear scribal hand. Some small gaps but noting too substantial until the final folio where larger portions of the text are missing. Presumably incomplete. No differentiation between long and short 'e/ē' and 'o/ō'. No puḷḷis.  Final two photos switched, so the sequence goes 48,47.</summary><msItem xml:id="TNVms" defective="false" class="#illakkanam"><title xml:lang="ta"> Tamiḻneṟi Viḷakkam  </title><textLang mainLang="tam"/></msItem></msContents>
+               <summary>According to the manuscript description from the UVSL, its dimensions are W13.8 × H1.3 (inches, I supply), and there are twenty-four folios. The manuscript is damaged in places – it has eroded around the edges from natural wear and tear; some parts of the manuscript have been broken and lost; and there is some insect damage. The text is mostly extant and generally in good condition. There are only significant gaps at the beginning and the end, where the commentary suddenly cuts off. There are two holes in the middle of each folio to accommodate a string-binding; the text is written around them. The scribal hand is clear for the most part. It exhibits the standard orthographic features of a palm-leaf manuscript: scriptio continua; no differentiation between short/long e/ē and o/ō; no puḷḷi; the pre-reform ai diacritic; and no differentiation between the kāl to represent ā or ra. There is a partial incipit in the left margin of the first folio transmitting the TNV that reads: [ta]miḻneṟi viḷakkam poruḷiyal. akattatum.2 There are other marginal notes throughout the manuscript that note the first two cīr-s of cūttiram-s or poems. They are found in the left margin, next to the line where marked text begins. There is no scribal colophon. There are corrections in the manuscript. Deletions are marked by a dot above or below the target text, a strikethrough, or a scribble, or else are left unmarked, the deletion being implied by an accompanying addition. Additions are marked in one of two ways: a cross above the place in the line where the addition is meant to go, with the added text placed below, or a caret below the line, with the added text placed above.  </summary><msItem xml:id="TNVms" defective="false" class="#illakkanam"><title xml:lang="ta"> Tamiḻneṟi Viḷakkam palm-leaf manuscript </title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
