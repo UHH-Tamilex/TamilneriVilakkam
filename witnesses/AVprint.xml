@@ -2,18 +2,18 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A Critical Edition and Study of Akapporul Vilakkam</title>
+            <title>A Critical Edition and Study of Akapporul Vilakkam ed. T. Rajarethinam.</title>
             
-         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     
                   </repository>
                   <idno type="shelfmark">AVprint</idno>
                   <idno type="alternate"/>
@@ -21,7 +21,7 @@
                <msContents class="#STM">
                   <summary>The transcribed poems come from a critical edition from 2006 of the Akapporuḷ Viḷakkam edited by T. Rajarethinam. It was originally submitted as his PhD thesis.</summary>
                   
-               <msItem xml:id="AVed" defective="false"><title>Akapporuḷ Viḷakkam print</title></msItem></msContents>
+               <msItem xml:id="AVed" defective="false"><title>Akapporuḷ Viḷakkam ed. T. Rajarethinam (unpublished PhD)</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -80,7 +80,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Madras Tamil Lexicon conventions.</p></encodingDesc>
+      <encodingDesc><p>Madras Tamil Lexicon transliteration conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
