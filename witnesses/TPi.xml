@@ -4,10 +4,10 @@
          <titleStmt>
             <title> Tolkāppiyam Poruḷatikāram Iḷampūraṇam ed. Citambaram Piḷḷai. 1928  </title>
             
-         <editor><persName>Leo Nelson-Jones</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -91,12 +91,39 @@
   <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiya ṉoḷvēṟ kaṇṇi</l>
 <l>mulaiyum vārā mutukkuṟain taṉaḷē.</l></lg>
+        <lg corresp="#TNV24poem29">
+         <milestone unit="page" n="35"/>
+         <l>illoṭu miṭainta kollai mullaip</l>
+         <l>pallāṉ kōvalar paiyu ḷāmpal</l>
+         <l>pulampukōṇ mālai kēṭṭoṟuṅ</l>
+         <l>kalaṅkuṅko laḷiyaṇaṅ kāta lōḷē.</l></lg>
+     <lg corresp="#TNV24poem4">
+         <milestone unit="page" n="39"/>
+<l>āṟucel varuttañ cīṟaṭi civappavuñ</l>
+<l>ciṉainīṅku taḷiriṉ vaṇṇam vāṭavun</l>
+<l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷuṭaṉ</l>
+<l>vēypayi laḻuva muvakkum</l>
+<l>pētai neñcam peruntaka vuṭaittē</l>
+      </lg>
+        <lg corresp="#TNV24poem1">
+         <milestone unit="page" n="41"/>     
+         <l>aṟaṉu mīkaiyu maṉpuṅ kiḷaiyum</l>
+            <l>pukaḻu miṉpun tarutaliṟ puṟampeyarntu</l>
+            <l>taruvatu tuṇintamai peritē</l>
+            <l>viripūṅ kōtai viḷaṅkiḻai poruḷē</l>
+      </lg>  
     <milestone unit="page" n="50"/>
   <lg corresp="#TNV23poem24">
 <l>māṉatar mayaṅkiya malaimutaṟ ciṟuneṟi</l>
 <l>tāṉvaru meṉpa taṭameṉ ṟōḷi</l>
 <l>añciṉa ḷañciṉa ḷotuṅkip</l>
 <l>pañci mellaṭi paralvaṭuk koḷavē.</l></lg>    
+     <lg corresp="#TNV25poem1">
+            <milestone unit="page" n="256"/>
+            <l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
+            <l>nillal pāṇa celliṉip pariyal</l>
+            <l>pakaleñ cērik kāṇi</l>
+            <l>ṉakalvaya lūra ṉāṇavum peṟumē</l></lg>
              <milestone unit="page" n="290"/>  
   <lg corresp="#TNV23poem1">
  <l>ivaḷē niṉṉala tilaḷē yāyuṅ</l>
@@ -109,31 +136,4 @@
 <l>mayiliṉa makavu nāṭa</l>
 <l>ṉaṉṉitaṟ koṭicci maṉattakat tōṉē</l>
       </lg>
-      <lg corresp="#TNV24poem1">
-         <milestone unit="page" n="41"/>     
-         <l>aṟaṉu mīkaiyu maṉpuṅ kiḷaiyum</l>
-            <l>pukaḻu miṉpun tarutaliṟ puṟampeyarntu</l>
-            <l>taruvatu tuṇintamai peritē</l>
-            <l>viripūṅ kōtai viḷaṅkiḻai poruḷē</l>
-      </lg>  
-      <lg corresp="#TNV24poem4">
-         <milestone unit="page" n="39"/>
-<l>āṟucel varuttañ cīṟaṭi civappavuñ</l>
-<l>ciṉainīṅku taḷiriṉ vaṇṇam vāṭavun</l>
-<l>tāṉvara ṟuṇinta vivaḷiṉu mivaḷuṭaṉ</l>
-<l>vēypayi laḻuva muvakkum</l>
-<l>pētai neñcam peruntaka vuṭaittē</l>
-      </lg>
-      <lg corresp="#TNV24poem29">
-         <milestone unit="page" n="35"/>
-         <l>illoṭu miṭainta kollai mullaip</l>
-         <l>pallāṉ kōvalar paiyu ḷāmpal</l>
-         <l>pulampukōṇ mālai kēṭṭoṟuṅ</l>
-         <l>kalaṅkuṅko laḷiyaṇaṅ kāta lōḷē</l></lg>
-         <lg corresp="#TNV25poem1">
-            <milestone unit="page" n="256"/>
-            <l>pulaimaka ṉātaliṟ poynniṉ vāymoḻi</l>
-            <l>nillal pāṇa celliṉip pariyal</l>
-            <l>pakaleñ cērik kāṇi</l>
-            <l>ṉakalvaya lūra ṉāṇavum peṟumē</l></lg>
   </body></text></TEI>

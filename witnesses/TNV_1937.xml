@@ -2,33 +2,33 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>TNV 1937</title>
+            <title>Tamiḻneṟi Viḷakkam 1937 editio princeps. Ed. U. Vē. Cāminātaiyar</title>
             
-         <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     
                   </repository>
-                  <idno type="shelfmark">TNV  1937</idno>
+                  <idno type="shelfmark">Tamiḻneṟi Viḷakkam 1937 editio princeps. Ed. U. Vē. Cāminātaiyar</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>1937 edition of TNV</summary>
+                  <summary>Tamiḻneṟi Viḷakkam 1937 editio princeps. Ed. U. Vē. Cāminātaiyar. </summary>
                   
-               <msItem xml:id="TNV1937" defective="false"><title>TNV1937</title></msItem></msContents>
+               <msItem xml:id="TNV1937" defective="false"><title>Tamiḻneṟi Viḷakkam 1937 editio princeps. Ed. U. Vē. Cāminātaiyar. </title></msItem></msContents>
                <physDesc>
                   
                   
                   
                   
                   
-               <objectDesc form="baad">
+               <objectDesc form="codex">
                      <supportDesc material="paper">
                         
                         
@@ -80,11 +80,11 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>eva style</p></encodingDesc>
+      <encodingDesc><p>Madras Tamil Lexicon transliteration conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   </facsimile>
+   <graphic url="https://iiif.archive.org/iiif/tamilnerivilakkam/manifest.json"/></facsimile>
 <text corresp="#TNV1937"><body xml:lang="ta">
 <p xml:id="incipit">
                 <l> kaṇapati tuṇai</l>

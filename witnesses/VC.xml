@@ -2,18 +2,18 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vīracōḻiyam</title>
+            <title>Vīracōḻiyam 1881 editio princeps ed. Tāmōtaram Piḷḷai</title>
             
-         <editor><persName>Leo Nelson-Jones</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     <orgName>University of Toronto</orgName>
                   </repository>
                   <idno type="shelfmark">VC</idno>
                   <idno type="alternate"/>
@@ -80,13 +80,13 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Madras Tamil Lexicon transliteration</p></encodingDesc>
+      <encodingDesc><p>Madras Tamil Lexicon transliteration conventions</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   </facsimile>
+   <graphic url="https://iiif.archive.org/iiif/gc-sh8-0143/manifest.json"/></facsimile>
 <text corresp="#VC" xml:lang="ta"><body xml:lang="ta">
-   <milestone unit="page" n="99"/>
+   <milestone unit="page" n="99" facs="139"/>
 <lg corresp="#TNV22poem14">  
   <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
 <l>malaiyi ṉoḷvēṟ kaṇṇi</l>

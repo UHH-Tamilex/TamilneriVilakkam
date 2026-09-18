@@ -2,34 +2,36 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>KKms</title>
+            <title>Kaḷaviyaṟ Kārikai MS</title>
             
-         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     <orgName>GOML</orgName>
                   </repository>
-                  <idno type="shelfmark">KKms</idno>
+                  <idno type="shelfmark">GOML MS TR118/R435 Kaḷaviyaṟ Kārikai</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>test
-inconsistent disambiguation of long and short e and o</summary>
+                  <summary> Paper codex of 150 pages with no indices or appendices, shelfmark: R435/TR118. Its dimensions are 11 x 9½ inches, and there are 20 lines to a page. It transmits an incomplete text, missing both the beginning and the end, but there is no indication that this manuscript itself is incomplete. It is in perfect condition and contains both an incipit and two explicits as well as two scribal colophons. The text is clearly corrupt and the scribe has marked lacunae in the exemplar with a series of dots. On occasion, the text is presented out of order, in which case either this scribe or an earlier scribe dealing with the out-of-order text has made note of it.  
+In terms of its orthographic conventions, it is not entirely standardised. In the original hand, one finds some disambiguation of long and short ē/e and ō/o and very occasional use of the puḷḷi, the diacritic which marks that a consonant is to be pronounced without its inherent vowel. The ligatures are generally pre-reform, though occasionally ā and ra are disambiguated and there is some punctuation – periods mark the end of stanzas and cūttiram-s as well as sentences in prose. Otherwise, the text is written with no boundaries marked between words and no dissolution of sandhi apart from when there is a period.    
+The text is formatted inconsistently: some pages are written as though on a palm leaf, which one could describe as unformatted as there are no paragraphs (something close to true scriptio continua, but still with the period for punctuation); others are partially formatted, with some sort of differentiation made between poetic quotations presented without line splits and prose sections alike, whether that be a slight space between sections of text, a line break, or a small or significant indentation of each chunk of text; and a minority present poems fully line split with each division of text (stanza, prose paragraph) beginning on a new line. This impacts the extent to which the source identifications are formatted. In the unformatted sections of the text there may be no disambiguation between the identification and the poem to which it is appended apart from a period. In the semi-formatted sections, the identification may be placed on the same line as the end of its poem and separated by a gap from the following division of text, or the following text begins on a new line. It may also be that the identification is placed on its own line below its poem. That is also the case in the fully formatted sections.  
+The text of the manuscript seems to be in two hands. There is a clear change in the handwriting at the bottom of page seventy-three, along with a page numbered ‘46b’ inserted in the same ‘second’ hand. Prior to that the manuscript is all in a slanted, less neat hand; afterwards, everything is extremely neat and upright. The original ante correctionem copy of the text looks to be all in the same ink. Some corrections and additions are made in the same black ink, but the majority are in a different blue ink, now often faded. Many of the corrections and additions are minor, most commonly the addition of puḷḷi-s or a single-character substitution. There are however occasions where multiple lines of text are added, in one case at least a whole poem along with an identification. Some of the unformatted source identifications are bracketed, as are the scribal notes regarding damages to the exemplar or disordered folios.        </summary>
                   
-               <msItem xml:id="KKms" defective="false"><title>KKms</title></msItem></msContents>
+               <msItem xml:id="KKms" defective="false" class="#illakkanam"><title xml:lang="ta">Kaḷaviyaṟ Kārikai paper MS</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
                   
                   
                   
-               <objectDesc form="baad">
+               <objectDesc form="codex">
                      <supportDesc material="paper">
                         
                         
@@ -39,11 +41,11 @@ inconsistent disambiguation of long and short e and o</summary>
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="1"/>
+                           <measure unit="folio" quantity="150"/>
                            <dimensions type="object" unit="mm">
                               
                               
-                           </dimensions>
+                           <width quantity="241.3"/><height quantity="179.4"/></dimensions>
                            <dimensions type="leaf" unit="mm">
                               
                               
@@ -52,7 +54,7 @@ inconsistent disambiguation of long and short e and o</summary>
                               
                               
                            </dimensions>
-                        </extent></supportDesc>
+                        </extent><condition>Very good condition.</condition></supportDesc>
                      <layoutDesc>
                         
                      </layoutDesc>
@@ -81,12 +83,12 @@ inconsistent disambiguation of long and short e and o</summary>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>test</p></encodingDesc>
+      <encodingDesc><p>The transcription follows the Madras Tamil Lexicon transliteration scheme. cīr-s are split, but words are not. Sandhi is left unresolved. Long/short e/ē and o/ō are disambiguated based on editorial judgement, as are dependent a and ra. Where there are no puḷḷi-s, I supply them.  </p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://zenodo.org/api/iiif/record:14197257/manifest" facs="1"/></facsimile>
-<text corresp="#KKms"><body xml:lang="ta">
+<text corresp="#KKms" xml:lang="ta"><body xml:lang="ta">
 <milestone unit="page" n="11" facs="8"/><pb n="11"/>    
  <lg corresp="#TNV15poem3">
    

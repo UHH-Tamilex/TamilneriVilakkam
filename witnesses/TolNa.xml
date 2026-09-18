@@ -2,26 +2,26 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tolkāppiyam Poruḷatikāram Nacciṉārkkiṉiyār (and Pērāciriyar)</title>
+            <title>Tolkāppiyam Poruḷatikāram with commentary of Nacciṉārkkiṉiyār (and Pērāciriyar) 1885 editio princeps. Ed. Tāmōtaram Piḷḷai</title>
             
          <editor><persName>Leo Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     
                   </repository>
                   <idno type="shelfmark">TolNa</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>1885 first edition of Tolkāppiyam Poruḷatikāram with Nacciṉārkkiṉiyār's commentary edited by Tāmōtarampiḷḷai. Some blank pages with annotations are included.</summary>
+                  <summary>1885 first edition of Tolkāppiyam Poruḷatikāram with Nacciṉārkkiṉiyār's commentary edited by Tāmōtarampiḷḷai. Some blank pages with annotations are included. The commentary on the Ceyyuḷiyal is that of Pērāciriyar.</summary>
                   
-               <msItem xml:id="TPn" defective="false"><title xml:lang="ta">Tolkāppiyam Nacciṉārkkiṉiyar</title><textLang mainLang="tam"/></msItem><msItem xml:id="TPp" defective="true"><title xml:lang="ta">Tolkāppiyam Pērāciriyar</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="TPn" defective="false"><title xml:lang="ta">Tolkāppiyam Poruḷatikāram with commentary of Nacciṉārkkiṉiyār 1885 ed. Tāmōtaram Piḷḷai</title><textLang mainLang="tam"/></msItem><msItem xml:id="TPp" defective="true"><title xml:lang="ta">Tolkāppiyam Poruḷatikāram with commentary of Pērāciriyar 1885 editio princeps. Ed. Tāmōtaram Piḷḷai</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -80,12 +80,14 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Tamil Madras Lexicon conventions.</p></encodingDesc>
+      <encodingDesc><p>Tamil Madras Lexicon transliteration conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://iiif.archive.org/iiif/Tamil-Tholkaappiyam-Porul-Nachi-1885/manifest.json" facs="1"/></facsimile>
-<text corresp="#TPn" xml:lang="ta"> <body xml:lang="ta">
+
+   
+   <text corresp="#TPn" xml:lang="ta"> <body xml:lang="ta">
    <lg corresp="#TNV22poem14">
            <pb n="8" facs="42"/>
 <l>mutukkuṟain taṉaḷē mutukkuṟain taṉaḷē</l>
@@ -151,9 +153,7 @@
 <l>nillal pāṇa celliṉip pariyal</l>
 <l>pakaleñ cēri kāṇi</l>
 <l>ṉakalvaya lūra ṉāṇavum peṟumē</l></lg>
-   </body></text>
-   
-   <text corresp="#TPp" xml:lang="ta"><body xml:lang="ta">  
+   </body></text><text corresp="#TPp" xml:lang="ta"><body xml:lang="ta">  
       <lg corresp="#TNV17poem8">
          <pb n="663" facs="727"/>
 <l>pūtta veṅkai viyaṉciṉai yēṟi</l>

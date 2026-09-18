@@ -2,18 +2,18 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ)</title>
+            <title>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ) 1916 ed. Pavāṉantam Piḷḷai. </title>
             
-         <editor><persName>leo</persName><orgName>UHH</orgName></editor></titleStmt>
+         <editor><persName>Leo Rishi Nelson-Jones</persName><orgName>UHH</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
-            <date>2025</date>
+            <date>2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     
                   </repository>
                   <idno type="shelfmark">IAprint</idno>
                   <idno type="alternate"/>
@@ -21,7 +21,7 @@
                <msContents class="#STM">
                   <summary>This is a 1916 edition of the Iṟaiyaṉār Akapporuḷ with its commentry by Nakkiraṉār. It was edited by Ca. Pavāṉantam Piḷḷai. </summary>
                   
-               <msItem xml:id="IA" defective="false"><title>Iṟaiyaṉār Akapporuḷ</title></msItem></msContents>
+               <msItem xml:id="IA" defective="false" class="#illakkanam"><title>Iṟaiyaṉār Akapporuḷ Mūlam (Nakkiraṉār Uraiyutaṉ) 1916 ed. Pavāṉantam Piḷḷai. </title></msItem></msContents>
                <physDesc>
                   
                   
@@ -80,7 +80,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Madras Tamil Lexicon conventions.</p></encodingDesc>
+      <encodingDesc><p>Madras Tamil Lexicon transliteration conventions.</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
